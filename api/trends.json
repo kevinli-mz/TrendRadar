@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-06-11T05:29:08.995522+08:00",
-  "total_titles_processed": 398,
+  "generated_at": "2026-06-11T07:41:19.681531+08:00",
+  "total_titles_processed": 507,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "国家发改委：加快建设现代化产业体系，全面实施“人工智能+”行动",
           "url": "https://www.cls.cn/detail/2396287",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时09分 ~ 05时29分]"
+          "appearance_count": 4,
+          "time_info": "[02时09分 ~ 07时41分]"
         },
         {
           "title": "事关光电芯片、OCS、CPO…… 工信部聚焦“AI+通信” 打造智算网络体系",
@@ -26,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时09分 ~ 05时29分]"
+          "appearance_count": 4,
+          "time_info": "[02时09分 ~ 07时41分]"
         },
         {
           "title": "当患者开始带着AI回答来就诊：打破医患信息差还是增加风险？责任如何界定？",
@@ -38,8 +39,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时09分 ~ 05时29分]"
+          "appearance_count": 4,
+          "time_info": "[02时09分 ~ 07时41分]"
         },
         {
           "title": "甲骨文(ORCL.N)CEO：2026财年Q4签署了670亿美元的人工智能基础设施合同，其中大部分要么自带硬件，要么预付款项。",
@@ -48,7 +49,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时29分"
         },
@@ -69,11 +70,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时09分 ~ 05时29分]"
+          "appearance_count": 4,
+          "time_info": "[02时09分 ~ 07时41分]"
         },
         {
           "title": "于娜看到已故老公AI形象崩溃大哭",
@@ -81,22 +83,24 @@
           "source": "今日头条",
           "ranks": [
             12,
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时09分 ~ 05时29分]"
+          "appearance_count": 4,
+          "time_info": "[02时09分 ~ 07时41分]"
         },
         {
           "title": "于娜看到已故丈夫AI形象崩溃大哭",
           "url": "https://www.baidu.com/s?wd=%E4%BA%8E%E5%A8%9C%E7%9C%8B%E5%88%B0%E5%B7%B2%E6%95%85%E4%B8%88%E5%A4%ABAI%E5%BD%A2%E8%B1%A1%E5%B4%A9%E6%BA%83%E5%A4%A7%E5%93%AD",
           "source": "百度热搜",
           "ranks": [
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时09分 ~ 05时29分]"
+          "appearance_count": 4,
+          "time_info": "[02时09分 ~ 07时41分]"
         },
         {
           "title": "夏奇拉邀请你来跳Dai Dai",
@@ -109,6 +113,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时09分 ~ 05时29分]"
+        },
+        {
+          "title": "苹果 AI 发布史上最大更新国区却不可用，是何原因导致？",
+          "url": "https://www.zhihu.com/question/2047598353421170561",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时09分 ~ 07时41分]"
         },
         {
           "title": "市场消息：OpenAI与Visa(V.N)合作，允许人工智能代理在线购物。",
@@ -128,7 +143,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时29分"
         },
@@ -144,15 +159,15 @@
           "time_info": "02时09分"
         },
         {
-          "title": "苹果 AI 发布史上最大更新国区却不可用，是何原因导致？",
-          "url": "https://www.zhihu.com/question/2047598353421170561",
-          "source": "知乎",
+          "title": "OpenAI与甲骨文构建合作伙伴关系。 双方将围绕面向OCI（甲骨文云基础设施建设）客户的Codex进行合作。",
+          "url": "https://wallstreetcn.com/livenews/3117747",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            20
+            18
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时09分"
+          "time_info": "07时41分"
         },
         {
           "title": "阿波罗：过多AI支出被用于“低智商”任务",
@@ -201,7 +216,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时29分"
         },
@@ -212,9 +227,37 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "房价 买房",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "英国5月三个月RICS房价指数 -35，预期 -32，前值 -34。",
+          "url": "https://wallstreetcn.com/livenews/3117755",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时41分"
+        },
+        {
+          "title": "英国5月三个月RICS房价指数 -35，预期-31，前值-34.00。",
+          "url": "https://flash.jin10.com/detail/20260611070150923800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时41分"
         }
       ]
     },
@@ -227,11 +270,12 @@
           "url": "https://www.zhihu.com/question/2047455567661347233",
           "source": "知乎",
           "ranks": [
-            7
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时28分 ~ 05时29分]"
+          "appearance_count": 3,
+          "time_info": "[05时28分 ~ 07时41分]"
         },
         {
           "title": "一次看完爽剧铁拳教育",
@@ -247,6 +291,40 @@
       ]
     },
     {
+      "keyword_group": "情绪 情绪价值 内耗 精神内耗",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美股收盘：避险情绪升温芯片板块再现抛售潮 道指纳指跌近2%",
+          "url": "https://www.cls.cn/detail/2396570",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时41分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "就业 失业 裁员 应届生",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "韩国5月失业率 2.8%，前值2.80%。",
+          "url": "https://flash.jin10.com/detail/20260611070016458800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时41分"
+        }
+      ]
+    },
+    {
       "keyword_group": "考公 考研 上岸",
       "match_count": 1,
       "titles": [
@@ -255,11 +333,63 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33341922",
           "source": "澎湃新闻",
           "ranks": [
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时09分 ~ 05时29分]"
+          "appearance_count": 4,
+          "time_info": "[02时09分 ~ 07时41分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "生育 催生 不婚",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "多重因素催生被动投资热潮，二季度以来债券型ETF规模增逾千亿元",
+          "url": "https://wallstreetcn.com/livenews/3117742",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时41分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "恋爱 相亲 婚恋 脱单",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "高考英语续写 恋爱脑Emily",
+          "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E8%80%83%E8%8B%B1%E8%AF%AD%E7%BB%AD%E5%86%99%20%E6%81%8B%E7%88%B1%E8%84%91Emily",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时41分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "经济 经济学",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "经济日报：中国5月份物价“剪刀差”扩大，专家称促消费政策有加力空间",
+          "url": "https://wallstreetcn.com/livenews/3117765",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时41分"
         }
       ]
     },
