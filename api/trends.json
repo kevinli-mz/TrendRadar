@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-14T20:04:36.188622+08:00",
-  "total_titles_processed": 1000,
+  "generated_at": "2026-06-14T23:11:13.901575+08:00",
+  "total_titles_processed": 1169,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "SpaceX万亿美元IPO背后：一场由星链造血、星舰远征、AI叙事支撑的资本盛宴",
@@ -14,11 +14,24 @@
           "ranks": [
             3,
             6,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时20分 ~ 20时04分]"
+          "appearance_count": 12,
+          "time_info": "[00时20分 ~ 23时11分]"
+        },
+        {
+          "title": "【早报】美将部分中企列入“中国军事企业清单”，商务部回应；OpenAI被查",
+          "url": "https://www.cls.cn/detail/2399163",
+          "source": "财联社热门",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时57分 ~ 23时11分]"
         },
         {
           "title": "SpaceX上市幕后大戏：抢跑OpenAI、疯狂并购装资产，华尔街全程被牵着鼻子走",
@@ -47,11 +60,12 @@
             6,
             9,
             10,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时20分 ~ 20时04分]"
+          "appearance_count": 12,
+          "time_info": "[00时20分 ~ 23时11分]"
         },
         {
           "title": "万亿富豪马斯克的“冰与火”：AI卫星要上天 地面算力却“卡了壳”",
@@ -65,20 +79,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时20分 ~ 20时04分]"
-        },
-        {
-          "title": "【早报】美将部分中企列入“中国军事企业清单”，商务部回应；OpenAI被查",
-          "url": "https://www.cls.cn/detail/2399163",
-          "source": "财联社热门",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时57分 ~ 20时04分]"
+          "appearance_count": 12,
+          "time_info": "[00时20分 ~ 23时11分]"
         },
         {
           "title": "“告诉他他就是个XXX”！直播会议现场失控，Meta内部爆发\"AI叛乱\"",
@@ -89,8 +91,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时51分 ~ 20时04分]"
+          "appearance_count": 5,
+          "time_info": "[17时51分 ~ 23时11分]"
         },
         {
           "title": "亚马逊之后，Meta也限制AI使用量了！当大厂都用不起Token，大模型巨头该“控制利润率”了？",
@@ -128,6 +130,28 @@
           "time_info": "[17时52分 ~ 20时04分]"
         },
         {
+          "title": "“小巴菲特”：我不投AI！最大遗憾错过早期Palantir少赚数百亿美元，看好被市场“烧伤”的商业地产",
+          "url": "https://wallstreetcn.com/articles/3774608",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时04分 ~ 23时11分]"
+        },
+        {
+          "title": "谷歌官宣3万字路线图：1亿人类水平的AI就是ASI！",
+          "url": "https://wallstreetcn.com/articles/3774610",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时04分 ~ 23时11分]"
+        },
+        {
           "title": "小米工程师谈某大模型重新出山",
           "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E5%B7%A5%E7%A8%8B%E5%B8%88%E8%B0%88%E6%9F%90%E5%A4%A7%E6%A8%A1%E5%9E%8B%E9%87%8D%E6%96%B0%E5%87%BA%E5%B1%B1&t=31&band_rank=15&Refer=top",
           "source": "微博",
@@ -140,6 +164,18 @@
           "time_info": "[17时51分 ~ 20时04分]"
         },
         {
+          "title": "蚂蚁集团正秘密测试AI版支付宝",
+          "url": "https://www.baidu.com/s?wd=%E8%9A%82%E8%9A%81%E9%9B%86%E5%9B%A2%E6%AD%A3%E7%A7%98%E5%AF%86%E6%B5%8B%E8%AF%95AI%E7%89%88%E6%94%AF%E4%BB%98%E5%AE%9D",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时04分 ~ 23时11分]"
+        },
+        {
           "title": "AI版次贷危机的味道？1.8万亿美元表外敞口，正成为这轮狂欢的定时炸弹",
           "url": "https://wallstreetcn.com/articles/3774579",
           "source": "华尔街见闻",
@@ -150,6 +186,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时15分 ~ 13时57分]"
+        },
+        {
+          "title": "剑指微信！报道：支付宝酝酿重大改版，将引入AI助手\"阿宝\"，叫车点餐买基金一口气搞定",
+          "url": "https://wallstreetcn.com/articles/3774621",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时10分 ~ 23时11分]"
         },
         {
           "title": "据The Information：美国政府不太可能将对Anthropic的出口管制扩展至其他人工智能公司。",
@@ -175,15 +222,15 @@
           "time_info": "[17时51分 ~ 17时52分]"
         },
         {
-          "title": "“小巴菲特”：我不投AI！最大遗憾错过早期Palantir少赚数百亿美元，看好被市场“烧伤”的商业地产",
-          "url": "https://wallstreetcn.com/articles/3774608",
-          "source": "华尔街见闻",
+          "title": "AI热潮来袭，别被“错失恐惧症”裹挟",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33376684",
+          "source": "澎湃新闻",
           "ranks": [
-            7
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时04分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时10分 ~ 23时11分]"
         },
         {
           "title": "“机器人伴侣”来了！10天已预售3800台，男款身着修身西装，女款可上妆，搭载“养成系”情感大模型，仅限成人购买！",
@@ -195,17 +242,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时57分"
-        },
-        {
-          "title": "谷歌官宣3万字路线图：1亿人类水平的AI就是ASI！",
-          "url": "https://wallstreetcn.com/articles/3774610",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时04分"
         },
         {
           "title": "天风证券：电子布年内第五轮涨价落地 AI链拉动玻纤景气延续",
@@ -247,18 +283,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时04分"
-        },
-        {
-          "title": "蚂蚁集团正秘密测试AI版支付宝",
-          "url": "https://www.baidu.com/s?wd=%E8%9A%82%E8%9A%81%E9%9B%86%E5%9B%A2%E6%AD%A3%E7%A7%98%E5%AF%86%E6%B5%8B%E8%AF%95AI%E7%89%88%E6%94%AF%E4%BB%98%E5%AE%9D",
-          "source": "百度热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时04分"
         },
@@ -299,7 +324,7 @@
     },
     {
       "keyword_group": "电影 影视 综艺",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "张艺谋给百岁卢燕颁奖，金爵盛典上的电影精神传承不息",
@@ -326,6 +351,17 @@
           "time_info": "[17时51分 ~ 17时52分]"
         },
         {
+          "title": "京东来微博电影之夜营业了",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BA%AC%E4%B8%9C%E6%9D%A5%E5%BE%AE%E5%8D%9A%E7%94%B5%E5%BD%B1%E4%B9%8B%E5%A4%9C%E8%90%A5%E4%B8%9A%E4%BA%86%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时10分 ~ 23时11分]"
+        },
+        {
           "title": "张杰一生所爱好强的电影感",
           "url": "https://www.douyin.com/hot/2533615",
           "source": "抖音",
@@ -343,7 +379,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时04分"
         },
@@ -354,7 +390,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时04分"
         },
@@ -365,7 +401,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时04分"
         }
@@ -373,8 +409,21 @@
     },
     {
       "keyword_group": "经济 经济学",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "“美军如果强抢伊朗浓缩铀，全球经济或遭灾难性打击”",
+          "url": "https://news.ifeng.com/c/8twsuCs6tU9",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时51分 ~ 23时11分]"
+        },
         {
           "title": "织密“六张网”锻造中国经济硬核底座",
           "url": "https://www.toutiao.com/trending/7650281429661925412/",
@@ -387,16 +436,27 @@
           "time_info": "[17时51分 ~ 20时04分]"
         },
         {
-          "title": "“美军如果强抢伊朗浓缩铀，全球经济或遭灾难性打击”",
-          "url": "https://news.ifeng.com/c/8twsuCs6tU9",
-          "source": "凤凰网",
+          "title": "织密六张网锻造中国经济硬核底座",
+          "url": "https://www.douyin.com/hot/2534543",
+          "source": "抖音",
           "ranks": [
-            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时10分 ~ 23时11分]"
+        },
+        {
+          "title": "下周“超级央行周”：美联储利率决议沃什首秀、日本央行或加息、中国5月经济数据",
+          "url": "https://wallstreetcn.com/articles/3774492",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
             5
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[17时51分 ~ 20时04分]"
+          "time_info": "[20时04分 ~ 23时11分]"
         },
         {
           "title": "唐宁街10号（英国首相府）：双方领导人一致认为，必须恢复航行自由，以缓解全球经济影响。",
@@ -411,15 +471,15 @@
           "time_info": "[02时16分 ~ 04时21分]"
         },
         {
-          "title": "下周“超级央行周”：美联储利率决议沃什首秀、日本央行或加息、中国5月经济数据",
-          "url": "https://wallstreetcn.com/articles/3774492",
-          "source": "华尔街见闻",
+          "title": "日本公司请求阻止LNG罢工、宣称将危害澳洲经济，被澳大利亚法庭驳回",
+          "url": "https://wallstreetcn.com/livenews/3119232",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            23
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时04分"
+          "time_info": "23时11分"
         }
       ]
     },
@@ -486,6 +546,51 @@
       ]
     },
     {
+      "keyword_group": "原生家庭 父母 亲子",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "男子去世欠49万房贷父母放弃继承",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%8E%BB%E4%B8%96%E6%AC%A049%E4%B8%87%E6%88%BF%E8%B4%B7%E7%88%B6%E6%AF%8D%E6%94%BE%E5%BC%83%E7%BB%A7%E6%89%BF%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时10分 ~ 23时11分]"
+        },
+        {
+          "title": "为什么到最后才明白，教育拼的从来不是孩子，而是父母？",
+          "url": "https://www.zhihu.com/question/2040906669920612647",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "心理 心理学 心理咨询",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "知名车企预警：做好行业全年跌15%~20%的心理准备",
+          "url": "https://wallstreetcn.com/articles/3774616",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时10分 ~ 23时11分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "社会 阶层 社会学",
       "match_count": 1,
       "titles": [
@@ -534,23 +639,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时15分 ~ 04时21分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "原生家庭 父母 亲子",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "为什么到最后才明白，教育拼的从来不是孩子，而是父母？",
-          "url": "https://www.zhihu.com/question/2040906669920612647",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时20分"
         }
       ]
     }
