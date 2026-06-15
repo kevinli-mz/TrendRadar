@@ -1,288 +1,179 @@
 {
-  "generated_at": "2026-06-15T20:32:14.615856+08:00",
-  "total_titles_processed": 1006,
+  "generated_at": "2026-06-16T01:58:28.767881+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型",
-      "match_count": 21,
+      "match_count": 8,
       "titles": [
-        {
-          "title": "【早报】美将部分中企列入“中国军事企业清单”，商务部回应；OpenAI被查",
-          "url": "https://www.cls.cn/detail/2399163",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时26分 ~ 07时16分]"
-        },
-        {
-          "title": "“告诉他他就是个XXX”！直播会议现场失控，Meta内部爆发\"AI叛乱\"",
-          "url": "https://wallstreetcn.com/articles/3774601",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时26分 ~ 07时16分]"
-        },
-        {
-          "title": "剑指微信！报道：支付宝酝酿重大改版，将引入AI助手\"阿宝\"，叫车点餐买基金一口气搞定",
-          "url": "https://wallstreetcn.com/articles/3774621",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时26分 ~ 13时04分]"
-        },
         {
           "title": "AI为何成为能源之战",
           "url": "https://search.bilibili.com/all?keyword=AI%E4%B8%BA%E4%BD%95%E6%88%90%E4%B8%BA%E8%83%BD%E6%BA%90%E4%B9%8B%E6%88%98",
           "source": "bilibili 热搜",
           "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时31分 ~ 20时32分]"
-        },
-        {
-          "title": "外资巨头下半年展望：AI超级周期未结束，重新审视避险资产",
-          "url": "https://wallstreetcn.com/livenews/3119301",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时16分"
-        },
-        {
-          "title": "谷歌官宣3万字路线图：1亿人类水平的AI就是ASI！",
-          "url": "https://wallstreetcn.com/articles/3774610",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时26分 ~ 13时04分]"
-        },
-        {
-          "title": "“小巴菲特”：我不投AI！最大遗憾错过早期Palantir少赚数百亿美元，看好被市场“烧伤”的商业地产",
-          "url": "https://wallstreetcn.com/articles/3774608",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时26分 ~ 07时16分]"
-        },
-        {
-          "title": "SpaceX万亿美元IPO背后：一场由星链造血、星舰远征、AI叙事支撑的资本盛宴",
-          "url": "https://www.cls.cn/detail/2398996",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时26分 ~ 07时16分]"
-        },
-        {
-          "title": "AI赋能2026世界杯：高清第一视角+3D数字人判越位+生成式战术平台",
-          "url": "https://www.cls.cn/detail/2399104",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时26分 ~ 05时21分]"
-        },
-        {
-          "title": "万亿富豪马斯克的“冰与火”：AI卫星要上天 地面算力却“卡了壳”",
-          "url": "https://www.cls.cn/detail/2399065",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时26分 ~ 05时21分]"
-        },
-        {
-          "title": "AI热潮来袭，别被“错失恐惧症”裹挟",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33376684",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时26分 ~ 05时21分]"
-        },
-        {
-          "title": "分析师用AI写研报搞了个大乌龙，互联网信息该如何排污？",
-          "url": "https://www.cls.cn/detail/2399644",
-          "source": "财联社热门",
-          "ranks": [
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时31分 ~ 20时32分]"
+          "appearance_count": 1,
+          "time_info": "01时58分"
+        },
+        {
+          "title": "伊朗用AI让球员牵遇难儿童入场",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%94%A8AI%E8%AE%A9%E7%90%83%E5%91%98%E7%89%B5%E9%81%87%E9%9A%BE%E5%84%BF%E7%AB%A5%E5%85%A5%E5%9C%BA",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时58分"
         },
         {
           "title": "【每日收评】全市场超百股涨停！创业板指涨超5%，PCB等AI硬件概念股集体爆发",
           "url": "https://www.cls.cn/detail/2400118",
           "source": "财联社热门",
           "ranks": [
-            9
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时31分 ~ 20时32分]"
+          "appearance_count": 1,
+          "time_info": "01时58分"
         },
         {
-          "title": "王俊凯董子健合照被判AI了",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E8%91%A3%E5%AD%90%E5%81%A5%E5%90%88%E7%85%A7%E8%A2%AB%E5%88%A4AI%E4%BA%86%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
+          "title": "如何评价月之暗面新发布并开源 Kimi K2.7 Code 编程大模型？",
+          "url": "https://www.zhihu.com/question/2049041027298750565",
+          "source": "知乎",
           "ranks": [
-            19
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时31分 ~ 20时32分]"
+          "appearance_count": 1,
+          "time_info": "01时58分"
         },
         {
-          "title": "摩根士丹利：电力短缺正成为AI的核心瓶颈",
-          "url": "https://wallstreetcn.com/articles/3774655",
+          "title": "200亿美元！英伟达五年来首度发行公司债，AI科技巨头借贷热潮延续",
+          "url": "https://wallstreetcn.com/articles/3774700",
           "source": "华尔街见闻",
           "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时32分"
-        },
-        {
-          "title": "晶泰科技AI自主实验工作站落地中石化",
-          "url": "https://flash.jin10.com/detail/20260615122003873800",
-          "source": "金十数据",
-          "ranks": [
-            17
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时04分"
+          "time_info": "01时58分"
         },
         {
-          "title": "什么是系统级AI",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BB%80%E4%B9%88%E6%98%AF%E7%B3%BB%E7%BB%9F%E7%BA%A7AI%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
+          "title": "雨果奖科幻作者郝景芳称最新小说一半由 AI 完成，如何看待她这一做法？你会支持含 AI 创作小说吗？",
+          "url": "https://www.zhihu.com/question/2049845138457719674",
+          "source": "知乎",
           "ranks": [
-            20
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时16分"
+          "time_info": "01时58分"
         },
         {
-          "title": "郝景芳承认用AI写作",
-          "url": "https://s.weibo.com/weibo?q=%E9%83%9D%E6%99%AF%E8%8A%B3%E6%89%BF%E8%AE%A4%E7%94%A8AI%E5%86%99%E4%BD%9C&t=31&band_rank=20&Refer=top",
-          "source": "微博",
+          "title": "批量撰写不实信息一年牟利15元，四川射洪一AI写手被处罚",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33378154",
+          "source": "澎湃新闻",
           "ranks": [
-            20
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时04分"
+          "time_info": "01时58分"
         },
         {
-          "title": "印度阿达尼企业（Adani Enterprises）与捷普（Jabil）合作，将建设人工智能数据中心。",
-          "url": "https://flash.jin10.com/detail/20260615200216707800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时32分"
-        },
-        {
-          "title": "报道：字节跳动讨论购买至少5万颗天数智芯的AI芯片",
-          "url": "https://wallstreetcn.com/livenews/3119429",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时04分"
-        },
-        {
-          "title": "芒果超媒：目前小芒电商正在积极布局AI毛绒等智能潮玩产品",
-          "url": "https://flash.jin10.com/detail/20260615120942562800",
-          "source": "金十数据",
+          "title": "伊朗用AI让球员牵遇难儿童入场",
+          "url": "https://www.toutiao.com/trending/7651542350414037011/",
+          "source": "今日头条",
           "ranks": [
             26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时04分"
+          "time_info": "01时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "教育 鸡娃 小镇做题家",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "习近平：一体推进教育科技人才发展",
+          "url": "https://www.cls.cn/detail/2399978",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时58分"
+        },
+        {
+          "title": "深度解读韩剧铁拳教育",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E8%AF%BB%E9%9F%A9%E5%89%A7%E9%93%81%E6%8B%B3%E6%95%99%E8%82%B2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "电影 影视 综艺",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "六月份被市场寄予厚望的电影《火遮眼》上映以来并未取得票房佳绩，是什么原因？",
+          "url": "https://www.zhihu.com/question/2049399794507030655",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时58分"
+        },
+        {
+          "title": "章若楠金靖电影想你了定档",
+          "url": "https://www.douyin.com/hot/2534932",
+          "source": "抖音",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "原生家庭 父母 亲子",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "男子参加幼儿园亲子迷你马拉松猝死",
+          "url": "https://www.toutiao.com/trending/7651602287001305107/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时58分"
         }
       ]
     },
     {
       "keyword_group": "经济 经济学",
-      "match_count": 12,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "下周“超级央行周”：美联储利率决议沃什首秀、日本央行或加息、中国5月经济数据",
-          "url": "https://wallstreetcn.com/articles/3774492",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时26分 ~ 07时16分]"
-        },
-        {
-          "title": "织密六张网锻造中国经济硬核底座",
-          "url": "https://www.douyin.com/hot/2534543",
-          "source": "抖音",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时26分 ~ 07时16分]"
-        },
-        {
-          "title": "“美军如果强抢伊朗浓缩铀，全球经济或遭灾难性打击”",
-          "url": "https://news.ifeng.com/c/8twsuCs6tU9",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时26分 ~ 07时16分]"
-        },
         {
           "title": "端午经济热度攀升",
           "url": "https://www.douyin.com/hot/2535817",
@@ -291,181 +182,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时31分 ~ 20时32分]"
-        },
-        {
-          "title": "中华人民共和国和蒙古国外交部长会谈联合新闻公报：双方同意，加强发展战略对接，推进高质量共建“一带一路”和“草原之路”倡议框架内项目，扩大矿业、能源、工业、基础设施、互联互通、绿色发展、数字经济、农牧业等领域互利合作，携手走好符合各自国情的现代化之路。（新华社）",
-          "url": "https://wallstreetcn.com/livenews/3119267",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时26分 ~ 05时21分]"
-        },
-        {
-          "title": "本周“超级央行周”：美联储利率决议沃什首秀、日本央行或加息、中国5月经济数据",
-          "url": "https://wallstreetcn.com/articles/3774492",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时04分"
-        },
-        {
-          "title": "据沙特媒体哈达斯（alhadath）援引消息人士：美国驻伊拉克特使汤姆·巴拉克将于明天在巴格达讨论政治、安全和经济等议题。",
-          "url": "https://flash.jin10.com/detail/20260615012317256800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时26分"
-        },
-        {
-          "title": "经济日报：人形机器人为何热衷秀才艺",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33376361",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时26分 ~ 07时16分]"
-        },
-        {
-          "title": "伊朗最高领袖顾问：如果以色列在黎巴嫩的恶行不停止，霍尔木兹海峡和曼德海峡将压迫你们的经济动脉，直至战略窒息。",
-          "url": "https://flash.jin10.com/detail/20260615040828808800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时21分"
-        },
-        {
-          "title": "是鹰还是鸽？沃什“首秀”本周来袭，经济学家聚焦“三大关键点”！",
-          "url": "https://www.cls.cn/detail/2399504",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时04分"
-        },
-        {
-          "title": "据以色列第12频道报道，美国正向伊朗提供经济利益，以换取对方不对以色列在贝鲁特的袭击作出回应。",
-          "url": "https://flash.jin10.com/detail/20260615020402568800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时46分"
-        },
-        {
-          "title": "加拿大至6月12日全国经济信心指数 50.2，前值50.9。",
-          "url": "https://flash.jin10.com/detail/20260615200042627800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时32分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "原生家庭 父母 亲子",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "男子去世欠49万房贷父母放弃继承",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%8E%BB%E4%B8%96%E6%AC%A049%E4%B8%87%E6%88%BF%E8%B4%B7%E7%88%B6%E6%AF%8D%E6%94%BE%E5%BC%83%E7%BB%A7%E6%89%BF",
-          "source": "百度热搜",
-          "ranks": [
-            8,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时26分 ~ 07时16分]"
-        },
-        {
-          "title": "男子去世欠49万房贷父母放弃继承",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%8E%BB%E4%B8%96%E6%AC%A049%E4%B8%87%E6%88%BF%E8%B4%B7%E7%88%B6%E6%AF%8D%E6%94%BE%E5%BC%83%E7%BB%A7%E6%89%BF%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时26分 ~ 03时46分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "心理 心理学 心理咨询",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "知名车企预警：做好行业全年跌15%~20%的心理准备",
-          "url": "https://wallstreetcn.com/articles/3774616",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时26分 ~ 13时04分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "孤独 社恐",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "梁亚利 孤独的麦田保卫战",
-          "url": "https://search.bilibili.com/all?keyword=%E6%A2%81%E4%BA%9A%E5%88%A9%20%E5%AD%A4%E7%8B%AC%E7%9A%84%E9%BA%A6%E7%94%B0%E4%BF%9D%E5%8D%AB%E6%88%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "就业 失业 裁员 应届生",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "BBC势将裁员2000人。（英国《金融时报》）",
-          "url": "https://wallstreetcn.com/livenews/3119444",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时04分"
+          "time_info": "01时58分"
         }
       ]
     },
@@ -474,66 +192,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "房价要触底了吗",
-          "url": "https://www.toutiao.com/trending/7651421894914084362/",
+          "title": "房价终于触底了吗",
+          "url": "https://www.toutiao.com/trending/7651604533902052900/",
           "source": "今日头条",
           "ranks": [
-            18
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时04分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "消费 存钱 攒钱",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "龙舟赛变身端午消费新引擎",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%BE%99%E8%88%9F%E8%B5%9B%E5%8F%98%E8%BA%AB%E7%AB%AF%E5%8D%88%E6%B6%88%E8%B4%B9%E6%96%B0%E5%BC%95%E6%93%8E%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时04分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "教育 鸡娃 小镇做题家",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "习近平：一体推进教育科技人才发展",
-          "url": "https://www.cls.cn/detail/2399978",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时31分 ~ 20时32分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "电影 影视 综艺",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "儒意电影：拟以8000万元-1.5亿元回购公司股份",
-          "url": "https://flash.jin10.com/detail/20260615200513678800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时32分"
+          "time_info": "01时58分"
         }
       ]
     }
