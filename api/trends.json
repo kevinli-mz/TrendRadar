@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-16T07:52:44.627176+08:00",
-  "total_titles_processed": 551,
+  "generated_at": "2026-06-16T13:08:20.633445+08:00",
+  "total_titles_processed": 778,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型",
-      "match_count": 12,
+      "match_count": 16,
       "titles": [
         {
           "title": "据The Information：高通(QCOM.O)正在洽谈收购Tenstorrent，以扩展其人工智能芯片能力。",
@@ -17,6 +17,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
+        },
+        {
+          "title": "批量撰写不实信息一年牟利15元，四川射洪一AI写手被处罚",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33378154",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            15,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时58分 ~ 13时08分]"
         },
         {
           "title": "伊朗用AI让球员牵遇难儿童入场",
@@ -67,18 +80,6 @@
           "time_info": "[01时58分 ~ 07时52分]"
         },
         {
-          "title": "批量撰写不实信息一年牟利15元，四川射洪一AI写手被处罚",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33378154",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时58分 ~ 07时52分]"
-        },
-        {
           "title": "如何评价月之暗面新发布并开源 Kimi K2.7 Code 编程大模型？",
           "url": "https://www.zhihu.com/question/2049041027298750565",
           "source": "知乎",
@@ -102,6 +103,29 @@
           "time_info": "[01时58分 ~ 05时16分]"
         },
         {
+          "title": "澎湃思想周报丨世界杯沦为特朗普的马戏；当马丁·斯科塞斯拥抱AI",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33377908",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时52分 ~ 13时08分]"
+        },
+        {
+          "title": "瞄准AI数据中心需求 磷化铟衬底巨头计划将产能扩大至多10倍",
+          "url": "https://www.cls.cn/detail/2400563",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时08分"
+        },
+        {
           "title": "周一（6月15日），美股信息科技指数涨5.44%，报460.94点。 人工智能（AI）赢家指数涨5.65%，报448.13点。 AI软件先驱指数涨2.19%，报110.89点。 北美科技软件股指数ETF收涨2.20%，报92.68美元。",
           "url": "https://wallstreetcn.com/livenews/3119872",
           "source": "华尔街见闻-快讯",
@@ -113,15 +137,37 @@
           "time_info": "05时16分"
         },
         {
-          "title": "澎湃思想周报丨世界杯沦为特朗普的马戏；当马丁·斯科塞斯拥抱AI",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33377908",
-          "source": "澎湃新闻",
+          "title": "阿里发布首个具身大模型Qwen-Robot系列",
+          "url": "https://wallstreetcn.com/livenews/3120056",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            20
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时52分"
+          "time_info": "13时08分"
+        },
+        {
+          "title": "6月16日午间收评：创业板指半日涨超2%，AI硬件股持续走强",
+          "url": "https://wallstreetcn.com/livenews/3120042",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时08分"
+        },
+        {
+          "title": "日本央行：在当前时期，需要特别关注中东局势的未来走向对金融市场、外汇市场、经济和物价的影响。 必须关注全球AI相关需求以及未来外汇走势对日本经济和物价的影响。",
+          "url": "https://wallstreetcn.com/livenews/3120039",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时08分"
         },
         {
           "title": "AI宝可梦 看到正版皮卡丘了",
@@ -130,7 +176,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
         },
@@ -149,7 +195,7 @@
     },
     {
       "keyword_group": "经济 经济学",
-      "match_count": 3,
+      "match_count": 9,
       "titles": [
         {
           "title": "端午经济热度攀升",
@@ -163,15 +209,59 @@
           "time_info": "[01时58分 ~ 07时52分]"
         },
         {
+          "title": "澳洲联储在经济趋软的背景下暂停加息",
+          "url": "https://flash.jin10.com/detail/20260616124119471800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时08分"
+        },
+        {
+          "title": "澳洲联储：今天的利率决议是一致通过的。 最新数据表明，名义通胀率和核心通胀率依然过高。 政策委员会将密切关注数据以及对前景和风险不断变化的评估，以此来指导其决策。 短期通胀预期指标已有所缓解，但仍高于今年早些时候的水平。 将采取一切被认为必要的措施来实现通胀目标，包括在必要时进一步提高现金利率目标。 国内经济活动和通胀的前景依然存在高度不确定性。 为应对现金利率目标的三次上调，今年金融环境已经有所收紧。 通胀在一段时间内可能仍将维持在高位。 政策委员会仍专注于确保在油价上涨的冲击传导过去后，通胀不会变得根深蒂固。 全球石油供应问题将需要一些时间来解决，这将对全球能源价格和通胀持续产生上行压力。",
+          "url": "https://wallstreetcn.com/livenews/3120064",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时08分"
+        },
+        {
+          "title": "澳洲联储：2026年加息后，经济放缓迹象如预期出现。",
+          "url": "https://flash.jin10.com/detail/20260616123314424800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时08分"
+        },
+        {
           "title": "美国资管：预计美联储今年加息三次，因美国经济韧性惊人且通胀具有粘性",
           "url": "https://wallstreetcn.com/livenews/3119906",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
+        },
+        {
+          "title": "澳洲联储：国内经济活动和通胀前景仍存在较大不确定性。",
+          "url": "https://flash.jin10.com/detail/20260616123059758800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时08分"
         },
         {
           "title": "经济学家：若伊朗协议得以落实，美国通胀最严重的时期可能已经过去",
@@ -180,16 +270,49 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
+        },
+        {
+          "title": "日本央行：油价上涨的转嫁传导一直在以相对较快的速度推进，这可能会蔓延并导致广泛商品和服务的消费者价格上涨。 核心CPI通胀率存在向上偏离并高出物价目标的风险。 日本经济增速可能会有所放缓，但预计将继续温和增长。 CPI的同比涨幅可能会加速，达到明显高于2%的水平。 薪资与物价同步温和上涨的机制将会维持。 核心CPI通胀率预计将逐渐上升，并在2026财年下半年至2027财年之间达到与物价目标相符的水平。",
+          "url": "https://wallstreetcn.com/livenews/3120038",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时08分"
+        },
+        {
+          "title": "日本央行：将根据经济活动、物价和金融状况的发展，继续提高政策利率。 在考虑政策调整的时机和步伐时，将评估实现基准预测情景的概率以及潜在风险。 预计在政策利率调整后，宽松的金融环境仍将维持，并继续坚定地支持经济活动。 日本经济已温和复苏，尽管局部仍表现出一些疲软。 与前一段时间相比，经济出现严重放缓的风险似乎有所降低。 日本经济的发展总体上符合日本央行的基准预测情景。",
+          "url": "https://wallstreetcn.com/livenews/3120035",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时08分"
         }
       ]
     },
     {
       "keyword_group": "教育 鸡娃 小镇做题家",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "教育部升级2026高考志愿信息系统",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E5%8D%87%E7%BA%A72026%E9%AB%98%E8%80%83%E5%BF%97%E6%84%BF%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时08分"
+        },
         {
           "title": "习近平：一体推进教育科技人才发展",
           "url": "https://www.cls.cn/detail/2399978",
@@ -207,22 +330,86 @@
           "source": "bilibili 热搜",
           "ranks": [
             23,
-            20
+            20,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时58分 ~ 07时52分]"
+          "appearance_count": 3,
+          "time_info": "[01时58分 ~ 13时08分]"
         },
         {
           "title": "美国顶尖大学新生不会解「7x–2=5」，这反映了哪些教育问题？",
           "url": "https://www.zhihu.com/question/2048465671999197707",
           "source": "知乎",
           "ranks": [
-            8
+            8,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时52分 ~ 13时08分]"
+        },
+        {
+          "title": "四川一学霸造数百万假钞，高三时因非法持有枪支获刑，他是怎么一步步走偏的？家长和学校在教育中有哪些问题？",
+          "url": "https://www.zhihu.com/question/2050124689809175749",
+          "source": "知乎",
+          "ranks": [
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时52分"
+          "time_info": "13时08分"
+        },
+        {
+          "title": "重庆市树立和践行正确政绩观学习教育工作成果交流会举行",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33384225",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "原生家庭 父母 亲子",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "男子参加幼儿园亲子迷你马拉松猝死",
+          "url": "https://www.toutiao.com/trending/7651602287001305107/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时58分 ~ 07时52分]"
+        },
+        {
+          "title": "爸爸亲子活动猝死幼儿园被指救援不力",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E4%BA%B2%E5%AD%90%E6%B4%BB%E5%8A%A8%E7%8C%9D%E6%AD%BB%E5%B9%BC%E5%84%BF%E5%9B%AD%E8%A2%AB%E6%8C%87%E6%95%91%E6%8F%B4%E4%B8%8D%E5%8A%9B%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时08分"
+        },
+        {
+          "title": "男子参加幼儿园亲子马拉松猝死",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%8F%82%E5%8A%A0%E5%B9%BC%E5%84%BF%E5%9B%AD%E4%BA%B2%E5%AD%90%E9%A9%AC%E6%8B%89%E6%9D%BE%E7%8C%9D%E6%AD%BB",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时08分"
         }
       ]
     },
@@ -267,9 +454,26 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "焦虑 emo",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "网曝疑似朱一龙在 lululemon 长城活动敲日本太鼓，粉丝称是中国羯鼓，这到底是什么鼓？",
+          "url": "https://www.zhihu.com/question/2049910438834300872",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时08分"
         }
       ]
     },
@@ -284,27 +488,26 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
         }
       ]
     },
     {
-      "keyword_group": "原生家庭 父母 亲子",
+      "keyword_group": "婚姻 结婚 离婚 彩礼",
       "match_count": 1,
       "titles": [
         {
-          "title": "男子参加幼儿园亲子迷你马拉松猝死",
-          "url": "https://www.toutiao.com/trending/7651602287001305107/",
-          "source": "今日头条",
+          "title": "如果人生真的只是在读书毕业、上班赚钱、结婚生子中循环，那人生的意义究竟是什么？",
+          "url": "https://www.zhihu.com/question/2044870328678184330",
+          "source": "知乎",
           "ranks": [
-            27,
-            17
+            15
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时58分 ~ 07时52分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时08分"
         }
       ]
     },
