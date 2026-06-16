@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-17T05:11:55.887691+08:00",
-  "total_titles_processed": 419,
+  "generated_at": "2026-06-17T07:28:46.445984+08:00",
+  "total_titles_processed": 531,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "存储红利向“非AI”扩散：这两类内存年内涨价翻倍 机构预计下半年“涨声”不断",
@@ -15,20 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时08分 ~ 05时11分]"
-        },
-        {
-          "title": "支撑人工智能等高质量发展 算力网开启万亿级投资周期",
-          "url": "https://www.cls.cn/detail/2401236",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时08分 ~ 05时11分]"
+          "appearance_count": 3,
+          "time_info": "[01时08分 ~ 07时28分]"
         },
         {
           "title": "报道：SpaceX全股票收购AI编程工具Cursor，交易估值600亿美元",
@@ -38,8 +26,21 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时08分 ~ 05时11分]"
+          "appearance_count": 3,
+          "time_info": "[01时08分 ~ 07时28分]"
+        },
+        {
+          "title": "支撑人工智能等高质量发展 算力网开启万亿级投资周期",
+          "url": "https://www.cls.cn/detail/2401236",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时08分 ~ 07时28分]"
         },
         {
           "title": "为什么DeepSeek是AI泡沫斩杀线",
@@ -47,22 +48,12 @@
           "source": "今日头条",
           "ranks": [
             1,
-            23
+            23,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时08分 ~ 05时11分]"
-        },
-        {
-          "title": "【每日收评】创业板指涨1.72%，全市场连续两日超百股涨停，AI硬件方向延续强势",
-          "url": "https://www.cls.cn/detail/2401228",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时08分 ~ 05时11分]"
+          "appearance_count": 3,
+          "time_info": "[01时08分 ~ 07时28分]"
         },
         {
           "title": "腾讯大幅下调员工 AI Token 额度，从月均上万降至千元级别意味着什么？AI 算力成本面临哪些困局？",
@@ -70,11 +61,12 @@
           "source": "知乎",
           "ranks": [
             16,
-            7
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时08分 ~ 05时11分]"
+          "appearance_count": 3,
+          "time_info": "[01时08分 ~ 07时28分]"
         },
         {
           "title": "消息称蚂蚁集团正秘密测试 AI 版支付宝，新版本颠覆原有用户交互，会给用户体验和金融行业带来哪些改变？",
@@ -82,11 +74,36 @@
           "source": "知乎",
           "ranks": [
             13,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时08分 ~ 05时11分]"
+          "appearance_count": 3,
+          "time_info": "[01时08分 ~ 07时28分]"
+        },
+        {
+          "title": "【每日收评】创业板指涨1.72%，全市场连续两日超百股涨停，AI硬件方向延续强势",
+          "url": "https://www.cls.cn/detail/2401228",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时08分 ~ 07时28分]"
+        },
+        {
+          "title": "“无人晶圆厂”要来了？存储双雄接连布局 AI加速反哺半导体制造",
+          "url": "https://www.cls.cn/detail/2401317",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时08分 ~ 07时28分]"
         },
         {
           "title": "苏姿丰最近很忙！参建PCB工厂、扫货激光芯片 AMD加入AI军备竞赛",
@@ -100,15 +117,16 @@
           "time_info": "[01时08分 ~ 05时11分]"
         },
         {
-          "title": "“无人晶圆厂”要来了？存储双雄接连布局 AI加速反哺半导体制造",
-          "url": "https://www.cls.cn/detail/2401317",
-          "source": "财联社热门",
+          "title": "GPT-5.6 惊现 150 万上下文窗口，将如何影响大模型竞争格局？",
+          "url": "https://www.zhihu.com/question/2042539496676352614",
+          "source": "知乎",
           "ranks": [
-            11
+            10,
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时08分 ~ 05时11分]"
+          "time_info": "[01时08分 ~ 07时28分]"
         },
         {
           "title": "HPE强化面向AI客户的网络设备，西门子能源加入合作",
@@ -127,17 +145,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时08分"
-        },
-        {
-          "title": "GPT-5.6 惊现 150 万上下文窗口，将如何影响大模型竞争格局？",
-          "url": "https://www.zhihu.com/question/2042539496676352614",
-          "source": "知乎",
-          "ranks": [
-            10
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -183,7 +190,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
         },
@@ -205,7 +212,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
         },
@@ -216,9 +223,83 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
+        },
+        {
+          "title": "英国首相在G7峰会兜售能源与AI项目获13亿英镑投资",
+          "url": "https://wallstreetcn.com/livenews/3120511",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "电影 影视 综艺",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "综艺创作初心引热议",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BB%BC%E8%89%BA%E5%88%9B%E4%BD%9C%E5%88%9D%E5%BF%83%E5%BC%95%E7%83%AD%E8%AE%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24,
+            15,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时08分 ~ 07时28分]"
+        },
+        {
+          "title": "刘昊然、董子健等演员「当众求职」，程潇坦言档期很空看看我，如何看待这一现象？折射出怎样的影视行业现状？",
+          "url": "https://www.zhihu.com/question/2049828429411739036",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时28分"
+        },
+        {
+          "title": "第 38 届大众电影百花奖初选入围名单公布，你看好哪些演员拿奖，哪些演员落选令你遗憾？",
+          "url": "https://www.zhihu.com/question/2050191630137832216",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时11分"
+        },
+        {
+          "title": "都在说电影行业低迷，究竟是短视频、短剧抢占用户，还是观众的审美阈值变高，不再为宣发物料、演员名气买单？",
+          "url": "https://www.zhihu.com/question/2049483220899426511",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时28分"
+        },
+        {
+          "title": "抖音电影奇遇夜出发时刻",
+          "url": "https://www.douyin.com/hot/2536237",
+          "source": "抖音",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时28分"
         }
       ]
     },
@@ -234,19 +315,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时08分 ~ 05时11分]"
+          "appearance_count": 3,
+          "time_info": "[01时08分 ~ 07时28分]"
         },
         {
           "title": "如何评价经济诺奖得主称马斯克是庞氏骗局， SpaceX 上市让普通投资者被迫买单，会对美股带来什么影响？",
           "url": "https://www.zhihu.com/question/2049776018660103123",
           "source": "知乎",
           "ranks": [
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时08分 ~ 05时11分]"
+          "appearance_count": 3,
+          "time_info": "[01时08分 ~ 07时28分]"
         },
         {
           "title": "加拿大声明：加拿大总理卡尼与印度总理莫迪对全面经济伙伴关系协议谈判进展表示满意。",
@@ -294,7 +376,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
         }
@@ -337,51 +419,52 @@
           "url": "https://www.toutiao.com/trending/7651579346738855979/",
           "source": "今日头条",
           "ranks": [
-            18
+            18,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时11分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时11分 ~ 07时28分]"
         },
         {
           "title": "DeepSeek首轮融资梁文锋出资200亿",
           "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E9%A6%96%E8%BD%AE%E8%9E%8D%E8%B5%84%E6%A2%81%E6%96%87%E9%94%8B%E5%87%BA%E8%B5%84200%E4%BA%BF%23&t=31&band_rank=18&Refer=top",
           "source": "微博",
           "ranks": [
-            18
+            18,
+            29
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时08分"
+          "appearance_count": 2,
+          "time_info": "[01时08分 ~ 07时28分]"
         }
       ]
     },
     {
-      "keyword_group": "电影 影视 综艺",
+      "keyword_group": "教育 鸡娃 小镇做题家",
       "match_count": 2,
       "titles": [
         {
-          "title": "综艺创作初心引热议",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BB%BC%E8%89%BA%E5%88%9B%E4%BD%9C%E5%88%9D%E5%BF%83%E5%BC%95%E7%83%AD%E8%AE%AE",
-          "source": "bilibili 热搜",
+          "title": "特朗普政府再次推动转移教育部职能",
+          "url": "https://flash.jin10.com/detail/20260617072322613800",
+          "source": "金十数据",
           "ranks": [
-            24,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时08分 ~ 05时11分]"
-        },
-        {
-          "title": "第 38 届大众电影百花奖初选入围名单公布，你看好哪些演员拿奖，哪些演员落选令你遗憾？",
-          "url": "https://www.zhihu.com/question/2050191630137832216",
-          "source": "知乎",
-          "ranks": [
-            9
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时11分"
+          "time_info": "07时28分"
+        },
+        {
+          "title": "特朗普政府再次推动转移教育部职能",
+          "url": "https://wallstreetcn.com/livenews/3120550",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时28分"
         }
       ]
     },
@@ -395,11 +478,12 @@
           "source": "澎湃新闻",
           "ranks": [
             5,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时08分 ~ 05时11分]"
+          "appearance_count": 3,
+          "time_info": "[01时08分 ~ 07时28分]"
         }
       ]
     },
@@ -413,11 +497,29 @@
           "source": "澎湃新闻",
           "ranks": [
             13,
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时08分 ~ 05时11分]"
+          "appearance_count": 3,
+          "time_info": "[01时08分 ~ 07时28分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "内卷",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "2026年储能下半场前瞻：硬件“内卷”行至尾声，电力交易、算储一体、海外户储走向台前",
+          "url": "https://wallstreetcn.com/livenews/3120543",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时28分"
         }
       ]
     },
