@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-06-17T07:28:46.445984+08:00",
-  "total_titles_processed": 531,
+  "generated_at": "2026-06-17T12:49:46.628885+08:00",
+  "total_titles_processed": 775,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型",
-      "match_count": 20,
+      "match_count": 30,
       "titles": [
-        {
-          "title": "存储红利向“非AI”扩散：这两类内存年内涨价翻倍 机构预计下半年“涨声”不断",
-          "url": "https://www.cls.cn/detail/2401113",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时08分 ~ 07时28分]"
-        },
         {
           "title": "报道：SpaceX全股票收购AI编程工具Cursor，交易估值600亿美元",
           "url": "https://wallstreetcn.com/articles/3774806",
           "source": "华尔街见闻",
           "ranks": [
             4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时08分 ~ 12时49分]"
+        },
+        {
+          "title": "存储红利向“非AI”扩散：这两类内存年内涨价翻倍 机构预计下半年“涨声”不断",
+          "url": "https://www.cls.cn/detail/2401113",
+          "source": "财联社热门",
+          "ranks": [
+            2
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -41,6 +41,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时08分 ~ 07时28分]"
+        },
+        {
+          "title": "DeepSeek 完成 500 亿融资，估值超 3300 亿，如何解读背后的估值逻辑？将对 AI 领域产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2050261467174101567",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
         },
         {
           "title": "为什么DeepSeek是AI泡沫斩杀线",
@@ -140,6 +151,17 @@
           "time_info": "01时08分"
         },
         {
+          "title": "市场消息：鸿海携手法国AI公司Bull，在欧洲搭建英伟达Vera Rubin NVL72平台。此类AI服务器及数据中心将满足欧洲云服务提供商的需求。系统将在Bull位于法国的工厂进行组装与集成。",
+          "url": "https://flash.jin10.com/detail/20260617122905280800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
+        },
+        {
           "title": "依视路陆逊梯卡董事长兼首席执行官Francesco Milleri：我们相信，先进光学、AI与可穿戴技术的融合将为消费者开启全新一代的体验。 数十年来，依视路陆逊梯卡不断推动镜片和视觉性能的突破性创新，帮助重新定义人们感知周围世界的方式。 与应用材料公司携手，我们期待共同探索智能光学技术，助力塑造智能眼镜和下一代视觉计算的未来，为显示可穿戴设备品类的扩张打造新的全球驱动力。",
           "url": "https://wallstreetcn.com/livenews/3120432",
           "source": "华尔街见闻-快讯",
@@ -149,6 +171,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时08分"
+        },
+        {
+          "title": "Redis 之父为 DeepSeek 抱不平，美国 AI 圈为何再为「蒸馏」开吵？",
+          "url": "https://www.zhihu.com/question/2050271442697188542",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
         },
         {
           "title": "慧与科技：新的慧与私有云AI功能将于2026年7月推出。",
@@ -184,6 +217,28 @@
           "time_info": "01时08分"
         },
         {
+          "title": "港股午评：恒指收跌0.37% PCB概念、AI次新股连涨三日",
+          "url": "https://flash.jin10.com/detail/20260617121759371800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
+        },
+        {
+          "title": "曝微信正测试AI支付功能",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E5%BE%AE%E4%BF%A1%E6%AD%A3%E6%B5%8B%E8%AF%95AI%E6%94%AF%E4%BB%98%E5%8A%9F%E8%83%BD%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
+        },
+        {
           "title": "英伟达时隔五年再发美元债，华尔街 AI 融资热再增 250 亿，巨头为何扎堆融资，透露出哪些信息？",
           "url": "https://www.zhihu.com/question/2050039889400435846",
           "source": "知乎",
@@ -193,6 +248,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
+        },
+        {
+          "title": "据英国金融时报：施罗德首席投资官称，AI与科技企业并非处于“泡沫状态”。",
+          "url": "https://flash.jin10.com/detail/20260617121136589800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
+        },
+        {
+          "title": "吴清：依法从严打击利用人工智能非法荐股等乱象",
+          "url": "https://wallstreetcn.com/livenews/3120716",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
         },
         {
           "title": "高盛交易员：中东局势缓和推动美股投资者关注AI以外板块",
@@ -217,6 +294,39 @@
           "time_info": "05时11分"
         },
         {
+          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850552&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/06/JMTBVGp5UHdlWqDhmyBJL.jpg/lite\" height=\"120\"/></a>",
+          "url": "https://flash.jin10.com/detail/20260617120448538800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
+        },
+        {
+          "title": "中国正加紧筹建世界人工智能合作组织",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%AD%A3%E5%8A%A0%E7%B4%A7%E7%AD%B9%E5%BB%BA%E4%B8%96%E7%95%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%90%88%E4%BD%9C%E7%BB%84%E7%BB%87",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-06-17）",
+          "url": "https://flash.jin10.com/detail/20260617120429925800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
+        },
+        {
           "title": "美国商务部长卢特尼克在信函中就顶级AI模型的限制问题警告Anthropic。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3120464",
           "source": "华尔街见闻-快讯",
@@ -234,70 +344,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "电影 影视 综艺",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "综艺创作初心引热议",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BB%BC%E8%89%BA%E5%88%9B%E4%BD%9C%E5%88%9D%E5%BF%83%E5%BC%95%E7%83%AD%E8%AE%AE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24,
-            15,
-            17
-          ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时08分 ~ 07时28分]"
-        },
-        {
-          "title": "刘昊然、董子健等演员「当众求职」，程潇坦言档期很空看看我，如何看待这一现象？折射出怎样的影视行业现状？",
-          "url": "https://www.zhihu.com/question/2049828429411739036",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时28分"
-        },
-        {
-          "title": "第 38 届大众电影百花奖初选入围名单公布，你看好哪些演员拿奖，哪些演员落选令你遗憾？",
-          "url": "https://www.zhihu.com/question/2050191630137832216",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时11分"
-        },
-        {
-          "title": "都在说电影行业低迷，究竟是短视频、短剧抢占用户，还是观众的审美阈值变高，不再为宣发物料、演员名气买单？",
-          "url": "https://www.zhihu.com/question/2049483220899426511",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时28分"
-        },
-        {
-          "title": "抖音电影奇遇夜出发时刻",
-          "url": "https://www.douyin.com/hot/2536237",
-          "source": "抖音",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "07时28分"
         }
@@ -305,7 +352,7 @@
     },
     {
       "keyword_group": "经济 经济学",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "前5个月国民经济延续向新向优发展态势",
@@ -317,6 +364,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时08分 ~ 07时28分]"
+        },
+        {
+          "title": "国民经济持续向新向优",
+          "url": "https://www.toutiao.com/trending/7651222804691517494/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
+        },
+        {
+          "title": "我国5月份经济数据发布",
+          "url": "https://www.douyin.com/hot/2537562",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
         },
         {
           "title": "如何评价经济诺奖得主称马斯克是庞氏骗局， SpaceX 上市让普通投资者被迫买单，会对美股带来什么影响？",
@@ -355,6 +424,70 @@
       ]
     },
     {
+      "keyword_group": "电影 影视 综艺",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "综艺创作初心引热议",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BB%BC%E8%89%BA%E5%88%9B%E4%BD%9C%E5%88%9D%E5%BF%83%E5%BC%95%E7%83%AD%E8%AE%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24,
+            15,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时08分 ~ 07时28分]"
+        },
+        {
+          "title": "刘昊然、董子健等演员「当众求职」，程潇坦言档期很空看看我，如何看待这一现象？折射出怎样的影视行业现状？",
+          "url": "https://www.zhihu.com/question/2049828429411739036",
+          "source": "知乎",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时28分 ~ 12时49分]"
+        },
+        {
+          "title": "第 38 届大众电影百花奖初选入围名单公布，你看好哪些演员拿奖，哪些演员落选令你遗憾？",
+          "url": "https://www.zhihu.com/question/2050191630137832216",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时11分"
+        },
+        {
+          "title": "都在说电影行业低迷，究竟是短视频、短剧抢占用户，还是观众的审美阈值变高，不再为宣发物料、演员名气买单？",
+          "url": "https://www.zhihu.com/question/2049483220899426511",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时28分"
+        },
+        {
+          "title": "抖音电影奇遇夜出发时刻",
+          "url": "https://www.douyin.com/hot/2536237",
+          "source": "抖音",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时28分"
+        }
+      ]
+    },
+    {
       "keyword_group": "情绪 情绪价值 内耗 精神内耗",
       "match_count": 2,
       "titles": [
@@ -379,6 +512,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "年轻人 00后 35岁",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "年轻人真的不喝白酒了吗？变成中老年之后也不喝吗？",
+          "url": "https://www.zhihu.com/question/2050156665542894595",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
+        },
+        {
+          "title": "新发现35岁以下吸毒人数下降41.6%",
+          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E5%8F%91%E7%8E%B035%E5%B2%81%E4%BB%A5%E4%B8%8B%E5%90%B8%E6%AF%92%E4%BA%BA%E6%95%B0%E4%B8%8B%E9%99%8D41.6%25",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
         }
       ]
     },
@@ -451,7 +612,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
@@ -462,7 +623,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         }
@@ -479,11 +640,12 @@
           "ranks": [
             5,
             4,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时08分 ~ 07时28分]"
+          "appearance_count": 4,
+          "time_info": "[01时08分 ~ 12时49分]"
         }
       ]
     },
@@ -517,7 +679,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         }
@@ -537,6 +699,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "ChatGPT openai Sora",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "SpaceX期权首个交易日碾压纪录 ChatGPT市场份额跌破50% | 环球市场",
+          "url": "https://www.cls.cn/detail/2401773",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
         }
       ]
     }
