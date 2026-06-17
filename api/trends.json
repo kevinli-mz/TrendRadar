@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-18T04:23:11.971980+08:00",
-  "total_titles_processed": 428,
+  "generated_at": "2026-06-18T06:49:13.290488+08:00",
+  "total_titles_processed": 524,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "悬在市场上空的“三大利空”：沃什“鹰鸽不明”，AI“武器化监管”，美股史上最大股票发行潮",
@@ -16,8 +16,43 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时48分 ~ 04时23分]"
+          "appearance_count": 6,
+          "time_info": "[01时48分 ~ 06时49分]"
+        },
+        {
+          "title": "科创板第五套标准扩围至大模型企业，智谱、MiniMax“回A”有望提速",
+          "url": "https://wallstreetcn.com/livenews/3121281",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时49分"
+        },
+        {
+          "title": "中国正加紧筹建世界人工智能合作组织",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33396659",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时48分 ~ 06时49分]"
+        },
+        {
+          "title": "SpaceX 上市第三天市值逼近 3 万亿美元，豪掷 600 亿收购 Cursor 加码 AI，这笔天价收购划算吗？",
+          "url": "https://www.zhihu.com/question/2050515273640423854",
+          "source": "知乎",
+          "ranks": [
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时48分 ~ 06时49分]"
         },
         {
           "title": "【每日收评】科创50低开高走涨超4.5%，AI硬件反复活跃，半导体产业链再迎爆发",
@@ -32,35 +67,24 @@
           "time_info": "[01时48分 ~ 04时23分]"
         },
         {
+          "title": "一天涨出一个巴菲特！AI加持，马斯克身家涨到飞起",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33333525",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时22分 ~ 06时49分]"
+        },
+        {
           "title": "如果我们生活在 AI 构建的虚拟世界里，随手抛一枚均匀硬币，正面朝上的概率还是现实中公认的「50%」吗？",
           "url": "https://www.zhihu.com/question/2050269478747889665",
           "source": "知乎",
           "ranks": [
             12,
             15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时48分 ~ 04时23分]"
-        },
-        {
-          "title": "中国正加紧筹建世界人工智能合作组织",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33396659",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时48分 ~ 04时23分]"
-        },
-        {
-          "title": "SpaceX 上市第三天市值逼近 3 万亿美元，豪掷 600 亿收购 Cursor 加码 AI，这笔天价收购划算吗？",
-          "url": "https://www.zhihu.com/question/2050515273640423854",
-          "source": "知乎",
-          "ranks": [
-            17
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -76,17 +100,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时48分 ~ 01时49分]"
-        },
-        {
-          "title": "一天涨出一个巴菲特！AI加持，马斯克身家涨到飞起",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33333525",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时22分 ~ 04时23分]"
         },
         {
           "title": "如何理解韩国作家金爱烂所说的：「人类拥有而 AI 没有的一样东西，是犹豫不决」？",
@@ -161,7 +174,90 @@
           "ranks": [
             28
           ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "经济 经济学",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "媒体调查：90%经济学家预计日本央行年底前将再次加息",
+          "url": "https://wallstreetcn.com/livenews/3121265",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时49分"
+        },
+        {
+          "title": "沃什：希望市场依据真实经济状况定价 而非追随美联储解读",
+          "url": "https://flash.jin10.com/detail/20260618033006259800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时23分"
+        },
+        {
+          "title": "周三（6月17日）纽约尾盘（周四北京时间04:59），离岸人民币（CNH）兑美元报6.7762元，较周二纽约尾盘跌196点，日内整体交投于6.7539-6.7816元区间。 美联储宣布按兵不动、披露经济预期概要（SEP）之后加速下跌，美联储主席沃什新闻发布会后再次加速下跌、并随着市场消化加息前景而在03:39刷新日低。",
+          "url": "https://wallstreetcn.com/livenews/3121263",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时49分"
+        },
+        {
+          "title": "经济学教授：美伊和平协议或改变美联储加息路径",
+          "url": "https://flash.jin10.com/detail/20260618011251496800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时49分"
+        },
+        {
+          "title": "周三（6月17日），美股存储芯片与硬件供应链指数涨1.78%，报250.51点，过半交易时间持稳于256点附近，北京时间02:00美联储披露经济预期概要（SEP）之后显著回吐涨幅，美联储主席沃什新闻发布会开始后一度冲高至260点上方刷新日高。 成分股西部数据涨超4.5%，应用材料涨超4.3%，希捷科技、美光科技、拉姆研究至少涨超1%，闪迪、Rambus则跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3121255",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时49分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜周三（6月17日），美国科技股七巨头（Magnificent 7）指数跌2.38%，报210.21点，跳空低开之后持续下挫，北京时间02:00美联储宣布按兵不动、披露经济预期概要（SEP）后显著地加速下跌，美联储主席凯文·沃什新闻发布会开始后再度加速下跌。 “超大”市值科技股指数跌1.56%，报432.59点，美联储决议声明发布后显著下挫，沃什新闻发布会开始之后冲高回落。",
+          "url": "https://wallstreetcn.com/livenews/3121254",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时49分"
+        },
+        {
+          "title": "据伊朗伊斯兰共和国通讯社：美国承诺与地区伙伴合作，制定一项双方同意的伊朗经济重建计划，并提供至少3000亿美元资金。",
+          "url": "https://flash.jin10.com/detail/20260618032355540800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时23分"
         }
@@ -179,8 +275,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时48分 ~ 04时23分]"
+          "appearance_count": 6,
+          "time_info": "[01时48分 ~ 06时49分]"
         },
         {
           "title": "实施就业优先战略“十五五”规划",
@@ -190,8 +286,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时48分 ~ 04时23分]"
+          "appearance_count": 6,
+          "time_info": "[01时48分 ~ 06时49分]"
         },
         {
           "title": "HR 吐槽面试遇到豆包味很浓的应届生，全程依赖豆包 AI 作答，如何看待这一现象？暴露出哪些问题？",
@@ -199,11 +295,12 @@
           "source": "知乎",
           "ranks": [
             6,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时48分 ~ 04时23分]"
+          "appearance_count": 6,
+          "time_info": "[01时48分 ~ 06时49分]"
         },
         {
           "title": "美联储主席沃什：不相信在通胀与就业之间存在艰难选择。 与会的19名FOMC委员中，无人认为我们今日需要收紧政策。",
@@ -212,7 +309,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时23分"
         }
@@ -231,8 +328,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时48分 ~ 04时23分]"
+          "appearance_count": 6,
+          "time_info": "[01时48分 ~ 06时49分]"
         },
         {
           "title": "男女就餐时与未成年女生发生冲突被罚",
@@ -242,8 +339,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时48分 ~ 04时23分]"
+          "appearance_count": 6,
+          "time_info": "[01时48分 ~ 06时49分]"
         },
         {
           "title": "已婚男女打工相识同居15年获刑",
@@ -259,41 +356,43 @@
       ]
     },
     {
-      "keyword_group": "经济 经济学",
+      "keyword_group": "电影 影视 综艺",
       "match_count": 3,
       "titles": [
         {
-          "title": "沃什：希望市场依据真实经济状况定价 而非追随美联储解读",
-          "url": "https://flash.jin10.com/detail/20260618033006259800",
-          "source": "金十数据",
+          "title": "刘昊然、董子健等演员「当众求职」，程潇坦言档期很空看看我，如何看待这一现象？折射出怎样的影视行业现状？",
+          "url": "https://www.zhihu.com/question/2049828429411739036",
+          "source": "知乎",
           "ranks": [
-            15
+            20,
+            19,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时23分"
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时48分 ~ 06时49分]"
         },
         {
-          "title": "经济学教授：美伊和平协议或改变美联储加息路径",
-          "url": "https://flash.jin10.com/detail/20260618011251496800",
-          "source": "金十数据",
+          "title": "很多欧美影视中贵族女子骑马都是侧骑的，侧骑是否比跨骑难得多？",
+          "url": "https://www.zhihu.com/question/21289988",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时48分 ~ 06时49分]"
+        },
+        {
+          "title": "六月份被市场寄予厚望的电影《火遮眼》上映以来并未取得票房佳绩，是什么原因？",
+          "url": "https://www.zhihu.com/question/2049399794507030655",
+          "source": "知乎",
           "ranks": [
             20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时49分"
-        },
-        {
-          "title": "据伊朗伊斯兰共和国通讯社：美国承诺与地区伙伴合作，制定一项双方同意的伊朗经济重建计划，并提供至少3000亿美元资金。",
-          "url": "https://flash.jin10.com/detail/20260618032355540800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时23分"
+          "appearance_count": 2,
+          "time_info": "[06时48分 ~ 06时49分]"
         }
       ]
     },
@@ -309,8 +408,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时48分 ~ 04时23分]"
+          "appearance_count": 6,
+          "time_info": "[01时48分 ~ 06时49分]"
         },
         {
           "title": "曝霍启山将和演员娜然结婚",
@@ -320,8 +419,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时48分 ~ 04时23分]"
+          "appearance_count": 6,
+          "time_info": "[01时48分 ~ 06时49分]"
         }
       ]
     },
@@ -337,19 +436,48 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时48分 ~ 04时23分]"
+          "appearance_count": 6,
+          "time_info": "[01时48分 ~ 06时49分]"
         },
         {
           "title": "陕西一幼儿园举办 5 公里亲子迷你马拉松，36 岁父亲陪跑途中猝死，跑五公里适合作为幼儿园的活动吗？",
           "url": "https://www.zhihu.com/question/2050225795503805964",
           "source": "知乎",
           "ranks": [
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时48分 ~ 04时23分]"
+          "appearance_count": 6,
+          "time_info": "[01时48分 ~ 06时49分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "消费 存钱 攒钱",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "标普500指数的11个板块全线溃败，电信板块收跌2.98%，可选消费、房地产、日用消费品板块至多跌2.69%，工业板块跌0.12%跌幅最小。",
+          "url": "https://wallstreetcn.com/livenews/3121252",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时49分"
+        },
+        {
+          "title": "周三（6月17日），美股行业ETF普遍收跌，网络股指数ETF跌2.89%，可选消费ETF、日常消费品等至多跌2.51%，区域银行ETF、银行业ETF、能源业ETF、全球航空业ETF至多跌1.90%，半导体指数ETF则涨1.29%。",
+          "url": "https://wallstreetcn.com/livenews/3121250",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时49分"
         }
       ]
     },
@@ -382,8 +510,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时48分 ~ 04时23分]"
+          "appearance_count": 6,
+          "time_info": "[01时48分 ~ 06时49分]"
         }
       ]
     },
@@ -401,24 +529,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时48分 ~ 01时49分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "电影 影视 综艺",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "刘昊然、董子健等演员「当众求职」，程潇坦言档期很空看看我，如何看待这一现象？折射出怎样的影视行业现状？",
-          "url": "https://www.zhihu.com/question/2049828429411739036",
-          "source": "知乎",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时48分 ~ 04时23分]"
         }
       ]
     }
