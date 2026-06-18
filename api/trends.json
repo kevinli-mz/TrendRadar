@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-18T08:20:49.734944+08:00",
-  "total_titles_processed": 643,
+  "generated_at": "2026-06-18T14:02:18.239348+08:00",
+  "total_titles_processed": 874,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型",
-      "match_count": 17,
+      "match_count": 21,
       "titles": [
         {
           "title": "悬在市场上空的“三大利空”：沃什“鹰鸽不明”，AI“武器化监管”，美股史上最大股票发行潮",
@@ -18,6 +18,20 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时48分 ~ 08时20分]"
+        },
+        {
+          "title": "一天涨出一个巴菲特！AI加持，马斯克身家涨到飞起",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33333525",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            11,
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[04时22分 ~ 14时02分]"
         },
         {
           "title": "中国正加紧筹建世界人工智能合作组织",
@@ -45,17 +59,15 @@
           "time_info": "[01时48分 ~ 08时20分]"
         },
         {
-          "title": "一天涨出一个巴菲特！AI加持，马斯克身家涨到飞起",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33333525",
-          "source": "澎湃新闻",
+          "title": "杰富瑞：美国限制海外访问顶级AI模型的举措或难以持续",
+          "url": "https://flash.jin10.com/detail/20260618134023698800",
+          "source": "金十数据",
           "ranks": [
-            13,
-            11,
-            9
+            3
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时22分 ~ 08时20分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
         },
         {
           "title": "科创板第五套标准扩围至大模型企业，智谱、MiniMax“回A”有望提速",
@@ -94,6 +106,29 @@
           "time_info": "[01时48分 ~ 04时23分]"
         },
         {
+          "title": "为什么 AI 写的代码没人说有 AI 味儿，但是 AI 写的文章就一眼看出 AI 味儿？",
+          "url": "https://www.zhihu.com/question/14853864339",
+          "source": "知乎",
+          "ranks": [
+            18,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时20分 ~ 14时02分]"
+        },
+        {
+          "title": "黄金和AI：谁在见顶？",
+          "url": "https://wallstreetcn.com/articles/3774914",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时01分 ~ 14时02分]"
+        },
+        {
           "title": "AI Agent 的核心技术是什么？",
           "url": "https://www.zhihu.com/question/1906023807417811104",
           "source": "知乎",
@@ -103,6 +138,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时48分 ~ 01时49分]"
+        },
+        {
+          "title": "吴倩 我是全中国最会使AI的女演员",
+          "url": "https://s.weibo.com/weibo?q=%E5%90%B4%E5%80%A9%20%E6%88%91%E6%98%AF%E5%85%A8%E4%B8%AD%E5%9B%BD%E6%9C%80%E4%BC%9A%E4%BD%BFAI%E7%9A%84%E5%A5%B3%E6%BC%94%E5%91%98&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时01分 ~ 14时02分]"
         },
         {
           "title": "如何理解韩国作家金爱烂所说的：「人类拥有而 AI 没有的一样东西，是犹豫不决」？",
@@ -125,6 +171,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时48分 ~ 01时49分]"
+        },
+        {
+          "title": "端午和周星驰拍上AI食神大片了",
+          "url": "https://www.douyin.com/hot/2538982",
+          "source": "抖音",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时01分 ~ 14时02分]"
         },
         {
           "title": "OpenAI的CEO Altman、谷歌公司高管Hassabis、Anthropic的CEO Amodei、Meta高管Wang、Mistral AI高管Mensch、Cohere高管Gomez、Salesforce高管Benioff出席（美国）AI会议。（Axios）",
@@ -160,24 +217,13 @@
           "time_info": "01时49分"
         },
         {
-          "title": "为什么 AI 写的代码没人说有 AI 味儿，但是 AI 写的文章就一眼看出 AI 味儿？",
-          "url": "https://www.zhihu.com/question/14853864339",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时20分"
-        },
-        {
           "title": "下半年投资亮点纷呈，公募策略会看好AI投资范式生变",
           "url": "https://wallstreetcn.com/livenews/3121289",
           "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时20分"
         },
@@ -207,8 +253,19 @@
     },
     {
       "keyword_group": "经济 经济学",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "为美伊协议辩护，特朗普称“不想看到经济灾难”，不想做“导致1929年崩盘的胡佛”",
+          "url": "https://wallstreetcn.com/articles/3774952",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时01分 ~ 14时02分]"
+        },
         {
           "title": "媒体调查：90%经济学家预计日本央行年底前将再次加息",
           "url": "https://wallstreetcn.com/livenews/3121265",
@@ -289,6 +346,80 @@
       ]
     },
     {
+      "keyword_group": "电影 影视 综艺",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "电影镖人热播中",
+          "url": "https://search.bilibili.com/all?keyword=%E9%95%96%E4%BA%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时01分 ~ 14时02分]"
+        },
+        {
+          "title": "刘昊然、董子健等演员「当众求职」，程潇坦言档期很空看看我，如何看待这一现象？折射出怎样的影视行业现状？",
+          "url": "https://www.zhihu.com/question/2049828429411739036",
+          "source": "知乎",
+          "ranks": [
+            20,
+            19,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时48分 ~ 06时49分]"
+        },
+        {
+          "title": "陈冲马伊琍怒批靠大数据去投资影视作品是「极大的错误」，数据永远是过去式，艺术是例外，你怎么看？",
+          "url": "https://www.zhihu.com/question/2050661479452336889",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时01分 ~ 14时02分]"
+        },
+        {
+          "title": "周冬雨五年没进电影组了",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%91%A8%E5%86%AC%E9%9B%A8%E4%BA%94%E5%B9%B4%E6%B2%A1%E8%BF%9B%E7%94%B5%E5%BD%B1%E7%BB%84%E4%BA%86%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时01分 ~ 14时02分]"
+        },
+        {
+          "title": "很多欧美影视中贵族女子骑马都是侧骑的，侧骑是否比跨骑难得多？",
+          "url": "https://www.zhihu.com/question/21289988",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时48分 ~ 06时49分]"
+        },
+        {
+          "title": "六月份被市场寄予厚望的电影《火遮眼》上映以来并未取得票房佳绩，是什么原因？",
+          "url": "https://www.zhihu.com/question/2049399794507030655",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时48分 ~ 06时49分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "就业 失业 裁员 应届生",
       "match_count": 4,
       "titles": [
@@ -343,7 +474,7 @@
     },
     {
       "keyword_group": "性别 男女 女性",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "奥特曼改革,开拓女性市场",
@@ -352,11 +483,12 @@
           "ranks": [
             6,
             7,
-            8
+            8,
+            15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时48分 ~ 08时20分]"
+          "appearance_count": 9,
+          "time_info": "[01时48分 ~ 14时02分]"
         },
         {
           "title": "男女就餐时与未成年女生发生冲突被罚",
@@ -380,6 +512,56 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时48分 ~ 04时23分]"
+        },
+        {
+          "title": "已婚男女打工相识生子同居15年获刑",
+          "url": "https://www.baidu.com/s?wd=%E5%B7%B2%E5%A9%9A%E7%94%B7%E5%A5%B3%E6%89%93%E5%B7%A5%E7%9B%B8%E8%AF%86%E7%94%9F%E5%AD%90%E5%90%8C%E5%B1%8515%E5%B9%B4%E8%8E%B7%E5%88%91",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时01分 ~ 14时02分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "年轻人 00后 35岁",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "国家禁毒办：新发现35岁以下青少年吸毒人数同比下降超四成",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33396453",
+          "source": "澎湃新闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时48分 ~ 08时20分]"
+        },
+        {
+          "title": "00后股民全仓AI股2个月赚30万",
+          "url": "https://www.toutiao.com/trending/7651658373838274602/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时01分 ~ 14时02分]"
+        },
+        {
+          "title": "00后股民全仓AI股2个月赚30万",
+          "url": "https://www.baidu.com/s?wd=00%E5%90%8E%E8%82%A1%E6%B0%91%E5%85%A8%E4%BB%93AI%E8%82%A12%E4%B8%AA%E6%9C%88%E8%B5%9A30%E4%B8%87",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时01分 ~ 14时02分]"
         }
       ]
     },
@@ -418,87 +600,27 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时20分"
         }
       ]
     },
     {
-      "keyword_group": "电影 影视 综艺",
+      "keyword_group": "消费 存钱 攒钱",
       "match_count": 3,
       "titles": [
         {
-          "title": "刘昊然、董子健等演员「当众求职」，程潇坦言档期很空看看我，如何看待这一现象？折射出怎样的影视行业现状？",
-          "url": "https://www.zhihu.com/question/2049828429411739036",
-          "source": "知乎",
-          "ranks": [
-            20,
-            19,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时48分 ~ 06时49分]"
-        },
-        {
-          "title": "很多欧美影视中贵族女子骑马都是侧骑的，侧骑是否比跨骑难得多？",
-          "url": "https://www.zhihu.com/question/21289988",
-          "source": "知乎",
+          "title": "经纬度：中国首次发布新的消费指标，有何考量？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33398450",
+          "source": "澎湃新闻",
           "ranks": [
             19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时48分 ~ 06时49分]"
+          "time_info": "[14时01分 ~ 14时02分]"
         },
-        {
-          "title": "六月份被市场寄予厚望的电影《火遮眼》上映以来并未取得票房佳绩，是什么原因？",
-          "url": "https://www.zhihu.com/question/2049399794507030655",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时48分 ~ 06时49分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "婚姻 结婚 离婚 彩礼",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "霍启山被曝将和演员娜然结婚",
-          "url": "https://www.toutiao.com/trending/7652332017367060014/",
-          "source": "今日头条",
-          "ranks": [
-            12,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时48分 ~ 08时20分]"
-        },
-        {
-          "title": "曝霍启山将和演员娜然结婚",
-          "url": "https://www.baidu.com/s?wd=%E6%9B%9D%E9%9C%8D%E5%90%AF%E5%B1%B1%E5%B0%86%E5%92%8C%E6%BC%94%E5%91%98%E5%A8%9C%E7%84%B6%E7%BB%93%E5%A9%9A",
-          "source": "百度热搜",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时48分 ~ 08时20分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "消费 存钱 攒钱",
-      "match_count": 2,
-      "titles": [
         {
           "title": "标普500指数的11个板块全线溃败，电信板块收跌2.98%，可选消费、房地产、日用消费品板块至多跌2.69%，工业板块跌0.12%跌幅最小。",
           "url": "https://wallstreetcn.com/livenews/3121252",
@@ -525,8 +647,19 @@
     },
     {
       "keyword_group": "社会 阶层 社会学",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "细节终于公布，美国社会一片惊呼",
+          "url": "https://news.ifeng.com/c/8u37fw6Elsl",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时01分 ~ 14时02分]"
+        },
         {
           "title": "黄仁勋呼吁全民拥抱AI：社会需重塑规则体系 能源短缺成美国AI发展最大短板",
           "url": "https://www.cls.cn/detail/2402612",
@@ -541,19 +674,67 @@
       ]
     },
     {
-      "keyword_group": "年轻人 00后 35岁",
-      "match_count": 1,
+      "keyword_group": "婚姻 结婚 离婚 彩礼",
+      "match_count": 2,
       "titles": [
         {
-          "title": "国家禁毒办：新发现35岁以下青少年吸毒人数同比下降超四成",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33396453",
-          "source": "澎湃新闻",
+          "title": "霍启山被曝将和演员娜然结婚",
+          "url": "https://www.toutiao.com/trending/7652332017367060014/",
+          "source": "今日头条",
           "ranks": [
-            2
+            12,
+            14,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时48分 ~ 14时02分]"
+        },
+        {
+          "title": "曝霍启山将和演员娜然结婚",
+          "url": "https://www.baidu.com/s?wd=%E6%9B%9D%E9%9C%8D%E5%90%AF%E5%B1%B1%E5%B0%86%E5%92%8C%E6%BC%94%E5%91%98%E5%A8%9C%E7%84%B6%E7%BB%93%E5%A9%9A",
+          "source": "百度热搜",
+          "ranks": [
+            12,
+            13
           ],
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时48分 ~ 08时20分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "考公 考研 上岸",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "对话高位截瘫考研成功的郭子健：无数次闪过放自己一马的念头，但不能放",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33402371",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时01分 ~ 14时02分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "如何看待 6 月 16 日 DeepSeek 网页端 /App 中的「快速模式」思维链发生明显变化？",
+          "url": "https://www.zhihu.com/question/2050272536898835791",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时01分 ~ 14时02分]"
         }
       ]
     },
