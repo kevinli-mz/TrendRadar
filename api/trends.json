@@ -1,12 +1,27 @@
 {
-  "generated_at": "2026-06-18T14:02:18.239348+08:00",
-  "total_titles_processed": 874,
+  "generated_at": "2026-06-18T18:46:01.104529+08:00",
+  "total_titles_processed": 1084,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型",
-      "match_count": 21,
+      "match_count": 31,
       "titles": [
+        {
+          "title": "一天涨出一个巴菲特！AI加持，马斯克身家涨到飞起",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33333525",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            11,
+            9,
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[04时22分 ~ 18时46分]"
+        },
         {
           "title": "悬在市场上空的“三大利空”：沃什“鹰鸽不明”，AI“武器化监管”，美股史上最大股票发行潮",
           "url": "https://wallstreetcn.com/articles/3774852",
@@ -18,20 +33,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时48分 ~ 08时20分]"
-        },
-        {
-          "title": "一天涨出一个巴菲特！AI加持，马斯克身家涨到飞起",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33333525",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            11,
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[04时22分 ~ 14时02分]"
         },
         {
           "title": "中国正加紧筹建世界人工智能合作组织",
@@ -59,13 +60,24 @@
           "time_info": "[01时48分 ~ 08时20分]"
         },
         {
+          "title": "商务部等八部门发布《关于加快“人工智能+消费”发展的实施意见》",
+          "url": "https://www.cls.cn/detail/2403573",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时45分 ~ 18时46分]"
+        },
+        {
           "title": "杰富瑞：美国限制海外访问顶级AI模型的举措或难以持续",
           "url": "https://flash.jin10.com/detail/20260618134023698800",
           "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时02分"
         },
@@ -80,6 +92,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时49分 ~ 08时20分]"
+        },
+        {
+          "title": "黄金和AI：谁在见顶？",
+          "url": "https://wallstreetcn.com/articles/3774914",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时01分 ~ 18时46分]"
         },
         {
           "title": "【每日收评】科创50低开高走涨超4.5%，AI硬件反复活跃，半导体产业链再迎爆发",
@@ -106,6 +130,18 @@
           "time_info": "[01时48分 ~ 04时23分]"
         },
         {
+          "title": "端午和周星驰拍上AI食神大片了",
+          "url": "https://www.douyin.com/hot/2538982",
+          "source": "抖音",
+          "ranks": [
+            28,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时01分 ~ 18时46分]"
+        },
+        {
           "title": "为什么 AI 写的代码没人说有 AI 味儿，但是 AI 写的文章就一眼看出 AI 味儿？",
           "url": "https://www.zhihu.com/question/14853864339",
           "source": "知乎",
@@ -118,15 +154,15 @@
           "time_info": "[08时20分 ~ 14时02分]"
         },
         {
-          "title": "黄金和AI：谁在见顶？",
-          "url": "https://wallstreetcn.com/articles/3774914",
-          "source": "华尔街见闻",
+          "title": "用AI打开端午的一百种方式",
+          "url": "https://www.douyin.com/hot/2539388",
+          "source": "抖音",
           "ranks": [
-            8
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时01分 ~ 14时02分]"
+          "time_info": "[18时45分 ~ 18时46分]"
         },
         {
           "title": "AI Agent 的核心技术是什么？",
@@ -138,6 +174,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时48分 ~ 01时49分]"
+        },
+        {
+          "title": "AI内存极限再创突破！SK海力士宣布交付12层HBM4E样品",
+          "url": "https://www.cls.cn/detail/2403255",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时45分 ~ 18时46分]"
         },
         {
           "title": "吴倩 我是全中国最会使AI的女演员",
@@ -162,6 +209,17 @@
           "time_info": "[04时22分 ~ 04时23分]"
         },
         {
+          "title": "吴倩自称是全国最会使AI的女演员",
+          "url": "https://www.toutiao.com/trending/7651934602516725770/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时45分 ~ 18时46分]"
+        },
+        {
           "title": "微信支付宝打响AI支付战",
           "url": "https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E6%94%AF%E4%BB%98%E5%AE%9D%E6%89%93%E5%93%8DAI%E6%94%AF%E4%BB%98%E6%88%98%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -173,17 +231,6 @@
           "time_info": "[01时48分 ~ 01时49分]"
         },
         {
-          "title": "端午和周星驰拍上AI食神大片了",
-          "url": "https://www.douyin.com/hot/2538982",
-          "source": "抖音",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时01分 ~ 14时02分]"
-        },
-        {
           "title": "OpenAI的CEO Altman、谷歌公司高管Hassabis、Anthropic的CEO Amodei、Meta高管Wang、Mistral AI高管Mensch、Cohere高管Gomez、Salesforce高管Benioff出席（美国）AI会议。（Axios）",
           "url": "https://wallstreetcn.com/livenews/3121165",
           "source": "华尔街见闻-快讯",
@@ -193,6 +240,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时49分"
+        },
+        {
+          "title": "金融监管总局：推进人工智能金融行业应用基础设施建设",
+          "url": "https://flash.jin10.com/detail/20260618183826256800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时46分"
+        },
+        {
+          "title": "金融监管总局：支持金融机构在风险可控的前提下，推进生成式人工智能技术的业务应用和配套能力体系建设",
+          "url": "https://flash.jin10.com/detail/20260618183804117800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时46分"
+        },
+        {
+          "title": "金融监管总局：加强人工智能安全开发应用治理",
+          "url": "https://flash.jin10.com/detail/20260618183716787800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时46分"
         },
         {
           "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850552&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/06/XgYgJjxF2NJebvw060RQ-.jpg/lite\" height=\"120\"/></a>",
@@ -217,6 +297,28 @@
           "time_info": "01时49分"
         },
         {
+          "title": "小米正式发布“全屋智能AI开源方案”Xiaomi Miloco 2.0",
+          "url": "https://wallstreetcn.com/livenews/3121595",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时46分"
+        },
+        {
+          "title": "摩尔线程：首款家庭消费产品开启预售 异构AI算力达50 TOPS",
+          "url": "https://flash.jin10.com/detail/20260618183131096800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时46分"
+        },
+        {
           "title": "下半年投资亮点纷呈，公募策略会看好AI投资范式生变",
           "url": "https://wallstreetcn.com/livenews/3121289",
           "source": "华尔街见闻-快讯",
@@ -239,6 +341,17 @@
           "time_info": "01时49分"
         },
         {
+          "title": "OpenAI将与Dentsu等公司合作，在日本开展ChatGPT广告业务。（日经新闻）",
+          "url": "https://wallstreetcn.com/livenews/3121588",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时46分"
+        },
+        {
           "title": "美联储主席沃什：美联储无法对特定价格产生显著影响。 美联储的工作是，确保不会出现第二轮价格效应。 对第二轮通胀效应有一系列的看法。 FOMC今天讨论了生产力，提到了人工智能（AI）。",
           "url": "https://wallstreetcn.com/livenews/3121214",
           "source": "华尔街见闻-快讯",
@@ -253,18 +366,41 @@
     },
     {
       "keyword_group": "经济 经济学",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
+        {
+          "title": "美伊协议“推手”曝光？特朗普坦言：我不想看到经济灾难、不想当胡佛！",
+          "url": "https://www.cls.cn/detail/2403312",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时45分 ~ 18时46分]"
+        },
+        {
+          "title": "七部门重磅发文：鼓励投早投小投硬科技，2028年培育一批平台经济单项冠军",
+          "url": "https://www.cls.cn/detail/2403507",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时45分 ~ 18时46分]"
+        },
         {
           "title": "为美伊协议辩护，特朗普称“不想看到经济灾难”，不想做“导致1929年崩盘的胡佛”",
           "url": "https://wallstreetcn.com/articles/3774952",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时01分 ~ 14时02分]"
+          "appearance_count": 4,
+          "time_info": "[14时01分 ~ 18时46分]"
         },
         {
           "title": "媒体调查：90%经济学家预计日本央行年底前将再次加息",
@@ -342,6 +478,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时23分"
+        },
+        {
+          "title": "安徽出台低空经济重要方案：2028年度低空飞行时长达500万小时",
+          "url": "https://flash.jin10.com/detail/20260618182614445800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时46分"
         }
       ]
     },
@@ -354,11 +501,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E9%95%96%E4%BA%BA",
           "source": "bilibili 热搜",
           "ranks": [
-            1
+            1,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时01分 ~ 14时02分]"
+          "appearance_count": 4,
+          "time_info": "[14时01分 ~ 18时46分]"
         },
         {
           "title": "刘昊然、董子健等演员「当众求职」，程潇坦言档期很空看看我，如何看待这一现象？折射出怎样的影视行业现状？",
@@ -378,11 +526,12 @@
           "url": "https://www.zhihu.com/question/2050661479452336889",
           "source": "知乎",
           "ranks": [
-            11
+            11,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时01分 ~ 14时02分]"
+          "appearance_count": 4,
+          "time_info": "[14时01分 ~ 18时46分]"
         },
         {
           "title": "周冬雨五年没进电影组了",
@@ -484,11 +633,12 @@
             6,
             7,
             8,
-            15
+            15,
+            19
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时48分 ~ 14时02分]"
+          "appearance_count": 11,
+          "time_info": "[01时48分 ~ 18时46分]"
         },
         {
           "title": "男女就餐时与未成年女生发生冲突被罚",
@@ -562,6 +712,48 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时01分 ~ 14时02分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "婚姻 结婚 离婚 彩礼",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "霍启山被曝将和演员娜然结婚",
+          "url": "https://www.toutiao.com/trending/7652332017367060014/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            14,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时48分 ~ 14时02分]"
+        },
+        {
+          "title": "曝霍启山将和演员娜然结婚",
+          "url": "https://www.baidu.com/s?wd=%E6%9B%9D%E9%9C%8D%E5%90%AF%E5%B1%B1%E5%B0%86%E5%92%8C%E6%BC%94%E5%91%98%E5%A8%9C%E7%84%B6%E7%BB%93%E5%A9%9A",
+          "source": "百度热搜",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时48分 ~ 08时20分]"
+        },
+        {
+          "title": "女子临时加码30万彩礼悔婚",
+          "url": "https://www.toutiao.com/trending/7652576623187640361/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时45分 ~ 18时46分]"
         }
       ]
     },
@@ -674,33 +866,30 @@
       ]
     },
     {
-      "keyword_group": "婚姻 结婚 离婚 彩礼",
+      "keyword_group": "教育 鸡娃 小镇做题家",
       "match_count": 2,
       "titles": [
         {
-          "title": "霍启山被曝将和演员娜然结婚",
-          "url": "https://www.toutiao.com/trending/7652332017367060014/",
-          "source": "今日头条",
+          "title": "韩剧铁拳教育",
+          "url": "https://s.weibo.com/weibo?q=%E9%9F%A9%E5%89%A7%E9%93%81%E6%8B%B3%E6%95%99%E8%82%B2&t=31&band_rank=5&Refer=top",
+          "source": "微博",
           "ranks": [
-            12,
-            14,
-            16
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时48分 ~ 14时02分]"
+          "appearance_count": 2,
+          "time_info": "[18时45分 ~ 18时46分]"
         },
         {
-          "title": "曝霍启山将和演员娜然结婚",
-          "url": "https://www.baidu.com/s?wd=%E6%9B%9D%E9%9C%8D%E5%90%AF%E5%B1%B1%E5%B0%86%E5%92%8C%E6%BC%94%E5%91%98%E5%A8%9C%E7%84%B6%E7%BB%93%E5%A9%9A",
+          "title": "教育部同意：新设立32所本科高校",
+          "url": "https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%E5%90%8C%E6%84%8F%EF%BC%9A%E6%96%B0%E8%AE%BE%E7%AB%8B32%E6%89%80%E6%9C%AC%E7%A7%91%E9%AB%98%E6%A0%A1",
           "source": "百度热搜",
           "ranks": [
-            12,
-            13
+            20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时48分 ~ 08时20分]"
+          "appearance_count": 2,
+          "time_info": "[01时48分 ~ 01时49分]"
         }
       ]
     },
@@ -713,11 +902,29 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33402371",
           "source": "澎湃新闻",
           "ranks": [
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时01分 ~ 14时02分]"
+          "appearance_count": 4,
+          "time_info": "[14时01分 ~ 18时46分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "生育 催生 不婚",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "智谱与MiniMax股价分道扬镳 催生多空配对交易",
+          "url": "https://wallstreetcn.com/livenews/3121624",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时46分"
         }
       ]
     },
@@ -730,28 +937,29 @@
           "url": "https://www.zhihu.com/question/2050272536898835791",
           "source": "知乎",
           "ranks": [
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时01分 ~ 14时02分]"
+          "appearance_count": 4,
+          "time_info": "[14时01分 ~ 18时46分]"
         }
       ]
     },
     {
-      "keyword_group": "教育 鸡娃 小镇做题家",
+      "keyword_group": "房价 买房",
       "match_count": 1,
       "titles": [
         {
-          "title": "教育部同意：新设立32所本科高校",
-          "url": "https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%E5%90%8C%E6%84%8F%EF%BC%9A%E6%96%B0%E8%AE%BE%E7%AB%8B32%E6%89%80%E6%9C%AC%E7%A7%91%E9%AB%98%E6%A0%A1",
+          "title": "这一波出手买房的人不怕再买亏了",
+          "url": "https://www.baidu.com/s?wd=%E8%BF%99%E4%B8%80%E6%B3%A2%E5%87%BA%E6%89%8B%E4%B9%B0%E6%88%BF%E7%9A%84%E4%BA%BA%E4%B8%8D%E6%80%95%E5%86%8D%E4%B9%B0%E4%BA%8F%E4%BA%86",
           "source": "百度热搜",
           "ranks": [
-            20
+            5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时48分 ~ 01时49分]"
+          "time_info": "[18时45分 ~ 18时46分]"
         }
       ]
     }
