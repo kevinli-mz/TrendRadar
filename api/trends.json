@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-18T18:46:01.104529+08:00",
-  "total_titles_processed": 1084,
+  "generated_at": "2026-06-18T22:26:47.451203+08:00",
+  "total_titles_processed": 1251,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型",
-      "match_count": 31,
+      "match_count": 35,
       "titles": [
         {
           "title": "一天涨出一个巴菲特！AI加持，马斯克身家涨到飞起",
@@ -35,6 +35,18 @@
           "time_info": "[01时48分 ~ 08时20分]"
         },
         {
+          "title": "商务部等八部门发布《关于加快“人工智能+消费”发展的实施意见》",
+          "url": "https://www.cls.cn/detail/2403573",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时45分 ~ 22时26分]"
+        },
+        {
           "title": "中国正加紧筹建世界人工智能合作组织",
           "url": "https://m.thepaper.cn/newsDetail_forward_33396659",
           "source": "澎湃新闻",
@@ -60,15 +72,15 @@
           "time_info": "[01时48分 ~ 08时20分]"
         },
         {
-          "title": "商务部等八部门发布《关于加快“人工智能+消费”发展的实施意见》",
-          "url": "https://www.cls.cn/detail/2403573",
-          "source": "财联社热门",
+          "title": "让AI走进千家万户",
+          "url": "https://www.baidu.com/s?wd=%E8%AE%A9AI%E8%B5%B0%E8%BF%9B%E5%8D%83%E5%AE%B6%E4%B8%87%E6%88%B7",
+          "source": "百度热搜",
           "ranks": [
-            5
+            3
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时45分 ~ 18时46分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
         },
         {
           "title": "杰富瑞：美国限制海外访问顶级AI模型的举措或难以持续",
@@ -231,6 +243,17 @@
           "time_info": "[01时48分 ~ 01时49分]"
         },
         {
+          "title": "【每日收评】科创50放量涨近4%，AI硬件与半导体持续火爆，多只科技权重续创历史新高",
+          "url": "https://www.cls.cn/detail/2403645",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
+        {
           "title": "OpenAI的CEO Altman、谷歌公司高管Hassabis、Anthropic的CEO Amodei、Meta高管Wang、Mistral AI高管Mensch、Cohere高管Gomez、Salesforce高管Benioff出席（美国）AI会议。（Axios）",
           "url": "https://wallstreetcn.com/livenews/3121165",
           "source": "华尔街见闻-快讯",
@@ -248,7 +271,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时46分"
         },
@@ -259,7 +282,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时46分"
         },
@@ -270,7 +293,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时46分"
         },
@@ -284,6 +307,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时49分"
+        },
+        {
+          "title": "AI贡献最大的一道题出现了",
+          "url": "https://s.weibo.com/weibo?q=AI%E8%B4%A1%E7%8C%AE%E6%9C%80%E5%A4%A7%E7%9A%84%E4%B8%80%E9%81%93%E9%A2%98%E5%87%BA%E7%8E%B0%E4%BA%86&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
+        {
+          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850554&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/06/GMOMYRjGaax9gpq7FcO2G.jpg/lite\" height=\"120\"/></a>",
+          "url": "https://flash.jin10.com/detail/20260618220943916800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
         },
         {
           "title": "美国总统特朗普：围绕经济、AI举行了一些不错的会议。",
@@ -303,7 +348,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时46分"
         },
@@ -314,7 +359,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时46分"
         },
@@ -347,7 +392,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时46分"
         },
@@ -366,8 +411,20 @@
     },
     {
       "keyword_group": "经济 经济学",
-      "match_count": 11,
+      "match_count": 15,
       "titles": [
+        {
+          "title": "七部门重磅发文：鼓励投早投小投硬科技，2028年培育一批平台经济单项冠军",
+          "url": "https://www.cls.cn/detail/2403507",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时45分 ~ 22时26分]"
+        },
         {
           "title": "美伊协议“推手”曝光？特朗普坦言：我不想看到经济灾难、不想当胡佛！",
           "url": "https://www.cls.cn/detail/2403312",
@@ -380,15 +437,15 @@
           "time_info": "[18时45分 ~ 18时46分]"
         },
         {
-          "title": "七部门重磅发文：鼓励投早投小投硬科技，2028年培育一批平台经济单项冠军",
-          "url": "https://www.cls.cn/detail/2403507",
-          "source": "财联社热门",
+          "title": "对水井坊总经理干晓峰启动离任经济责任审计，华润啤酒：属内部流程",
+          "url": "https://wallstreetcn.com/livenews/3121771",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            2
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时45分 ~ 18时46分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
         },
         {
           "title": "为美伊协议辩护，特朗普称“不想看到经济灾难”，不想做“导致1929年崩盘的胡佛”",
@@ -396,11 +453,23 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时01分 ~ 18时46分]"
+          "appearance_count": 5,
+          "time_info": "[14时01分 ~ 22时26分]"
+        },
+        {
+          "title": "对水井坊总经理干晓峰启动离任经济责任审计，华润啤酒：属内部流程",
+          "url": "https://flash.jin10.com/detail/20260618221444895800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
         },
         {
           "title": "媒体调查：90%经济学家预计日本央行年底前将再次加息",
@@ -412,6 +481,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时49分"
+        },
+        {
+          "title": "机构：英国经济疲软降低了英国央行加息的可能性",
+          "url": "https://flash.jin10.com/detail/20260618221242834800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
         },
         {
           "title": "沃什：希望市场依据真实经济状况定价 而非追随美联储解读",
@@ -458,6 +538,17 @@
           "time_info": "06时49分"
         },
         {
+          "title": "俄罗斯总统普京告诉新加坡总理，受制裁影响，双方经济合作潜力尚未得到充分释放。",
+          "url": "https://flash.jin10.com/detail/20260618220546286800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
+        {
           "title": "美股七巨头收盘播报｜周三（6月17日），美国科技股七巨头（Magnificent 7）指数跌2.38%，报210.21点，跳空低开之后持续下挫，北京时间02:00美联储宣布按兵不动、披露经济预期概要（SEP）后显著地加速下跌，美联储主席凯文·沃什新闻发布会开始后再度加速下跌。 “超大”市值科技股指数跌1.56%，报432.59点，美联储决议声明发布后显著下挫，沃什新闻发布会开始之后冲高回落。",
           "url": "https://wallstreetcn.com/livenews/3121254",
           "source": "华尔街见闻-快讯",
@@ -486,7 +577,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时46分"
         }
@@ -494,7 +585,7 @@
     },
     {
       "keyword_group": "电影 影视 综艺",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "电影镖人热播中",
@@ -502,11 +593,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             1,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时01分 ~ 18时46分]"
+          "appearance_count": 5,
+          "time_info": "[14时01分 ~ 22时26分]"
         },
         {
           "title": "刘昊然、董子健等演员「当众求职」，程潇坦言档期很空看看我，如何看待这一现象？折射出怎样的影视行业现状？",
@@ -565,6 +657,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时48分 ~ 06时49分]"
+        },
+        {
+          "title": "电影湃队丨在影院看世界杯是什么体验？“看完上班贼精神”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33406364",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
         }
       ]
     },
@@ -634,11 +737,12 @@
             7,
             8,
             15,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时48分 ~ 18时46分]"
+          "appearance_count": 12,
+          "time_info": "[01时48分 ~ 22时26分]"
         },
         {
           "title": "男女就餐时与未成年女生发生冲突被罚",
@@ -838,6 +942,45 @@
       ]
     },
     {
+      "keyword_group": "教育 鸡娃 小镇做题家",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "韩剧铁拳教育",
+          "url": "https://s.weibo.com/weibo?q=%E9%9F%A9%E5%89%A7%E9%93%81%E6%8B%B3%E6%95%99%E8%82%B2&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时45分 ~ 18时46分]"
+        },
+        {
+          "title": "教育部同意：新设立32所本科高校",
+          "url": "https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%E5%90%8C%E6%84%8F%EF%BC%9A%E6%96%B0%E8%AE%BE%E7%AB%8B32%E6%89%80%E6%9C%AC%E7%A7%91%E9%AB%98%E6%A0%A1",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时48分 ~ 01时49分]"
+        },
+        {
+          "title": "解说高分爽剧铁拳教育",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%B4%E9%AB%98%E5%88%86%E7%88%BD%E5%89%A7%E9%93%81%E6%8B%B3%E6%95%99%E8%82%B2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        }
+      ]
+    },
+    {
       "keyword_group": "社会 阶层 社会学",
       "match_count": 2,
       "titles": [
@@ -866,30 +1009,19 @@
       ]
     },
     {
-      "keyword_group": "教育 鸡娃 小镇做题家",
-      "match_count": 2,
+      "keyword_group": "内卷",
+      "match_count": 1,
       "titles": [
         {
-          "title": "韩剧铁拳教育",
-          "url": "https://s.weibo.com/weibo?q=%E9%9F%A9%E5%89%A7%E9%93%81%E6%8B%B3%E6%95%99%E8%82%B2&t=31&band_rank=5&Refer=top",
-          "source": "微博",
+          "title": "典型内卷的饮食是怎样的？",
+          "url": "https://www.zhihu.com/question/283770827",
+          "source": "知乎",
           "ranks": [
-            5
+            10
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时45分 ~ 18时46分]"
-        },
-        {
-          "title": "教育部同意：新设立32所本科高校",
-          "url": "https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%E5%90%8C%E6%84%8F%EF%BC%9A%E6%96%B0%E8%AE%BE%E7%AB%8B32%E6%89%80%E6%9C%AC%E7%A7%91%E9%AB%98%E6%A0%A1",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时48分 ~ 01时49分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
         }
       ]
     },
@@ -903,11 +1035,12 @@
           "source": "澎湃新闻",
           "ranks": [
             13,
-            11
+            11,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时01分 ~ 18时46分]"
+          "appearance_count": 5,
+          "time_info": "[14时01分 ~ 22时26分]"
         }
       ]
     },
@@ -922,7 +1055,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时46分"
         }
@@ -938,11 +1071,12 @@
           "source": "知乎",
           "ranks": [
             8,
-            6
+            6,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时01分 ~ 18时46分]"
+          "appearance_count": 5,
+          "time_info": "[14时01分 ~ 22时26分]"
         }
       ]
     },
@@ -955,11 +1089,12 @@
           "url": "https://www.baidu.com/s?wd=%E8%BF%99%E4%B8%80%E6%B3%A2%E5%87%BA%E6%89%8B%E4%B9%B0%E6%88%BF%E7%9A%84%E4%BA%BA%E4%B8%8D%E6%80%95%E5%86%8D%E4%B9%B0%E4%BA%8F%E4%BA%86",
           "source": "百度热搜",
           "ranks": [
-            5
+            5,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时45分 ~ 18时46分]"
+          "appearance_count": 3,
+          "time_info": "[18时45分 ~ 22时26分]"
         }
       ]
     }
