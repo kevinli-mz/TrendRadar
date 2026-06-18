@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-06-19T02:13:20.160218+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-06-19T05:26:45.143047+08:00",
+  "total_titles_processed": 418,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型",
-      "match_count": 9,
+      "match_count": 15,
       "titles": [
+        {
+          "title": "让AI走进千家万户",
+          "url": "https://www.baidu.com/s?wd=%E8%AE%A9AI%E8%B5%B0%E8%BF%9B%E5%8D%83%E5%AE%B6%E4%B8%87%E6%88%B7",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时13分 ~ 05时26分]"
+        },
         {
           "title": "商务部等八部门发布《关于加快“人工智能+消费”发展的实施意见》",
           "url": "https://www.cls.cn/detail/2403573",
@@ -30,26 +41,51 @@
           "time_info": "02时13分"
         },
         {
-          "title": "让AI走进千家万户",
-          "url": "https://www.baidu.com/s?wd=%E8%AE%A9AI%E8%B5%B0%E8%BF%9B%E5%8D%83%E5%AE%B6%E4%B8%87%E6%88%B7",
-          "source": "百度热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时13分"
-        },
-        {
           "title": "【每日收评】科创50放量涨近4%，AI硬件与半导体持续火爆，多只科技权重续创历史新高",
           "url": "https://www.cls.cn/detail/2403645",
           "source": "财联社热门",
           "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时13分 ~ 05时26分]"
+        },
+        {
+          "title": "如何看待「豆包日活超 2 亿，日收入却不足百万」？免费 AI 市场下，付费模式该如何落地？",
+          "url": "https://www.zhihu.com/question/2050289332632790558",
+          "source": "知乎",
+          "ranks": [
+            13,
             7
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时13分 ~ 05时26分]"
+        },
+        {
+          "title": "5月证券APP月活1.82亿，月活增速谁最强？新一轮卡位在AI Skill",
+          "url": "https://www.cls.cn/detail/2403949",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时13分 ~ 05时26分]"
+        },
+        {
+          "title": "“AI教父”最新警告：马斯克的xAI已经“失败了”，AI行业或迎“泡沫大爆炸”",
+          "url": "https://wallstreetcn.com/articles/3775029",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时13分"
+          "time_info": "05时26分"
         },
         {
           "title": "Alphabet、Visa等公司释放加强AI监管信号",
@@ -63,26 +99,59 @@
           "time_info": "02时13分"
         },
         {
-          "title": "5月证券APP月活1.82亿，月活增速谁最强？新一轮卡位在AI Skill",
-          "url": "https://www.cls.cn/detail/2403949",
-          "source": "财联社热门",
+          "title": "当微软都烧不起Token了，“模型路由”成为企业AI的“核心需求”",
+          "url": "https://wallstreetcn.com/articles/3774993",
+          "source": "华尔街见闻",
           "ranks": [
-            13
+            10
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时13分"
+          "time_info": "05时26分"
         },
         {
-          "title": "如何看待「豆包日活超 2 亿，日收入却不足百万」？免费 AI 市场下，付费模式该如何落地？",
-          "url": "https://www.zhihu.com/question/2050289332632790558",
-          "source": "知乎",
+          "title": "Snap因成本问题而拆分人工智能视频（AI Video）团队为新公司Dotmo。（TechCrunch）",
+          "url": "https://wallstreetcn.com/livenews/3121892",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            11
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时13分"
+          "time_info": "05时26分"
+        },
+        {
+          "title": "“AI教父”杨立昆：马斯克的xAI已成失败案例 行业或面临巨大泡沫破裂",
+          "url": "https://www.cls.cn/detail/2404033",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时26分"
+        },
+        {
+          "title": "Meta Platforms(META.O)与数据中心公司Crusoe签署AI算力合作协议，预计将获得约1.6吉瓦的算力。",
+          "url": "https://flash.jin10.com/detail/20260619042115583800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时26分"
+        },
+        {
+          "title": "Meta Platforms与数据中心公司Crusoe敲定AI计算协议。 Meta将根据合同购买对方两个数据中心（美国密苏里+得克萨斯）的算力。 Meta有望获得大约1.6 GW算力。",
+          "url": "https://wallstreetcn.com/livenews/3121883",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时26分"
         },
         {
           "title": "AI巨头为啥在这个时间窗口集体上市",
@@ -117,33 +186,36 @@
           "url": "https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%EF%BC%9A%E5%A5%B3%E6%80%A7%E6%9B%B4%E5%B9%B4%E6%9C%9F%E5%88%AB%E5%86%8D%E2%80%9C%E7%A1%AC%E6%89%9B%E2%80%9D",
           "source": "百度热搜",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时13分"
-        },
-        {
-          "title": "奥特曼改革,开拓女性市场",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355242&amp;topic_name=%E5%A5%A5%E7%89%B9%E6%9B%BC%E6%94%B9%E9%9D%A9%2C%E5%BC%80%E6%8B%93%E5%A5%B3%E6%80%A7%E5%B8%82%E5%9C%BA",
-          "source": "贴吧",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时13分"
+          "appearance_count": 2,
+          "time_info": "[02时13分 ~ 05时26分]"
         },
         {
           "title": "专家：女性更年期别再“硬扛”",
           "url": "https://www.toutiao.com/trending/7652481477711593510/",
           "source": "今日头条",
           "ranks": [
-            30
+            30,
+            16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时13分"
+          "appearance_count": 2,
+          "time_info": "[02时13分 ~ 05时26分]"
+        },
+        {
+          "title": "奥特曼改革,开拓女性市场",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355242&amp;topic_name=%E5%A5%A5%E7%89%B9%E6%9B%BC%E6%94%B9%E9%9D%A9%2C%E5%BC%80%E6%8B%93%E5%A5%B3%E6%80%A7%E5%B8%82%E5%9C%BA",
+          "source": "贴吧",
+          "ranks": [
+            23,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时13分 ~ 05时26分]"
         }
       ]
     },
@@ -156,11 +228,12 @@
           "url": "https://www.zhihu.com/question/2050891509306749285",
           "source": "知乎",
           "ranks": [
-            9
+            9,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时13分"
+          "appearance_count": 2,
+          "time_info": "[02时13分 ~ 05时26分]"
         },
         {
           "title": "电影镖人热播中",
@@ -170,19 +243,20 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时13分"
+          "appearance_count": 2,
+          "time_info": "[02时13分 ~ 05时26分]"
         },
         {
           "title": "电影湃队丨在影院看世界杯是什么体验？“看完上班贼精神”",
           "url": "https://m.thepaper.cn/newsDetail_forward_33406364",
           "source": "澎湃新闻",
           "ranks": [
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时13分"
+          "appearance_count": 2,
+          "time_info": "[02时13分 ~ 05时26分]"
         }
       ]
     },
@@ -198,19 +272,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时13分"
+          "appearance_count": 2,
+          "time_info": "[02时13分 ~ 05时26分]"
         },
         {
           "title": "现在的年轻人为什么那么多高血脂？",
           "url": "https://www.zhihu.com/question/2034553336725254262",
           "source": "知乎",
           "ranks": [
-            14
+            14,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时13分"
+          "appearance_count": 2,
+          "time_info": "[02时13分 ~ 05时26分]"
         }
       ]
     },
@@ -223,11 +298,12 @@
           "url": "https://wallstreetcn.com/articles/3774952",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时13分"
+          "appearance_count": 2,
+          "time_info": "[02时13分 ~ 05时26分]"
         },
         {
           "title": "墨西哥经济部长Ebrard：美墨加三国将于7月1日线上讨论美国墨西哥加拿大贸易协议（USMCA）。",
@@ -271,8 +347,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时13分"
+          "appearance_count": 2,
+          "time_info": "[02时13分 ~ 05时26分]"
         }
       ]
     },
@@ -288,8 +364,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时13分"
+          "appearance_count": 2,
+          "time_info": "[02时13分 ~ 05时26分]"
         }
       ]
     },
@@ -307,6 +383,40 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "消费 存钱 攒钱",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "标普500指数的11个板块中，能源板块收跌1.73%，金融板块跌0.91%，电信板块涨1.13%，可选消费板块涨1.76%，信息技术/科技板块涨2.68%。",
+          "url": "https://wallstreetcn.com/livenews/3121891",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "教育 鸡娃 小镇做题家",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "解说高分爽剧铁拳教育",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%B4%E9%AB%98%E5%88%86%E7%88%BD%E5%89%A7%E9%93%81%E6%8B%B3%E6%95%99%E8%82%B2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时26分"
         }
       ]
     }
