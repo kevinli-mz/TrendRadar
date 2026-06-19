@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-19T13:02:28.606217+08:00",
-  "total_titles_processed": 748,
+  "generated_at": "2026-06-19T18:48:36.567307+08:00",
+  "total_titles_processed": 959,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型",
-      "match_count": 22,
+      "match_count": 27,
       "titles": [
         {
           "title": "让AI走进千家万户",
@@ -17,6 +17,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时13分 ~ 07时50分]"
+        },
+        {
+          "title": "“AI教父”最新警告：马斯克的xAI已经“失败了”，AI行业或迎“泡沫大爆炸”",
+          "url": "https://wallstreetcn.com/articles/3775029",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时26分 ~ 18时48分]"
         },
         {
           "title": "商务部等八部门发布《关于加快“人工智能+消费”发展的实施意见》",
@@ -41,16 +54,37 @@
           "time_info": "02时13分"
         },
         {
-          "title": "“AI教父”最新警告：马斯克的xAI已经“失败了”，AI行业或迎“泡沫大爆炸”",
-          "url": "https://wallstreetcn.com/articles/3775029",
-          "source": "华尔街见闻",
+          "title": "广东省人民政府印发《广东省推进服务业扩能提质实施方案》的通知，其中提到，抢抓人工智能发展机遇，建设具有国际竞争力的软件和信息技术服务业创新中心。培育引进更多具有核心竞争力的软件企业，打造一批全国领先的数字化转型服务商。",
+          "url": "https://flash.jin10.com/detail/20260619182004847800",
+          "source": "金十数据",
           "ranks": [
-            8,
-            3
+            2
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时26分 ~ 13时02分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
+        },
+        {
+          "title": "中国大模型何时能达Fable级别？马斯克预计明年Q1 唐杰称不用那么久",
+          "url": "https://www.cls.cn/detail/2404332",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
+        },
+        {
+          "title": "广东：抢抓人工智能发展机遇，建设具有国际竞争力的软件和信息技术服务业创新中心",
+          "url": "https://wallstreetcn.com/livenews/3122066",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
         },
         {
           "title": "如何看待「豆包日活超 2 亿，日收入却不足百万」？免费 AI 市场下，付费模式该如何落地？",
@@ -92,6 +126,18 @@
           "time_info": "[02时13分 ~ 07时50分]"
         },
         {
+          "title": "网友提问“中国大模型何时达到Fable级别？”，马斯克“可能明年Q1”，智谱CEO唐杰“不需要那么久”",
+          "url": "https://wallstreetcn.com/articles/3775064",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时02分 ~ 18时48分]"
+        },
+        {
           "title": "“AI教父”杨立昆：马斯克的xAI已成失败案例 行业或面临巨大泡沫破裂",
           "url": "https://www.cls.cn/detail/2404033",
           "source": "财联社热门",
@@ -100,8 +146,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时26分 ~ 13时02分]"
+          "appearance_count": 4,
+          "time_info": "[05时26分 ~ 18时48分]"
         },
         {
           "title": "72家公司一夜集体预警：A股AI炒作到了哪个阶段？",
@@ -114,6 +160,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时50分 ~ 13时02分]"
+        },
+        {
+          "title": "AI写作涌入市场，“人”的信任和感动何处安放？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33412460",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时02分 ~ 18时48分]"
         },
         {
           "title": "5月证券APP月活1.82亿，月活增速谁最强？新一轮卡位在AI Skill",
@@ -139,26 +197,37 @@
           "time_info": "02时13分"
         },
         {
+          "title": "高盛一篮子欧洲国防股指数一度上涨2%，Renk一度上涨4.5%，Exail一度上涨4.0%，莱茵金属上涨2.9%，Leonardo上涨3.4%，Kongsberg上涨3.2%。",
+          "url": "https://wallstreetcn.com/livenews/3122063",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
+        },
+        {
           "title": "智谱与MiniMax两级分化！市场出现AI大模型“多空配对交易”",
           "url": "https://wallstreetcn.com/articles/3775011",
           "source": "华尔街见闻",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
         },
         {
-          "title": "网友提问“中国大模型何时达到Fable级别？”，马斯克“可能明年Q1”，智谱CEO唐杰“不需要那么久”",
-          "url": "https://wallstreetcn.com/articles/3775064",
+          "title": "剑指英伟达！报道：亚马逊洽谈向其他公司出售自研AI芯片",
+          "url": "https://wallstreetcn.com/articles/3775047",
           "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时02分"
+          "time_info": "18时48分"
         },
         {
           "title": "Snap因成本问题而拆分人工智能视频（AI Video）团队为新公司Dotmo。（TechCrunch）",
@@ -178,18 +247,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时02分"
-        },
-        {
-          "title": "AI写作涌入市场，“人”的信任和感动何处安放？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33412460",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
         },
@@ -244,7 +302,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
         },
@@ -293,11 +351,12 @@
           "url": "https://www.zhihu.com/question/2043701576947201481",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时02分 ~ 18时48分]"
         },
         {
           "title": "现在的年轻人为什么那么多高血脂？",
@@ -330,7 +389,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
         },
@@ -341,7 +400,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
         }
@@ -349,8 +408,19 @@
     },
     {
       "keyword_group": "消费 存钱 攒钱",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "让消费有动能让市场增活力",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%AE%A9%E6%B6%88%E8%B4%B9%E6%9C%89%E5%8A%A8%E8%83%BD%E8%AE%A9%E5%B8%82%E5%9C%BA%E5%A2%9E%E6%B4%BB%E5%8A%9B%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
+        },
         {
           "title": "新指标凸显消费市场结构之变",
           "url": "https://www.douyin.com/hot/2540194",
@@ -358,7 +428,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
         },
@@ -421,7 +491,7 @@
     },
     {
       "keyword_group": "经济 经济学",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "为美伊协议辩护，特朗普称“不想看到经济灾难”，不想做“导致1929年崩盘的胡佛”",
@@ -446,6 +516,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时50分"
+        },
+        {
+          "title": "英国议员安迪·伯纳姆：我们需要一个为所有人服务的经济，而不是仅仅为少数人服务的经济。",
+          "url": "https://flash.jin10.com/detail/20260619175302134800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
         },
         {
           "title": "墨西哥经济部长Ebrard：美墨加三国将于7月1日线上讨论美国墨西哥加拿大贸易协议（USMCA）。",
@@ -484,8 +565,22 @@
     },
     {
       "keyword_group": "电影 影视 综艺",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "电影镖人热播中",
+          "url": "https://search.bilibili.com/all?keyword=%E9%95%96%E4%BA%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13,
+            16,
+            11,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时13分 ~ 18时48分]"
+        },
         {
           "title": "如何看待 2026 年 6 月 18 日《给阿嬷的情书》豆瓣评价升至 9.3 分，近二十年华语电影最佳？",
           "url": "https://www.zhihu.com/question/2050891509306749285",
@@ -499,19 +594,6 @@
           "time_info": "[02时13分 ~ 05时26分]"
         },
         {
-          "title": "电影镖人热播中",
-          "url": "https://search.bilibili.com/all?keyword=%E9%95%96%E4%BA%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13,
-            16,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时13分 ~ 13时02分]"
-        },
-        {
           "title": "电影湃队丨在影院看世界杯是什么体验？“看完上班贼精神”",
           "url": "https://m.thepaper.cn/newsDetail_forward_33406364",
           "source": "澎湃新闻",
@@ -522,6 +604,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时13分 ~ 05时26分]"
+        },
+        {
+          "title": "电影《抓特务》为何票房遇冷",
+          "url": "https://www.toutiao.com/trending/7652876601683886099/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
+        },
+        {
+          "title": "电影《给阿嬷的情书》票房超18亿",
+          "url": "https://flash.jin10.com/detail/20260619180056362800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
         },
         {
           "title": "如何看待 2026 年 6 月 18 日《给阿嬷的情书》评价升至 9.3 分，成近二十年华语电影最佳？",
@@ -582,6 +686,34 @@
       ]
     },
     {
+      "keyword_group": "社会 阶层 社会学",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "6月18日全社会跨区域人员流动量完成21602.5万人次",
+          "url": "https://wallstreetcn.com/livenews/3122050",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
+        },
+        {
+          "title": "古巴国家主席：将持续推进社会主义建设进程",
+          "url": "https://wallstreetcn.com/livenews/3122047",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 2,
       "titles": [
@@ -591,11 +723,12 @@
           "source": "澎湃新闻",
           "ranks": [
             16,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时50分 ~ 13时02分]"
+          "appearance_count": 3,
+          "time_info": "[07时50分 ~ 18时48分]"
         },
         {
           "title": "如何评价 DeepSeek 的识图模式？",
@@ -604,9 +737,9 @@
           "ranks": [
             18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时02分 ~ 18时48分]"
         }
       ]
     },
@@ -656,7 +789,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
         }
@@ -698,6 +831,23 @@
       ]
     },
     {
+      "keyword_group": "原生家庭 父母 亲子",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "向佐称上网才知父母遗产留给了孙辈",
+          "url": "https://www.toutiao.com/trending/7652285728289734698/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
+        }
+      ]
+    },
+    {
       "keyword_group": "ChatGPT openai Sora",
       "match_count": 1,
       "titles": [
@@ -724,11 +874,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             30,
-            23
+            23,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时26分 ~ 13时02分]"
+          "appearance_count": 3,
+          "time_info": "[05时26分 ~ 18时48分]"
         }
       ]
     }
