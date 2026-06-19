@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-19T07:50:48.670650+08:00",
-  "total_titles_processed": 526,
+  "generated_at": "2026-06-19T13:02:28.606217+08:00",
+  "total_titles_processed": 748,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型",
-      "match_count": 17,
+      "match_count": 22,
       "titles": [
         {
           "title": "让AI走进千家万户",
@@ -41,6 +41,44 @@
           "time_info": "02时13分"
         },
         {
+          "title": "“AI教父”最新警告：马斯克的xAI已经“失败了”，AI行业或迎“泡沫大爆炸”",
+          "url": "https://wallstreetcn.com/articles/3775029",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时26分 ~ 13时02分]"
+        },
+        {
+          "title": "如何看待「豆包日活超 2 亿，日收入却不足百万」？免费 AI 市场下，付费模式该如何落地？",
+          "url": "https://www.zhihu.com/question/2050289332632790558",
+          "source": "知乎",
+          "ranks": [
+            13,
+            7,
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时13分 ~ 13时02分]"
+        },
+        {
+          "title": "当微软都烧不起Token了，“模型路由”成为企业AI的“核心需求”",
+          "url": "https://wallstreetcn.com/articles/3774993",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时26分 ~ 13时02分]"
+        },
+        {
           "title": "【每日收评】科创50放量涨近4%，AI硬件与半导体持续火爆，多只科技权重续创历史新高",
           "url": "https://www.cls.cn/detail/2403645",
           "source": "财联社热门",
@@ -54,41 +92,28 @@
           "time_info": "[02时13分 ~ 07时50分]"
         },
         {
-          "title": "如何看待「豆包日活超 2 亿，日收入却不足百万」？免费 AI 市场下，付费模式该如何落地？",
-          "url": "https://www.zhihu.com/question/2050289332632790558",
-          "source": "知乎",
+          "title": "“AI教父”杨立昆：马斯克的xAI已成失败案例 行业或面临巨大泡沫破裂",
+          "url": "https://www.cls.cn/detail/2404033",
+          "source": "财联社热门",
           "ranks": [
-            13,
-            7,
-            5
+            12,
+            13
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[02时13分 ~ 07时50分]"
+          "time_info": "[05时26分 ~ 13时02分]"
         },
         {
-          "title": "“AI教父”最新警告：马斯克的xAI已经“失败了”，AI行业或迎“泡沫大爆炸”",
-          "url": "https://wallstreetcn.com/articles/3775029",
+          "title": "72家公司一夜集体预警：A股AI炒作到了哪个阶段？",
+          "url": "https://wallstreetcn.com/articles/3775010",
           "source": "华尔街见闻",
           "ranks": [
             8,
-            3
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时26分 ~ 07时50分]"
-        },
-        {
-          "title": "当微软都烧不起Token了，“模型路由”成为企业AI的“核心需求”",
-          "url": "https://wallstreetcn.com/articles/3774993",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时26分 ~ 07时50分]"
+          "time_info": "[07时50分 ~ 13时02分]"
         },
         {
           "title": "5月证券APP月活1.82亿，月活增速谁最强？新一轮卡位在AI Skill",
@@ -103,28 +128,6 @@
           "time_info": "[02时13分 ~ 05时26分]"
         },
         {
-          "title": "“AI教父”杨立昆：马斯克的xAI已成失败案例 行业或面临巨大泡沫破裂",
-          "url": "https://www.cls.cn/detail/2404033",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时26分 ~ 07时50分]"
-        },
-        {
-          "title": "72家公司一夜集体预警：A股AI炒作到了哪个阶段？",
-          "url": "https://wallstreetcn.com/articles/3775010",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时50分"
-        },
-        {
           "title": "Alphabet、Visa等公司释放加强AI监管信号",
           "url": "https://wallstreetcn.com/livenews/3121845",
           "source": "华尔街见闻-快讯",
@@ -136,6 +139,28 @@
           "time_info": "02时13分"
         },
         {
+          "title": "智谱与MiniMax两级分化！市场出现AI大模型“多空配对交易”",
+          "url": "https://wallstreetcn.com/articles/3775011",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        },
+        {
+          "title": "网友提问“中国大模型何时达到Fable级别？”，马斯克“可能明年Q1”，智谱CEO唐杰“不需要那么久”",
+          "url": "https://wallstreetcn.com/articles/3775064",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        },
+        {
           "title": "Snap因成本问题而拆分人工智能视频（AI Video）团队为新公司Dotmo。（TechCrunch）",
           "url": "https://wallstreetcn.com/livenews/3121892",
           "source": "华尔街见闻-快讯",
@@ -145,6 +170,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
+        },
+        {
+          "title": "OpenAI被查、Anthropic被限，AI炒作漏算了什么？",
+          "url": "https://flash.jin10.com/detail/20260619120705478800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        },
+        {
+          "title": "AI写作涌入市场，“人”的信任和感动何处安放？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33412460",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
         },
         {
           "title": "Meta Platforms(META.O)与数据中心公司Crusoe签署AI算力合作协议，预计将获得约1.6吉瓦的算力。",
@@ -186,9 +233,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时50分"
+        },
+        {
+          "title": "日本央行副行长冰见野良三：今年夏季前后，燃料价格上涨对CPI的影响可能会更大。 我们希望在7月份更新季度预测时，就石油对通胀的影响提供更全面的分析。 即使价格上涨是由供应冲击驱动的，如果这导致广泛的价格上涨并影响到潜在的通胀，我们也需要考虑采取政策行动。 近期价格上涨也有需求驱动因素，如强劲的企业利润、稳定的工资增长、活跃的AI相关需求，都支撑着日本经济。",
+          "url": "https://wallstreetcn.com/livenews/3121959",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
         },
         {
           "title": "美国参议员桑德斯将提出法案，赋予民众AI企业股权",
@@ -200,6 +258,164 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "年轻人 00后 35岁",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "韩国工蜂经济下的年轻人现状",
+          "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E5%9B%BD%E5%B7%A5%E8%9C%82%E7%BB%8F%E6%B5%8E%E4%B8%8B%E7%9A%84%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%8E%B0%E7%8A%B6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时13分 ~ 07时50分]"
+        },
+        {
+          "title": "韩国财长：美伊谅解备忘录签署后，外部不确定性有所缓解。 将制定为年轻人创造工作岗位的措施。",
+          "url": "https://wallstreetcn.com/livenews/3121932",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时50分"
+        },
+        {
+          "title": "领导总说「年轻人不要太计较工资，要先成长」，这句话到底是善意提醒，还是职场 PUA？",
+          "url": "https://www.zhihu.com/question/2043701576947201481",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        },
+        {
+          "title": "现在的年轻人为什么那么多高血脂？",
+          "url": "https://www.zhihu.com/question/2034553336725254262",
+          "source": "知乎",
+          "ranks": [
+            14,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时13分 ~ 07时50分]"
+        },
+        {
+          "title": "00后硕士研究生带娃参加毕业典礼",
+          "url": "https://www.toutiao.com/trending/7652870049488768562/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时50分"
+        },
+        {
+          "title": "拒绝「白人饭」的年轻人开始靠东北菜减脂，DIY 减脂版无米饭包在写字楼热销，这会好吃吗？真的能减脂吗？",
+          "url": "https://www.zhihu.com/question/2032495287537751133",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        },
+        {
+          "title": "60后大爷看00后龙舟男团的腹肌笑了",
+          "url": "https://www.baidu.com/s?wd=60%E5%90%8E%E5%A4%A7%E7%88%B7%E7%9C%8B00%E5%90%8E%E9%BE%99%E8%88%9F%E7%94%B7%E5%9B%A2%E7%9A%84%E8%85%B9%E8%82%8C%E7%AC%91%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "消费 存钱 攒钱",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "新指标凸显消费市场结构之变",
+          "url": "https://www.douyin.com/hot/2540194",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        },
+        {
+          "title": "英国消费者信心持稳于多年低点",
+          "url": "https://flash.jin10.com/detail/20260619071242646800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时50分"
+        },
+        {
+          "title": "英国6月GfK消费者信心指数 -23，预期 -23，前值 -23。",
+          "url": "https://wallstreetcn.com/livenews/3121929",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时50分"
+        },
+        {
+          "title": "英国6月Gfk消费者信心指数 -23，预期-24，前值-23。",
+          "url": "https://flash.jin10.com/detail/20260619070102124800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时50分"
+        },
+        {
+          "title": "英国6月Gfk消费者信心指数将于十分钟后公布。",
+          "url": "https://flash.jin10.com/detail/20260619065100000800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时50分"
+        },
+        {
+          "title": "标普500指数的11个板块中，能源板块收跌1.73%，金融板块跌0.91%，电信板块涨1.13%，可选消费板块涨1.76%，信息技术/科技板块涨2.68%。",
+          "url": "https://wallstreetcn.com/livenews/3121891",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时26分"
         }
       ]
     },
@@ -227,7 +443,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时50分"
         },
@@ -249,7 +465,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时50分"
         },
@@ -260,121 +476,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时50分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "消费 存钱 攒钱",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "英国消费者信心持稳于多年低点",
-          "url": "https://flash.jin10.com/detail/20260619071242646800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时50分"
-        },
-        {
-          "title": "英国6月GfK消费者信心指数 -23，预期 -23，前值 -23。",
-          "url": "https://wallstreetcn.com/livenews/3121929",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时50分"
-        },
-        {
-          "title": "英国6月Gfk消费者信心指数 -23，预期-24，前值-23。",
-          "url": "https://flash.jin10.com/detail/20260619070102124800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时50分"
-        },
-        {
-          "title": "英国6月Gfk消费者信心指数将于十分钟后公布。",
-          "url": "https://flash.jin10.com/detail/20260619065100000800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时50分"
-        },
-        {
-          "title": "标普500指数的11个板块中，能源板块收跌1.73%，金融板块跌0.91%，电信板块涨1.13%，可选消费板块涨1.76%，信息技术/科技板块涨2.68%。",
-          "url": "https://wallstreetcn.com/livenews/3121891",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时26分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "年轻人 00后 35岁",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "韩国工蜂经济下的年轻人现状",
-          "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E5%9B%BD%E5%B7%A5%E8%9C%82%E7%BB%8F%E6%B5%8E%E4%B8%8B%E7%9A%84%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%8E%B0%E7%8A%B6",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时13分 ~ 07时50分]"
-        },
-        {
-          "title": "韩国财长：美伊谅解备忘录签署后，外部不确定性有所缓解。 将制定为年轻人创造工作岗位的措施。",
-          "url": "https://wallstreetcn.com/livenews/3121932",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时50分"
-        },
-        {
-          "title": "现在的年轻人为什么那么多高血脂？",
-          "url": "https://www.zhihu.com/question/2034553336725254262",
-          "source": "知乎",
-          "ranks": [
-            14,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时13分 ~ 07时50分]"
-        },
-        {
-          "title": "00后硕士研究生带娃参加毕业典礼",
-          "url": "https://www.toutiao.com/trending/7652870049488768562/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "07时50分"
         }
@@ -402,11 +504,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             13,
-            16
+            16,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时13分 ~ 07时50分]"
+          "appearance_count": 4,
+          "time_info": "[02时13分 ~ 13时02分]"
         },
         {
           "title": "电影湃队丨在影院看世界杯是什么体验？“看完上班贼精神”",
@@ -427,7 +530,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时50分"
         }
@@ -457,11 +560,12 @@
           "ranks": [
             23,
             24,
-            25
+            25,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时13分 ~ 07时50分]"
+          "appearance_count": 4,
+          "time_info": "[02时13分 ~ 13时02分]"
         },
         {
           "title": "专家：女性更年期别再“硬扛”",
@@ -474,6 +578,35 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时13分 ~ 05时26分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "融资消息曝光后DeepSeek上线识图模式，但认不出梁文锋",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33408923",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时50分 ~ 13时02分]"
+        },
+        {
+          "title": "如何评价 DeepSeek 的识图模式？",
+          "url": "https://www.zhihu.com/question/2032903059739767247",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
         }
       ]
     },
@@ -513,6 +646,23 @@
       ]
     },
     {
+      "keyword_group": "就业 失业 裁员 应届生",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "马斯克：Cursor和xAI都没有裁员。",
+          "url": "https://wallstreetcn.com/livenews/3121953",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        }
+      ]
+    },
+    {
       "keyword_group": "考公 考研 上岸",
       "match_count": 1,
       "titles": [
@@ -548,23 +698,6 @@
       ]
     },
     {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "融资消息曝光后DeepSeek上线识图模式，但认不出梁文锋",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33408923",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时50分"
-        }
-      ]
-    },
-    {
       "keyword_group": "ChatGPT openai Sora",
       "match_count": 1,
       "titles": [
@@ -575,7 +708,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时50分"
         }
@@ -590,11 +723,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%B4%E9%AB%98%E5%88%86%E7%88%BD%E5%89%A7%E9%93%81%E6%8B%B3%E6%95%99%E8%82%B2",
           "source": "bilibili 热搜",
           "ranks": [
-            30
+            30,
+            23
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时26分"
+          "appearance_count": 2,
+          "time_info": "[05时26分 ~ 13时02分]"
         }
       ]
     }
