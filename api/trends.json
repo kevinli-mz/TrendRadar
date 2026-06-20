@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-20T19:23:10.145830+08:00",
-  "total_titles_processed": 990,
+  "generated_at": "2026-06-20T22:18:08.078525+08:00",
+  "total_titles_processed": 1155,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型",
-      "match_count": 22,
+      "match_count": 25,
       "titles": [
         {
           "title": "中国大模型何时能达Fable级别？马斯克预计明年Q1 唐杰称不用那么久",
@@ -17,8 +17,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时23分 ~ 19时23分]"
+          "appearance_count": 13,
+          "time_info": "[01时23分 ~ 22时18分]"
+        },
+        {
+          "title": "“新美联储通讯社”：1996还是1999？沃什的第一场考验是“如何看AI”",
+          "url": "https://wallstreetcn.com/articles/3775106",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时24分 ~ 22时18分]"
         },
         {
           "title": "SemiAnalysis：半数2026年美国数据中心将取消？这是被\"AI编码\"出来的假警报",
@@ -59,18 +71,6 @@
           "time_info": "[01时23分 ~ 07时05分]"
         },
         {
-          "title": "“新美联储通讯社”：1996还是1999？沃什的第一场考验是“如何看AI”",
-          "url": "https://wallstreetcn.com/articles/3775106",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时24分 ~ 19时23分]"
-        },
-        {
           "title": "第一次见心眼这么多的AI",
           "url": "https://www.douyin.com/hot/2541043",
           "source": "抖音",
@@ -81,6 +81,29 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时14分 ~ 16时25分]"
+        },
+        {
+          "title": "AI短剧“买脸” 每张脸500元一年",
+          "url": "https://www.baidu.com/s?wd=AI%E7%9F%AD%E5%89%A7%E2%80%9C%E4%B9%B0%E8%84%B8%E2%80%9D+%E6%AF%8F%E5%BC%A0%E8%84%B8500%E5%85%83%E4%B8%80%E5%B9%B4",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时17分 ~ 22时18分]"
+        },
+        {
+          "title": "相比“开源模型”，“前沿模型”溢价类似“奢侈品包包”！德银：这可能导致市场重估AI",
+          "url": "https://wallstreetcn.com/articles/3775111",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时22分 ~ 22时18分]"
         },
         {
           "title": "中国大模型何时达「fable 级别」？马斯克与智谱 CEO 预测不同，你更认同谁？",
@@ -95,6 +118,18 @@
           "time_info": "[03时57分 ~ 07时05分]"
         },
         {
+          "title": "“AI最紧瓶颈”！存储的影响已扩展至宏观经济，加剧整体通胀",
+          "url": "https://wallstreetcn.com/articles/3775113",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时22分 ~ 22时18分]"
+        },
+        {
           "title": "据知情人士透露，阿布扎比支持的AI投资者MGX一直在探索收购新加坡数据中心运营商DayOne的可行性，预计潜在交易金额（至少）数十亿美元。（路透）",
           "url": "https://wallstreetcn.com/livenews/3122191",
           "source": "华尔街见闻-快讯",
@@ -105,17 +140,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时05分 ~ 12时15分]"
-        },
-        {
-          "title": "相比“开源模型”，“前沿模型”溢价类似“奢侈品包包”！德银：这可能导致市场重估AI",
-          "url": "https://wallstreetcn.com/articles/3775111",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时22分 ~ 19时23分]"
         },
         {
           "title": "埃森哲股价暴跌18%创近十年新低，AI冲击与中东动荡双重施压",
@@ -129,15 +153,26 @@
           "time_info": "[07时04分 ~ 07时05分]"
         },
         {
-          "title": "“AI最紧瓶颈”！存储的影响已扩展至宏观经济，加剧整体通胀",
-          "url": "https://wallstreetcn.com/articles/3775113",
+          "title": "学习英伟达“好榜样”，谷歌和博通都开始“有样学样”，开启“AI芯片闭环”",
+          "url": "https://wallstreetcn.com/articles/3775105",
           "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时22分 ~ 19时23分]"
+          "time_info": "[22时17分 ~ 22时18分]"
+        },
+        {
+          "title": "经纬度：让AI走进千家万户，人工智能消费按下加速键",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33415864",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时17分 ~ 22时18分]"
         },
         {
           "title": "亚马逊旗下电影部门放弃拍摄有关OpenAI的电影。（纽约时报）",
@@ -202,7 +237,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时23分"
         },
@@ -224,7 +259,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时23分"
         },
@@ -235,7 +270,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时23分"
         },
@@ -246,7 +281,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时23分"
         },
@@ -265,7 +300,7 @@
     },
     {
       "keyword_group": "电影 影视 综艺",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "如何看待「2026 端午档电影大混战」，十几部「新欢旧爱」战在一处，《给阿嬷的情书》后劲十足斩获亚军？",
@@ -278,6 +313,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时14分 ~ 16时25分]"
+        },
+        {
+          "title": "张艺谋大女儿张末现身上海电影节",
+          "url": "https://www.toutiao.com/trending/7653022611178127396/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时17分 ~ 22时18分]"
         },
         {
           "title": "2026暑期档电影票房破10亿",
@@ -358,9 +404,60 @@
       ]
     },
     {
+      "keyword_group": "消费 存钱 攒钱",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "外卖平台新规公开征求意见，不得以长期、大额补贴扰乱市场秩序等，对从业者和消费者有哪些影响？",
+          "url": "https://www.zhihu.com/question/2050629183651280573",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时14分 ~ 12时15分]"
+        },
+        {
+          "title": "多元体验助力服务消费提质升级",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%85%83%E4%BD%93%E9%AA%8C%E5%8A%A9%E5%8A%9B%E6%9C%8D%E5%8A%A1%E6%B6%88%E8%B4%B9%E6%8F%90%E8%B4%A8%E5%8D%87%E7%BA%A7",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时17分 ~ 22时18分]"
+        },
+        {
+          "title": "消费龙头们跨界半导体、算力赛道 多家公司出现股价异动",
+          "url": "https://www.cls.cn/detail/2404619",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时17分 ~ 22时18分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "教育 鸡娃 小镇做题家",
       "match_count": 2,
       "titles": [
+        {
+          "title": "12 岁男孩偷开邻居的车，独自在高速狂飙 6 小时，父亲称「没想到儿子会开车」，家庭教育存在哪些问题？",
+          "url": "https://www.zhihu.com/question/2051001274779301605",
+          "source": "知乎",
+          "ranks": [
+            14,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时24分 ~ 22时18分]"
+        },
         {
           "title": "工作室发布致歉声明：黄子韬已接受教育、缴纳罚款，涉事车辆未经过非法改装，仅变更车身颜色",
           "url": "https://m.thepaper.cn/newsDetail_forward_33416855",
@@ -372,18 +469,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[12时14分 ~ 19时23分]"
-        },
-        {
-          "title": "12 岁男孩偷开邻居的车，独自在高速狂飙 6 小时，父亲称「没想到儿子会开车」，家庭教育存在哪些问题？",
-          "url": "https://www.zhihu.com/question/2051001274779301605",
-          "source": "知乎",
-          "ranks": [
-            14,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时24分 ~ 19时23分]"
         }
       ]
     },
@@ -437,6 +522,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时22分 ~ 19时23分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "社会 阶层 社会学",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "全社会用电量同比增长6.9％",
+          "url": "https://www.toutiao.com/trending/7652935544049647670/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时17分 ~ 22时18分]"
         }
       ]
     },
@@ -500,11 +602,29 @@
           "url": "https://www.zhihu.com/question/2049451649257813984",
           "source": "知乎",
           "ranks": [
-            16
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时22分 ~ 22时18分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DeepSeek估值接近4000亿元",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E4%BC%B0%E5%80%BC%E6%8E%A5%E8%BF%914000%E4%BA%BF%E5%85%83%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时22分 ~ 19时23分]"
+          "time_info": "[22时17分 ~ 22时18分]"
         }
       ]
     },
@@ -541,23 +661,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时23分 ~ 07时05分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "消费 存钱 攒钱",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "外卖平台新规公开征求意见，不得以长期、大额补贴扰乱市场秩序等，对从业者和消费者有哪些影响？",
-          "url": "https://www.zhihu.com/question/2050629183651280573",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时14分 ~ 12时15分]"
         }
       ]
     }
