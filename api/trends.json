@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-21T02:18:49.343653+08:00",
-  "total_titles_processed": 379,
+  "generated_at": "2026-06-21T04:20:46.416519+08:00",
+  "total_titles_processed": 425,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 02时18分]"
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 04时20分]"
         },
         {
           "title": "中国大模型何时能达Fable级别？马斯克预计明年Q1 唐杰称不用那么久",
@@ -26,19 +26,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 02时18分]"
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 04时20分]"
         },
         {
           "title": "相比“开源模型”，“前沿模型”溢价类似“奢侈品包包”！德银：这可能导致市场重估AI",
           "url": "https://wallstreetcn.com/articles/3775111",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 02时18分]"
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 04时20分]"
         },
         {
           "title": "“AI最紧瓶颈”！存储的影响已扩展至宏观经济，加剧整体通胀",
@@ -48,8 +49,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 02时18分]"
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 04时20分]"
         },
         {
           "title": "经纬度：让AI走进千家万户，人工智能消费按下加速键",
@@ -57,22 +58,35 @@
           "source": "澎湃新闻",
           "ranks": [
             17,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 02时18分]"
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 04时20分]"
         },
         {
           "title": "AI短剧“买脸” 每张脸500元一年",
           "url": "https://www.baidu.com/s?wd=AI%E7%9F%AD%E5%89%A7%E2%80%9C%E4%B9%B0%E8%84%B8%E2%80%9D+%E6%AF%8F%E5%BC%A0%E8%84%B8500%E5%85%83%E4%B8%80%E5%B9%B4",
           "source": "百度热搜",
           "ranks": [
-            22
+            22,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 04时20分]"
+        },
+        {
+          "title": "AI Agent时代的云基础设施是怎样的？你需要理解“Agent Runtime完整飞轮”",
+          "url": "https://wallstreetcn.com/articles/3775114",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时25分 ~ 02时18分]"
+          "time_info": "[02时18分 ~ 04时20分]"
         },
         {
           "title": "学习英伟达“好榜样”，谷歌和博通都开始“有样学样”，开启“AI芯片闭环”",
@@ -86,24 +100,13 @@
           "time_info": "00时25分"
         },
         {
-          "title": "AI Agent时代的云基础设施是怎样的？你需要理解“Agent Runtime完整飞轮”",
-          "url": "https://wallstreetcn.com/articles/3775114",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时18分"
-        },
-        {
           "title": "谐音歌词版WAIYA",
           "url": "https://www.douyin.com/hot/2541878",
           "source": "抖音",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时18分"
         }
@@ -121,8 +124,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 02时18分]"
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 04时20分]"
         },
         {
           "title": "端午文旅消费升温",
@@ -131,9 +134,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时18分 ~ 04时20分]"
         },
         {
           "title": "消费龙头们跨界半导体、算力赛道 多家公司出现股价异动",
@@ -141,11 +144,42 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 02时18分]"
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 04时20分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "电影 影视 综艺",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "张艺谋大女儿张末现身上海电影节",
+          "url": "https://www.toutiao.com/trending/7653022611178127396/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            24,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 04时20分]"
+        },
+        {
+          "title": "张艺谋大女儿张末现身上海电影节",
+          "url": "https://www.baidu.com/s?wd=%E5%BC%A0%E8%89%BA%E8%B0%8B%E5%A4%A7%E5%A5%B3%E5%84%BF%E5%BC%A0%E6%9C%AB%E7%8E%B0%E8%BA%AB%E4%B8%8A%E6%B5%B7%E7%94%B5%E5%BD%B1%E8%8A%82",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时20分"
         }
       ]
     },
@@ -161,8 +195,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 02时18分]"
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 04时20分]"
         }
       ]
     },
@@ -179,8 +213,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 02时18分]"
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 04时20分]"
         }
       ]
     },
@@ -212,7 +246,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时18分"
         }
@@ -228,29 +262,12 @@
           "source": "知乎",
           "ranks": [
             5,
-            17
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 02时18分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "电影 影视 综艺",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "张艺谋大女儿张末现身上海电影节",
-          "url": "https://www.toutiao.com/trending/7653022611178127396/",
-          "source": "今日头条",
-          "ranks": [
-            12,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 02时18分]"
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 04时20分]"
         }
       ]
     }
