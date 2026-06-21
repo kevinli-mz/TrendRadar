@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-21T06:16:21.555177+08:00",
-  "total_titles_processed": 461,
+  "generated_at": "2026-06-21T08:15:39.040788+08:00",
+  "total_titles_processed": 530,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "“新美联储通讯社”：1996还是1999？沃什的第一场考验是“如何看AI”",
@@ -15,19 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 06时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 08时15分]"
         },
         {
           "title": "中国大模型何时能达Fable级别？马斯克预计明年Q1 唐杰称不用那么久",
           "url": "https://www.cls.cn/detail/2404332",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 06时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 08时15分]"
         },
         {
           "title": "相比“开源模型”，“前沿模型”溢价类似“奢侈品包包”！德银：这可能导致市场重估AI",
@@ -36,11 +37,23 @@
           "ranks": [
             8,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 06时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 08时15分]"
+        },
+        {
+          "title": "谷歌 Gemini 负责人 NoamShazeer 赴 OpenAI，对两家公司有何影响？",
+          "url": "https://www.zhihu.com/question/2050866813181994242",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时15分"
         },
         {
           "title": "“AI最紧瓶颈”！存储的影响已扩展至宏观经济，加剧整体通胀",
@@ -48,11 +61,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 06时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 08时15分]"
         },
         {
           "title": "经纬度：让AI走进千家万户，人工智能消费按下加速键",
@@ -61,11 +75,12 @@
           "ranks": [
             17,
             18,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 06时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 08时15分]"
         },
         {
           "title": "AI Agent时代的云基础设施是怎样的？你需要理解“Agent Runtime完整飞轮”",
@@ -73,11 +88,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时18分 ~ 06时16分]"
+          "appearance_count": 4,
+          "time_info": "[02时18分 ~ 08时15分]"
         },
         {
           "title": "AI短剧“买脸” 每张脸500元一年",
@@ -85,22 +101,24 @@
           "source": "百度热搜",
           "ranks": [
             22,
-            30
+            30,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 04时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 08时15分]"
         },
         {
           "title": "学习英伟达“好榜样”，谷歌和博通都开始“有样学样”，开启“AI芯片闭环”",
           "url": "https://wallstreetcn.com/articles/3775105",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 06时16分]"
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 08时15分]"
         },
         {
           "title": "谐音歌词版WAIYA",
@@ -108,11 +126,34 @@
           "source": "抖音",
           "ranks": [
             29,
-            19
+            19,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时18分 ~ 06时16分]"
+          "appearance_count": 3,
+          "time_info": "[02时18分 ~ 08时15分]"
+        },
+        {
+          "title": "AI算力的物理基石：PTFE从“塑料王”到“M10高速互联刚需材料”的范式跃迁",
+          "url": "https://wallstreetcn.com/premium/articles/3774876?layout=wscn-layout",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时15分"
+        },
+        {
+          "title": "女子用AI写3000字股市谣言被罚",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%94%A8AI%E5%86%993000%E5%AD%97%E8%82%A1%E5%B8%82%E8%B0%A3%E8%A8%80%E8%A2%AB%E7%BD%9A",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时15分"
         }
       ]
     },
@@ -128,8 +169,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 06时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 08时15分]"
         },
         {
           "title": "端午文旅消费升温",
@@ -139,8 +180,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时18分 ~ 06时16分]"
+          "appearance_count": 4,
+          "time_info": "[02时18分 ~ 08时15分]"
         },
         {
           "title": "消费龙头们跨界半导体、算力赛道 多家公司出现股价异动",
@@ -150,11 +191,12 @@
             11,
             10,
             9,
-            7
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 06时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 08时15分]"
         }
       ]
     },
@@ -181,22 +223,41 @@
           "source": "百度热搜",
           "ranks": [
             27,
-            26
+            26,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时20分 ~ 06时16分]"
+          "appearance_count": 3,
+          "time_info": "[04时20分 ~ 08时15分]"
         },
         {
           "title": "上海国际电影节金爵奖颁奖典礼",
           "url": "https://www.douyin.com/hot/2541192",
           "source": "抖音",
           "ranks": [
-            27
+            27,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时16分 ~ 08时15分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "心理 心理学 心理咨询",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "在心理学上，什么才是治愈一切创伤的有效手段？",
+          "url": "https://www.zhihu.com/question/2034027037904610901",
+          "source": "知乎",
+          "ranks": [
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时16分"
+          "time_info": "08时15分"
         }
       ]
     },
@@ -212,8 +273,25 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 06时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 08时15分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "婚姻 结婚 离婚 彩礼",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "85岁大爷离婚后买喜糖感谢民警",
+          "url": "https://s.weibo.com/weibo?q=%2385%E5%B2%81%E5%A4%A7%E7%88%B7%E7%A6%BB%E5%A9%9A%E5%90%8E%E4%B9%B0%E5%96%9C%E7%B3%96%E6%84%9F%E8%B0%A2%E6%B0%91%E8%AD%A6%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时15分"
         }
       ]
     },
@@ -227,11 +305,12 @@
           "source": "知乎",
           "ranks": [
             14,
-            16
+            16,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 06时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 08时15分]"
         }
       ]
     },
@@ -284,8 +363,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 06时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 08时15分]"
         }
       ]
     }
