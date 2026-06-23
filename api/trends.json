@@ -1,23 +1,25 @@
 {
-  "generated_at": "2026-06-23T20:40:21.160266+08:00",
-  "total_titles_processed": 1251,
+  "generated_at": "2026-06-23T23:56:37.757330+08:00",
+  "total_titles_processed": 1422,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型",
-      "match_count": 36,
+      "match_count": 41,
       "titles": [
         {
-          "title": "米游AI女友上线,玩家有福了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355325&amp;topic_name=%E7%B1%B3%E6%B8%B8AI%E5%A5%B3%E5%8F%8B%E4%B8%8A%E7%BA%BF%2C%E7%8E%A9%E5%AE%B6%E6%9C%89%E7%A6%8F%E4%BA%86",
-          "source": "贴吧",
+          "title": "AI算力新变局：谁能动英伟达奶酪",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33431385",
+          "source": "澎湃新闻",
           "ranks": [
-            2,
+            9,
+            4,
+            5,
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时53分 ~ 08时15分]"
+          "appearance_count": 4,
+          "time_info": "[13时08分 ~ 23时56分]"
         },
         {
           "title": "规模腰斩后，半夏投资发声：坚守低估值内需资产，AI泡沫破裂的触发条件已经出现",
@@ -44,17 +46,17 @@
           "time_info": "[01时44分 ~ 08时15分]"
         },
         {
-          "title": "AI算力新变局：谁能动英伟达奶酪",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33431385",
-          "source": "澎湃新闻",
+          "title": "米游AI女友上线,玩家有福了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355325&amp;topic_name=%E7%B1%B3%E6%B8%B8AI%E5%A5%B3%E5%8F%8B%E4%B8%8A%E7%BA%BF%2C%E7%8E%A9%E5%AE%B6%E6%9C%89%E7%A6%8F%E4%BA%86",
+          "source": "贴吧",
           "ranks": [
-            9,
-            4,
-            5
+            2,
+            3,
+            12
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[13时08分 ~ 20时40分]"
+          "time_info": "[06时53分 ~ 23时56分]"
         },
         {
           "title": "IBM(IBM.N)与OpenAI扩大网络安全合作，推出前沿人工智能能力，帮助企业抵御机器速度的网络威胁。",
@@ -66,6 +68,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时59分"
+        },
+        {
+          "title": "AI概念股遭全球抛售 纳指期货跌3% 美光科技盘前跌超9% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2407151",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
         },
         {
           "title": "据Business Insider：在近期发生敏感数据泄露并可被全公司访问事件后，Meta公司暂停了一项内部人工智能培训项目。",
@@ -87,20 +100,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时55分 ~ 20时40分]"
-        },
-        {
-          "title": "DeepseekV4.1 即将发布，网友期待「降价、打爆国外 AI」，它将如何改变 AI 市场格局？",
-          "url": "https://www.zhihu.com/question/2044875348719005741",
-          "source": "知乎",
-          "ranks": [
-            6,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时55分 ~ 20时40分]"
+          "appearance_count": 3,
+          "time_info": "[17时55分 ~ 23时56分]"
         },
         {
           "title": "“空头”末日预言：AI“强弩之末”，美股最快Q3见顶、跌幅30-50%，美版YCC和美债大重组，私募信贷危机待引爆",
@@ -108,11 +109,62 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时55分 ~ 23时56分]"
+        },
+        {
+          "title": "DeepseekV4.1 即将发布，网友期待「降价、打爆国外 AI」，它将如何改变 AI 市场格局？",
+          "url": "https://www.zhihu.com/question/2044875348719005741",
+          "source": "知乎",
+          "ranks": [
+            6,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时55分 ~ 23时56分]"
+        },
+        {
+          "title": "【每日收评】创业板震荡走低跌近4%，有色、AI硬件集体调整，创新药板块逆势走强",
+          "url": "https://www.cls.cn/detail/2406846",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时55分 ~ 23时56分]"
+        },
+        {
+          "title": "微博 CEO 讨论 WPS 背刺随后删除称为龙虾误发，如何看待这一操作？AI 这篇点评有道理吗？",
+          "url": "https://www.zhihu.com/question/2052439090260178506",
+          "source": "知乎",
+          "ranks": [
+            20,
+            15,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时55分 ~ 23时56分]"
+        },
+        {
+          "title": "AI周期已接近终点？空头大佬警告：暴跌30%至50%的大熊市即将到来",
+          "url": "https://www.cls.cn/detail/2406973",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时55分 ~ 20时40分]"
+          "time_info": "[20时40分 ~ 23时56分]"
         },
         {
           "title": "OpenAI、Anthropic左右开弓挖人 谷歌遭遇近一年最惨一跌",
@@ -125,18 +177,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时15分 ~ 13时08分]"
-        },
-        {
-          "title": "【每日收评】创业板震荡走低跌近4%，有色、AI硬件集体调整，创新药板块逆势走强",
-          "url": "https://www.cls.cn/detail/2406846",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时55分 ~ 20时40分]"
         },
         {
           "title": "AI飞轮驱动加速，半导体更多领域进入上行周期",
@@ -175,18 +215,6 @@
           "time_info": "[06时53分 ~ 08时15分]"
         },
         {
-          "title": "微博 CEO 讨论 WPS 背刺随后删除称为龙虾误发，如何看待这一操作？AI 这篇点评有道理吗？",
-          "url": "https://www.zhihu.com/question/2052439090260178506",
-          "source": "知乎",
-          "ranks": [
-            20,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时55分 ~ 20时40分]"
-        },
-        {
           "title": "《十日终焉》原著作者借助 AI 批判自己的写作大纲，以此打磨作品，如何看待这种 AI 辅助创作方式？",
           "url": "https://www.zhihu.com/question/2052545440508108960",
           "source": "知乎",
@@ -211,6 +239,18 @@
           "time_info": "[06时53分 ~ 08时15分]"
         },
         {
+          "title": "大模型横评:多款AI翻车实录",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355576&amp;topic_name=%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%A8%AA%E8%AF%84%3A%E5%A4%9A%E6%AC%BEAI%E7%BF%BB%E8%BD%A6%E5%AE%9E%E5%BD%95",
+          "source": "贴吧",
+          "ranks": [
+            23,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时40分 ~ 23时56分]"
+        },
+        {
           "title": "【企业微信agent“大圆”开始内测】6月23日，在微信的AI内测消息曝出后，企业微信也即将推出名为“大圆”的AI agent，目前已进入内测阶段。据了解，该产品并不要求用户反复说上下文，而是可以基于企业微信内已有的群聊、文档、会议、邮件、日程等工作数据，自动理解用户诉求，并结合对应场景给出回复。（界面新闻）",
           "url": "https://wallstreetcn.com/livenews/3123339",
           "source": "华尔街见闻-快讯",
@@ -228,9 +268,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时40分"
+        },
+        {
+          "title": "高盛警告AI泡沫：首个削减支出的巨头出现时，全市场将重新定价",
+          "url": "https://wallstreetcn.com/articles/3775302",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
         },
         {
           "title": "高盛：AI资本开支热潮对韩国芯片周期拉动力度、持续时长均超预期",
@@ -244,15 +295,15 @@
           "time_info": "17时55分"
         },
         {
-          "title": "AI周期已接近终点？空头大佬警告：暴跌30%至50%的大熊市即将到来",
-          "url": "https://www.cls.cn/detail/2406973",
-          "source": "财联社热门",
+          "title": "韩股大跌近 10% 再现熔断，韩国拟对「杠杆 ETF 炒作」出手干预，如何看全球 AI 半导体「散户杠杆化」现象？",
+          "url": "https://www.zhihu.com/question/2052673340993811952",
+          "source": "知乎",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时40分"
+          "time_info": "23时56分"
         },
         {
           "title": "港股AI双雄遭空头伏击 7月超千亿港元解禁潮如何考验其成色？",
@@ -338,7 +389,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时40分"
         },
@@ -354,15 +405,15 @@
           "time_info": "06时53分"
         },
         {
-          "title": "大模型横评:多款AI翻车实录",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355576&amp;topic_name=%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%A8%AA%E8%AF%84%3A%E5%A4%9A%E6%AC%BEAI%E7%BF%BB%E8%BD%A6%E5%AE%9E%E5%BD%95",
-          "source": "贴吧",
+          "title": "市场消息：以色列将考虑让国防巨头以色列航空工业公司（IAI）和拉斐尔在美国进行首次公开募股。",
+          "url": "https://flash.jin10.com/detail/20260623231814911800",
+          "source": "金十数据",
           "ranks": [
-            23
+            24
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时40分"
+          "time_info": "23时56分"
         },
         {
           "title": "阿布扎比的MGX融资约500亿美元，以加速人工智能交易。（彭博）",
@@ -371,7 +422,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时40分"
         },
@@ -385,6 +436,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时08分"
+        },
+        {
+          "title": "Baird分析师称，特斯拉第二季度预计将交付39.29万辆汽车",
+          "url": "https://wallstreetcn.com/livenews/3123540",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
         },
         {
           "title": "国际超算大会聚焦AI、量子计算",
@@ -415,7 +477,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时40分"
         }
@@ -545,9 +607,135 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时40分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "电影 影视 综艺",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "李金铭农村综艺那家人已败诉",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E9%87%91%E9%93%AD%E5%86%9C%E6%9D%91%E7%BB%BC%E8%89%BA%E9%82%A3%E5%AE%B6%E4%BA%BA%E5%B7%B2%E8%B4%A5%E8%AF%89%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时44分 ~ 08时15分]"
+        },
+        {
+          "title": "周星驰官宣新电影《功夫女足》7 月上映，目前后期制作中，你期待周氏喜剧回归吗？",
+          "url": "https://www.zhihu.com/question/2052334858995594599",
+          "source": "知乎",
+          "ranks": [
+            3,
+            4,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时55分 ~ 23时56分]"
+        },
+        {
+          "title": "国产电影溃败,票房不行怪观众",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355592&amp;topic_name=%E5%9B%BD%E4%BA%A7%E7%94%B5%E5%BD%B1%E6%BA%83%E8%B4%A5%2C%E7%A5%A8%E6%88%BF%E4%B8%8D%E8%A1%8C%E6%80%AA%E8%A7%82%E4%BC%97",
+          "source": "贴吧",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
+        },
+        {
+          "title": "电影抓特务观后感",
+          "url": "https://www.douyin.com/hot/2543356",
+          "source": "抖音",
+          "ranks": [
+            14,
+            24,
+            22,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时44分 ~ 08时15分]"
+        },
+        {
+          "title": "如何看待 2026 年大陆电影行业被曝投资撤退、票房失灵、演员无戏可接？中国电影到底出了什么问题？",
+          "url": "https://www.zhihu.com/question/2052111489327281889",
+          "source": "知乎",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时55分 ~ 23时56分]"
+        },
+        {
+          "title": "电影抓特务台词好戳人",
+          "url": "https://www.douyin.com/hot/2544290",
+          "source": "抖音",
+          "ranks": [
+            27,
+            22,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时08分 ~ 20时40分]"
+        },
+        {
+          "title": "李金铭农村综艺那家人居然还在发她",
+          "url": "https://s.weibo.com/weibo?q=%E6%9D%8E%E9%87%91%E9%93%AD%E5%86%9C%E6%9D%91%E7%BB%BC%E8%89%BA%E9%82%A3%E5%AE%B6%E4%BA%BA%E5%B1%85%E7%84%B6%E8%BF%98%E5%9C%A8%E5%8F%91%E5%A5%B9&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时15分"
+        },
+        {
+          "title": "律师谈李金铭十年前农村综艺事件",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BE%8B%E5%B8%88%E8%B0%88%E6%9D%8E%E9%87%91%E9%93%AD%E5%8D%81%E5%B9%B4%E5%89%8D%E5%86%9C%E6%9D%91%E7%BB%BC%E8%89%BA%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时53分"
+        },
+        {
+          "title": "李金铭回应综艺里“农村婆婆”事件",
+          "url": "https://www.baidu.com/s?wd=%E6%9D%8E%E9%87%91%E9%93%AD%E5%9B%9E%E5%BA%94%E7%BB%BC%E8%89%BA%E9%87%8C%E2%80%9C%E5%86%9C%E6%9D%91%E5%A9%86%E5%A9%86%E2%80%9D%E4%BA%8B%E4%BB%B6",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
+        },
+        {
+          "title": "李金铭农村综艺那家人居然还在发她",
+          "url": "https://www.toutiao.com/trending/7653738236057305107/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时15分"
         }
       ]
     },
@@ -573,7 +761,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时40分"
         },
@@ -619,7 +807,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时40分"
         },
@@ -660,8 +848,21 @@
     },
     {
       "keyword_group": "消费 存钱 攒钱",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "华为宣布对智驾系统进行「兜底」，此举将对智能驾驶行业和消费者带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2052658991981973630",
+          "source": "知乎",
+          "ranks": [
+            15,
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时55分 ~ 23时56分]"
+        },
         {
           "title": "前5月数据看我国消费新趋势",
           "url": "https://s.weibo.com/weibo?q=%23%E5%89%8D5%E6%9C%88%E6%95%B0%E6%8D%AE%E7%9C%8B%E6%88%91%E5%9B%BD%E6%B6%88%E8%B4%B9%E6%96%B0%E8%B6%8B%E5%8A%BF%23&t=31&band_rank=3&Refer=top",
@@ -680,21 +881,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时40分"
         },
         {
-          "title": "华为宣布对智驾系统进行「兜底」，此举将对智能驾驶行业和消费者带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2052658991981973630",
-          "source": "知乎",
+          "title": "全链条扩大汽车消费再推新举措",
+          "url": "https://www.douyin.com/hot/2545202",
+          "source": "抖音",
           "ranks": [
-            15,
-            5
+            3
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时55分 ~ 20时40分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
         },
         {
           "title": "标普500指数的11个板块中，电信板块收跌3.83%，可选消费板块跌2.33%，信息技术/科技板块跌0.04%，能源板块涨1.24%，房地产板块涨1.38%。",
@@ -747,111 +947,59 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时40分"
         }
       ]
     },
     {
-      "keyword_group": "电影 影视 综艺",
-      "match_count": 8,
+      "keyword_group": "教育 鸡娃 小镇做题家",
+      "match_count": 4,
       "titles": [
         {
-          "title": "李金铭农村综艺那家人已败诉",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E9%87%91%E9%93%AD%E5%86%9C%E6%9D%91%E7%BB%BC%E8%89%BA%E9%82%A3%E5%AE%B6%E4%BA%BA%E5%B7%B2%E8%B4%A5%E8%AF%89%23&t=31&band_rank=8&Refer=top",
-          "source": "微博",
+          "title": "代课37年的教师盼望补缴社保，江西丰城教育局副局长表示“没有先例”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33426994",
+          "source": "澎湃新闻",
           "ranks": [
-            8,
-            4,
-            5
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时44分 ~ 08时15分]"
+          "appearance_count": 5,
+          "time_info": "[01时44分 ~ 13时08分]"
         },
         {
-          "title": "周星驰官宣新电影《功夫女足》7 月上映，目前后期制作中，你期待周氏喜剧回归吗？",
-          "url": "https://www.zhihu.com/question/2052334858995594599",
-          "source": "知乎",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时55分 ~ 20时40分]"
-        },
-        {
-          "title": "电影抓特务观后感",
-          "url": "https://www.douyin.com/hot/2543356",
-          "source": "抖音",
-          "ranks": [
-            14,
-            24,
-            22,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时44分 ~ 08时15分]"
-        },
-        {
-          "title": "电影抓特务台词好戳人",
-          "url": "https://www.douyin.com/hot/2544290",
-          "source": "抖音",
-          "ranks": [
-            27,
-            22,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时08分 ~ 20时40分]"
-        },
-        {
-          "title": "如何看待 2026 年大陆电影行业被曝投资撤退、票房失灵、演员无戏可接？中国电影到底出了什么问题？",
-          "url": "https://www.zhihu.com/question/2052111489327281889",
-          "source": "知乎",
+          "title": "贾浅浅被指抄袭贾平凹，陕西省教育厅最新回应",
+          "url": "https://news.ifeng.com/c/8uCBYt8kz9u",
+          "source": "凤凰网",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时55分 ~ 20时40分]"
+          "time_info": "[20时40分 ~ 23时56分]"
         },
         {
-          "title": "李金铭农村综艺那家人居然还在发她",
-          "url": "https://s.weibo.com/weibo?q=%E6%9D%8E%E9%87%91%E9%93%AD%E5%86%9C%E6%9D%91%E7%BB%BC%E8%89%BA%E9%82%A3%E5%AE%B6%E4%BA%BA%E5%B1%85%E7%84%B6%E8%BF%98%E5%9C%A8%E5%8F%91%E5%A5%B9&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时15分"
-        },
-        {
-          "title": "律师谈李金铭十年前农村综艺事件",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%BE%8B%E5%B8%88%E8%B0%88%E6%9D%8E%E9%87%91%E9%93%AD%E5%8D%81%E5%B9%B4%E5%89%8D%E5%86%9C%E6%9D%91%E7%BB%BC%E8%89%BA%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时53分"
-        },
-        {
-          "title": "李金铭农村综艺那家人居然还在发她",
-          "url": "https://www.toutiao.com/trending/7653738236057305107/",
+          "title": "陕西省教育厅回应贾浅浅被指抄袭",
+          "url": "https://www.toutiao.com/trending/7653636148329398315/",
           "source": "今日头条",
           "ranks": [
-            30
+            21
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时15分"
+          "time_info": "23时56分"
+        },
+        {
+          "title": "贾浅浅被指涉嫌抄袭 教育厅最新回应",
+          "url": "https://www.baidu.com/s?wd=%E8%B4%BE%E6%B5%85%E6%B5%85%E8%A2%AB%E6%8C%87%E6%B6%89%E5%AB%8C%E6%8A%84%E8%A2%AD+%E6%95%99%E8%82%B2%E5%8E%85%E6%9C%80%E6%96%B0%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
         }
       ]
     },
@@ -890,7 +1038,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时40分"
         }
@@ -921,6 +1069,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时55分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "情绪 情绪价值 内耗 精神内耗",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "这段话彻底杀死了我的精神内耗",
+          "url": "https://s.weibo.com/weibo?q=%E8%BF%99%E6%AE%B5%E8%AF%9D%E5%BD%BB%E5%BA%95%E6%9D%80%E6%AD%BB%E4%BA%86%E6%88%91%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%86%85%E8%80%97&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
+        },
+        {
+          "title": "美伊谈判乐观情绪提振风险偏好 亚洲股市有望高开",
+          "url": "https://flash.jin10.com/detail/20260623063843115800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时15分"
         }
       ]
     },
@@ -965,7 +1141,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时40分"
         },
@@ -1012,47 +1188,19 @@
       ]
     },
     {
-      "keyword_group": "教育 鸡娃 小镇做题家",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "代课37年的教师盼望补缴社保，江西丰城教育局副局长表示“没有先例”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33426994",
-          "source": "澎湃新闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时44分 ~ 13时08分]"
-        },
-        {
-          "title": "贾浅浅被指抄袭贾平凹，陕西省教育厅最新回应",
-          "url": "https://news.ifeng.com/c/8uCBYt8kz9u",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时40分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "情绪 情绪价值 内耗 精神内耗",
+      "keyword_group": "婚姻 结婚 离婚 彩礼",
       "match_count": 1,
       "titles": [
         {
-          "title": "美伊谈判乐观情绪提振风险偏好 亚洲股市有望高开",
-          "url": "https://flash.jin10.com/detail/20260623063843115800",
-          "source": "金十数据",
+          "title": "男子与姑姑女儿结婚13年后想“离婚”",
+          "url": "https://www.toutiao.com/trending/7654453771418681350/",
+          "source": "今日头条",
           "ranks": [
-            24
+            4
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时15分"
+          "time_info": "23时56分"
         }
       ]
     },
