@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-24T05:04:21.808864+08:00",
-  "total_titles_processed": 418,
+  "generated_at": "2026-06-24T07:14:28.703427+08:00",
+  "total_titles_processed": 507,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型",
-      "match_count": 16,
+      "match_count": 25,
       "titles": [
         {
           "title": "韩股大跌近 10% 再现熔断，韩国拟对「杠杆 ETF 炒作」出手干预，如何看全球 AI 半导体「散户杠杆化」现象？",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时05分 ~ 05时04分]"
+          "appearance_count": 3,
+          "time_info": "[02时05分 ~ 07时14分]"
         },
         {
           "title": "AI概念股遭全球抛售 纳指期货跌3% 美光科技盘前跌超9% | 今夜看点",
@@ -28,8 +28,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时05分 ~ 05时04分]"
+          "appearance_count": 3,
+          "time_info": "[02时05分 ~ 07时14分]"
         },
         {
           "title": "AI算力新变局：谁能动英伟达奶酪",
@@ -39,30 +39,43 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时05分 ~ 05时04分]"
+          "appearance_count": 3,
+          "time_info": "[02时05分 ~ 07时14分]"
+        },
+        {
+          "title": "美股收盘：AI投资热潮遭重新审视 芯片股重挫拖累纳指跌超2%",
+          "url": "https://www.cls.cn/detail/2407361",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时14分"
         },
         {
           "title": "创业板跌逾3%，算力硬件、有色金属重挫，创新药、大金融拉升，港股“大模型双雄”大跌",
           "url": "https://wallstreetcn.com/articles/3775254",
           "source": "华尔街见闻",
           "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时05分 ~ 05时04分]"
-        },
-        {
-          "title": "“空头”末日预言：AI“强弩之末”，美股最快Q3见顶、跌幅30-50%，美版YCC和美债大重组，私募信贷危机待引爆",
-          "url": "https://wallstreetcn.com/articles/3775250",
-          "source": "华尔街见闻",
-          "ranks": [
+            6,
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时05分 ~ 05时04分]"
+          "appearance_count": 3,
+          "time_info": "[02时05分 ~ 07时14分]"
+        },
+        {
+          "title": "高盛警告AI泡沫：首个削减支出的巨头出现时，全市场将重新定价",
+          "url": "https://wallstreetcn.com/articles/3775302",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时05分 ~ 07时14分]"
         },
         {
           "title": "AI周期已接近终点？空头大佬警告：暴跌30%至50%的大熊市即将到来",
@@ -72,30 +85,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时05分 ~ 05时04分]"
+          "appearance_count": 3,
+          "time_info": "[02时05分 ~ 07时14分]"
         },
         {
-          "title": "高盛警告AI泡沫：首个削减支出的巨头出现时，全市场将重新定价",
-          "url": "https://wallstreetcn.com/articles/3775302",
+          "title": "“空头”末日预言：AI“强弩之末”，美股最快Q3见顶、跌幅30-50%，美版YCC和美债大重组，私募信贷危机待引爆",
+          "url": "https://wallstreetcn.com/articles/3775250",
           "source": "华尔街见闻",
           "ranks": [
+            7,
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时05分 ~ 05时04分]"
-        },
-        {
-          "title": "【每日收评】创业板震荡走低跌近4%，有色、AI硬件集体调整，创新药板块逆势走强",
-          "url": "https://www.cls.cn/detail/2406846",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时05分 ~ 05时04分]"
+          "appearance_count": 3,
+          "time_info": "[02时05分 ~ 07时14分]"
         },
         {
           "title": "AI 写了 60% 的代码，为什么企业研发效率还是没飞起来？",
@@ -103,11 +106,24 @@
           "source": "知乎",
           "ranks": [
             19,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时05分 ~ 07时14分]"
+        },
+        {
+          "title": "【每日收评】创业板震荡走低跌近4%，有色、AI硬件集体调整，创新药板块逆势走强",
+          "url": "https://www.cls.cn/detail/2406846",
+          "source": "财联社热门",
+          "ranks": [
+            9,
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时05分 ~ 05时04分]"
+          "appearance_count": 3,
+          "time_info": "[02时05分 ~ 07时14分]"
         },
         {
           "title": "米游AI女友上线,玩家有福了",
@@ -115,11 +131,12 @@
           "source": "贴吧",
           "ranks": [
             12,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时05分 ~ 05时04分]"
+          "appearance_count": 3,
+          "time_info": "[02时05分 ~ 07时14分]"
         },
         {
           "title": "用AI小卡应援世界杯",
@@ -127,11 +144,24 @@
           "source": "抖音",
           "ranks": [
             23,
-            21
+            21,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时05分 ~ 07时14分]"
+        },
+        {
+          "title": "AI时代计算机专业还能学吗",
+          "url": "https://search.bilibili.com/all?keyword=AI%E6%97%B6%E4%BB%A3%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%93%E4%B8%9A%E8%BF%98%E8%83%BD%E5%AD%A6%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29,
+            28
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时05分 ~ 05时04分]"
+          "time_info": "[05时04分 ~ 07时14分]"
         },
         {
           "title": "大模型横评:多款AI翻车实录",
@@ -157,15 +187,59 @@
           "time_info": "02时05分"
         },
         {
+          "title": "周二（6月23日），美股AI软件先驱指数跌0.20%，报103.52点，成分股中，甲骨文收跌5.66%，铿腾电子跌2.57%，Palantir跌2.34%跌幅第三大，Salesforce、ServiceNOW、GitLab涨2.20%-4.53%领跑。",
+          "url": "https://wallstreetcn.com/livenews/3123684",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时14分"
+        },
+        {
           "title": "云端运算安全公司Zscaler与亚马逊云服务(AWS)达成协议，将在集成、参考架构和联合市场推广活动方面进行合作；双方将联手保障政府、医疗和教育领域的生成式人工智能安全。",
           "url": "https://flash.jin10.com/detail/20260624044008749800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
+        },
+        {
+          "title": "周二（6月23日），美股人工智能（AI）赢家指数跌6.74%，报431.58点，跳空低开后持续低位窄幅震荡，成分股Fluence Energy、闪迪、美光跌15.80%-13.18%领跌，在收涨的四只成分股中，微软涨1.8%，戴尔科技涨2.17%。",
+          "url": "https://wallstreetcn.com/livenews/3123683",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时14分"
+        },
+        {
+          "title": "Meta Platforms(META.O)：（关于美国政府人工智能审查）在我们处理细节的同时，希望尽快签署协议。",
+          "url": "https://flash.jin10.com/detail/20260624054534370800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时14分"
+        },
+        {
+          "title": "Meta Platforms(META.O)：支持政府推动美国在强大且安全的前沿AI领域的领导地位的目标。",
+          "url": "https://flash.jin10.com/detail/20260624054508672800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时14分"
         },
         {
           "title": "DeepseekV4.1 即将发布，网友期待「降价、打爆国外 AI」，它将如何改变 AI 市场格局？",
@@ -179,15 +253,48 @@
           "time_info": "02时05分"
         },
         {
-          "title": "AI时代计算机专业还能学吗",
-          "url": "https://search.bilibili.com/all?keyword=AI%E6%97%B6%E4%BB%A3%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%93%E4%B8%9A%E8%BF%98%E8%83%BD%E5%AD%A6%E5%90%97",
-          "source": "bilibili 热搜",
+          "title": "据纽约时报：因安全担忧加剧，美国施压Meta Platforms(META.O)进行人工智能审查。",
+          "url": "https://flash.jin10.com/detail/20260624053233987800",
+          "source": "金十数据",
           "ranks": [
-            29
+            18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时04分"
+          "time_info": "07时14分"
+        },
+        {
+          "title": "从“找竹竿”到“挖短板”，基金经理直面AI“缩圈”",
+          "url": "https://wallstreetcn.com/livenews/3123676",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时14分"
+        },
+        {
+          "title": "AI算力需求传导，“纤维之王”对位芳纶步入高景气周期",
+          "url": "https://wallstreetcn.com/livenews/3123674",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时14分"
+        },
+        {
+          "title": "美国参议院共和党成员Steve Daines：参议院正酝酿自己版本的加密货币税收草案。 预计将“宜早不宜迟地”披露我们的计划。 可能会在秋季公之于众。",
+          "url": "https://wallstreetcn.com/livenews/3123668",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时14分"
         }
       ]
     },
@@ -203,8 +310,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时05分 ~ 05时04分]"
+          "appearance_count": 3,
+          "time_info": "[02时05分 ~ 07时14分]"
         },
         {
           "title": "全链条扩大汽车消费再推新举措",
@@ -224,7 +331,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
         },
@@ -234,11 +341,12 @@
           "source": "知乎",
           "ranks": [
             3,
-            13
+            13,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时05分 ~ 05时04分]"
+          "appearance_count": 3,
+          "time_info": "[02时05分 ~ 07时14分]"
         },
         {
           "title": "周二（6月23日），美股行业ETF多数收涨，区域银行ETF收涨2.55%，医疗业ETF、银行业ETF、能源业ETF也至多涨2.31%，网络股指数ETF则收跌0.49%，可选消费ETF跌2.71%，科技行业ETF跌3.67%，全球科技股指数ETF跌5.33%，半导体ETF跌7.01%。",
@@ -247,7 +355,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
         },
@@ -258,7 +366,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
         }
@@ -276,19 +384,32 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时05分 ~ 05时04分]"
+          "appearance_count": 3,
+          "time_info": "[02时05分 ~ 07时14分]"
         },
         {
           "title": "贾浅浅被指涉嫌抄袭 教育厅最新回应",
           "url": "https://www.baidu.com/s?wd=%E8%B4%BE%E6%B5%85%E6%B5%85%E8%A2%AB%E6%8C%87%E6%B6%89%E5%AB%8C%E6%8A%84%E8%A2%AD+%E6%95%99%E8%82%B2%E5%8E%85%E6%9C%80%E6%96%B0%E5%9B%9E%E5%BA%94",
           "source": "百度热搜",
           "ranks": [
-            21
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时05分 ~ 07时14分]"
+        },
+        {
+          "title": "陕西省教育厅回应贾浅浅被指抄袭",
+          "url": "https://www.toutiao.com/trending/7653636148329398315/",
+          "source": "今日头条",
+          "ranks": [
+            30,
+            26
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时05分 ~ 05时04分]"
+          "time_info": "[02时05分 ~ 07时14分]"
         },
         {
           "title": "特朗普谈伊朗协议：任何批评这笔交易的人都必须接受教育，即使是我的朋友。",
@@ -308,70 +429,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时04分"
-        },
-        {
-          "title": "陕西省教育厅回应贾浅浅被指抄袭",
-          "url": "https://www.toutiao.com/trending/7653636148329398315/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时05分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "电影 影视 综艺",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "国产电影溃败,票房不行怪观众",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355592&amp;topic_name=%E5%9B%BD%E4%BA%A7%E7%94%B5%E5%BD%B1%E6%BA%83%E8%B4%A5%2C%E7%A5%A8%E6%88%BF%E4%B8%8D%E8%A1%8C%E6%80%AA%E8%A7%82%E4%BC%97",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时05分 ~ 05时04分]"
-        },
-        {
-          "title": "如何看待 2026 年大陆电影行业被曝投资撤退、票房失灵、演员无戏可接？中国电影到底出了什么问题？",
-          "url": "https://www.zhihu.com/question/2052111489327281889",
-          "source": "知乎",
-          "ranks": [
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时05分 ~ 05时04分]"
-        },
-        {
-          "title": "李金铭回应综艺里“农村婆婆”事件",
-          "url": "https://www.baidu.com/s?wd=%E6%9D%8E%E9%87%91%E9%93%AD%E5%9B%9E%E5%BA%94%E7%BB%BC%E8%89%BA%E9%87%8C%E2%80%9C%E5%86%9C%E6%9D%91%E5%A9%86%E5%A9%86%E2%80%9D%E4%BA%8B%E4%BB%B6",
-          "source": "百度热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时05分"
-        },
-        {
-          "title": "电影抓特务台词好戳人",
-          "url": "https://www.douyin.com/hot/2544290",
-          "source": "抖音",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "05时04分"
         }
@@ -379,8 +437,19 @@
     },
     {
       "keyword_group": "经济 经济学",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "经济日报金观平：减量提质推进村镇银行改革",
+          "url": "https://wallstreetcn.com/livenews/3123692",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时14分"
+        },
         {
           "title": "伊朗总统：对巴基斯坦的支持与努力表示感谢。 讨论最新局势和双边关系。 伊巴两国将促进经济关系。 伊朗的导弹不在谅解备忘录范围内，也永远不会妥协。",
           "url": "https://wallstreetcn.com/livenews/3123575",
@@ -399,7 +468,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
         },
@@ -410,9 +479,92 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "电影 影视 综艺",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "国产电影溃败,票房不行怪观众",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355592&amp;topic_name=%E5%9B%BD%E4%BA%A7%E7%94%B5%E5%BD%B1%E6%BA%83%E8%B4%A5%2C%E7%A5%A8%E6%88%BF%E4%B8%8D%E8%A1%8C%E6%80%AA%E8%A7%82%E4%BC%97",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时05分 ~ 07时14分]"
+        },
+        {
+          "title": "如何看待 2026 年大陆电影行业被曝投资撤退、票房失灵、演员无戏可接？中国电影到底出了什么问题？",
+          "url": "https://www.zhihu.com/question/2052111489327281889",
+          "source": "知乎",
+          "ranks": [
+            6,
+            3,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时05分 ~ 07时14分]"
+        },
+        {
+          "title": "李金铭回应综艺里“农村婆婆”事件",
+          "url": "https://www.baidu.com/s?wd=%E6%9D%8E%E9%87%91%E9%93%AD%E5%9B%9E%E5%BA%94%E7%BB%BC%E8%89%BA%E9%87%8C%E2%80%9C%E5%86%9C%E6%9D%91%E5%A9%86%E5%A9%86%E2%80%9D%E4%BA%8B%E4%BB%B6",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时05分 ~ 07时14分]"
+        },
+        {
+          "title": "电影抓特务台词好戳人",
+          "url": "https://www.douyin.com/hot/2544290",
+          "source": "抖音",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时04分 ~ 07时14分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "情绪 情绪价值 内耗 精神内耗",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "港股市场谨慎情绪蔓延，机构建议把握三条主线",
+          "url": "https://wallstreetcn.com/livenews/3123688",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时14分"
+        },
+        {
+          "title": "这段话彻底杀死了我的精神内耗",
+          "url": "https://s.weibo.com/weibo?q=%E8%BF%99%E6%AE%B5%E8%AF%9D%E5%BD%BB%E5%BA%95%E6%9D%80%E6%AD%BB%E4%BA%86%E6%88%91%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%86%85%E8%80%97&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时14分"
         }
       ]
     },
@@ -457,8 +609,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时05分 ~ 05时04分]"
+          "appearance_count": 3,
+          "time_info": "[02时05分 ~ 07时14分]"
         }
       ]
     }
