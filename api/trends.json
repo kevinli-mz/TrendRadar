@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-25T05:28:39.420024+08:00",
-  "total_titles_processed": 491,
+  "generated_at": "2026-06-25T07:12:46.664957+08:00",
+  "total_titles_processed": 566,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型",
-      "match_count": 22,
+      "match_count": 27,
       "titles": [
         {
           "title": "美光财报前瞻：AI存储龙头今夜迎大考，能否成科技股多头“定心丸”？",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时10分 ~ 05时28分]"
+          "appearance_count": 5,
+          "time_info": "[01时10分 ~ 07时12分]"
         },
         {
           "title": "全球 AI 交易降温，美股半导体相关 ETF 暴跌，闪迪、美光科技跌超 10%，发生了什么？",
@@ -26,11 +26,12 @@
           "ranks": [
             6,
             5,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时10分 ~ 05时28分]"
+          "appearance_count": 5,
+          "time_info": "[01时10分 ~ 07时12分]"
         },
         {
           "title": "【焦点复盘】创业板、深成指缩量涨超1%，全市场超150股涨超10%，AI硬件产业链卷土重来",
@@ -39,11 +40,23 @@
           "ranks": [
             6,
             4,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时10分 ~ 05时28分]"
+          "appearance_count": 5,
+          "time_info": "[01时10分 ~ 07时12分]"
+        },
+        {
+          "title": "美股收盘：科技股回调拖累纳指跌0.4% AI估值与资本开支担忧持续发酵",
+          "url": "https://www.cls.cn/detail/2408510",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时12分"
         },
         {
           "title": "低估了AI全球泡沫，宁泉杨东发声“不敢再参与”，私募圈AI分歧推到前台",
@@ -64,19 +77,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时10分 ~ 05时28分]"
+          "appearance_count": 5,
+          "time_info": "[01时10分 ~ 07时12分]"
         },
         {
           "title": "霓虹AI超美?实则组队打工仔",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355608&amp;topic_name=%E9%9C%93%E8%99%B9AI%E8%B6%85%E7%BE%8E%3F%E5%AE%9E%E5%88%99%E7%BB%84%E9%98%9F%E6%89%93%E5%B7%A5%E4%BB%94",
           "source": "贴吧",
           "ranks": [
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时10分 ~ 05时28分]"
+          "appearance_count": 5,
+          "time_info": "[01时10分 ~ 07时12分]"
         },
         {
           "title": "用AI制作一部玄幻短片",
@@ -87,19 +101,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时10分 ~ 05时28分]"
+          "appearance_count": 5,
+          "time_info": "[01时10分 ~ 07时12分]"
         },
         {
           "title": "米游AI女友上线,玩家有福了",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355325&amp;topic_name=%E7%B1%B3%E6%B8%B8AI%E5%A5%B3%E5%8F%8B%E4%B8%8A%E7%BA%BF%2C%E7%8E%A9%E5%AE%B6%E6%9C%89%E7%A6%8F%E4%BA%86",
           "source": "贴吧",
           "ranks": [
-            27
+            27,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时10分 ~ 05时28分]"
+          "appearance_count": 5,
+          "time_info": "[01时10分 ~ 07时12分]"
         },
         {
           "title": "美光财报今夜揭晓：AI交易临界点逼近，存储龙头能否延续超级周期？",
@@ -110,19 +125,32 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时55分 ~ 05时28分]"
+          "appearance_count": 4,
+          "time_info": "[03时55分 ~ 07时12分]"
         },
         {
           "title": "用AI小卡应援世界杯",
           "url": "https://www.douyin.com/hot/2544441",
           "source": "抖音",
           "ranks": [
-            12
+            12,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时55分 ~ 07时12分]"
+        },
+        {
+          "title": "“AI需求可见度”延伸至2028年！美银美林：存储在此之前不会“供过于求”，半导体设备将大幅增长",
+          "url": "https://wallstreetcn.com/articles/3775365",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[03时55分 ~ 05时28分]"
+          "time_info": "[01时10分 ~ 07时12分]"
         },
         {
           "title": "AI 对制造业的影响预计何时显现？",
@@ -137,16 +165,15 @@
           "time_info": "[03时55分 ~ 05时28分]"
         },
         {
-          "title": "“AI需求可见度”延伸至2028年！美银美林：存储在此之前不会“供过于求”，半导体设备将大幅增长",
-          "url": "https://wallstreetcn.com/articles/3775365",
+          "title": "美光上季营收增逾三倍大超预期、指引炸裂，料AI存储供应紧张持续至2027年后，盘后拉升 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3775443",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            9
+            7
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时10分 ~ 05时28分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时12分"
         },
         {
           "title": "高通(QCOM.O)：公司目标是在2029财年实现Personal AI 与计算业务收入约60亿美元。",
@@ -155,7 +182,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时28分"
         },
@@ -171,6 +198,17 @@
           "time_info": "03时56分"
         },
         {
+          "title": "英伟达股东会摘要：黄仁勋豪言AI投资回报率的问题“已有答案”",
+          "url": "https://www.cls.cn/detail/2408477",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时12分"
+        },
+        {
           "title": "高通发布面向数据中心的人工智能CPU，Meta喝头啖汤",
           "url": "https://flash.jin10.com/detail/20260625031341400800",
           "source": "金十数据",
@@ -180,6 +218,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时56分"
+        },
+        {
+          "title": "美光强劲财报引爆芯片股盘后行情 高通AI前景助推股价飙升",
+          "url": "https://flash.jin10.com/detail/20260625061135675800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时12分"
+        },
+        {
+          "title": "AI驱动债务狂潮创纪录 6月美国高评级债券发行飙至1750亿美元",
+          "url": "https://flash.jin10.com/detail/20260625060708840800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时12分"
         },
         {
           "title": "报道：谷歌另外两名主要的AI员工恐将跳槽至Anthropic",
@@ -210,7 +270,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时28分"
         },
@@ -232,7 +292,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时28分"
         },
@@ -243,7 +303,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时28分"
         },
@@ -261,6 +321,86 @@
       ]
     },
     {
+      "keyword_group": "经济 经济学",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "伊拉克总理：与美国的关系将从军事关系转变为经济伙伴关系。",
+          "url": "https://flash.jin10.com/detail/20260625003812550800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时10分"
+        },
+        {
+          "title": "渣打：美国经济的“例外论”可能会支撑美元走强",
+          "url": "https://wallstreetcn.com/livenews/3124258",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时12分"
+        },
+        {
+          "title": "美联储理事库克并未置评美国经济前景或FOMC货币政策。",
+          "url": "https://wallstreetcn.com/livenews/3124184",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时56分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "消费 存钱 攒钱",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "家长发愁孩子高考后消费账单，一句「你只是高考完了，不是家里发财了」引发共鸣，如何看待这一说法？",
+          "url": "https://www.zhihu.com/question/2052870237394149872",
+          "source": "知乎",
+          "ranks": [
+            3,
+            4,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时10分 ~ 07时12分]"
+        },
+        {
+          "title": "周三（6月24日），美股行业ETF多数收涨，全球航空业ETF涨4.17%，生物科技指数ETF、区域银行ETF、可选消费ETF、公用事业ETF至多涨1.93%，半导体ETF则收跌0.35%，科技行业ETF跌0.62%，能源业ETF跌1.63%。",
+          "url": "https://wallstreetcn.com/livenews/3124226",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时28分"
+        },
+        {
+          "title": "保护消费者免受数据中心成本影响的美国法案获推进",
+          "url": "https://wallstreetcn.com/livenews/3124253",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时12分"
+        }
+      ]
+    },
+    {
       "keyword_group": "电影 影视 综艺",
       "match_count": 3,
       "titles": [
@@ -270,22 +410,24 @@
           "source": "知乎",
           "ranks": [
             9,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时55分 ~ 05时28分]"
+          "appearance_count": 4,
+          "time_info": "[03时55分 ~ 07时12分]"
         },
         {
           "title": "国产电影溃败,票房不行怪观众",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355592&amp;topic_name=%E5%9B%BD%E4%BA%A7%E7%94%B5%E5%BD%B1%E6%BA%83%E8%B4%A5%2C%E7%A5%A8%E6%88%BF%E4%B8%8D%E8%A1%8C%E6%80%AA%E8%A7%82%E4%BC%97",
           "source": "贴吧",
           "ranks": [
-            19
+            19,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时10分 ~ 05时28分]"
+          "appearance_count": 5,
+          "time_info": "[01时10分 ~ 07时12分]"
         },
         {
           "title": "蓝鸿春新片继续深耕潮汕，直言三部电影道不尽潮汕人间烟火，你觉得还有哪些地域、风土、根系文化适合拍电影？",
@@ -311,22 +453,24 @@
           "source": "今日头条",
           "ranks": [
             22,
-            30
+            30,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时55分 ~ 05时28分]"
+          "appearance_count": 4,
+          "time_info": "[03时55分 ~ 07时12分]"
         },
         {
           "title": "有什么问题人类解决得如此出色，以至于年轻人都没意识到它曾经是个巨大的问题？",
           "url": "https://www.zhihu.com/question/2050921459896292227",
           "source": "知乎",
           "ranks": [
-            17
+            17,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时28分 ~ 07时12分]"
         }
       ]
     },
@@ -341,11 +485,12 @@
           "ranks": [
             9,
             6,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时10分 ~ 05时28分]"
+          "appearance_count": 5,
+          "time_info": "[01时10分 ~ 07时12分]"
         },
         {
           "title": "校长与教师婚外情买假结婚证生两孩",
@@ -353,68 +498,12 @@
           "source": "百度热搜",
           "ranks": [
             12,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时10分 ~ 05时28分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "经济 经济学",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "伊拉克总理：与美国的关系将从军事关系转变为经济伙伴关系。",
-          "url": "https://flash.jin10.com/detail/20260625003812550800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时10分"
-        },
-        {
-          "title": "美联储理事库克并未置评美国经济前景或FOMC货币政策。",
-          "url": "https://wallstreetcn.com/livenews/3124184",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时56分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "消费 存钱 攒钱",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "家长发愁孩子高考后消费账单，一句「你只是高考完了，不是家里发财了」引发共鸣，如何看待这一说法？",
-          "url": "https://www.zhihu.com/question/2052870237394149872",
-          "source": "知乎",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时10分 ~ 05时28分]"
-        },
-        {
-          "title": "周三（6月24日），美股行业ETF多数收涨，全球航空业ETF涨4.17%，生物科技指数ETF、区域银行ETF、可选消费ETF、公用事业ETF至多涨1.93%，半导体ETF则收跌0.35%，科技行业ETF跌0.62%，能源业ETF跌1.63%。",
-          "url": "https://wallstreetcn.com/livenews/3124226",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时28分"
+          "appearance_count": 5,
+          "time_info": "[01时10分 ~ 07时12分]"
         }
       ]
     },
@@ -429,7 +518,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时28分"
         }
@@ -444,11 +533,12 @@
           "url": "https://www.zhihu.com/question/2052801575043560695",
           "source": "知乎",
           "ranks": [
-            16
+            16,
+            20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时10分"
+          "appearance_count": 2,
+          "time_info": "[01时10分 ~ 07时12分]"
         }
       ]
     },
@@ -465,8 +555,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时10分 ~ 05时28分]"
+          "appearance_count": 5,
+          "time_info": "[01时10分 ~ 07时12分]"
         }
       ]
     },
@@ -498,11 +588,12 @@
           "ranks": [
             8,
             5,
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时10分 ~ 05时28分]"
+          "appearance_count": 5,
+          "time_info": "[01时10分 ~ 07时12分]"
         }
       ]
     },
@@ -516,11 +607,12 @@
           "source": "知乎",
           "ranks": [
             4,
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时10分 ~ 05时28分]"
+          "appearance_count": 5,
+          "time_info": "[01时10分 ~ 07时12分]"
         }
       ]
     }
