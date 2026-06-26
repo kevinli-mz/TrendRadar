@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-26T17:40:02.097793+08:00",
-  "total_titles_processed": 1088,
+  "generated_at": "2026-06-26T20:17:34.419401+08:00",
+  "total_titles_processed": 1265,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型",
-      "match_count": 42,
+      "match_count": 49,
       "titles": [
         {
           "title": "AI机器女友发布,仿真拉满",
@@ -16,11 +16,12 @@
             7,
             9,
             15,
-            20
+            20,
+            23
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时19分 ~ 17时40分]"
+          "appearance_count": 9,
+          "time_info": "[01时19分 ~ 20时17分]"
         },
         {
           "title": "一图看懂 | AI赛道利润格局“大洗牌”，上游材料躺赚红利",
@@ -76,7 +77,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时40分"
         },
@@ -92,6 +93,19 @@
           "time_info": "06时25分"
         },
         {
+          "title": "苹果、微软被迫涨价，库克承认“40年来前所未见”，AI正在推升新一轮通胀？",
+          "url": "https://wallstreetcn.com/articles/3775558",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时14分 ~ 20时17分]"
+        },
+        {
           "title": "你对AI脸产生生理性厌恶了吗",
           "url": "https://www.baidu.com/s?wd=%E4%BD%A0%E5%AF%B9AI%E8%84%B8%E4%BA%A7%E7%94%9F%E7%94%9F%E7%90%86%E6%80%A7%E5%8E%8C%E6%81%B6%E4%BA%86%E5%90%97",
           "source": "百度热搜",
@@ -102,18 +116,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时19分 ~ 08时16分]"
-        },
-        {
-          "title": "苹果、微软被迫涨价，库克承认“40年来前所未见”，AI正在推升新一轮通胀？",
-          "url": "https://wallstreetcn.com/articles/3775558",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时14分 ~ 17时40分]"
         },
         {
           "title": "黄仁勋：AI已正式进入获利阶段，本轮AI基建周期达数十年",
@@ -166,6 +168,18 @@
           "time_info": "[01时19分 ~ 08时16分]"
         },
         {
+          "title": "纯中二?美官员把AI当英雄",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355671&amp;topic_name=%E7%BA%AF%E4%B8%AD%E4%BA%8C%3F%E7%BE%8E%E5%AE%98%E5%91%98%E6%8A%8AAI%E5%BD%93%E8%8B%B1%E9%9B%84",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时39分 ~ 20时17分]"
+        },
+        {
           "title": "手握千亿美元保底长单！美光电话会：内存已成AI时代战略资产，看不清供应何时才能赶上需求（附问答全文）",
           "url": "https://wallstreetcn.com/articles/3775448",
           "source": "华尔街见闻",
@@ -192,15 +206,28 @@
           "time_info": "[01时19分 ~ 06时25分]"
         },
         {
-          "title": "纯中二?美官员把AI当英雄",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355671&amp;topic_name=%E7%BA%AF%E4%B8%AD%E4%BA%8C%3F%E7%BE%8E%E5%AE%98%E5%91%98%E6%8A%8AAI%E5%BD%93%E8%8B%B1%E9%9B%84",
-          "source": "贴吧",
+          "title": "【每日收评】创业板指跌超4%，全市场超4600股收绿，AI硬件股集体重挫",
+          "url": "https://www.cls.cn/detail/2410276",
+          "source": "财联社热门",
           "ranks": [
-            6
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时39分 ~ 17时40分]"
+          "appearance_count": 3,
+          "time_info": "[17时39分 ~ 20时17分]"
+        },
+        {
+          "title": "短剧男主被AI抢工作 返乡卖豆芽菜",
+          "url": "https://www.baidu.com/s?wd=%E7%9F%AD%E5%89%A7%E7%94%B7%E4%B8%BB%E8%A2%ABAI%E6%8A%A2%E5%B7%A5%E4%BD%9C+%E8%BF%94%E4%B9%A1%E5%8D%96%E8%B1%86%E8%8A%BD%E8%8F%9C",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时39分 ~ 20时17分]"
         },
         {
           "title": "AI算力“烤”热培育钻石 金刚石散热现成长拐点 业内：2027年或迎放量期",
@@ -237,28 +264,6 @@
           "time_info": "[04时10分 ~ 06时25分]"
         },
         {
-          "title": "【每日收评】创业板指跌超4%，全市场超4600股收绿，AI硬件股集体重挫",
-          "url": "https://www.cls.cn/detail/2410276",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时39分 ~ 17时40分]"
-        },
-        {
-          "title": "短剧男主被AI抢工作 返乡卖豆芽菜",
-          "url": "https://www.baidu.com/s?wd=%E7%9F%AD%E5%89%A7%E7%94%B7%E4%B8%BB%E8%A2%ABAI%E6%8A%A2%E5%B7%A5%E4%BD%9C+%E8%BF%94%E4%B9%A1%E5%8D%96%E8%B1%86%E8%8A%BD%E8%8F%9C",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时39分 ~ 17时40分]"
-        },
-        {
           "title": "短剧霸总刚当上男主就被AI抢角色",
           "url": "https://www.baidu.com/s?wd=%E7%9F%AD%E5%89%A7%E9%9C%B8%E6%80%BB%E5%88%9A%E5%BD%93%E4%B8%8A%E7%94%B7%E4%B8%BB%E5%B0%B1%E8%A2%ABAI%E6%8A%A2%E8%A7%92%E8%89%B2",
           "source": "百度热搜",
@@ -292,15 +297,37 @@
           "time_info": "13时15分"
         },
         {
+          "title": "苹果涨价——压垮AI存储泡沫的最后一根稻草？",
+          "url": "https://wallstreetcn.com/articles/3775599",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时17分"
+        },
+        {
           "title": "中泰证券王芳：大模型的快速发展和供应链短缺 有利于AI行业高资本开支的持续",
           "url": "https://wallstreetcn.com/livenews/3125184",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时40分"
+        },
+        {
+          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850560&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/06/zowhLxJ1oGWg2qc8N-V44.jpg/lite\" height=\"120\"/></a>",
+          "url": "https://flash.jin10.com/detail/20260626193725009800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时17分"
         },
         {
           "title": "主流AI Coding开发鹅腿识别",
@@ -331,7 +358,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时40分"
         },
@@ -375,7 +402,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时40分"
         },
@@ -402,6 +429,28 @@
           "time_info": "01时19分"
         },
         {
+          "title": "市场消息：赛峰集团正研究收购法国海上无人机制造商Exail的交易。",
+          "url": "https://flash.jin10.com/detail/20260626192823521800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时17分"
+        },
+        {
+          "title": "AI时代如何选专业",
+          "url": "https://www.douyin.com/hot/2548080",
+          "source": "抖音",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时17分"
+        },
+        {
           "title": "SpaceX股价回落敲响警钟 OpenAI或等到明年再IPO",
           "url": "https://flash.jin10.com/detail/20260626044755013800",
           "source": "金十数据",
@@ -413,13 +462,24 @@
           "time_info": "06时25分"
         },
         {
+          "title": "AI时代劳动价值论过时了吗",
+          "url": "https://search.bilibili.com/all?keyword=AI%E6%97%B6%E4%BB%A3%E5%8A%B3%E5%8A%A8%E4%BB%B7%E5%80%BC%E8%AE%BA%E8%BF%87%E6%97%B6%E4%BA%86%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时17分"
+        },
+        {
           "title": "《人工智能 智能体互联》系列7项国家标准发布",
           "url": "https://flash.jin10.com/detail/20260626170318187800",
           "source": "金十数据",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时40分"
         },
@@ -441,9 +501,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时40分"
+        },
+        {
+          "title": "2025年至今我国已经研制发布40余项人工智能国家标准",
+          "url": "https://wallstreetcn.com/livenews/3125266",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时17分"
         },
         {
           "title": "市场消息：苹果将​​跳过高端M6 Mac芯片，转而采用侧重于AI的M7芯片；此举是一项罕见的战略调整，旨在满足AI工作流程的需求。",
@@ -488,12 +559,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时19分"
+        },
+        {
+          "title": "当AI超越人类我们该如何存在",
+          "url": "https://www.toutiao.com/trending/7654570633377185798/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时17分"
         }
       ]
     },
     {
       "keyword_group": "就业 失业 裁员 应届生",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "美联储威廉姆斯：预计2028年美国经济增长率为2.25%，失业率将降至4%。",
@@ -512,11 +594,12 @@
           "source": "知乎",
           "ranks": [
             12,
-            9
+            9,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时14分 ~ 17时40分]"
+          "appearance_count": 5,
+          "time_info": "[13时14分 ~ 20时17分]"
         },
         {
           "title": "短剧男主自曝因AI失业已返乡卖菜",
@@ -586,6 +669,17 @@
           "time_info": "08时16分"
         },
         {
+          "title": "谌贻琴在江西调研时强调 坚决落实就业优先战略 推动体育产业高质量发展",
+          "url": "https://wallstreetcn.com/livenews/3125276",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时17分"
+        },
+        {
           "title": "美国芝加哥联储主席Goolsbee（2027年FOMC票委）：油价下跌可能会对美国经济构成尾部风险。 令人心烦意乱的高通胀来自服务业。 劳动力市场一年多来非常稳定。 不确定性驱动了低雇佣、低解雇的环境。 美国就业市场稳定，但不太好。",
           "url": "https://wallstreetcn.com/livenews/3124882",
           "source": "华尔街见闻-快讯",
@@ -603,9 +697,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时40分"
+        },
+        {
+          "title": "谌贻琴在江西调研时强调 坚决落实就业优先战略 推动体育产业高质量发展",
+          "url": "https://flash.jin10.com/detail/20260626190030117800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时17分"
         }
       ]
     },
@@ -634,8 +739,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时16分 ~ 17时40分]"
+          "appearance_count": 6,
+          "time_info": "[08时16分 ~ 20时17分]"
         },
         {
           "title": "马斯克旗下的SpaceX已向投资者表示，计划面向美国消费者推出Starlink移动通信服务。（英国《金融时报》）",
@@ -666,7 +771,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时40分"
         },
@@ -710,7 +815,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时40分"
         }
@@ -718,7 +823,7 @@
     },
     {
       "keyword_group": "电影 影视 综艺",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
         {
           "title": "凡人动画大电影《凡人修仙传之瀚海迷踪》的票房能破 20 亿吗？",
@@ -746,6 +851,18 @@
           "time_info": "[06时25分 ~ 13时15分]"
         },
         {
+          "title": "儒意电影「拼好片」功能上线，观众可自主发起观影拼团，真正拥有影院放映片单话语权，将带来哪些改变？",
+          "url": "https://www.zhihu.com/question/2050671044986516872",
+          "source": "知乎",
+          "ranks": [
+            18,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时39分 ~ 20时17分]"
+        },
+        {
           "title": "电影《抓特务》肖大力为什么会这么确信冯静波有问题？",
           "url": "https://www.zhihu.com/question/2051364215009681790",
           "source": "知乎",
@@ -755,17 +872,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时14分 ~ 13时15分]"
-        },
-        {
-          "title": "儒意电影「拼好片」功能上线，观众可自主发起观影拼团，真正拥有影院放映片单话语权，将带来哪些改变？",
-          "url": "https://www.zhihu.com/question/2050671044986516872",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时39分 ~ 17时40分]"
         },
         {
           "title": "电影四渡北京首映礼",
@@ -778,6 +884,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时19分 ~ 06时25分]"
+        },
+        {
+          "title": "如何评价 DC 电影《超级少女》？",
+          "url": "https://www.zhihu.com/question/2053584057317810791",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时17分"
+        },
+        {
+          "title": "电影四渡今日上映",
+          "url": "https://www.douyin.com/hot/2548236",
+          "source": "抖音",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时17分"
+        },
+        {
+          "title": "儒意电影：拟1.5亿元-3亿元回购公司股份。",
+          "url": "https://wallstreetcn.com/livenews/3125249",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时17分"
         }
       ]
     },
@@ -794,11 +933,12 @@
             4,
             9,
             8,
-            20
+            20,
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时19分 ~ 17时40分]"
+          "appearance_count": 9,
+          "time_info": "[01时19分 ~ 20时17分]"
         },
         {
           "title": "两男女欲转账500亿在香港银行被抓",
@@ -818,22 +958,75 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33455049",
           "source": "澎湃新闻",
           "ranks": [
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时39分 ~ 17时40分]"
+          "appearance_count": 3,
+          "time_info": "[17时39分 ~ 20时17分]"
         },
         {
           "title": "中国妇女报：把女性关铁笼游街宣扬封建糟粕的“摆拍”，必须严打",
           "url": "https://m.thepaper.cn/newsDetail_forward_33459112",
           "source": "澎湃新闻",
           "ranks": [
-            17
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时39分 ~ 20时17分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "全速扩容！DeepSeek“招兵买马”扩编一倍",
+          "url": "https://www.cls.cn/detail/2409672",
+          "source": "财联社热门",
+          "ranks": [
+            3
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时39分 ~ 17时40分]"
+          "time_info": "[13时14分 ~ 13时15分]"
+        },
+        {
+          "title": "所有部门规模至少扩大一倍！DeepSeek发布“英雄帖”：人类正处于AGI前夜",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33454877",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时14分 ~ 20时17分]"
+        },
+        {
+          "title": "DeepSeek大规模招聘",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%8B%9B%E8%81%98%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时14分 ~ 13时15分]"
+        },
+        {
+          "title": "DeepSeek为何大规模招人",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E4%B8%BA%E4%BD%95%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%8B%9B%E4%BA%BA%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时17分"
         }
       ]
     },
@@ -849,8 +1042,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时39分 ~ 17时40分]"
+          "appearance_count": 3,
+          "time_info": "[17时39分 ~ 20时17分]"
         },
         {
           "title": "美联储威廉姆斯：货币政策对于当前经济而言处于“适宜位置”。",
@@ -910,7 +1103,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时40分"
         },
@@ -924,46 +1117,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时16分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "全速扩容！DeepSeek“招兵买马”扩编一倍",
-          "url": "https://www.cls.cn/detail/2409672",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时14分 ~ 13时15分]"
-        },
-        {
-          "title": "所有部门规模至少扩大一倍！DeepSeek发布“英雄帖”：人类正处于AGI前夜",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33454877",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时14分 ~ 17时40分]"
-        },
-        {
-          "title": "DeepSeek大规模招聘",
-          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%8B%9B%E8%81%98%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时14分 ~ 13时15分]"
         }
       ]
     },
@@ -1042,7 +1195,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时40分"
         }
@@ -1064,6 +1217,23 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[08时16分 ~ 17时40分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "教育 鸡娃 小镇做题家",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "教育局回应学校砸毁上百部学生手机",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E5%AD%A6%E6%A0%A1%E7%A0%B8%E6%AF%81%E4%B8%8A%E7%99%BE%E9%83%A8%E5%AD%A6%E7%94%9F%E6%89%8B%E6%9C%BA%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时17分"
         }
       ]
     }
