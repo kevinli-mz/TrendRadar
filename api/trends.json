@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-29T02:10:46.133548+08:00",
-  "total_titles_processed": 398,
+  "generated_at": "2026-06-29T04:18:55.950028+08:00",
+  "total_titles_processed": 444,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 02时10分]"
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 04时18分]"
         },
         {
           "title": "人民日报评“AI脸看腻了”",
@@ -27,19 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 02时10分]"
-        },
-        {
-          "title": "什么导致本周市场大动荡？高盛合伙人：不是沃什，而是AI再平衡",
-          "url": "https://wallstreetcn.com/articles/3775685",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 02时10分]"
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 04时18分]"
         },
         {
           "title": "“我们AI相关的电源功率订单爆满，根本做不过来”！功率半导体再启阶梯式调价",
@@ -49,8 +38,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 02时10分]"
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 04时18分]"
+        },
+        {
+          "title": "什么导致本周市场大动荡？高盛合伙人：不是沃什，而是AI再平衡",
+          "url": "https://wallstreetcn.com/articles/3775685",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 04时18分]"
         },
         {
           "title": "轻量化AI设备需求激增，分析师：AI眼镜正加速迎来规模化拐点",
@@ -59,9 +60,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时10分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时10分 ~ 04时18分]"
         },
         {
           "title": "大家用 grill-me(拷问我) 这个 AI Agent Skill 的体验如何？",
@@ -69,11 +70,12 @@
           "source": "知乎",
           "ranks": [
             5,
-            10
+            10,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 02时10分]"
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 04时18分]"
         },
         {
           "title": "美国科技企业悄然转向中国AI模型，Coinbase带头用上GLM与Kimi",
@@ -83,8 +85,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 02时10分]"
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 04时18分]"
         },
         {
           "title": "大模型推理最高提速85%！DeepSeek发表重磅论文 提出两项互补机制",
@@ -95,8 +97,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 02时10分]"
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 04时18分]"
         },
         {
           "title": "特朗普发扛地球AI照，伊以都不服！",
@@ -106,8 +108,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 02时10分]"
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 04时18分]"
         },
         {
           "title": "AI初创公司Firmus携手英伟达在印尼建设数据中心",
@@ -118,8 +120,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 02时10分]"
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 04时18分]"
         },
         {
           "title": "“央行的央行”发出警告：AI万亿美元投资狂潮，恐演变为“投资萧条”",
@@ -139,7 +141,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时10分"
         },
@@ -166,11 +168,12 @@
           "source": "微博",
           "ranks": [
             25,
-            18
+            18,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 02时10分]"
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 04时18分]"
         },
         {
           "title": "美国230斤男孩家中去世 父母被捕",
@@ -179,7 +182,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时10分"
         },
@@ -201,7 +204,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时10分"
         }
@@ -220,8 +223,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 02时10分]"
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 04时18分]"
         },
         {
           "title": "黎巴嫩国会议长表示，我们重申避免冲突的必要性，并将尽一切努力维护稳定和社会和平。",
@@ -230,7 +233,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时10分"
         }
@@ -246,11 +249,12 @@
           "source": "知乎",
           "ranks": [
             4,
-            7
+            7,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 02时10分]"
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 04时18分]"
         }
       ]
     },
@@ -266,8 +270,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 02时10分]"
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 04时18分]"
         }
       ]
     },
@@ -280,11 +284,12 @@
           "url": "https://www.douyin.com/hot/2550281",
           "source": "抖音",
           "ranks": [
-            28
+            28,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时10分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时10分 ~ 04时18分]"
         }
       ]
     },
@@ -333,11 +338,12 @@
           "source": "知乎",
           "ranks": [
             15,
-            12
+            12,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 02时10分]"
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 04时18分]"
         }
       ]
     }
