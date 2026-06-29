@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-29T19:18:34.166538+08:00",
-  "total_titles_processed": 1072,
+  "generated_at": "2026-06-29T23:58:25.414195+08:00",
+  "total_titles_processed": 1255,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型",
-      "match_count": 25,
+      "match_count": 27,
       "titles": [
         {
           "title": "教师杨某某论文图表被指有AI生成水印，兰州大学成立调查组",
@@ -89,6 +89,17 @@
           "time_info": "13时57分"
         },
         {
+          "title": "国常会：要加力推进人工智能创新突破，加快关键技术攻关和超大规模智算集群建设",
+          "url": "https://www.cls.cn/detail/2412070",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时58分"
+        },
+        {
           "title": "韩国政府预计将在建设人工智能数据中心方面投资约550万亿韩元。",
           "url": "https://flash.jin10.com/detail/20260629133524384800",
           "source": "金十数据",
@@ -114,17 +125,6 @@
           "time_info": "[00时18分 ~ 08时14分]"
         },
         {
-          "title": "年中盘点|站在“光”里，走进“芯”里，“存”在“PCB”里，AI上游材料通胀行情“星光璀璨”…… 一文看懂2026年上半年A股热炒题材",
-          "url": "https://www.cls.cn/detail/2411748",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时18分"
-        },
-        {
           "title": "特朗普发扛地球AI照，伊以都不服！",
           "url": "https://news.ifeng.com/c/8uKW9oaTnDA",
           "source": "凤凰网",
@@ -134,6 +134,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时18分 ~ 06时07分]"
+        },
+        {
+          "title": "年中盘点|站在“光”里，走进“芯”里，“存”在“PCB”里，AI上游材料通胀行情“星光璀璨”…… 一文看懂2026年上半年A股热炒题材",
+          "url": "https://www.cls.cn/detail/2411748",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时18分 ~ 23时58分]"
         },
         {
           "title": "大家用 grill-me(拷问我) 这个 AI Agent Skill 的体验如何？",
@@ -185,6 +197,18 @@
           "time_info": "[13时56分 ~ 19时18分]"
         },
         {
+          "title": "【焦点复盘】沪指深V回升站稳4000点，全市场超190股涨超10%，AI硬件端内部“两极分化”",
+          "url": "https://www.cls.cn/detail/2411865",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时18分 ~ 23时58分]"
+        },
+        {
           "title": "华泰证券：大宗化工景气修复可期 电子化学品受益AI与国产替代",
           "url": "https://flash.jin10.com/detail/20260629074021303800",
           "source": "金十数据",
@@ -216,17 +240,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时18分"
-        },
-        {
-          "title": "【焦点复盘】沪指深V回升站稳4000点，全市场超190股涨超10%，AI硬件端内部“两极分化”",
-          "url": "https://www.cls.cn/detail/2411865",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时18分"
         },
         {
           "title": "韩国政府：预计将在西南部建设四座芯片厂，投资约800万亿韩元；三星电子和SK海力士将各新建两座工厂；预计未来15年在芯片领域的投资将至少达到30万亿韩元，包括下一代内存、边缘人工智能和国防等领域。",
@@ -268,7 +281,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
         },
@@ -284,13 +297,24 @@
           "time_info": "00时18分"
         },
         {
+          "title": "Millennium建立人工智能实验室 ，求研发应用尖端技术",
+          "url": "https://wallstreetcn.com/livenews/3126234",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时58分"
+        },
+        {
           "title": "日本防卫省正考虑引进美企人工智能系统",
           "url": "https://wallstreetcn.com/livenews/3126063",
           "source": "华尔街见闻-快讯",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
         }
@@ -318,11 +342,12 @@
           "source": "澎湃新闻",
           "ranks": [
             8,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时56分 ~ 19时18分]"
+          "appearance_count": 4,
+          "time_info": "[13时56分 ~ 23时58分]"
         },
         {
           "title": "英国首相热门人选伯纳姆：国家和地方政府资源失衡阻碍了经济增长。 国家政府规模扩大，但地方政府却是愈发吃紧。 将推动权力再平衡。 要自下而上地增长。 承诺要让英国每个邮区都实现良好增长。 “北方唐宁街10号”将成为重塑后的英国神经中枢。 将重点关注公用事业改革和再工业化。 制定十年计划以降低必需品价格。 将支持每个地区制定明确的产业目标。",
@@ -331,7 +356,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
         },
@@ -367,6 +392,131 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "教育 鸡娃 小镇做题家",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "未来五年，教育强国这样建设",
+          "url": "https://www.toutiao.com/trending/7656783425231212070/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时58分"
+        },
+        {
+          "title": "教育发展“十五五”规划",
+          "url": "https://www.douyin.com/hot/2552261",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时58分"
+        },
+        {
+          "title": "国务院印发《教育发展“十五五”规划》",
+          "url": "https://www.cls.cn/detail/2411815",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时18分 ~ 23时58分]"
+        },
+        {
+          "title": "中央层面树立和践行正确政绩观学习教育工作专班、中央纪委办公厅公开通报广西壮族自治区南宁市、甘肃省酒泉市新城区、浙江省杭州市萧山区3起政绩观偏差问题",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33472291",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时56分 ~ 19时18分]"
+        },
+        {
+          "title": "《铁拳教育》很敢拍，观众看得很爽，也很不适",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33445578",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时56分 ~ 13时57分]"
+        },
+        {
+          "title": "国务院：探索延长义务教育年限",
+          "url": "https://www.toutiao.com/trending/7655695666401886244/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "性别 男女 女性",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "中国妇女评网游娱乐化女性安全",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A6%87%E5%A5%B3%E8%AF%84%E7%BD%91%E6%B8%B8%E5%A8%B1%E4%B9%90%E5%8C%96%E5%A5%B3%E6%80%A7%E5%AE%89%E5%85%A8%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时18分"
+        },
+        {
+          "title": "电影抓特务里了不起的女性",
+          "url": "https://www.douyin.com/hot/2550281",
+          "source": "抖音",
+          "ranks": [
+            28,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时10分 ~ 04时18分]"
+        },
+        {
+          "title": "美国总统特朗普：令人意外的是，最高法院决定不“受理审查”一名我从未见过的女性针对我提起的一起虚假诉讼（几十年前一张名人活动排队时与她及其丈夫同框的照片，并不能算认识！）。我将继续竭尽全力抗争这起针对我的政治司法化和法律战案件，包括其中荒谬的诽谤指控。",
+          "url": "https://flash.jin10.com/detail/20260629232058322800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时58分"
+        },
+        {
+          "title": "科学备孕男女都要上心",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%A7%91%E5%AD%A6%E5%A4%87%E5%AD%95%E7%94%B7%E5%A5%B3%E9%83%BD%E8%A6%81%E4%B8%8A%E5%BF%83%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时58分"
         }
       ]
     },
@@ -426,42 +576,42 @@
       ]
     },
     {
-      "keyword_group": "教育 鸡娃 小镇做题家",
+      "keyword_group": "DeepSeek 梁文锋",
       "match_count": 3,
       "titles": [
         {
-          "title": "中央层面树立和践行正确政绩观学习教育工作专班、中央纪委办公厅公开通报广西壮族自治区南宁市、甘肃省酒泉市新城区、浙江省杭州市萧山区3起政绩观偏差问题",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33472291",
-          "source": "澎湃新闻",
+          "title": "DeepSeek V4 正式版官宣 7 月中旬上线，引入峰谷定价机制，你怎么看？",
+          "url": "https://www.zhihu.com/question/2054981283089069609",
+          "source": "知乎",
           "ranks": [
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时56分 ~ 19时18分]"
-        },
-        {
-          "title": "《铁拳教育》很敢拍，观众看得很爽，也很不适",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33445578",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时56分 ~ 13时57分]"
-        },
-        {
-          "title": "国务院印发《教育发展“十五五”规划》",
-          "url": "https://www.cls.cn/detail/2411815",
-          "source": "财联社热门",
-          "ranks": [
-            11
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
+          "time_info": "23时58分"
+        },
+        {
+          "title": "DeepSeek V4正式版官宣7月上线，引入峰谷定价机制",
+          "url": "https://wallstreetcn.com/livenews/3126106",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
           "time_info": "19时18分"
+        },
+        {
+          "title": "豆包和DeepSeek的博弈",
+          "url": "https://s.weibo.com/weibo?q=%E8%B1%86%E5%8C%85%E5%92%8CDeepSeek%E7%9A%84%E5%8D%9A%E5%BC%88&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 02时10分]"
         }
       ]
     },
@@ -476,7 +626,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
         },
@@ -526,6 +676,34 @@
       ]
     },
     {
+      "keyword_group": "就业 失业 裁员 应届生",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "曝娱乐圈大部分明星失业",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E5%A8%B1%E4%B9%90%E5%9C%88%E5%A4%A7%E9%83%A8%E5%88%86%E6%98%8E%E6%98%9F%E5%A4%B1%E4%B8%9A%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时18分 ~ 23时58分]"
+        },
+        {
+          "title": "裁员12万还不够？美科技白领与AI展开生存赛，学者建议缩短周工时保就业",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33472508",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时58分"
+        }
+      ]
+    },
+    {
       "keyword_group": "恋爱 相亲 婚恋 脱单",
       "match_count": 2,
       "titles": [
@@ -536,7 +714,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
         },
@@ -555,77 +733,51 @@
       ]
     },
     {
-      "keyword_group": "性别 男女 女性",
+      "keyword_group": "电影 影视 综艺",
       "match_count": 2,
       "titles": [
         {
-          "title": "中国妇女评网游娱乐化女性安全",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A6%87%E5%A5%B3%E8%AF%84%E7%BD%91%E6%B8%B8%E5%A8%B1%E4%B9%90%E5%8C%96%E5%A5%B3%E6%80%A7%E5%AE%89%E5%85%A8%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
+          "title": "已经看完《三国第一部：争洛阳》的人，如何评价这部电影？",
+          "url": "https://www.zhihu.com/question/2054299915073983689",
+          "source": "知乎",
           "ranks": [
-            2
+            15,
+            12,
+            7,
+            8,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时18分 ~ 08时14分]"
+        },
+        {
+          "title": "电影后室值得看吗",
+          "url": "https://search.bilibili.com/all?keyword=%E7%94%B5%E5%BD%B1%E5%90%8E%E5%AE%A4%E5%80%BC%E5%BE%97%E7%9C%8B%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时18分"
-        },
-        {
-          "title": "电影抓特务里了不起的女性",
-          "url": "https://www.douyin.com/hot/2550281",
-          "source": "抖音",
-          "ranks": [
-            28,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时10分 ~ 04时18分]"
+          "time_info": "23时58分"
         }
       ]
     },
     {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "DeepSeek V4正式版官宣7月上线，引入峰谷定价机制",
-          "url": "https://wallstreetcn.com/livenews/3126106",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时18分"
-        },
-        {
-          "title": "豆包和DeepSeek的博弈",
-          "url": "https://s.weibo.com/weibo?q=%E8%B1%86%E5%8C%85%E5%92%8CDeepSeek%E7%9A%84%E5%8D%9A%E5%BC%88&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 02时10分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "就业 失业 裁员 应届生",
+      "keyword_group": "情绪 情绪价值 内耗 精神内耗",
       "match_count": 1,
       "titles": [
         {
-          "title": "曝娱乐圈大部分明星失业",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E5%A8%B1%E4%B9%90%E5%9C%88%E5%A4%A7%E9%83%A8%E5%88%86%E6%98%8E%E6%98%9F%E5%A4%B1%E4%B8%9A%23&t=31&band_rank=21&Refer=top",
-          "source": "微博",
+          "title": "情绪价值这一块还得靠孩子",
+          "url": "https://www.douyin.com/hot/2552039",
+          "source": "抖音",
           "ranks": [
-            21
+            25
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时18分"
+          "time_info": "23时58分"
         }
       ]
     },
@@ -648,6 +800,23 @@
       ]
     },
     {
+      "keyword_group": "房价 买房",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "房价什么时候能涨",
+          "url": "https://www.toutiao.com/trending/7656790297124277796/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时58分"
+        }
+      ]
+    },
+    {
       "keyword_group": "消费 存钱 攒钱",
       "match_count": 1,
       "titles": [
@@ -661,27 +830,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时57分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "电影 影视 综艺",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "已经看完《三国第一部：争洛阳》的人，如何评价这部电影？",
-          "url": "https://www.zhihu.com/question/2054299915073983689",
-          "source": "知乎",
-          "ranks": [
-            15,
-            12,
-            7,
-            8,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时18分 ~ 08时14分]"
         }
       ]
     }
