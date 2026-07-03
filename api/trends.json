@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-04T02:17:51.399069+08:00",
-  "total_titles_processed": 397,
+  "generated_at": "2026-07-04T04:19:50.079137+08:00",
+  "total_titles_processed": 460,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
         {
           "title": "芯片股两连跌！AI“鬼故事”不断：Meta、Anthropic相继传出新动作，市场开始重估AI交易？",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时40分 ~ 02时17分]"
+          "appearance_count": 4,
+          "time_info": "[00时40分 ~ 04时19分]"
         },
         {
           "title": "4名大学生出题 AI考了0分",
@@ -26,8 +26,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时40分 ~ 02时17分]"
+          "appearance_count": 4,
+          "time_info": "[00时40分 ~ 04时19分]"
+        },
+        {
+          "title": "欧洲顶级银行家和监管机构警告：AI发展速度已超越现行规则",
+          "url": "https://wallstreetcn.com/livenews/3128832",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时19分"
         },
         {
           "title": "对话｜硅谷为何争抢哲学家？AI生成内容越廉价，判断力越是稀缺能力",
@@ -37,19 +48,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时40分 ~ 02时17分]"
+          "appearance_count": 4,
+          "time_info": "[00时40分 ~ 04时19分]"
         },
         {
           "title": "Meta收跌5%！报道：扎克伯格称Meta AI智能体开发不及预期",
           "url": "https://wallstreetcn.com/articles/3776098",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时40分 ~ 02时17分]"
+          "appearance_count": 4,
+          "time_info": "[00时40分 ~ 04时19分]"
         },
         {
           "title": "Anthropic自研AI芯片计划引发美股半导体大跌！闪迪大跌14%，费城半导体指数两日重挫12%",
@@ -60,8 +72,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时40分 ~ 02时17分]"
+          "appearance_count": 4,
+          "time_info": "[00时40分 ~ 04时19分]"
         },
         {
           "title": "AI填志愿实测：信息更新可能有偏差，决策还得考生自己做",
@@ -71,19 +83,42 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时40分 ~ 02时17分]"
+          "appearance_count": 4,
+          "time_info": "[00时40分 ~ 04时19分]"
         },
         {
           "title": "加拿大养老基金向EQT的AI基础设施建设投资17.5亿美元",
           "url": "https://wallstreetcn.com/livenews/3128806",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时17分 ~ 04时19分]"
+        },
+        {
+          "title": "特朗普前AI顾问：美国不会设立类FDA的AI监管机构",
+          "url": "https://wallstreetcn.com/livenews/3128826",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时17分"
+          "time_info": "04时19分"
+        },
+        {
+          "title": "Meta股价因AI进展不及预期下跌",
+          "url": "https://www.douyin.com/hot/2556589",
+          "source": "抖音",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时19分"
         },
         {
           "title": "行业最直观的风向标闪烁红灯，词元经济学动摇AI热潮叙事",
@@ -91,6 +126,57 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时41分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "经济 经济学",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "未来我国循环经济发展重点",
+          "url": "https://www.toutiao.com/trending/7658187084221464617/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时40分 ~ 04时19分]"
+        },
+        {
+          "title": "欧洲央行行长将亲自出席下周的欧盟经济和财政事务理事会会议",
+          "url": "https://wallstreetcn.com/livenews/3128807",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时17分 ~ 04时19分]"
+        },
+        {
+          "title": "拉加德将罕见亲自出席下周的欧盟经济和财政事务理事会会议",
+          "url": "https://flash.jin10.com/detail/20260704022128126800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时19分"
+        },
+        {
+          "title": "安盛集团（AXA Group）首席经济学家Gilles Moec认为，美国劳动力市场的基本面尚可，尽管其对利率政策是否会出现分歧不太确定。 “美国的通胀问题比欧洲严重得多。美国的货币政策已经具有限制性，而欧洲则不然。因此，你可以认为他们两者要做的就是维持现状。”（彭博电视）",
+          "url": "https://wallstreetcn.com/livenews/3128761",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -149,8 +235,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时40分 ~ 02时17分]"
+          "appearance_count": 4,
+          "time_info": "[00时40分 ~ 04时19分]"
         },
         {
           "title": "买超回应没有离婚只有丧偶",
@@ -170,48 +256,9 @@
           "ranks": [
             20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时17分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "经济 经济学",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "未来我国循环经济发展重点",
-          "url": "https://www.toutiao.com/trending/7658187084221464617/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时40分 ~ 02时17分]"
-        },
-        {
-          "title": "欧洲央行行长将亲自出席下周的欧盟经济和财政事务理事会会议",
-          "url": "https://wallstreetcn.com/livenews/3128807",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时17分"
-        },
-        {
-          "title": "安盛集团（AXA Group）首席经济学家Gilles Moec认为，美国劳动力市场的基本面尚可，尽管其对利率政策是否会出现分歧不太确定。 “美国的通胀问题比欧洲严重得多。美国的货币政策已经具有限制性，而欧洲则不然。因此，你可以认为他们两者要做的就是维持现状。”（彭博电视）",
-          "url": "https://wallstreetcn.com/livenews/3128761",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时41分"
+          "time_info": "02时17分"
         }
       ]
     },
@@ -219,6 +266,19 @@
       "keyword_group": "教育 鸡娃 小镇做题家",
       "match_count": 3,
       "titles": [
+        {
+          "title": "教育部：坚决杜绝用手机布置作业",
+          "url": "https://www.toutiao.com/trending/7658188046671773723/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时40分 ~ 04时19分]"
+        },
         {
           "title": "教育部：坚决杜绝用手机布置作业",
           "url": "https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%EF%BC%9A%E5%9D%9A%E5%86%B3%E6%9D%9C%E7%BB%9D%E7%94%A8%E6%89%8B%E6%9C%BA%E5%B8%83%E7%BD%AE%E4%BD%9C%E4%B8%9A",
@@ -232,27 +292,16 @@
           "time_info": "[00时40分 ~ 02时17分]"
         },
         {
-          "title": "教育部：坚决杜绝用手机布置作业",
-          "url": "https://www.toutiao.com/trending/7658188046671773723/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时40分 ~ 02时17分]"
-        },
-        {
           "title": "教育部：严禁人籍分离空挂学籍",
           "url": "https://www.douyin.com/hot/2556675",
           "source": "抖音",
           "ranks": [
-            14
+            14,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 00时41分]"
+          "appearance_count": 3,
+          "time_info": "[00时40分 ~ 04时19分]"
         }
       ]
     },
@@ -266,11 +315,12 @@
           "source": "百度热搜",
           "ranks": [
             28,
-            10
+            10,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时40分 ~ 02时17分]"
+          "appearance_count": 4,
+          "time_info": "[00时40分 ~ 04时19分]"
         },
         {
           "title": "月供五百开SU7?小米拿捏年轻人",
@@ -280,8 +330,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时40分 ~ 02时17分]"
+          "appearance_count": 4,
+          "time_info": "[00时40分 ~ 04时19分]"
         }
       ]
     },
@@ -294,11 +344,12 @@
           "url": "https://www.zhihu.com/question/2054968366956393838",
           "source": "知乎",
           "ranks": [
-            17
+            17,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时17分 ~ 04时19分]"
         },
         {
           "title": "升级版电影院要来了",
@@ -307,9 +358,9 @@
           "ranks": [
             29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时17分 ~ 04时19分]"
         }
       ]
     },
@@ -325,8 +376,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时40分 ~ 02时17分]"
+          "appearance_count": 4,
+          "time_info": "[00时40分 ~ 04时19分]"
         }
       ]
     }
