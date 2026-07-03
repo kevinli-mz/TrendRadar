@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-03T12:48:47.061977+08:00",
-  "total_titles_processed": 911,
+  "generated_at": "2026-07-03T16:15:10.912231+08:00",
+  "total_titles_processed": 1092,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型",
-      "match_count": 47,
+      "match_count": 49,
       "titles": [
         {
           "title": "Meta被曝计划出售算力，AI算力过剩了吗？多家机构发声",
@@ -56,6 +56,30 @@
           "time_info": "[00时55分 ~ 06时14分]"
         },
         {
+          "title": "芯片股两连跌！AI“鬼故事”不断：Meta、Anthropic相继传出新动作，市场开始重估AI交易？",
+          "url": "https://wallstreetcn.com/articles/3776101",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时48分 ~ 16时15分]"
+        },
+        {
+          "title": "Meta“卖算力”原因曝光？扎克伯格：AI智能体开发速度不及预期",
+          "url": "https://www.cls.cn/detail/2415999",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时48分 ~ 16时15分]"
+        },
+        {
           "title": "AI究竟是福是祸？全球顶级经济学家激辩：风险不可忽视",
           "url": "https://www.cls.cn/detail/2415407",
           "source": "财联社热门",
@@ -69,6 +93,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时55分 ~ 08时13分]"
+        },
+        {
+          "title": "砸钱时代落幕？Meta和Anthropic接连出招，AI行业逻辑悄然生变",
+          "url": "https://www.cls.cn/detail/2416232",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时14分 ~ 16时15分]"
         },
         {
           "title": "如何评价AI巨头之间的混战",
@@ -115,28 +150,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时40分"
-        },
-        {
-          "title": "芯片股两连跌！AI“鬼故事”不断：Meta、Anthropic相继传出新动作，市场开始重估AI交易？",
-          "url": "https://wallstreetcn.com/articles/3776101",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时48分"
-        },
-        {
-          "title": "Meta“卖算力”原因曝光？扎克伯格：AI智能体开发速度不及预期",
-          "url": "https://www.cls.cn/detail/2415999",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时48分"
         },
         {
           "title": "报道：韩国考虑动用5万亿韩元增量税收推进自主AI模型开发，正在讨论购买约1万个英伟达Vera Rubin GPU模块",
@@ -186,6 +199,18 @@
           "time_info": "[00时55分 ~ 04时23分]"
         },
         {
+          "title": "Meta收跌5%！报道：扎克伯格称Meta AI智能体开发不及预期",
+          "url": "https://wallstreetcn.com/articles/3776098",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时48分 ~ 16时15分]"
+        },
+        {
           "title": "美银：Meta卖算力，意在讲好AI投资回报故事",
           "url": "https://wallstreetcn.com/articles/3776055",
           "source": "华尔街见闻",
@@ -196,6 +221,29 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时13分 ~ 08时13分]"
+        },
+        {
+          "title": "对话｜硅谷为何争抢哲学家？AI生成内容越廉价，判断力越是稀缺能力",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33501142",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时48分 ~ 16时15分]"
+        },
+        {
+          "title": "Robinhood CEO：AI智能体很快将媲美人类交易员 散户有望获得机构级交易能力",
+          "url": "https://www.cls.cn/detail/2415850",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时48分 ~ 16时15分]"
         },
         {
           "title": "Meta有意出售AI算力 分析人士警告：云业务利润率远逊广告",
@@ -219,6 +267,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时56分 ~ 02时40分]"
+        },
+        {
+          "title": "AI光互联领域重要信号！英伟达技术大牛跳槽 VCSEL路线重塑CPO格局？",
+          "url": "https://www.cls.cn/detail/2416215",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时14分 ~ 16时15分]"
         },
         {
           "title": "微软动员6000名员工，助客户采用AI技术",
@@ -267,35 +326,13 @@
           "time_info": "06时14分"
         },
         {
-          "title": "Meta收跌5%！报道：扎克伯格称Meta AI智能体开发不及预期",
-          "url": "https://wallstreetcn.com/articles/3776098",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时48分"
-        },
-        {
           "title": "阿里达摩院：AI智能体发现4种全新超导材料，已获实验验证",
           "url": "https://wallstreetcn.com/livenews/3128407",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时48分"
-        },
-        {
-          "title": "Robinhood CEO：AI智能体很快将媲美人类交易员 散户有望获得机构级交易能力",
-          "url": "https://www.cls.cn/detail/2415850",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时48分"
         },
@@ -317,7 +354,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时48分"
         },
@@ -344,24 +381,13 @@
           "time_info": "04时23分"
         },
         {
-          "title": "对话｜硅谷为何争抢哲学家？AI生成内容越廉价，判断力越是稀缺能力",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33501142",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时48分"
-        },
-        {
           "title": "全球AI疯狂重创千元机市场",
           "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83AI%E7%96%AF%E7%8B%82%E9%87%8D%E5%88%9B%E5%8D%83%E5%85%83%E6%9C%BA%E5%B8%82%E5%9C%BA%23&t=31&band_rank=16&Refer=top",
           "source": "微博",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时48分"
         },
@@ -438,7 +464,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时48分"
         },
@@ -537,7 +563,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时48分"
         }
@@ -610,6 +636,29 @@
           "time_info": "[00时55分 ~ 04时23分]"
         },
         {
+          "title": "影视小镇投资几十亿后倒闭？谣言",
+          "url": "https://www.baidu.com/s?wd=%E5%BD%B1%E8%A7%86%E5%B0%8F%E9%95%87%E6%8A%95%E8%B5%84%E5%87%A0%E5%8D%81%E4%BA%BF%E5%90%8E%E5%80%92%E9%97%AD%EF%BC%9F%E8%B0%A3%E8%A8%80",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时48分 ~ 16时15分]"
+        },
+        {
+          "title": "电影特立独行今日上映",
+          "url": "https://www.douyin.com/hot/2556517",
+          "source": "抖音",
+          "ranks": [
+            21,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时48分 ~ 16时15分]"
+        },
+        {
           "title": "影视飓风员工道歉",
           "url": "https://s.weibo.com/weibo?q=%23%E5%BD%B1%E8%A7%86%E9%A3%93%E9%A3%8E%E5%91%98%E5%B7%A5%E9%81%93%E6%AD%89%23&t=31&band_rank=6&Refer=top",
           "source": "微博",
@@ -656,35 +705,13 @@
           "time_info": "08时13分"
         },
         {
-          "title": "影视小镇投资几十亿后倒闭？谣言",
-          "url": "https://www.baidu.com/s?wd=%E5%BD%B1%E8%A7%86%E5%B0%8F%E9%95%87%E6%8A%95%E8%B5%84%E5%87%A0%E5%8D%81%E4%BA%BF%E5%90%8E%E5%80%92%E9%97%AD%EF%BC%9F%E8%B0%A3%E8%A8%80",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时48分"
-        },
-        {
-          "title": "电影特立独行今日上映",
-          "url": "https://www.douyin.com/hot/2556517",
-          "source": "抖音",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时48分"
-        },
-        {
           "title": "开拍啦怪兽大电影感动完结",
           "url": "https://search.bilibili.com/all?keyword=%E5%BC%80%E6%8B%8D%E5%95%A6%E6%80%AA%E5%85%BD%E5%A4%A7%E7%94%B5%E5%BD%B1",
           "source": "bilibili 热搜",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时48分"
         }
@@ -702,8 +729,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时55分 ~ 12时48分]"
+          "appearance_count": 10,
+          "time_info": "[00时55分 ~ 16时15分]"
         },
         {
           "title": "今晚，沃什时代首份非农出炉，世界杯或营造就业\"虚火\"",
@@ -763,11 +790,12 @@
           "url": "https://wallstreetcn.com/articles/3776096",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时48分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时48分 ~ 16时15分]"
         },
         {
           "title": "美国疲软就业报告施压美元，拉美市场顺势走高",
@@ -817,7 +845,7 @@
     },
     {
       "keyword_group": "经济 经济学",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "欧洲央行行长拉加德：欧洲央行6月加息肯定是正确的选择。 央行大部分决策者曾准备4月份加息。 供应链冲击通过经济扩散开来。 第二轮（通胀）效应还没有实质化。",
@@ -848,9 +876,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时48分"
+        },
+        {
+          "title": "法国、德国及欧元区6月服务业PMI终值将于十分钟后陆续公布；欧洲央行行长拉加德将参加经济论坛。",
+          "url": "https://flash.jin10.com/detail/20260703154000001800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时15分"
         },
         {
           "title": "日本经济有多依赖中国供应链",
@@ -859,7 +898,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时48分"
         },
@@ -886,11 +925,12 @@
           "source": "贴吧",
           "ranks": [
             2,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时55分 ~ 12时48分]"
+          "appearance_count": 10,
+          "time_info": "[00时55分 ~ 16时15分]"
         },
         {
           "title": "同床还是分床？现代婚姻的睡眠困局",
@@ -945,11 +985,12 @@
           "ranks": [
             7,
             8,
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时55分 ~ 12时48分]"
+          "appearance_count": 10,
+          "time_info": "[00时55分 ~ 16时15分]"
         },
         {
           "title": "00后本科生抱儿子参加毕业典礼",
@@ -960,11 +1001,12 @@
             15,
             9,
             24,
-            7
+            7,
+            14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时55分 ~ 12时48分]"
+          "appearance_count": 10,
+          "time_info": "[00时55分 ~ 16时15分]"
         },
         {
           "title": "00后本科生抱儿子参加毕业典礼",
@@ -1128,7 +1170,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时48分"
         }
@@ -1145,7 +1187,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时48分"
         },
@@ -1156,7 +1198,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时48分"
         }
@@ -1178,6 +1220,40 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时55分 ~ 04时23分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "焦虑 emo",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "上门取件焦虑症",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%8A%E9%97%A8%E5%8F%96%E4%BB%B6%E7%84%A6%E8%99%91%E7%97%87&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时15分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "生育 催生 不婚",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "超仿生人形机器人正催生万亿级市场吗",
+          "url": "https://www.toutiao.com/trending/7657854295265512998/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时14分 ~ 16时15分]"
         }
       ]
     },
