@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-04T00:41:05.837785+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-07-04T02:17:51.399069+08:00",
+  "total_titles_processed": 397,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "芯片股两连跌！AI“鬼故事”不断：Meta、Anthropic相继传出新动作，市场开始重估AI交易？",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 00时41分]"
+          "appearance_count": 3,
+          "time_info": "[00时40分 ~ 02时17分]"
         },
         {
           "title": "4名大学生出题 AI考了0分",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 00时41分]"
+          "appearance_count": 3,
+          "time_info": "[00时40分 ~ 02时17分]"
         },
         {
           "title": "对话｜硅谷为何争抢哲学家？AI生成内容越廉价，判断力越是稀缺能力",
@@ -37,8 +37,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 00时41分]"
+          "appearance_count": 3,
+          "time_info": "[00时40分 ~ 02时17分]"
         },
         {
           "title": "Meta收跌5%！报道：扎克伯格称Meta AI智能体开发不及预期",
@@ -48,19 +48,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 00时41分]"
+          "appearance_count": 3,
+          "time_info": "[00时40分 ~ 02时17分]"
         },
         {
           "title": "Anthropic自研AI芯片计划引发美股半导体大跌！闪迪大跌14%，费城半导体指数两日重挫12%",
           "url": "https://wallstreetcn.com/articles/3776091",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 00时41分]"
+          "appearance_count": 3,
+          "time_info": "[00时40分 ~ 02时17分]"
         },
         {
           "title": "AI填志愿实测：信息更新可能有偏差，决策还得考生自己做",
@@ -70,8 +71,19 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 00时41分]"
+          "appearance_count": 3,
+          "time_info": "[00时40分 ~ 02时17分]"
+        },
+        {
+          "title": "加拿大养老基金向EQT的AI基础设施建设投资17.5亿美元",
+          "url": "https://wallstreetcn.com/livenews/3128806",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时17分"
         },
         {
           "title": "行业最直观的风向标闪烁红灯，词元经济学动摇AI热潮叙事",
@@ -80,7 +92,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时41分"
         }
@@ -98,8 +110,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 00时41分]"
+          "appearance_count": 3,
+          "time_info": "[00时40分 ~ 02时17分]"
         },
         {
           "title": "法国巴黎银行首席经济学家Isabelle Mateos y Lago：如果我们看到的美国非农就业数据非常强劲，接近13万或以上，那么我认为7月的会议将会非常、非常引人关注。 现在这种可能性可能降低了，但在我看来，美联储加息的理由并未减弱。（彭博电视）",
@@ -108,7 +120,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时41分"
         },
@@ -119,7 +131,85 @@
           "ranks": [
             30
           ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时41分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "婚姻 结婚 离婚 彩礼",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "纯正傲娇!结婚15年还嘴硬",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355845&amp;topic_name=%E7%BA%AF%E6%AD%A3%E5%82%B2%E5%A8%87%21%E7%BB%93%E5%A9%9A15%E5%B9%B4%E8%BF%98%E5%98%B4%E7%A1%AC",
+          "source": "贴吧",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时40分 ~ 02时17分]"
+        },
+        {
+          "title": "买超回应没有离婚只有丧偶",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B9%B0%E8%B6%85%E5%9B%9E%E5%BA%94%E6%B2%A1%E6%9C%89%E7%A6%BB%E5%A9%9A%E5%8F%AA%E6%9C%89%E4%B8%A7%E5%81%B6%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时40分 ~ 00时41分]"
+        },
+        {
+          "title": "买超回应“没有离婚只有丧偶”言论",
+          "url": "https://www.toutiao.com/trending/7658264499732348978/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时17分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "经济 经济学",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "未来我国循环经济发展重点",
+          "url": "https://www.toutiao.com/trending/7658187084221464617/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时40分 ~ 02时17分]"
+        },
+        {
+          "title": "欧洲央行行长将亲自出席下周的欧盟经济和财政事务理事会会议",
+          "url": "https://wallstreetcn.com/livenews/3128807",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时17分"
+        },
+        {
+          "title": "安盛集团（AXA Group）首席经济学家Gilles Moec认为，美国劳动力市场的基本面尚可，尽管其对利率政策是否会出现分歧不太确定。 “美国的通胀问题比欧洲严重得多。美国的货币政策已经具有限制性，而欧洲则不然。因此，你可以认为他们两者要做的就是维持现状。”（彭博电视）",
+          "url": "https://wallstreetcn.com/livenews/3128761",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时41分"
         }
@@ -134,22 +224,24 @@
           "url": "https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%EF%BC%9A%E5%9D%9A%E5%86%B3%E6%9D%9C%E7%BB%9D%E7%94%A8%E6%89%8B%E6%9C%BA%E5%B8%83%E7%BD%AE%E4%BD%9C%E4%B8%9A",
           "source": "百度热搜",
           "ranks": [
-            7
+            7,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 00时41分]"
+          "appearance_count": 3,
+          "time_info": "[00时40分 ~ 02时17分]"
         },
         {
           "title": "教育部：坚决杜绝用手机布置作业",
           "url": "https://www.toutiao.com/trending/7658188046671773723/",
           "source": "今日头条",
           "ranks": [
-            14
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 00时41分]"
+          "appearance_count": 3,
+          "time_info": "[00时40分 ~ 02时17分]"
         },
         {
           "title": "教育部：严禁人籍分离空挂学籍",
@@ -169,6 +261,18 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "港媒：为何西方年轻人日益向往中国",
+          "url": "https://www.baidu.com/s?wd=%E6%B8%AF%E5%AA%92%EF%BC%9A%E4%B8%BA%E4%BD%95%E8%A5%BF%E6%96%B9%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%97%A5%E7%9B%8A%E5%90%91%E5%BE%80%E4%B8%AD%E5%9B%BD",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时40分 ~ 02时17分]"
+        },
+        {
           "title": "月供五百开SU7?小米拿捏年轻人",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355844&amp;topic_name=%E6%9C%88%E4%BE%9B%E4%BA%94%E7%99%BE%E5%BC%80SU7%3F%E5%B0%8F%E7%B1%B3%E6%8B%BF%E6%8D%8F%E5%B9%B4%E8%BD%BB%E4%BA%BA",
           "source": "贴吧",
@@ -176,75 +280,36 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 00时41分]"
-        },
-        {
-          "title": "港媒：为何西方年轻人日益向往中国",
-          "url": "https://www.baidu.com/s?wd=%E6%B8%AF%E5%AA%92%EF%BC%9A%E4%B8%BA%E4%BD%95%E8%A5%BF%E6%96%B9%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%97%A5%E7%9B%8A%E5%90%91%E5%BE%80%E4%B8%AD%E5%9B%BD",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 00时41分]"
+          "appearance_count": 3,
+          "time_info": "[00时40分 ~ 02时17分]"
         }
       ]
     },
     {
-      "keyword_group": "婚姻 结婚 离婚 彩礼",
+      "keyword_group": "电影 影视 综艺",
       "match_count": 2,
       "titles": [
         {
-          "title": "纯正傲娇!结婚15年还嘴硬",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355845&amp;topic_name=%E7%BA%AF%E6%AD%A3%E5%82%B2%E5%A8%87%21%E7%BB%93%E5%A9%9A15%E5%B9%B4%E8%BF%98%E5%98%B4%E7%A1%AC",
-          "source": "贴吧",
+          "title": "如何评价白敬亭、魏翔主演的喜剧电影《特立独行》？",
+          "url": "https://www.zhihu.com/question/2054968366956393838",
+          "source": "知乎",
           "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 00时41分]"
-        },
-        {
-          "title": "买超回应没有离婚只有丧偶",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B9%B0%E8%B6%85%E5%9B%9E%E5%BA%94%E6%B2%A1%E6%9C%89%E7%A6%BB%E5%A9%9A%E5%8F%AA%E6%9C%89%E4%B8%A7%E5%81%B6%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 00时41分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "经济 经济学",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "未来我国循环经济发展重点",
-          "url": "https://www.toutiao.com/trending/7658187084221464617/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 00时41分]"
-        },
-        {
-          "title": "安盛集团（AXA Group）首席经济学家Gilles Moec认为，美国劳动力市场的基本面尚可，尽管其对利率政策是否会出现分歧不太确定。 “美国的通胀问题比欧洲严重得多。美国的货币政策已经具有限制性，而欧洲则不然。因此，你可以认为他们两者要做的就是维持现状。”（彭博电视）",
-          "url": "https://wallstreetcn.com/livenews/3128761",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
+            17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时41分"
+          "time_info": "02时17分"
+        },
+        {
+          "title": "升级版电影院要来了",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%87%E7%BA%A7%E7%89%88%E7%94%B5%E5%BD%B1%E9%99%A2%E8%A6%81%E6%9D%A5%E4%BA%86%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时17分"
         }
       ]
     },
@@ -260,8 +325,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 00时41分]"
+          "appearance_count": 3,
+          "time_info": "[00时40分 ~ 02时17分]"
         }
       ]
     }
