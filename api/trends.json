@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-05T00:09:51.331962+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-07-05T02:07:34.606291+08:00",
+  "total_titles_processed": 384,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/articles/3776196",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时09分"
+          "appearance_count": 2,
+          "time_info": "[00时09分 ~ 02时07分]"
         },
         {
           "title": "特斯拉限制员工AI使用开销 美国多家科技企业收紧AI支出",
@@ -26,19 +27,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时09分"
+          "appearance_count": 2,
+          "time_info": "[00时09分 ~ 02时07分]"
         },
         {
           "title": "高盛：美股AI上涨力竭，下半年布局防御板块，看好医疗、欧洲防务",
           "url": "https://wallstreetcn.com/articles/3776200",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时09分"
+          "appearance_count": 2,
+          "time_info": "[00时09分 ~ 02时07分]"
         },
         {
           "title": "特斯拉限制员工AI使用开销 美国多家科技企业收紧AI支出",
@@ -62,11 +64,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355884&amp;topic_name=%E4%B8%80%E7%A2%97%E9%9D%A238%E5%9D%97%2C%E6%97%A5%E6%9C%AC%E8%BF%98%E5%9C%A8%E5%90%B9%E7%BB%8F%E6%B5%8E",
           "source": "贴吧",
           "ranks": [
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时09分"
+          "appearance_count": 2,
+          "time_info": "[00时09分 ~ 02时07分]"
         },
         {
           "title": "吴政隆在湖北湖南调研时指出 持续增强内生动力 推动经济向新向优向好发展",
@@ -76,8 +79,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时09分"
+          "appearance_count": 2,
+          "time_info": "[00时09分 ~ 02时07分]"
         }
       ]
     },
@@ -93,19 +96,48 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时09分"
+          "appearance_count": 2,
+          "time_info": "[00时09分 ~ 02时07分]"
         },
         {
           "title": "男子消费9元转账5000元老板报警",
           "url": "https://www.toutiao.com/trending/7658275934449614884/",
           "source": "今日头条",
           "ranks": [
-            9
+            9,
+            19
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时09分 ~ 02时07分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "教育 鸡娃 小镇做题家",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "教育机构员工泄愤删除考生志愿致落榜",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E6%9C%BA%E6%9E%84%E5%91%98%E5%B7%A5%E6%B3%84%E6%84%A4%E5%88%A0%E9%99%A4%E8%80%83%E7%94%9F%E5%BF%97%E6%84%BF%E8%87%B4%E8%90%BD%E6%A6%9C%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时09分"
+          "time_info": "02时07分"
+        },
+        {
+          "title": "教育机构员工泄愤删考生志愿致落榜",
+          "url": "https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E6%9C%BA%E6%9E%84%E5%91%98%E5%B7%A5%E6%B3%84%E6%84%A4%E5%88%A0%E8%80%83%E7%94%9F%E5%BF%97%E6%84%BF%E8%87%B4%E8%90%BD%E6%A6%9C",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时07分"
         }
       ]
     },
@@ -118,11 +150,12 @@
           "url": "https://www.zhihu.com/question/2056331210230428065",
           "source": "知乎",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时09分"
+          "appearance_count": 2,
+          "time_info": "[00时09分 ~ 02时07分]"
         }
       ]
     },
@@ -135,11 +168,12 @@
           "url": "https://wallstreetcn.com/articles/3776124",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时09分"
+          "appearance_count": 2,
+          "time_info": "[00时09分 ~ 02时07分]"
         }
       ]
     },
@@ -155,8 +189,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时09分"
+          "appearance_count": 2,
+          "time_info": "[00时09分 ~ 02时07分]"
         }
       ]
     },
@@ -169,11 +203,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355885&amp;topic_name=%E5%B1%B1%E6%96%B0%E7%A6%BB%E5%A9%9A%2C%E9%85%8D%E9%9F%B3%E5%9C%88%E4%BD%B3%E5%81%B6%E4%BD%93%E9%9D%A2%E5%88%86%E6%89%8B",
           "source": "贴吧",
           "ranks": [
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时09分"
+          "appearance_count": 2,
+          "time_info": "[00时09分 ~ 02时07分]"
         }
       ]
     },
@@ -186,11 +221,46 @@
           "url": "https://www.douyin.com/hot/2556908",
           "source": "抖音",
           "ranks": [
-            28
+            28,
+            27
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时09分 ~ 02时07分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "原生家庭 父母 亲子",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "袪魅一下西方的不赡养父母的设定",
+          "url": "https://s.weibo.com/weibo?q=%E8%A2%AA%E9%AD%85%E4%B8%80%E4%B8%8B%E8%A5%BF%E6%96%B9%E7%9A%84%E4%B8%8D%E8%B5%A1%E5%85%BB%E7%88%B6%E6%AF%8D%E7%9A%84%E8%AE%BE%E5%AE%9A&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时09分"
+          "time_info": "02时07分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "电影 影视 综艺",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "如何看待 2026 年 7 月 3 日正式上映的喜剧电影《特立独行》获得点映评分 9.6 分？",
+          "url": "https://www.zhihu.com/question/2054241838614197404",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时07分"
         }
       ]
     }
