@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-04T12:40:35.839900+08:00",
-  "total_titles_processed": 781,
+  "generated_at": "2026-07-04T15:52:23.105729+08:00",
+  "total_titles_processed": 936,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "芯片股两连跌！AI“鬼故事”不断：Meta、Anthropic相继传出新动作，市场开始重估AI交易？",
@@ -118,6 +118,18 @@
           "time_info": "[04时19分 ~ 08时11分]"
         },
         {
+          "title": "DeepSeek高峰涨价意味着什么?高盛：国内大模型竞争正回归理性",
+          "url": "https://wallstreetcn.com/articles/3776170",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时40分 ~ 15时52分]"
+        },
+        {
           "title": "加拿大养老基金向EQT的AI基础设施建设投资17.5亿美元",
           "url": "https://wallstreetcn.com/livenews/3128806",
           "source": "华尔街见闻-快讯",
@@ -165,26 +177,26 @@
           "time_info": "08时11分"
         },
         {
-          "title": "DeepSeek高峰涨价意味着什么?高盛：国内大模型竞争正回归理性",
-          "url": "https://wallstreetcn.com/articles/3776170",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时40分"
-        },
-        {
           "title": "Meta“算力过剩”疑云背后：扎克伯格说AI进展慢了，AI负责人新模型说已追上GPT-5.5",
           "url": "https://wallstreetcn.com/articles/3776134",
           "source": "华尔街见闻",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时40分"
+        },
+        {
+          "title": "业内首个AI-eSIM产业协同平台成立",
+          "url": "https://wallstreetcn.com/livenews/3128902",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时52分"
         },
         {
           "title": "常州市市长周伟调研人工智能上游产业",
@@ -193,7 +205,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时40分"
         },
@@ -204,7 +216,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时40分"
         },
@@ -234,7 +246,7 @@
     },
     {
       "keyword_group": "经济 经济学",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "未来我国循环经济发展重点",
@@ -254,7 +266,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时40分"
         },
@@ -263,11 +275,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355884&amp;topic_name=%E4%B8%80%E7%A2%97%E9%9D%A238%E5%9D%97%2C%E6%97%A5%E6%9C%AC%E8%BF%98%E5%9C%A8%E5%90%B9%E7%BB%8F%E6%B5%8E",
           "source": "贴吧",
           "ranks": [
-            4
+            4,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时40分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时40分 ~ 15时52分]"
         },
         {
           "title": "拉加德将罕见亲自出席下周的欧盟经济和财政事务理事会会议",
@@ -293,13 +306,46 @@
           "time_info": "[02时17分 ~ 04时19分]"
         },
         {
+          "title": "日本经济产业大臣赤泽亮正：准备协助海外芯片制造商在日本投资。",
+          "url": "https://flash.jin10.com/detail/20260704135129983800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时52分"
+        },
+        {
+          "title": "新华时评｜以严法明规促进平台经济健康发展",
+          "url": "https://wallstreetcn.com/livenews/3128898",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时52分"
+        },
+        {
+          "title": "日本经济产业大臣赤泽亮正：准备援助在日投资的海外芯片制造商。",
+          "url": "https://wallstreetcn.com/livenews/3128897",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时52分"
+        },
+        {
           "title": "特朗普：美国经济正强劲腾飞！",
           "url": "https://flash.jin10.com/detail/20260704093740277800",
           "source": "金十数据",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时40分"
         },
@@ -310,7 +356,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时40分"
         },
@@ -321,7 +367,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时40分"
         },
@@ -369,6 +415,18 @@
           "time_info": "[00时40分 ~ 06时10分]"
         },
         {
+          "title": "被这届年轻人封神的《无悔追踪》当年是怎么拍出来的？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33511650",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时40分 ~ 15时52分]"
+        },
+        {
           "title": "港媒谈为何西方年轻人日益向往中国",
           "url": "https://www.baidu.com/s?wd=%E6%B8%AF%E5%AA%92%E8%B0%88%E4%B8%BA%E4%BD%95%E8%A5%BF%E6%96%B9%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%97%A5%E7%9B%8A%E5%90%91%E5%BE%80%E4%B8%AD%E5%9B%BD",
           "source": "百度热搜",
@@ -378,17 +436,61 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时11分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "婚姻 结婚 离婚 彩礼",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "纯正傲娇!结婚15年还嘴硬",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355845&amp;topic_name=%E7%BA%AF%E6%AD%A3%E5%82%B2%E5%A8%87%21%E7%BB%93%E5%A9%9A15%E5%B9%B4%E8%BF%98%E5%98%B4%E7%A1%AC",
+          "source": "贴吧",
+          "ranks": [
+            18,
+            19,
+            24,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时40分 ~ 15时52分]"
         },
         {
-          "title": "被这届年轻人封神的《无悔追踪》当年是怎么拍出来的？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33511650",
-          "source": "澎湃新闻",
+          "title": "买超回应“没有离婚只有丧偶”言论",
+          "url": "https://www.toutiao.com/trending/7658264499732348978/",
+          "source": "今日头条",
           "ranks": [
-            12
+            20,
+            27,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时17分 ~ 08时11分]"
+        },
+        {
+          "title": "买超回应没有离婚只有丧偶",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B9%B0%E8%B6%85%E5%9B%9E%E5%BA%94%E6%B2%A1%E6%9C%89%E7%A6%BB%E5%A9%9A%E5%8F%AA%E6%9C%89%E4%B8%A7%E5%81%B6%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时40分 ~ 00时41分]"
+        },
+        {
+          "title": "山新离婚,配音圈佳偶体面分手",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355885&amp;topic_name=%E5%B1%B1%E6%96%B0%E7%A6%BB%E5%A9%9A%2C%E9%85%8D%E9%9F%B3%E5%9C%88%E4%BD%B3%E5%81%B6%E4%BD%93%E9%9D%A2%E5%88%86%E6%89%8B",
+          "source": "贴吧",
+          "ranks": [
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时40分"
+          "time_info": "15时52分"
         }
       ]
     },
@@ -439,11 +541,66 @@
           "url": "https://www.baidu.com/s?wd=%E5%90%8C%E5%AD%A6%E8%A2%AB%E5%98%B2%E2%80%9C%E7%A9%BF%E5%81%87%E9%9E%8B%E2%80%9D+%E7%8F%AD%E4%B8%BB%E4%BB%BB%E4%B8%A5%E8%82%83%E6%95%99%E8%82%B2",
           "source": "百度热搜",
           "ranks": [
-            19
+            19,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时40分 ~ 15时52分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "电影 影视 综艺",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "升级版电影院要来了",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%87%E7%BA%A7%E7%89%88%E7%94%B5%E5%BD%B1%E9%99%A2%E8%A6%81%E6%9D%A5%E4%BA%86%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29,
+            30,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时17分 ~ 12时40分]"
+        },
+        {
+          "title": "如何评价白敬亭、魏翔主演的喜剧电影《特立独行》？",
+          "url": "https://www.zhihu.com/question/2054968366956393838",
+          "source": "知乎",
+          "ranks": [
+            17,
+            15,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时17分 ~ 08时11分]"
+        },
+        {
+          "title": "电影特立独行讽刺味太足了",
+          "url": "https://www.douyin.com/hot/2557913",
+          "source": "抖音",
+          "ranks": [
+            16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时40分"
+          "time_info": "15时52分"
+        },
+        {
+          "title": "电影抓特务老辈子的纯爱",
+          "url": "https://www.douyin.com/hot/2556525",
+          "source": "抖音",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时10分"
         }
       ]
     },
@@ -487,92 +644,6 @@
       ]
     },
     {
-      "keyword_group": "婚姻 结婚 离婚 彩礼",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "纯正傲娇!结婚15年还嘴硬",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355845&amp;topic_name=%E7%BA%AF%E6%AD%A3%E5%82%B2%E5%A8%87%21%E7%BB%93%E5%A9%9A15%E5%B9%B4%E8%BF%98%E5%98%B4%E7%A1%AC",
-          "source": "贴吧",
-          "ranks": [
-            18,
-            19,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时40分 ~ 12时40分]"
-        },
-        {
-          "title": "买超回应“没有离婚只有丧偶”言论",
-          "url": "https://www.toutiao.com/trending/7658264499732348978/",
-          "source": "今日头条",
-          "ranks": [
-            20,
-            27,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时17分 ~ 08时11分]"
-        },
-        {
-          "title": "买超回应没有离婚只有丧偶",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B9%B0%E8%B6%85%E5%9B%9E%E5%BA%94%E6%B2%A1%E6%9C%89%E7%A6%BB%E5%A9%9A%E5%8F%AA%E6%9C%89%E4%B8%A7%E5%81%B6%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 00时41分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "电影 影视 综艺",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "升级版电影院要来了",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%87%E7%BA%A7%E7%89%88%E7%94%B5%E5%BD%B1%E9%99%A2%E8%A6%81%E6%9D%A5%E4%BA%86%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29,
-            30,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时17分 ~ 12时40分]"
-        },
-        {
-          "title": "如何评价白敬亭、魏翔主演的喜剧电影《特立独行》？",
-          "url": "https://www.zhihu.com/question/2054968366956393838",
-          "source": "知乎",
-          "ranks": [
-            17,
-            15,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时17分 ~ 08时11分]"
-        },
-        {
-          "title": "电影抓特务老辈子的纯爱",
-          "url": "https://www.douyin.com/hot/2556525",
-          "source": "抖音",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时10分"
-        }
-      ]
-    },
-    {
       "keyword_group": "焦虑 emo",
       "match_count": 2,
       "titles": [
@@ -585,8 +656,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时11分 ~ 12时40分]"
+          "appearance_count": 3,
+          "time_info": "[08时11分 ~ 15时52分]"
         },
         {
           "title": "AI焦虑暂退，全球股市反弹，欧股创历史新高，金铜拉涨，美元下跌",
@@ -610,11 +681,12 @@
           "url": "https://www.zhihu.com/question/2056509067665700235",
           "source": "知乎",
           "ranks": [
-            12
+            12,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时40分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时40分 ~ 15时52分]"
         },
         {
           "title": "消费者质疑平台自营卖翻新电脑：保修期两年前被激活，商家称是“全新”",
@@ -623,7 +695,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时40分"
         }
@@ -659,8 +731,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时11分 ~ 12时40分]"
+          "appearance_count": 3,
+          "time_info": "[08时11分 ~ 15时52分]"
         }
       ]
     },
@@ -692,7 +764,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时40分"
         }
