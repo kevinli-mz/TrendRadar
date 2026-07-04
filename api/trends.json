@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-04T08:11:53.726094+08:00",
-  "total_titles_processed": 573,
+  "generated_at": "2026-07-04T12:40:35.839900+08:00",
+  "total_titles_processed": 781,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型",
-      "match_count": 15,
+      "match_count": 19,
       "titles": [
         {
           "title": "芯片股两连跌！AI“鬼故事”不断：Meta、Anthropic相继传出新动作，市场开始重估AI交易？",
@@ -31,24 +31,25 @@
           "time_info": "[00时40分 ~ 06时10分]"
         },
         {
+          "title": "AI填志愿实测：信息更新可能有偏差，决策还得考生自己做",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33493022",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            13,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时40分 ~ 12时40分]"
+        },
+        {
           "title": "对话｜硅谷为何争抢哲学家？AI生成内容越廉价，判断力越是稀缺能力",
           "url": "https://m.thepaper.cn/newsDetail_forward_33501142",
           "source": "澎湃新闻",
           "ranks": [
             7,
             8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时40分 ~ 08时11分]"
-        },
-        {
-          "title": "AI填志愿实测：信息更新可能有偏差，决策还得考生自己做",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33493022",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            13
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -159,9 +160,53 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时11分"
+        },
+        {
+          "title": "DeepSeek高峰涨价意味着什么?高盛：国内大模型竞争正回归理性",
+          "url": "https://wallstreetcn.com/articles/3776170",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
+        },
+        {
+          "title": "Meta“算力过剩”疑云背后：扎克伯格说AI进展慢了，AI负责人新模型说已追上GPT-5.5",
+          "url": "https://wallstreetcn.com/articles/3776134",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
+        },
+        {
+          "title": "常州市市长周伟调研人工智能上游产业",
+          "url": "https://flash.jin10.com/detail/20260704100159012800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
+        },
+        {
+          "title": "一周热榜精选：弱非农下加息押注退潮！大空头警告AI派对结束",
+          "url": "https://flash.jin10.com/detail/20260704095032353800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
         },
         {
           "title": "行业最直观的风向标闪烁红灯，词元经济学动摇AI热潮叙事",
@@ -181,7 +226,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时11分"
         }
@@ -189,7 +234,7 @@
     },
     {
       "keyword_group": "经济 经济学",
-      "match_count": 4,
+      "match_count": 9,
       "titles": [
         {
           "title": "未来我国循环经济发展重点",
@@ -201,6 +246,28 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时40分 ~ 08时11分]"
+        },
+        {
+          "title": "循环经济发展十五五规划来了",
+          "url": "https://www.douyin.com/hot/2557851",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
+        },
+        {
+          "title": "一碗面38块,日本还在吹经济",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355884&amp;topic_name=%E4%B8%80%E7%A2%97%E9%9D%A238%E5%9D%97%2C%E6%97%A5%E6%9C%AC%E8%BF%98%E5%9C%A8%E5%90%B9%E7%BB%8F%E6%B5%8E",
+          "source": "贴吧",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
         },
         {
           "title": "拉加德将罕见亲自出席下周的欧盟经济和财政事务理事会会议",
@@ -226,6 +293,39 @@
           "time_info": "[02时17分 ~ 04时19分]"
         },
         {
+          "title": "特朗普：美国经济正强劲腾飞！",
+          "url": "https://flash.jin10.com/detail/20260704093740277800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
+        },
+        {
+          "title": "福建：未来5年力争数字经济核心产业增加值年均增长8%以上",
+          "url": "https://flash.jin10.com/detail/20260704091644842800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
+        },
+        {
+          "title": "进一步明确平台经济各方权利义务 新版电子商务法公开征求意见",
+          "url": "https://flash.jin10.com/detail/20260704090134990800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
+        },
+        {
           "title": "安盛集团（AXA Group）首席经济学家Gilles Moec认为，美国劳动力市场的基本面尚可，尽管其对利率政策是否会出现分歧不太确定。 “美国的通胀问题比欧洲严重得多。美国的货币政策已经具有限制性，而欧洲则不然。因此，你可以认为他们两者要做的就是维持现状。”（彭博电视）",
           "url": "https://wallstreetcn.com/livenews/3128761",
           "source": "华尔街见闻-快讯",
@@ -240,7 +340,7 @@
     },
     {
       "keyword_group": "年轻人 00后 35岁",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "月供五百开SU7?小米拿捏年轻人",
@@ -248,11 +348,12 @@
           "source": "贴吧",
           "ranks": [
             24,
-            25
+            25,
+            30
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时40分 ~ 08时11分]"
+          "appearance_count": 7,
+          "time_info": "[00时40分 ~ 12时40分]"
         },
         {
           "title": "港媒：为何西方年轻人日益向往中国",
@@ -274,9 +375,75 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时11分"
+        },
+        {
+          "title": "被这届年轻人封神的《无悔追踪》当年是怎么拍出来的？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33511650",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "教育 鸡娃 小镇做题家",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "教育部：坚决杜绝用手机布置作业",
+          "url": "https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%EF%BC%9A%E5%9D%9A%E5%86%B3%E6%9D%9C%E7%BB%9D%E7%94%A8%E6%89%8B%E6%9C%BA%E5%B8%83%E7%BD%AE%E4%BD%9C%E4%B8%9A",
+          "source": "百度热搜",
+          "ranks": [
+            7,
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时40分 ~ 06时10分]"
+        },
+        {
+          "title": "教育部：坚决杜绝用手机布置作业",
+          "url": "https://www.toutiao.com/trending/7658188046671773723/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时40分 ~ 04时19分]"
+        },
+        {
+          "title": "教育部：严禁人籍分离空挂学籍",
+          "url": "https://www.douyin.com/hot/2556675",
+          "source": "抖音",
+          "ranks": [
+            14,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时40分 ~ 04时19分]"
+        },
+        {
+          "title": "同学被嘲“穿假鞋” 班主任严肃教育",
+          "url": "https://www.baidu.com/s?wd=%E5%90%8C%E5%AD%A6%E8%A2%AB%E5%98%B2%E2%80%9C%E7%A9%BF%E5%81%87%E9%9E%8B%E2%80%9D+%E7%8F%AD%E4%B8%BB%E4%BB%BB%E4%B8%A5%E8%82%83%E6%95%99%E8%82%B2",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
         }
       ]
     },
@@ -329,11 +496,12 @@
           "source": "贴吧",
           "ranks": [
             18,
-            19
+            19,
+            24
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时40分 ~ 08时11分]"
+          "appearance_count": 7,
+          "time_info": "[00时40分 ~ 12时40分]"
         },
         {
           "title": "买超回应“没有离婚只有丧偶”言论",
@@ -362,53 +530,22 @@
       ]
     },
     {
-      "keyword_group": "教育 鸡娃 小镇做题家",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "教育部：坚决杜绝用手机布置作业",
-          "url": "https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%EF%BC%9A%E5%9D%9A%E5%86%B3%E6%9D%9C%E7%BB%9D%E7%94%A8%E6%89%8B%E6%9C%BA%E5%B8%83%E7%BD%AE%E4%BD%9C%E4%B8%9A",
-          "source": "百度热搜",
-          "ranks": [
-            7,
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 06时10分]"
-        },
-        {
-          "title": "教育部：坚决杜绝用手机布置作业",
-          "url": "https://www.toutiao.com/trending/7658188046671773723/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 04时19分]"
-        },
-        {
-          "title": "教育部：严禁人籍分离空挂学籍",
-          "url": "https://www.douyin.com/hot/2556675",
-          "source": "抖音",
-          "ranks": [
-            14,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时40分 ~ 04时19分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "电影 影视 综艺",
       "match_count": 3,
       "titles": [
+        {
+          "title": "升级版电影院要来了",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%87%E7%BA%A7%E7%89%88%E7%94%B5%E5%BD%B1%E9%99%A2%E8%A6%81%E6%9D%A5%E4%BA%86%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29,
+            30,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时17分 ~ 12时40分]"
+        },
         {
           "title": "如何评价白敬亭、魏翔主演的喜剧电影《特立独行》？",
           "url": "https://www.zhihu.com/question/2054968366956393838",
@@ -421,18 +558,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时17分 ~ 08时11分]"
-        },
-        {
-          "title": "升级版电影院要来了",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%87%E7%BA%A7%E7%89%88%E7%94%B5%E5%BD%B1%E9%99%A2%E8%A6%81%E6%9D%A5%E4%BA%86%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时17分 ~ 06时10分]"
         },
         {
           "title": "电影抓特务老辈子的纯爱",
@@ -456,11 +581,12 @@
           "url": "https://wallstreetcn.com/articles/3776124",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时11分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时11分 ~ 12时40分]"
         },
         {
           "title": "AI焦虑暂退，全球股市反弹，欧股创历史新高，金铜拉涨，美元下跌",
@@ -472,6 +598,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时10分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "消费 存钱 攒钱",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "国家电影局发文鼓励将影院打造成集观影、社交、消费于一体的综合文化空间，你认为此举能否拯救低迷的电影院？",
+          "url": "https://www.zhihu.com/question/2056509067665700235",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
+        },
+        {
+          "title": "消费者质疑平台自营卖翻新电脑：保修期两年前被激活，商家称是“全新”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33510439",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
         }
       ]
     },
@@ -501,11 +655,12 @@
           "url": "https://www.douyin.com/hot/2556908",
           "source": "抖音",
           "ranks": [
-            9
+            9,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时11分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时11分 ~ 12时40分]"
         }
       ]
     },
@@ -520,9 +675,26 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时11分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "ChatGPT openai Sora",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "宇树高管谈具身智能ChatGPT时刻",
+          "url": "https://flash.jin10.com/detail/20260704110855518800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
         }
       ]
     }
