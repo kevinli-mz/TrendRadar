@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-05T06:04:25.451597+08:00",
-  "total_titles_processed": 479,
+  "generated_at": "2026-07-05T08:07:14.111318+08:00",
+  "total_titles_processed": 554,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "卡点发布！GPT-5.6三大模型全曝，定档7月7日？",
@@ -13,11 +13,26 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时09分 ~ 08时07分]"
+        },
+        {
+          "title": "高盛：美股AI上涨力竭，下半年布局防御板块，看好医疗、欧洲防务",
+          "url": "https://wallstreetcn.com/articles/3776200",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            4,
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时09分 ~ 06时04分]"
+          "appearance_count": 6,
+          "time_info": "[00时09分 ~ 08时07分]"
         },
         {
           "title": "特斯拉限制员工AI使用开销 美国多家科技企业收紧AI支出",
@@ -27,21 +42,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时09分 ~ 06时04分]"
+          "appearance_count": 5,
+          "time_info": "[00时09分 ~ 08时07分]"
         },
         {
-          "title": "高盛：美股AI上涨力竭，下半年布局防御板块，看好医疗、欧洲防务",
-          "url": "https://wallstreetcn.com/articles/3776200",
+          "title": "苹果AI功能未能引爆换机潮，瑞银调查显示用户升级意愿持续下滑",
+          "url": "https://wallstreetcn.com/articles/3776203",
           "source": "华尔街见闻",
           "ranks": [
-            6,
-            5,
-            4
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时09分 ~ 06时04分]"
+          "appearance_count": 2,
+          "time_info": "[08时06分 ~ 08时07分]"
         },
         {
           "title": "特斯拉限制员工AI使用开销 美国多家科技企业收紧AI支出",
@@ -61,7 +74,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时04分"
         }
@@ -78,11 +91,12 @@
           "ranks": [
             16,
             18,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时09分 ~ 06时04分]"
+          "appearance_count": 6,
+          "time_info": "[00时09分 ~ 08时07分]"
         },
         {
           "title": "吴政隆在湖北湖南调研时指出 持续增强内生动力 推动经济向新向优向好发展",
@@ -92,8 +106,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时09分 ~ 06时04分]"
+          "appearance_count": 5,
+          "time_info": "[00时09分 ~ 08时07分]"
         },
         {
           "title": "美国财长贝森特：在特朗普总统的领导下，我们正迈向史无前例的经济增长、美元的持久主导地位以及财政的稳健与强劲。",
@@ -132,11 +146,12 @@
             9,
             19,
             17,
-            15
+            15,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时09分 ~ 06时04分]"
+          "appearance_count": 6,
+          "time_info": "[00时09分 ~ 08时07分]"
         }
       ]
     },
@@ -149,11 +164,12 @@
           "url": "https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E6%9C%BA%E6%9E%84%E5%91%98%E5%B7%A5%E6%B3%84%E6%84%A4%E5%88%A0%E9%99%A4%E8%80%83%E7%94%9F%E5%BF%97%E6%84%BF%E8%87%B4%E8%90%BD%E6%A6%9C%23&t=31&band_rank=11&Refer=top",
           "source": "微博",
           "ranks": [
-            11
+            11,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时07分 ~ 06时04分]"
+          "appearance_count": 5,
+          "time_info": "[02时07分 ~ 08时07分]"
         },
         {
           "title": "教育机构员工泄愤删考生志愿致落榜",
@@ -182,11 +198,12 @@
             8,
             7,
             17,
-            12
+            12,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时09分 ~ 06时04分]"
+          "appearance_count": 6,
+          "time_info": "[00时09分 ~ 08时07分]"
         }
       ]
     },
@@ -201,7 +218,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时04分"
         }
@@ -234,11 +251,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33511650",
           "source": "澎湃新闻",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时09分 ~ 06时04分]"
+          "appearance_count": 6,
+          "time_info": "[00时09分 ~ 08时07分]"
         }
       ]
     },
@@ -253,11 +271,12 @@
           "ranks": [
             14,
             16,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时09分 ~ 06时04分]"
+          "appearance_count": 6,
+          "time_info": "[00时09分 ~ 08时07分]"
         }
       ]
     },
@@ -290,11 +309,29 @@
           "ranks": [
             25,
             14,
-            9
+            9,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时07分 ~ 06时04分]"
+          "appearance_count": 5,
+          "time_info": "[02时07分 ~ 08时07分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "为什么现在 DeepSeek 快速模式豆包化？",
+          "url": "https://www.zhihu.com/question/2050992107284964141",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时06分 ~ 08时07分]"
         }
       ]
     },
@@ -312,8 +349,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时07分 ~ 06时04分]"
+          "appearance_count": 5,
+          "time_info": "[02时07分 ~ 08时07分]"
         }
       ]
     }
