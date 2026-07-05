@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-06T03:27:45.830567+08:00",
-  "total_titles_processed": 364,
+  "generated_at": "2026-07-06T05:09:55.283725+08:00",
+  "total_titles_processed": 409,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时18分 ~ 03时27分]"
+          "appearance_count": 4,
+          "time_info": "[01时18分 ~ 05时09分]"
         },
         {
           "title": "HBM之父金正浩：AI的本质是内存，GPU真正工作的时间只有10%",
@@ -28,8 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时18分 ~ 03时27分]"
+          "appearance_count": 4,
+          "time_info": "[01时18分 ~ 05时09分]"
         },
         {
           "title": "智能体下线,AI女友凉了？",
@@ -39,8 +39,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时18分 ~ 03时27分]"
+          "appearance_count": 4,
+          "time_info": "[01时18分 ~ 05时09分]"
         },
         {
           "title": "有业绩支撑的非AI板块修复在即？十大券商策略来了",
@@ -48,11 +48,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时18分 ~ 03时27分]"
+          "appearance_count": 4,
+          "time_info": "[01时18分 ~ 05时09分]"
         },
         {
           "title": "电诈人员用AI同时和100多人聊天",
@@ -60,11 +61,12 @@
           "source": "百度热搜",
           "ranks": [
             16,
-            17
+            17,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时18分 ~ 03时27分]"
+          "appearance_count": 4,
+          "time_info": "[01时18分 ~ 05时09分]"
         },
         {
           "title": "2026中国互联网大会将举办，聚焦AI产业化落地、算力互联互通等核心议题",
@@ -74,8 +76,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时19分 ~ 03时27分]"
+          "appearance_count": 3,
+          "time_info": "[01时19分 ~ 05时09分]"
         },
         {
           "title": "鸿海：展望第三季度，人工智能机架出货量预计将保持增长；整体运营前景预计季度和同比都会增长。",
@@ -85,14 +87,14 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时19分 ~ 03时27分]"
+          "appearance_count": 3,
+          "time_info": "[01时19分 ~ 05时09分]"
         }
       ]
     },
     {
       "keyword_group": "经济 经济学",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "数说中国经济6月成绩单",
@@ -102,19 +104,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时18分 ~ 03时27分]"
-        },
-        {
-          "title": "路透调查：28位受访经济学家中，有22位预计新西兰联储将于7月8日加息25个基点，使利率达到2.50%。",
-          "url": "https://flash.jin10.com/detail/20260706030328110800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时27分"
+          "appearance_count": 4,
+          "time_info": "[01时18分 ~ 05时09分]"
         },
         {
           "title": "路透调查：七月货币政策会议后，26位经济学家中有14位预计新西兰联储将在九月底前再加息25个基点，最终利率达到2.75%。",
@@ -123,9 +114,32 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时27分"
+        },
+        {
+          "title": "路透调查：28位受访经济学家中，有22位预计新西兰联储将于7月8日加息25个基点，使利率达到2.50%。",
+          "url": "https://flash.jin10.com/detail/20260706030328110800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时27分 ~ 05时09分]"
+        },
+        {
+          "title": "路透调查：26位经济学家中有14位预计，七月货币政策会议后，新西兰联储将在九月底前再加息25个基点，最终利率达到2.75%。",
+          "url": "https://flash.jin10.com/detail/20260706030146810800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时09分"
         }
       ]
     },
@@ -141,8 +155,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时18分 ~ 03时27分]"
+          "appearance_count": 4,
+          "time_info": "[01时18分 ~ 05时09分]"
         },
         {
           "title": "2026中国电影导演之夜",
@@ -150,11 +164,12 @@
           "source": "抖音",
           "ranks": [
             29,
-            24
+            24,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时18分 ~ 03时27分]"
+          "appearance_count": 4,
+          "time_info": "[01时18分 ~ 05时09分]"
         },
         {
           "title": "2026暑期档电影票房破20亿",
@@ -164,8 +179,42 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时19分 ~ 03时27分]"
+          "appearance_count": 3,
+          "time_info": "[01时19分 ~ 05时09分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "心理 心理学 心理咨询",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "委内瑞拉震后心理咨询师工作繁重 民众心理创伤需长期修复",
+          "url": "https://flash.jin10.com/detail/20260706035501794800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时09分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "焦虑 emo",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "林宥嘉独家公开蔡徐坤Demo",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9E%97%E5%AE%A5%E5%98%89%E7%8B%AC%E5%AE%B6%E5%85%AC%E5%BC%80%E8%94%A1%E5%BE%90%E5%9D%A4Demo",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时09分"
         }
       ]
     },
@@ -181,8 +230,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时19分 ~ 03时27分]"
+          "appearance_count": 3,
+          "time_info": "[01时19分 ~ 05时09分]"
         }
       ]
     },
@@ -198,8 +247,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时18分 ~ 03时27分]"
+          "appearance_count": 4,
+          "time_info": "[01时18分 ~ 05时09分]"
         }
       ]
     },
@@ -213,11 +262,12 @@
           "source": "知乎",
           "ranks": [
             5,
-            4
+            4,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时18分 ~ 03时27分]"
+          "appearance_count": 4,
+          "time_info": "[01时18分 ~ 05时09分]"
         }
       ]
     }
