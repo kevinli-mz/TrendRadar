@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-07-07T00:56:18.718969+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-07-07T03:01:59.758046+08:00",
+  "total_titles_processed": 398,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
-        {
-          "title": "【腾讯正式发布升级版人工智能模型混元Hy3】腾讯在微信公众号发布声明，正式发布混元模型Hy3。声明称，Hy3是在今年4月发布的预览版基础上的升级版本。",
-          "url": "https://wallstreetcn.com/livenews/3129495",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
-        },
         {
           "title": "WorkBuddy爆了，微信AI也来了——腾讯AI找到“新船票”了吗？",
           "url": "https://wallstreetcn.com/articles/3776245",
@@ -26,8 +15,31 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 03时01分]"
+        },
+        {
+          "title": "据英国金融时报：前OpenAI研究员管理的对冲基金Situational Awareness与英国投资机构Baillie Gifford等机构拟认购约70亿美元SK海力士纳斯达克IPO股份。",
+          "url": "https://flash.jin10.com/detail/20260707024555773800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时56分"
+          "time_info": "03时01分"
+        },
+        {
+          "title": "【腾讯正式发布升级版人工智能模型混元Hy3】腾讯在微信公众号发布声明，正式发布混元模型Hy3。声明称，Hy3是在今年4月发布的预览版基础上的升级版本。",
+          "url": "https://wallstreetcn.com/livenews/3129495",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 03时01分]"
         },
         {
           "title": "AI预测葡萄牙vs西班牙赛果",
@@ -37,19 +49,43 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 03时01分]"
         },
         {
           "title": "英伟达回应AI服务器架构延后的报道，称：公司路线图保持不变",
           "url": "https://wallstreetcn.com/livenews/3129491",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            28
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 03时01分]"
+        },
+        {
+          "title": "智能体下线,AI女友凉了？",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355914&amp;topic_name=%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8B%E7%BA%BF%2CAI%E5%A5%B3%E5%8F%8B%E5%87%89%E4%BA%86%EF%BC%9F",
+          "source": "贴吧",
+          "ranks": [
+            27,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 03时01分]"
+        },
+        {
+          "title": "英国监管机构审查凸显金融服务AI风险",
+          "url": "https://wallstreetcn.com/livenews/3129510",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时56分"
+          "time_info": "03时01分"
         },
         {
           "title": "黑石出售 3 处数据中心，又叫停全球最大数据中心建设，这对「AI 经济」影响几何？",
@@ -83,11 +119,61 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时56分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "经济 经济学",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "多元业态激发夏日经济活力",
+          "url": "https://www.toutiao.com/trending/7659157710470152218/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 03时01分]"
         },
         {
-          "title": "智能体下线,AI女友凉了？",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355914&amp;topic_name=%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8B%E7%BA%BF%2CAI%E5%A5%B3%E5%8F%8B%E5%87%89%E4%BA%86%EF%BC%9F",
-          "source": "贴吧",
+          "title": "新研究表明：老龄化未必拖累经济，人口萎缩反而有助繁荣",
+          "url": "https://wallstreetcn.com/livenews/3129518",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时01分"
+        },
+        {
+          "title": "达沃斯创始人Schwab寻求重返全球经济论坛。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3129482",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时56分"
+        },
+        {
+          "title": "法国总统府：马克龙与叙利亚总统沙拉将于明日共同主持叙利亚重建经济会议。",
+          "url": "https://flash.jin10.com/detail/20260707015354493800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时01分"
+        },
+        {
+          "title": "达沃斯创始人施瓦布计划重返世界经济论坛。",
+          "url": "https://flash.jin10.com/detail/20260706235029384800",
+          "source": "金十数据",
           "ranks": [
             27
           ],
@@ -109,19 +195,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 03时01分]"
         },
         {
           "title": "word删除空白页 义务教育",
           "url": "https://s.weibo.com/weibo?q=word%E5%88%A0%E9%99%A4%E7%A9%BA%E7%99%BD%E9%A1%B5%20%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2&t=31&band_rank=4&Refer=top",
           "source": "微博",
           "ranks": [
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 03时01分]"
         },
         {
           "title": "深交所：对中公教育相关投资者采取暂停交易措施",
@@ -131,8 +218,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 03时01分]"
         },
         {
           "title": "专访中国教育学会副会长唐江澎：教育不能只和分数挂钩",
@@ -142,52 +229,42 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 03时01分]"
         },
         {
           "title": "网红董太太采访的太阳宫月亮宫小少爷平儿，摒弃数理化，不上学，在家学易经奇门遁甲，如何看待这种教育方式？",
           "url": "https://www.zhihu.com/question/2055157666142541293",
           "source": "知乎",
           "ranks": [
-            13
+            13,
+            18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 03时01分]"
         }
       ]
     },
     {
-      "keyword_group": "经济 经济学",
-      "match_count": 3,
+      "keyword_group": "就业 失业 裁员 应届生",
+      "match_count": 2,
       "titles": [
         {
-          "title": "多元业态激发夏日经济活力",
-          "url": "https://www.toutiao.com/trending/7659157710470152218/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
-        },
-        {
-          "title": "达沃斯创始人Schwab寻求重返全球经济论坛。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3129482",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
-        },
-        {
-          "title": "达沃斯创始人施瓦布计划重返世界经济论坛。",
-          "url": "https://flash.jin10.com/detail/20260706235029384800",
+          "title": "沃勒称通胀风险已超过就业风险 市场聚焦7月CPI",
+          "url": "https://flash.jin10.com/detail/20260707020705122800",
           "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时01分"
+        },
+        {
+          "title": "拉美电商MercadoLibre今年将在巴西新增超2.82万个就业岗位。",
+          "url": "https://wallstreetcn.com/livenews/3129468",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             27
           ],
@@ -206,22 +283,24 @@
           "url": "https://www.toutiao.com/trending/7659379320011361833/",
           "source": "今日头条",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 03时01分]"
         },
         {
           "title": "互联网巨头开始“买房收租”？京东7.5亿港元买下香港酒店将改学生宿舍",
           "url": "https://www.cls.cn/detail/2418465",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 03时01分]"
         }
       ]
     },
@@ -234,28 +313,12 @@
           "url": "https://wallstreetcn.com/articles/3776262",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "就业 失业 裁员 应届生",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "拉美电商MercadoLibre今年将在巴西新增超2.82万个就业岗位。",
-          "url": "https://wallstreetcn.com/livenews/3129468",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 03时01分]"
         }
       ]
     },
@@ -271,8 +334,25 @@
             21
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 03时01分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "消费 存钱 攒钱",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "华为 PuraXMax 折叠手机销量突破 45 万台，典藏版卖得更好反映了哪些消费趋势？",
+          "url": "https://www.zhihu.com/question/2056128489472915373",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时56分"
+          "time_info": "03时01分"
         }
       ]
     },
@@ -288,8 +368,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 03时01分]"
         }
       ]
     }
