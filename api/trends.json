@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-06T17:05:04.903360+08:00",
-  "total_titles_processed": 941,
+  "generated_at": "2026-07-06T21:52:53.850727+08:00",
+  "total_titles_processed": 1158,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型",
-      "match_count": 16,
+      "match_count": 20,
       "titles": [
         {
           "title": "HBM之父金正浩：AI的本质是内存，GPU真正工作的时间只有10%",
@@ -41,11 +41,12 @@
             10,
             11,
             15,
-            19
+            19,
+            25
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时18分 ~ 17时05分]"
+          "appearance_count": 9,
+          "time_info": "[01时18分 ~ 21时52分]"
         },
         {
           "title": "有业绩支撑的非AI板块修复在即？十大券商策略来了",
@@ -86,6 +87,29 @@
           "time_info": "[12时07分 ~ 17时05分]"
         },
         {
+          "title": "孟凡利在广州调研人工智能产业发展时强调：全力推动人工智能产业高质量发展",
+          "url": "https://wallstreetcn.com/livenews/3129409",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
+        },
+        {
+          "title": "WorkBuddy爆了，微信AI也来了——腾讯AI找到“新船票”了吗？",
+          "url": "https://wallstreetcn.com/articles/3776245",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时04分 ~ 21时52分]"
+        },
+        {
           "title": "2026中国互联网大会将举办，聚焦AI产业化落地、算力互联互通等核心议题",
           "url": "https://wallstreetcn.com/livenews/3129011",
           "source": "华尔街见闻-快讯",
@@ -122,15 +146,15 @@
           "time_info": "[01时19分 ~ 05时09分]"
         },
         {
-          "title": "WorkBuddy爆了，微信AI也来了——腾讯AI找到“新船票”了吗？",
-          "url": "https://wallstreetcn.com/articles/3776245",
-          "source": "华尔街见闻",
+          "title": "AI预测葡萄牙vs西班牙赛果",
+          "url": "https://search.bilibili.com/all?keyword=AI%E9%A2%84%E6%B5%8B%E8%91%A1%E8%90%84%E7%89%99vs%E8%A5%BF%E7%8F%AD%E7%89%99%E8%B5%9B%E6%9E%9C",
+          "source": "bilibili 热搜",
           "ranks": [
-            8
+            7
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时04分 ~ 17时05分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
         },
         {
           "title": "科技股座次“大洗牌”？瑞银：半导体等“AI基石”称王，“老牌巨头”失宠！",
@@ -142,6 +166,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时07分"
+        },
+        {
+          "title": "孟凡利在广州调研人工智能产业发展时强调：全力推动人工智能产业高质量发展",
+          "url": "https://flash.jin10.com/detail/20260706211156833800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
         },
         {
           "title": "SemiAnalysis：英伟达下一代AI机架系统推迟至2028年",
@@ -161,7 +196,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时05分"
         },
@@ -183,7 +218,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时05分"
         },
@@ -194,15 +229,26 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时05分"
+        },
+        {
+          "title": "Reddit利用AI打击网站上的AI营销垃圾信息。",
+          "url": "https://wallstreetcn.com/livenews/3129376",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
         }
       ]
     },
     {
       "keyword_group": "经济 经济学",
-      "match_count": 6,
+      "match_count": 10,
       "titles": [
         {
           "title": "数说中国经济6月成绩单",
@@ -250,6 +296,39 @@
           "time_info": "12时07分"
         },
         {
+          "title": "多元业态激发夏日经济活力",
+          "url": "https://www.toutiao.com/trending/7659157710470152218/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
+        },
+        {
+          "title": "以色列央行行长Yaron：以色列新谢克尔的急剧升值对以色列经济的主要增长动力——出口和高科技行业构成了重大挑战。",
+          "url": "https://flash.jin10.com/detail/20260706212617420800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
+        },
+        {
+          "title": "以色列央行行长Yaron：地缘政治发展及其对经济活动、能源价格、风险溢价和汇率的影响将显著冲击通货膨胀。",
+          "url": "https://flash.jin10.com/detail/20260706212509555800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
+        },
+        {
           "title": "路透调查：28位受访经济学家中，有22位预计新西兰联储将于7月8日加息25个基点，使利率达到2.50%。",
           "url": "https://flash.jin10.com/detail/20260706030328110800",
           "source": "金十数据",
@@ -271,12 +350,112 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时09分"
+        },
+        {
+          "title": "以色列央行：当前经济指标显示，在伊朗战争开始后的急剧下降后，经济活动持续复苏。",
+          "url": "https://flash.jin10.com/detail/20260706210700596800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "教育 鸡娃 小镇做题家",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "教育机构员工泄愤删除考生志愿致落榜，仅获刑 8 个月，刑期是否过轻？考生被改写的人生谁来赔偿？",
+          "url": "https://www.zhihu.com/question/2057047195979702923",
+          "source": "知乎",
+          "ranks": [
+            5,
+            4,
+            9,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时18分 ~ 07时07分]"
+        },
+        {
+          "title": "word删除空白页 义务教育",
+          "url": "https://s.weibo.com/weibo?q=word%E5%88%A0%E9%99%A4%E7%A9%BA%E7%99%BD%E9%A1%B5%20%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
+        },
+        {
+          "title": "专访中国教育学会副会长唐江澎：教育不能只和分数挂钩",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33518991",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时07分 ~ 21时52分]"
+        },
+        {
+          "title": "网红董太太采访的太阳宫月亮宫小少爷平儿，摒弃数理化，不上学，在家学易经奇门遁甲，如何看待这种教育方式？",
+          "url": "https://www.zhihu.com/question/2055157666142541293",
+          "source": "知乎",
+          "ranks": [
+            18,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时04分 ~ 21时52分]"
+        },
+        {
+          "title": "深交所：对中公教育相关投资者采取暂停交易措施",
+          "url": "https://www.cls.cn/detail/2418354",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
+        },
+        {
+          "title": "深交所发布关于中公教育股票交易情况的通报：依规对相关投资者采取了暂停交易等监管措施",
+          "url": "https://wallstreetcn.com/livenews/3129388",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
+        },
+        {
+          "title": "中公教育",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%85%AC%E6%95%99%E8%82%B2&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时07分"
         }
       ]
     },
     {
       "keyword_group": "电影 影视 综艺",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "电影院求生,餐饮娱乐一把抓",
@@ -338,60 +517,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时04分 ~ 17时05分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "教育 鸡娃 小镇做题家",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "教育机构员工泄愤删除考生志愿致落榜，仅获刑 8 个月，刑期是否过轻？考生被改写的人生谁来赔偿？",
-          "url": "https://www.zhihu.com/question/2057047195979702923",
-          "source": "知乎",
-          "ranks": [
-            5,
-            4,
-            9,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时18分 ~ 07时07分]"
         },
         {
-          "title": "专访中国教育学会副会长唐江澎：教育不能只和分数挂钩",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33518991",
-          "source": "澎湃新闻",
+          "title": "张柏芝为周星驰新电影连包18场",
+          "url": "https://www.toutiao.com/trending/7658305501167452211/",
+          "source": "今日头条",
           "ranks": [
-            15,
-            10
+            12
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时07分 ~ 17时05分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
         },
         {
-          "title": "网红董太太采访的太阳宫月亮宫小少爷平儿，摒弃数理化，不上学，在家学易经奇门遁甲，如何看待这种教育方式？",
-          "url": "https://www.zhihu.com/question/2055157666142541293",
-          "source": "知乎",
+          "title": "影视寒冬具象化了",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BD%B1%E8%A7%86%E5%AF%92%E5%86%AC%E5%85%B7%E8%B1%A1%E5%8C%96%E4%BA%86%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
           "ranks": [
             18
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时04分 ~ 17时05分]"
-        },
-        {
-          "title": "中公教育",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%85%AC%E6%95%99%E8%82%B2&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时07分"
+          "time_info": "21时52分"
         }
       ]
     },
@@ -424,6 +571,63 @@
       ]
     },
     {
+      "keyword_group": "就业 失业 裁员 应届生",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "张国清在新疆调研时强调，强化产业赋能，突出就业导向，提升中央企业援疆综合效益",
+          "url": "https://wallstreetcn.com/livenews/3129007",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时19分 ~ 07时07分]"
+        },
+        {
+          "title": "ISM非制造业PMI数据前瞻：有增长无就业？",
+          "url": "https://flash.jin10.com/detail/20260706211014892800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "消费 存钱 攒钱",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "Visa数据显示：一季度上海入境游客消费金额同比增长超50%，外卡受理能力持续增强",
+          "url": "https://wallstreetcn.com/livenews/3129385",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
+        },
+        {
+          "title": "创业板指、科创50双双跌超2%，沪指跌0.56%，深成指跌1.24%，算力硬件、半导体芯片、消费电子等方向跌幅居前，沪深京三市下跌个股超3300只。",
+          "url": "https://wallstreetcn.com/livenews/3129116",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时07分"
+        }
+      ]
+    },
+    {
       "keyword_group": "心理 心理学 心理咨询",
       "match_count": 1,
       "titles": [
@@ -442,20 +646,36 @@
       ]
     },
     {
-      "keyword_group": "就业 失业 裁员 应届生",
+      "keyword_group": "情绪 情绪价值 内耗 精神内耗",
       "match_count": 1,
       "titles": [
         {
-          "title": "张国清在新疆调研时强调，强化产业赋能，突出就业导向，提升中央企业援疆综合效益",
-          "url": "https://wallstreetcn.com/livenews/3129007",
-          "source": "华尔街见闻-快讯",
+          "title": "金十图示：2026年07月06日（周一）投机情绪指数",
+          "url": "https://flash.jin10.com/detail/20260706210519211800",
+          "source": "金十数据",
           "ranks": [
-            10,
-            23
+            21
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时19分 ~ 07时07分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "年轻人 00后 35岁",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "全新坦克300年轻人的潮流大玩具",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E6%96%B0%E5%9D%A6%E5%85%8B300%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%9A%84%E6%BD%AE%E6%B5%81%E5%A4%A7%E7%8E%A9%E5%85%B7%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
         }
       ]
     },
@@ -489,25 +709,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时04分 ~ 17时05分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "消费 存钱 攒钱",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "创业板指、科创50双双跌超2%，沪指跌0.56%，深成指跌1.24%，算力硬件、半导体芯片、消费电子等方向跌幅居前，沪深京三市下跌个股超3300只。",
-          "url": "https://wallstreetcn.com/livenews/3129116",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时07分"
+          "appearance_count": 3,
+          "time_info": "[17时04分 ~ 21时52分]"
         }
       ]
     }
