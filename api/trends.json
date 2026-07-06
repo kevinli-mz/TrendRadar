@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-07T04:59:04.843833+08:00",
-  "total_titles_processed": 488,
+  "generated_at": "2026-07-07T06:22:58.923439+08:00",
+  "total_titles_processed": 569,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/articles/3776245",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时56分 ~ 04时59分]"
+          "appearance_count": 5,
+          "time_info": "[00时56分 ~ 06时22分]"
         },
         {
           "title": "xAI将旗下X账号更名为SpaceXAI。",
@@ -25,7 +26,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时59分"
         },
@@ -41,6 +42,19 @@
           "time_info": "03时01分"
         },
         {
+          "title": "智能体下线,AI女友凉了？",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355914&amp;topic_name=%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8B%E7%BA%BF%2CAI%E5%A5%B3%E5%8F%8B%E5%87%89%E4%BA%86%EF%BC%9F",
+          "source": "贴吧",
+          "ranks": [
+            27,
+            28,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时56分 ~ 06时22分]"
+        },
+        {
           "title": "【腾讯正式发布升级版人工智能模型混元Hy3】腾讯在微信公众号发布声明，正式发布混元模型Hy3。声明称，Hy3是在今年4月发布的预览版基础上的升级版本。",
           "url": "https://wallstreetcn.com/livenews/3129495",
           "source": "华尔街见闻-快讯",
@@ -53,16 +67,15 @@
           "time_info": "[00时56分 ~ 03时01分]"
         },
         {
-          "title": "智能体下线,AI女友凉了？",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355914&amp;topic_name=%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8B%E7%BA%BF%2CAI%E5%A5%B3%E5%8F%8B%E5%87%89%E4%BA%86%EF%BC%9F",
-          "source": "贴吧",
+          "title": "南向资金追踪｜单日净买超205亿港元创近一个半月新高 AI硬件概念股反被抛售",
+          "url": "https://www.cls.cn/detail/2418217",
+          "source": "财联社热门",
           "ranks": [
-            27,
-            28
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时56分 ~ 04时59分]"
+          "appearance_count": 3,
+          "time_info": "[04时58分 ~ 06时22分]"
         },
         {
           "title": "AI预测葡萄牙vs西班牙赛果",
@@ -88,17 +101,6 @@
           "time_info": "[00时56分 ~ 03时01分]"
         },
         {
-          "title": "南向资金追踪｜单日净买超205亿港元创近一个半月新高 AI硬件概念股反被抛售",
-          "url": "https://www.cls.cn/detail/2418217",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时58分 ~ 04时59分]"
-        },
-        {
           "title": "英国监管机构审查凸显金融服务AI风险",
           "url": "https://wallstreetcn.com/livenews/3129510",
           "source": "华尔街见闻-快讯",
@@ -116,7 +118,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时59分"
         },
@@ -157,7 +159,7 @@
     },
     {
       "keyword_group": "经济 经济学",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "多元业态激发夏日经济活力",
@@ -167,8 +169,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时56分 ~ 04时59分]"
+          "appearance_count": 5,
+          "time_info": "[00时56分 ~ 06时22分]"
         },
         {
           "title": "新研究表明：老龄化未必拖累经济，人口萎缩反而有助繁荣",
@@ -191,6 +193,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时56分"
+        },
+        {
+          "title": "阿根廷央行市场预期调查显示，经济学家预计2026年底通胀率为30%，较此前预测下调0.5个百分点；预计2026年GDP增长率为3.0%，较此前预测上调0.1个百分点。",
+          "url": "https://flash.jin10.com/detail/20260707045206645800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
         },
         {
           "title": "法国总统府：马克龙与叙利亚总统沙拉将于明日共同主持叙利亚重建经济会议。",
@@ -218,7 +231,7 @@
     },
     {
       "keyword_group": "教育 鸡娃 小镇做题家",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "中公教育因股民「荒诞赌约」涨停，发生了什么？A 股市场投机风气会否加剧？",
@@ -229,8 +242,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时56分 ~ 04时59分]"
+          "appearance_count": 5,
+          "time_info": "[00时56分 ~ 06时22分]"
         },
         {
           "title": "深交所：对中公教育相关投资者采取暂停交易措施",
@@ -241,8 +254,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时56分 ~ 04时59分]"
+          "appearance_count": 5,
+          "time_info": "[00时56分 ~ 06时22分]"
         },
         {
           "title": "word删除空白页 义务教育",
@@ -251,11 +264,12 @@
           "ranks": [
             4,
             2,
-            19
+            19,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时56分 ~ 04时59分]"
+          "appearance_count": 5,
+          "time_info": "[00时56分 ~ 06时22分]"
         },
         {
           "title": "专访中国教育学会副会长唐江澎：教育不能只和分数挂钩",
@@ -265,8 +279,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时56分 ~ 04时59分]"
+          "appearance_count": 5,
+          "time_info": "[00时56分 ~ 06时22分]"
         },
         {
           "title": "网红董太太采访的太阳宫月亮宫小少爷平儿，摒弃数理化，不上学，在家学易经奇门遁甲，如何看待这种教育方式？",
@@ -274,11 +288,23 @@
           "source": "知乎",
           "ranks": [
             13,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 03时01分]"
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 06时22分]"
+        },
+        {
+          "title": "未来5年中小学教育将有哪些变化",
+          "url": "https://www.toutiao.com/trending/7658470175007637523/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
         }
       ]
     },
@@ -305,7 +331,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时59分"
         },
@@ -316,7 +342,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时59分"
         },
@@ -327,7 +353,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时59分"
         }
@@ -335,7 +361,7 @@
     },
     {
       "keyword_group": "消费 存钱 攒钱",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "华为 PuraXMax 折叠手机销量突破 45 万台，典藏版卖得更好反映了哪些消费趋势？",
@@ -354,11 +380,23 @@
           "url": "https://wallstreetcn.com/livenews/3129551",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时59分 ~ 06时22分]"
+        },
+        {
+          "title": "沃尔玛：旗下山姆会员店将继续提供具有竞争力的燃油价格，并已下调超过250种商品价格以提升消费价值。",
+          "url": "https://flash.jin10.com/detail/20260707051147921800",
+          "source": "金十数据",
+          "ranks": [
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时59分"
+          "time_info": "06时22分"
         },
         {
           "title": "标普500指数初步收0.7%，电信板块涨1.8%，科技板块涨1.3%，可选消费板块涨0.9%，公用事业、保健、房地产板块至多跌超1.1%。 纳斯达克100指数初步收1.3%，成分股中，AMD初步收涨7%，Astera Labs、西部数据、特斯拉、CoreWeave、高通、希捷科技至少涨约5.4%，奈飞则跌2.4%，ORLY跌6.8%，Rocket Lab跌7.8%。 费城半导体指数涨2.1%，存储芯片指数涨2%。",
@@ -367,7 +405,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时59分"
         }
@@ -412,11 +450,12 @@
           "ranks": [
             9,
             10,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时56分 ~ 04时59分]"
+          "appearance_count": 5,
+          "time_info": "[00时56分 ~ 06时22分]"
         },
         {
           "title": "互联网巨头开始“买房收租”？京东7.5亿港元买下香港酒店将改学生宿舍",
@@ -425,11 +464,12 @@
           "ranks": [
             12,
             11,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时56分 ~ 04时59分]"
+          "appearance_count": 5,
+          "time_info": "[00时56分 ~ 06时22分]"
         }
       ]
     },
@@ -445,8 +485,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时56分 ~ 04时59分]"
+          "appearance_count": 5,
+          "time_info": "[00时56分 ~ 06时22分]"
         }
       ]
     },
@@ -463,8 +503,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时56分 ~ 04时59分]"
+          "appearance_count": 5,
+          "time_info": "[00时56分 ~ 06时22分]"
         }
       ]
     }
