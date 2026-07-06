@@ -1,35 +1,37 @@
 {
-  "generated_at": "2026-07-06T07:07:57.949568+08:00",
-  "total_titles_processed": 491,
+  "generated_at": "2026-07-06T12:07:51.279008+08:00",
+  "total_titles_processed": 727,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型",
-      "match_count": 8,
+      "match_count": 12,
       "titles": [
-        {
-          "title": "OpenAI塌房！Scaling law原作曝bug，万亿算力全白烧",
-          "url": "https://wallstreetcn.com/articles/3776218",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时18分 ~ 07时07分]"
-        },
         {
           "title": "HBM之父金正浩：AI的本质是内存，GPU真正工作的时间只有10%",
           "url": "https://wallstreetcn.com/articles/3776219",
           "source": "华尔街见闻",
           "ranks": [
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时18分 ~ 07时07分]"
+          "appearance_count": 6,
+          "time_info": "[01时18分 ~ 12时07分]"
+        },
+        {
+          "title": "OpenAI塌房！Scaling law原作曝bug，万亿算力全白烧",
+          "url": "https://wallstreetcn.com/articles/3776218",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时18分 ~ 12时07分]"
         },
         {
           "title": "有业绩支撑的非AI板块修复在即？十大券商策略来了",
@@ -39,11 +41,12 @@
             13,
             12,
             11,
-            9
+            9,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时18分 ~ 07时07分]"
+          "appearance_count": 6,
+          "time_info": "[01时18分 ~ 12时07分]"
         },
         {
           "title": "智能体下线,AI女友凉了？",
@@ -51,11 +54,23 @@
           "source": "贴吧",
           "ranks": [
             10,
-            11
+            11,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时18分 ~ 07时07分]"
+          "appearance_count": 6,
+          "time_info": "[01时18分 ~ 12时07分]"
+        },
+        {
+          "title": "PCB制造卡住AI机架，英伟达Kyber NVL144被曝大幅延期",
+          "url": "https://flash.jin10.com/detail/20260706115759697800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时07分"
         },
         {
           "title": "2026中国互联网大会将举办，聚焦AI产业化落地、算力互联互通等核心议题",
@@ -94,13 +109,46 @@
           "time_info": "[01时19分 ~ 05时09分]"
         },
         {
+          "title": "关键考验明日来袭：三星Q2营利料狂飙17倍 但AI支出前景暗藏风险",
+          "url": "https://www.cls.cn/detail/2417526",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时07分"
+        },
+        {
+          "title": "科技股座次“大洗牌”？瑞银：半导体等“AI基石”称王，“老牌巨头”失宠！",
+          "url": "https://www.cls.cn/detail/2417331",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时07分"
+        },
+        {
+          "title": "SemiAnalysis：英伟达下一代AI机架系统推迟至2028年",
+          "url": "https://flash.jin10.com/detail/20260706114616337800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时07分"
+        },
+        {
           "title": "英国监管机构：金融服务业AI正引发“军备竞赛” 需扩大监管范围",
           "url": "https://flash.jin10.com/detail/20260706053240940800",
           "source": "金十数据",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时07分"
         }
@@ -108,7 +156,7 @@
     },
     {
       "keyword_group": "经济 经济学",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "数说中国经济6月成绩单",
@@ -133,6 +181,17 @@
           "time_info": "03时27分"
         },
         {
+          "title": "我国加快建设循环经济高质量发展体系",
+          "url": "https://www.toutiao.com/trending/7658301018397163570/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时07分"
+        },
+        {
           "title": "路透调查：28位受访经济学家中，有22位预计新西兰联储将于7月8日加息25个基点，使利率达到2.50%。",
           "url": "https://flash.jin10.com/detail/20260706030328110800",
           "source": "金十数据",
@@ -143,6 +202,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时27分 ~ 05时09分]"
+        },
+        {
+          "title": "阴和俊：加快新能源、新材料、航空航天、低空经济等战略性新兴产业集群发展",
+          "url": "https://www.cls.cn/detail/2417498",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时07分"
         },
         {
           "title": "路透调查：26位经济学家中有14位预计，七月货币政策会议后，新西兰联储将在九月底前再加息25个基点，最终利率达到2.75%。",
@@ -159,7 +229,7 @@
     },
     {
       "keyword_group": "电影 影视 综艺",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "电影院求生,餐饮娱乐一把抓",
@@ -167,11 +237,12 @@
           "source": "贴吧",
           "ranks": [
             18,
-            19
+            19,
+            24
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时18分 ~ 07时07分]"
+          "appearance_count": 6,
+          "time_info": "[01时18分 ~ 12时07分]"
         },
         {
           "title": "2026中国电影导演之夜",
@@ -184,8 +255,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时18分 ~ 07时07分]"
+          "appearance_count": 6,
+          "time_info": "[01时18分 ~ 12时07分]"
         },
         {
           "title": "2026暑期档电影票房破20亿",
@@ -197,6 +268,87 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时19分 ~ 05时09分]"
+        },
+        {
+          "title": "为什么现在的影视剧一看就很假，没有以前的片子好看呢？",
+          "url": "https://www.zhihu.com/question/1985987109690032745",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时07分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "教育 鸡娃 小镇做题家",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "教育机构员工泄愤删除考生志愿致落榜，仅获刑 8 个月，刑期是否过轻？考生被改写的人生谁来赔偿？",
+          "url": "https://www.zhihu.com/question/2057047195979702923",
+          "source": "知乎",
+          "ranks": [
+            5,
+            4,
+            9,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时18分 ~ 07时07分]"
+        },
+        {
+          "title": "专访中国教育学会副会长唐江澎：教育不能只和分数挂钩",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33518991",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时07分"
+        },
+        {
+          "title": "中公教育",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%85%AC%E6%95%99%E8%82%B2&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时07分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "焦虑 emo",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "林宥嘉独家公开蔡徐坤Demo",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9E%97%E5%AE%A5%E5%98%89%E7%8B%AC%E5%AE%B6%E5%85%AC%E5%BC%80%E8%94%A1%E5%BE%90%E5%9D%A4Demo",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时09分"
+        },
+        {
+          "title": "美国250岁生日：喜悦与焦虑并存",
+          "url": "https://www.toutiao.com/trending/7659222702414106131/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时07分"
         }
       ]
     },
@@ -215,23 +367,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时09分 ~ 07时07分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "焦虑 emo",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "林宥嘉独家公开蔡徐坤Demo",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9E%97%E5%AE%A5%E5%98%89%E7%8B%AC%E5%AE%B6%E5%85%AC%E5%BC%80%E8%94%A1%E5%BE%90%E5%9D%A4Demo",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时09分"
         }
       ]
     },
@@ -272,22 +407,19 @@
       ]
     },
     {
-      "keyword_group": "教育 鸡娃 小镇做题家",
+      "keyword_group": "消费 存钱 攒钱",
       "match_count": 1,
       "titles": [
         {
-          "title": "教育机构员工泄愤删除考生志愿致落榜，仅获刑 8 个月，刑期是否过轻？考生被改写的人生谁来赔偿？",
-          "url": "https://www.zhihu.com/question/2057047195979702923",
-          "source": "知乎",
+          "title": "创业板指、科创50双双跌超2%，沪指跌0.56%，深成指跌1.24%，算力硬件、半导体芯片、消费电子等方向跌幅居前，沪深京三市下跌个股超3300只。",
+          "url": "https://wallstreetcn.com/livenews/3129116",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5,
-            4,
-            9,
-            17
+            22
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时18分 ~ 07时07分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时07分"
         }
       ]
     }
