@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-07T06:22:58.923439+08:00",
-  "total_titles_processed": 569,
+  "generated_at": "2026-07-07T08:15:38.993209+08:00",
+  "total_titles_processed": 688,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型",
-      "match_count": 13,
+      "match_count": 18,
       "titles": [
         {
           "title": "WorkBuddy爆了，微信AI也来了——腾讯AI找到“新船票”了吗？",
@@ -16,8 +16,22 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时56分 ~ 06时22分]"
+          "appearance_count": 6,
+          "time_info": "[00时56分 ~ 08时15分]"
+        },
+        {
+          "title": "智能体下线,AI女友凉了？",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355914&amp;topic_name=%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8B%E7%BA%BF%2CAI%E5%A5%B3%E5%8F%8B%E5%87%89%E4%BA%86%EF%BC%9F",
+          "source": "贴吧",
+          "ranks": [
+            27,
+            28,
+            29,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时56分 ~ 08时15分]"
         },
         {
           "title": "xAI将旗下X账号更名为SpaceXAI。",
@@ -42,17 +56,15 @@
           "time_info": "03时01分"
         },
         {
-          "title": "智能体下线,AI女友凉了？",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355914&amp;topic_name=%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8B%E7%BA%BF%2CAI%E5%A5%B3%E5%8F%8B%E5%87%89%E4%BA%86%EF%BC%9F",
-          "source": "贴吧",
+          "title": "美股收盘：道指再创历史新高 AI硬件链重现抱团",
+          "url": "https://www.cls.cn/detail/2418586",
+          "source": "财联社热门",
           "ranks": [
-            27,
-            28,
-            29
+            5
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时56分 ~ 06时22分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时15分"
         },
         {
           "title": "【腾讯正式发布升级版人工智能模型混元Hy3】腾讯在微信公众号发布声明，正式发布混元模型Hy3。声明称，Hy3是在今年4月发布的预览版基础上的升级版本。",
@@ -74,8 +86,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时58分 ~ 06时22分]"
+          "appearance_count": 4,
+          "time_info": "[04时58分 ~ 08时15分]"
         },
         {
           "title": "AI预测葡萄牙vs西班牙赛果",
@@ -101,6 +113,17 @@
           "time_info": "[00时56分 ~ 03时01分]"
         },
         {
+          "title": "科技股遭对冲基金连抛四周，高盛交易员：“买入一切AI”时代终结！",
+          "url": "https://wallstreetcn.com/articles/3776266",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时15分"
+        },
+        {
           "title": "英国监管机构审查凸显金融服务AI风险",
           "url": "https://wallstreetcn.com/livenews/3129510",
           "source": "华尔街见闻-快讯",
@@ -121,6 +144,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时59分"
+        },
+        {
+          "title": "前苹果员工创办的中国AI眼镜公司获腾讯、美团投资，估值达10亿美元",
+          "url": "https://wallstreetcn.com/livenews/3129608",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时15分"
         },
         {
           "title": "黑石出售 3 处数据中心，又叫停全球最大数据中心建设，这对「AI 经济」影响几何？",
@@ -154,6 +188,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时56分"
+        },
+        {
+          "title": "三星二季度运营利润同比激增超1800%，AI需求继续提振存储芯片价格",
+          "url": "https://wallstreetcn.com/livenews/3129593",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时15分"
+        },
+        {
+          "title": "高盛：AI投资重心迈向实体产业，未来6年资本开支或达7.6万亿美元",
+          "url": "https://wallstreetcn.com/livenews/3129433",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时15分"
         }
       ]
     },
@@ -169,8 +225,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时56分 ~ 06时22分]"
+          "appearance_count": 6,
+          "time_info": "[00时56分 ~ 08时15分]"
         },
         {
           "title": "新研究表明：老龄化未必拖累经济，人口萎缩反而有助繁荣",
@@ -201,7 +257,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
         },
@@ -242,8 +298,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时56分 ~ 06时22分]"
+          "appearance_count": 6,
+          "time_info": "[00时56分 ~ 08时15分]"
         },
         {
           "title": "深交所：对中公教育相关投资者采取暂停交易措施",
@@ -251,11 +307,12 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时56分 ~ 06时22分]"
+          "appearance_count": 6,
+          "time_info": "[00时56分 ~ 08时15分]"
         },
         {
           "title": "word删除空白页 义务教育",
@@ -276,11 +333,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33518991",
           "source": "澎湃新闻",
           "ranks": [
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时56分 ~ 06时22分]"
+          "appearance_count": 6,
+          "time_info": "[00时56分 ~ 08时15分]"
         },
         {
           "title": "网红董太太采访的太阳宫月亮宫小少爷平儿，摒弃数理化，不上学，在家学易经奇门遁甲，如何看待这种教育方式？",
@@ -289,11 +347,12 @@
           "ranks": [
             13,
             18,
-            19
+            19,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 06时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 08时15分]"
         },
         {
           "title": "未来5年中小学教育将有哪些变化",
@@ -302,7 +361,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
         }
@@ -394,7 +453,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
         },
@@ -444,20 +503,6 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "房价什么时候回到2021年的高点",
-          "url": "https://www.toutiao.com/trending/7659379320011361833/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            10,
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时56分 ~ 06时22分]"
-        },
-        {
           "title": "互联网巨头开始“买房收租”？京东7.5亿港元买下香港酒店将改学生宿舍",
           "url": "https://www.cls.cn/detail/2418465",
           "source": "财联社热门",
@@ -465,11 +510,44 @@
             12,
             11,
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时56分 ~ 06时22分]"
+          "appearance_count": 6,
+          "time_info": "[00时56分 ~ 08时15分]"
+        },
+        {
+          "title": "房价什么时候回到2021年的高点",
+          "url": "https://www.toutiao.com/trending/7659379320011361833/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            10,
+            15,
+            16,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时56分 ~ 08时15分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "年轻人 00后 35岁",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "那天村子里来了一群年轻人",
+          "url": "https://www.douyin.com/hot/2560524",
+          "source": "抖音",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时15分"
         }
       ]
     },
@@ -500,11 +578,12 @@
           "source": "今日头条",
           "ranks": [
             12,
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时56分 ~ 06时22分]"
+          "appearance_count": 6,
+          "time_info": "[00时56分 ~ 08时15分]"
         }
       ]
     }
