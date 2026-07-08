@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-08T15:34:39.701288+08:00",
-  "total_titles_processed": 1007,
+  "generated_at": "2026-07-08T18:26:05.016523+08:00",
+  "total_titles_processed": 1188,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型",
-      "match_count": 24,
+      "match_count": 28,
       "titles": [
         {
           "title": "“我们没有看空英伟达”！SemiAnalysis又发小作文：“AI央行”英伟达撬动7万亿债务雪球",
@@ -22,23 +22,24 @@
           "time_info": "[01时25分 ~ 15时34分]"
         },
         {
-          "title": "2026人工智能大会将启幕",
-          "url": "https://www.douyin.com/hot/2562850",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时20分 ~ 15时34分]"
-        },
-        {
           "title": "日本合体搞AI试图突围中美",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355995&amp;topic_name=%E6%97%A5%E6%9C%AC%E5%90%88%E4%BD%93%E6%90%9EAI%E8%AF%95%E5%9B%BE%E7%AA%81%E5%9B%B4%E4%B8%AD%E7%BE%8E",
           "source": "贴吧",
           "ranks": [
             5,
-            4
+            4,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时20分 ~ 18时26分]"
+        },
+        {
+          "title": "2026人工智能大会将启幕",
+          "url": "https://www.douyin.com/hot/2562850",
+          "source": "抖音",
+          "ranks": [
+            3
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -62,7 +63,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时34分"
         },
@@ -125,6 +126,28 @@
           "time_info": "[01时25分 ~ 01时26分]"
         },
         {
+          "title": "日本高中生携AI爆破被捕",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356003&amp;topic_name=%E6%97%A5%E6%9C%AC%E9%AB%98%E4%B8%AD%E7%94%9F%E6%90%BAAI%E7%88%86%E7%A0%B4%E8%A2%AB%E6%8D%95",
+          "source": "贴吧",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时25分 ~ 18时26分]"
+        },
+        {
+          "title": "恒科指暴涨5%，科网股爆发、阿里狂飙超12%，A股三大股指集体收跌，科创50独自收红，AI服务器逆势爆发",
+          "url": "https://wallstreetcn.com/articles/3776428",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时25分 ~ 18时26分]"
+        },
+        {
           "title": "港股午评：科指半日涨4.3%重回4700点上方 人工智能板块领涨",
           "url": "https://flash.jin10.com/detail/20260708120242763800",
           "source": "金十数据",
@@ -142,7 +165,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时34分"
         },
@@ -175,7 +198,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时34分"
         },
@@ -211,6 +234,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
+        },
+        {
+          "title": "AI旗舰模型扎堆上线，资本市场迎来ROI大考",
+          "url": "https://flash.jin10.com/detail/20260708181116766800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
         },
         {
           "title": "告别“无差别上涨”，AI行情进入下半场",
@@ -274,9 +308,95 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时34分"
+        },
+        {
+          "title": "中兴全球首款AI智能体手机将亮相2026WAIC",
+          "url": "https://wallstreetcn.com/livenews/3130543",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "前华为“天才少年”公开发文称DeepSeek面试流程不规范",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33531570",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            7,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时25分 ~ 15时34分]"
+        },
+        {
+          "title": "前华为“天才少年”公开吐槽DeepSeek面试流程",
+          "url": "https://tech.ifeng.com/c/8uYAqpu54ML",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时25分 ~ 06时16分]"
+        },
+        {
+          "title": "如何看待华为首批天才少年计划入选者李博杰吐槽 DeepSeek 的面试流程拖沓，被面试官指控抄袭？",
+          "url": "https://www.zhihu.com/question/2057753624717911009",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时25分 ~ 01时26分]"
+        },
+        {
+          "title": "吐槽 DeepSeek 面试的华为天才少年李博杰被投资人控诉诈骗跑路，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2058168270499176758",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时25分 ~ 18时26分]"
+        },
+        {
+          "title": "前华为天才少年吐槽DeepSeek面试",
+          "url": "https://www.toutiao.com/trending/7658530038409969718/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时25分 ~ 01时26分]"
+        },
+        {
+          "title": "DeepSeek被曝自研芯片",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E8%A2%AB%E6%9B%9D%E8%87%AA%E7%A0%94%E8%8A%AF%E7%89%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时04分"
         }
       ]
     },
@@ -354,66 +474,147 @@
       ]
     },
     {
-      "keyword_group": "DeepSeek 梁文锋",
+      "keyword_group": "教育 鸡娃 小镇做题家",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "证监会对安某编造传播涉中公教育虚假信息立案调查",
+          "url": "https://wallstreetcn.com/articles/3776397",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时25分 ~ 18时26分]"
+        },
+        {
+          "title": "证监会”闪电“查处！“南京路宝宝总”造谣中公教育被查",
+          "url": "https://www.cls.cn/detail/2419636",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时25分 ~ 12时20分]"
+        },
+        {
+          "title": "证监会：对安某编造传播涉中公教育虚假信息立案调查",
+          "url": "https://www.cls.cn/detail/2419566",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时25分 ~ 08时04分]"
+        },
+        {
+          "title": "证监会对安某编造传播涉中公教育虚假信息立案调查，一句低俗赌约，中公教育离奇涨停，其将承担哪些法律责任？",
+          "url": "https://www.zhihu.com/question/2057930097039090211",
+          "source": "知乎",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时25分 ~ 08时04分]"
+        },
+        {
+          "title": "中公教育，股价大跌",
+          "url": "https://www.cls.cn/detail/2420176",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时25分 ~ 18时26分]"
+        },
+        {
+          "title": "证监会对安某编造传播涉中公教育虚假信息立案调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33536387",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时25分 ~ 18时26分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "经济 经济学",
       "match_count": 5,
       "titles": [
         {
-          "title": "前华为“天才少年”公开发文称DeepSeek面试流程不规范",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33531570",
-          "source": "澎湃新闻",
+          "title": "“这是中国第二次拯救世界经济”",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E8%BF%99%E6%98%AF%E4%B8%AD%E5%9B%BD%E7%AC%AC%E4%BA%8C%E6%AC%A1%E6%8B%AF%E6%95%91%E4%B8%96%E7%95%8C%E7%BB%8F%E6%B5%8E%E2%80%9D",
+          "source": "百度热搜",
           "ranks": [
-            9,
-            7,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时25分 ~ 15时34分]"
-        },
-        {
-          "title": "前华为“天才少年”公开吐槽DeepSeek面试流程",
-          "url": "https://tech.ifeng.com/c/8uYAqpu54ML",
-          "source": "凤凰网",
-          "ranks": [
-            12
+            1,
+            5,
+            29
           ],
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时25分 ~ 06时16分]"
         },
         {
-          "title": "如何看待华为首批天才少年计划入选者李博杰吐槽 DeepSeek 的面试流程拖沓，被面试官指控抄袭？",
-          "url": "https://www.zhihu.com/question/2057753624717911009",
-          "source": "知乎",
+          "title": "著名经济学家高善文逝世，终年55岁",
+          "url": "https://wallstreetcn.com/articles/3776392",
+          "source": "华尔街见闻",
           "ranks": [
-            7
+            10,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[06时16分 ~ 18时26分]"
+        },
+        {
+          "title": "从四个新数据读懂上半年中国经济",
+          "url": "https://www.baidu.com/s?wd=%E4%BB%8E%E5%9B%9B%E4%B8%AA%E6%96%B0%E6%95%B0%E6%8D%AE%E8%AF%BB%E6%87%82%E4%B8%8A%E5%8D%8A%E5%B9%B4%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E",
+          "source": "百度热搜",
+          "ranks": [
+            3
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时25分 ~ 01时26分]"
+          "time_info": "[18时25分 ~ 18时26分]"
         },
         {
-          "title": "前华为天才少年吐槽DeepSeek面试",
-          "url": "https://www.toutiao.com/trending/7658530038409969718/",
-          "source": "今日头条",
+          "title": "经济学家高善文离世，享年55岁",
+          "url": "https://finance.ifeng.com/c/8uZYDwu3bID",
+          "source": "凤凰网",
           "ranks": [
-            24
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时25分 ~ 01时26分]"
+          "appearance_count": 6,
+          "time_info": "[01时25分 ~ 08时04分]"
         },
         {
-          "title": "DeepSeek被曝自研芯片",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E8%A2%AB%E6%9B%9D%E8%87%AA%E7%A0%94%E8%8A%AF%E7%89%87",
-          "source": "bilibili 热搜",
+          "title": "日本央行审议委员浅田统一郎（Asada）：加息可能会拖累经济增长。（日本产经新闻）",
+          "url": "https://wallstreetcn.com/livenews/3130188",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            23
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时04分"
+          "time_info": "06时16分"
         }
       ]
     },
@@ -428,7 +629,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时34分"
         },
@@ -524,118 +725,6 @@
       ]
     },
     {
-      "keyword_group": "经济 经济学",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "“这是中国第二次拯救世界经济”",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E8%BF%99%E6%98%AF%E4%B8%AD%E5%9B%BD%E7%AC%AC%E4%BA%8C%E6%AC%A1%E6%8B%AF%E6%95%91%E4%B8%96%E7%95%8C%E7%BB%8F%E6%B5%8E%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            1,
-            5,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时25分 ~ 06时16分]"
-        },
-        {
-          "title": "经济学家高善文离世，享年55岁",
-          "url": "https://finance.ifeng.com/c/8uZYDwu3bID",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时25分 ~ 08时04分]"
-        },
-        {
-          "title": "著名经济学家高善文逝世，终年55岁",
-          "url": "https://wallstreetcn.com/articles/3776392",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时16分 ~ 15时34分]"
-        },
-        {
-          "title": "日本央行审议委员浅田统一郎（Asada）：加息可能会拖累经济增长。（日本产经新闻）",
-          "url": "https://wallstreetcn.com/livenews/3130188",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时16分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "教育 鸡娃 小镇做题家",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "证监会”闪电“查处！“南京路宝宝总”造谣中公教育被查",
-          "url": "https://www.cls.cn/detail/2419636",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时25分 ~ 12时20分]"
-        },
-        {
-          "title": "证监会对安某编造传播涉中公教育虚假信息立案调查",
-          "url": "https://wallstreetcn.com/articles/3776397",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时25分 ~ 15时34分]"
-        },
-        {
-          "title": "证监会：对安某编造传播涉中公教育虚假信息立案调查",
-          "url": "https://www.cls.cn/detail/2419566",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时25分 ~ 08时04分]"
-        },
-        {
-          "title": "证监会对安某编造传播涉中公教育虚假信息立案调查，一句低俗赌约，中公教育离奇涨停，其将承担哪些法律责任？",
-          "url": "https://www.zhihu.com/question/2057930097039090211",
-          "source": "知乎",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时25分 ~ 08时04分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "就业 失业 裁员 应届生",
       "match_count": 3,
       "titles": [
@@ -671,7 +760,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时34分"
         }
@@ -679,7 +768,7 @@
     },
     {
       "keyword_group": "婚姻 结婚 离婚 彩礼",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "女子离婚7年后儿子带着行李千里寻母",
@@ -700,11 +789,23 @@
           "url": "https://s.weibo.com/weibo?q=%23%E8%96%9B%E5%B0%8F%E5%A9%89%E4%BB%BB%E6%9D%83%E9%A2%86%E7%BB%93%E5%A9%9A%E8%AF%81%E4%BA%86%23&t=31&band_rank=24&Refer=top",
           "source": "微博",
           "ranks": [
-            24
+            24,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时34分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时34分 ~ 18时26分]"
+        },
+        {
+          "title": "A股再现天价离婚案",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E5%86%8D%E7%8E%B0%E5%A4%A9%E4%BB%B7%E7%A6%BB%E5%A9%9A%E6%A1%88",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时25分 ~ 18时26分]"
         }
       ]
     },
@@ -757,6 +858,23 @@
       ]
     },
     {
+      "keyword_group": "社会 阶层 社会学",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "国务院原则同意《疾病预防控制“十五五”规划》，实施健康优先发展战略，强化公共卫生能力，加强疾控体系建设，防控重大传染病，推动疾控事业高质量发展，为保护人民健康、保障公共卫生安全、维护经济社会稳定提供坚强支撑。",
+          "url": "https://wallstreetcn.com/livenews/3130554",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
+        }
+      ]
+    },
+    {
       "keyword_group": "考公 考研 上岸",
       "match_count": 1,
       "titles": [
@@ -766,11 +884,12 @@
           "source": "澎湃新闻",
           "ranks": [
             19,
-            14
+            14,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时20分 ~ 15时34分]"
+          "appearance_count": 4,
+          "time_info": "[12时20分 ~ 18时26分]"
         }
       ]
     },
@@ -800,11 +919,12 @@
           "url": "https://www.zhihu.com/question/8392077829",
           "source": "知乎",
           "ranks": [
-            17
+            17,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时34分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时34分 ~ 18时26分]"
         }
       ]
     },
