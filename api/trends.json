@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-09T01:46:39.894658+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-07-09T03:44:43.719235+08:00",
+  "total_titles_processed": 380,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
         {
           "title": "我国人工智能产业加速发展壮大",
@@ -15,8 +15,19 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时46分 ~ 03时44分]"
+        },
+        {
+          "title": "据CNBC：贝莱德全球固定收益首席投资官里德表示，已降低并重新调整对与人工智能直接相关公司的投资敞口。",
+          "url": "https://flash.jin10.com/detail/20260709032855855800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时46分"
+          "time_info": "03时44分"
         },
         {
           "title": "OpenAI面向全球发布语音模型GPT-Live，有两个版本。",
@@ -37,8 +48,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时46分"
+          "appearance_count": 2,
+          "time_info": "[01时46分 ~ 03时44分]"
+        },
+        {
+          "title": "OpenAI 官宣 GPT-5.6 本周四全面开放，哪些亮点值得期待？",
+          "url": "https://www.zhihu.com/question/2058166406420460573",
+          "source": "知乎",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时46分 ~ 03时44分]"
         },
         {
           "title": "恒科指暴涨5%，科网股爆发、阿里狂飙超12%，A股三大股指集体收跌，科创50独自收红，AI服务器逆势爆发",
@@ -48,19 +71,30 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时46分"
+          "appearance_count": 2,
+          "time_info": "[01时46分 ~ 03时44分]"
         },
         {
-          "title": "OpenAI 官宣 GPT-5.6 本周四全面开放，哪些亮点值得期待？",
-          "url": "https://www.zhihu.com/question/2058166406420460573",
-          "source": "知乎",
+          "title": "日本高中生携AI爆破被捕",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356003&amp;topic_name=%E6%97%A5%E6%9C%AC%E9%AB%98%E4%B8%AD%E7%94%9F%E6%90%BAAI%E7%88%86%E7%A0%B4%E8%A2%AB%E6%8D%95",
+          "source": "贴吧",
           "ranks": [
-            10
+            15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时46分"
+          "appearance_count": 2,
+          "time_info": "[01时46分 ~ 03时44分]"
+        },
+        {
+          "title": "日本合体搞AI试图突围中美",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355995&amp;topic_name=%E6%97%A5%E6%9C%AC%E5%90%88%E4%BD%93%E6%90%9EAI%E8%AF%95%E5%9B%BE%E7%AA%81%E5%9B%B4%E4%B8%AD%E7%BE%8E",
+          "source": "贴吧",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时46分 ~ 03时44分]"
         },
         {
           "title": "看空AI就是踏空？私募又争起来了，没买过AI的有什么资格吹哨？",
@@ -74,26 +108,15 @@
           "time_info": "01时46分"
         },
         {
-          "title": "日本高中生携AI爆破被捕",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356003&amp;topic_name=%E6%97%A5%E6%9C%AC%E9%AB%98%E4%B8%AD%E7%94%9F%E6%90%BAAI%E7%88%86%E7%A0%B4%E8%A2%AB%E6%8D%95",
-          "source": "贴吧",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时46分"
-        },
-        {
-          "title": "日本合体搞AI试图突围中美",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355995&amp;topic_name=%E6%97%A5%E6%9C%AC%E5%90%88%E4%BD%93%E6%90%9EAI%E8%AF%95%E5%9B%BE%E7%AA%81%E5%9B%B4%E4%B8%AD%E7%BE%8E",
-          "source": "贴吧",
+          "title": "SpaceXAI与Cursor联合发布Grok AI模型，主打法律与金融任务",
+          "url": "https://wallstreetcn.com/livenews/3130843",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时46分"
+          "time_info": "03时44分"
         },
         {
           "title": "OpenAI：在发布初期，GPT-Live将在后台使用GPT-5.5。GPT-Live在ChatGPT中将不支持带视频或屏幕共享功能的语音交互。",
@@ -105,6 +128,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时46分"
+        },
+        {
+          "title": "OpenAI推出GPT-Live语音模型",
+          "url": "https://wallstreetcn.com/livenews/3130838",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时44分"
         },
         {
           "title": "华纳兄弟探索（WBD）与亚马逊旗下AWS开发Agentic AI广告体验。",
@@ -131,6 +165,85 @@
       ]
     },
     {
+      "keyword_group": "经济 经济学",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "IMF预计今年全球经济增长3.0%，上调中国经济增长预期",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33543824",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时46分 ~ 03时44分]"
+        },
+        {
+          "title": "国际货币基金组织：全球经济在中东战争冲击下总体表现出韧性。",
+          "url": "https://flash.jin10.com/detail/20260709032123080800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时44分"
+        },
+        {
+          "title": "据《耶路撒冷邮报》援引消息人士称，沙特正推动调整“印度—中东—欧洲经济走廊”路线，考虑绕开以色列，改由叙利亚连接，以削弱以色列在该项目中的参与。",
+          "url": "https://flash.jin10.com/detail/20260709025734670800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时44分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "消费 存钱 攒钱",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "全国暑期文化和旅游消费季启动",
+          "url": "https://www.toutiao.com/trending/7659347230798250027/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时46分 ~ 03时44分]"
+        },
+        {
+          "title": "美国5月消费信贷变动 -1.82亿美元，预期 172亿美元，前值 207.33亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3130860",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时44分"
+        },
+        {
+          "title": "美国5月消费信贷 -1.8亿美元，预期171亿美元，前值由207.33亿美元修正为208.2亿美元。",
+          "url": "https://flash.jin10.com/detail/20260709030019394800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时44分"
+        }
+      ]
+    },
+    {
       "keyword_group": "考公 考研 上岸",
       "match_count": 1,
       "titles": [
@@ -139,11 +252,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33535499",
           "source": "澎湃新闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时46分"
+          "appearance_count": 2,
+          "time_info": "[01时46分 ~ 03时44分]"
         }
       ]
     },
@@ -156,11 +270,12 @@
           "url": "https://s.weibo.com/weibo?q=%2344%E5%B2%81%E6%B8%90%E5%86%BB%E7%97%87%E7%94%B7%E5%AD%90%E5%88%9B%E5%A5%87%E8%BF%B9%E7%BB%93%E5%A9%9A%E7%94%9F%E4%B8%8B%E4%BF%A9%E5%A5%B3%23&t=31&band_rank=24&Refer=top",
           "source": "微博",
           "ranks": [
-            24
+            24,
+            23
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时46分"
+          "appearance_count": 2,
+          "time_info": "[01时46分 ~ 03时44分]"
         }
       ]
     },
@@ -173,45 +288,12 @@
           "url": "https://www.zhihu.com/question/2058168270499176758",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时46分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "经济 经济学",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "IMF预计今年全球经济增长3.0%，上调中国经济增长预期",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33543824",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时46分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "消费 存钱 攒钱",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "全国暑期文化和旅游消费季启动",
-          "url": "https://www.toutiao.com/trending/7659347230798250027/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时46分"
+          "appearance_count": 2,
+          "time_info": "[01时46分 ~ 03时44分]"
         }
       ]
     }
