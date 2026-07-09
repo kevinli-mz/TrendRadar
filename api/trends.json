@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-09T11:52:43.831857+08:00",
-  "total_titles_processed": 760,
+  "generated_at": "2026-07-09T15:44:07.749164+08:00",
+  "total_titles_processed": 942,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型",
-      "match_count": 23,
+      "match_count": 28,
       "titles": [
         {
           "title": "我国人工智能产业加速发展壮大",
@@ -25,11 +25,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时46分 ~ 11时52分]"
+          "appearance_count": 8,
+          "time_info": "[01时46分 ~ 15时44分]"
         },
         {
           "title": "日本高中生携AI爆破被捕",
@@ -37,11 +38,12 @@
           "source": "贴吧",
           "ranks": [
             15,
-            22
+            22,
+            26
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时46分 ~ 11时52分]"
+          "appearance_count": 8,
+          "time_info": "[01时46分 ~ 15时44分]"
         },
         {
           "title": "日本合体搞AI试图突围中美",
@@ -49,11 +51,23 @@
           "source": "贴吧",
           "ranks": [
             19,
-            26
+            26,
+            30
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时46分 ~ 11时52分]"
+          "appearance_count": 8,
+          "time_info": "[01时46分 ~ 15时44分]"
+        },
+        {
+          "title": "高盛重磅发声：做多中国AI价值链",
+          "url": "https://www.cls.cn/detail/2421215",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时43分 ~ 15时44分]"
         },
         {
           "title": "AI芯片公司Positron洽谈约7.5亿美元融资 估值最高或达50亿美元",
@@ -77,6 +91,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时46分 ~ 07时15分]"
+        },
+        {
+          "title": "美联储会议纪要：通胀担忧加剧，少数官员支持6月加息，AI跻身三大通胀风险",
+          "url": "https://wallstreetcn.com/articles/3776500",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时52分 ~ 15时44分]"
         },
         {
           "title": "据CNBC：贝莱德全球固定收益首席投资官里德表示，已降低并重新调整对与人工智能直接相关公司的投资敞口。",
@@ -125,15 +151,48 @@
           "time_info": "[01时46分 ~ 05时16分]"
         },
         {
-          "title": "美联储会议纪要：通胀担忧加剧，少数官员支持6月加息，AI跻身三大通胀风险",
-          "url": "https://wallstreetcn.com/articles/3776500",
-          "source": "华尔街见闻",
+          "title": "美股AI牛市熄火？逾六成科技股“入熊”：较近期高点暴跌逾20%",
+          "url": "https://www.cls.cn/detail/2421094",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时52分 ~ 15时44分]"
+        },
+        {
+          "title": "首次！美联储将AI投资列为三大通胀主要风险之一",
+          "url": "https://www.cls.cn/detail/2421292",
+          "source": "财联社热门",
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时43分 ~ 15时44分]"
+        },
+        {
+          "title": "韩股跌入熊市，高盛建议客户“转投中国AI产业链”",
+          "url": "https://wallstreetcn.com/articles/3776515",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时43分 ~ 15时44分]"
+        },
+        {
+          "title": "创业板涨超4%，科创50狂飙7%，中芯国际市值超贵州茅台，AI大模型双雄分化，智谱涨5%、MINIMAX大跌20%",
+          "url": "https://wallstreetcn.com/articles/3776526",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时43分 ~ 15时44分]"
         },
         {
           "title": "OpenAI：将扩大与美国政府及盟友在关键防御领域的合作。",
@@ -153,7 +212,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时52分"
         },
@@ -169,15 +228,15 @@
           "time_info": "05时16分"
         },
         {
-          "title": "美股AI牛市熄火？逾六成科技股“入熊”：较近期高点暴跌逾20%",
-          "url": "https://www.cls.cn/detail/2421094",
-          "source": "财联社热门",
+          "title": "外交部：愿以2026世界人工智能大会为契机，推动人工智能普惠向善",
+          "url": "https://flash.jin10.com/detail/20260709152936797800",
+          "source": "金十数据",
           "ranks": [
-            13
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时52分"
+          "time_info": "15时44分"
         },
         {
           "title": "SpaceXAI与Cursor联合发布Grok AI模型，主打法律与金融任务",
@@ -208,7 +267,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时52分"
         },
@@ -263,7 +322,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时52分"
         }
@@ -271,7 +330,7 @@
     },
     {
       "keyword_group": "经济 经济学",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "IMF预计今年全球经济增长3.0%，上调中国经济增长预期",
@@ -284,8 +343,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时46分 ~ 11时52分]"
+          "appearance_count": 8,
+          "time_info": "[01时46分 ~ 15时44分]"
         },
         {
           "title": "网传知名经济学家高善文治疗淋巴瘤全过程，从发现到离世不到两年，他得的淋巴瘤有多凶险？",
@@ -334,6 +393,17 @@
           "time_info": "07时15分"
         },
         {
+          "title": "日本央行分行经理对经济前景的乐观评估强化了加息理由",
+          "url": "https://flash.jin10.com/detail/20260709152354755800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时44分"
+        },
+        {
           "title": "据《耶路撒冷邮报》援引消息人士称，沙特正推动调整“印度—中东—欧洲经济走廊”路线，考虑绕开以色列，改由叙利亚连接，以削弱以色列在该项目中的参与。",
           "url": "https://flash.jin10.com/detail/20260709025734670800",
           "source": "金十数据",
@@ -348,7 +418,7 @@
     },
     {
       "keyword_group": "消费 存钱 攒钱",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "全国暑期文化和旅游消费季启动",
@@ -382,6 +452,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
+        },
+        {
+          "title": "商务部：6000余个消费“三新”试点项目有望带动超3000亿元投资",
+          "url": "https://flash.jin10.com/detail/20260709152805992800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时44分"
         },
         {
           "title": "美国5月消费信贷 -1.8亿美元，预期171亿美元，前值由207.33亿美元修正为208.2亿美元。",
@@ -430,11 +511,12 @@
           "url": "https://www.baidu.com/s?wd=44%E5%B2%81%E6%B8%90%E5%86%BB%E7%97%87%E7%94%B7%E5%AD%90%E7%BB%93%E5%A9%9A%E7%94%9F%E4%B8%8B%E5%8F%8C%E8%83%9E%E8%83%8E%E5%A5%B3%E5%84%BF",
           "source": "百度热搜",
           "ranks": [
-            29
+            29,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时52分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时52分 ~ 15时44分]"
         }
       ]
     },
@@ -447,11 +529,12 @@
           "url": "https://www.zhihu.com/question/2057858678024319907",
           "source": "知乎",
           "ranks": [
-            14
+            14,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时52分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时52分 ~ 15时44分]"
         }
       ]
     },
