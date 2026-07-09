@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-10T02:03:10.596717+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-07-10T04:52:34.086421+08:00",
+  "total_titles_processed": 400,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型",
-      "match_count": 13,
+      "match_count": 18,
       "titles": [
         {
           "title": "美联储会议纪要：通胀担忧加剧，少数官员支持6月加息，AI跻身三大通胀风险",
@@ -15,30 +15,32 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时02分 ~ 02时03分]"
+          "appearance_count": 3,
+          "time_info": "[02时02分 ~ 04时52分]"
         },
         {
           "title": "午后大反击！创业板暴涨超4%，科创50狂飙8%，中芯国际创新高，港股AI大模型双雄分化，智谱涨11%、MINIMAX大跌18%",
           "url": "https://wallstreetcn.com/articles/3776526",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时02分 ~ 02时03分]"
+          "appearance_count": 3,
+          "time_info": "[02时02分 ~ 04时52分]"
         },
         {
           "title": "海力士美股IPO点燃AI热情，美股高开，科技股反弹，康宁涨超8%，黄金涨超1%，原油回落",
           "url": "https://wallstreetcn.com/articles/3776523",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时02分 ~ 02时03分]"
+          "appearance_count": 3,
+          "time_info": "[02时02分 ~ 04时52分]"
         },
         {
           "title": "韩股跌入熊市，高盛建议客户“转投中国AI产业链”",
@@ -48,8 +50,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时02分 ~ 02时03分]"
+          "appearance_count": 3,
+          "time_info": "[02时02分 ~ 04时52分]"
         },
         {
           "title": "日本高中生携AI爆破被捕",
@@ -59,8 +61,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时02分 ~ 02时03分]"
+          "appearance_count": 3,
+          "time_info": "[02时02分 ~ 04时52分]"
         },
         {
           "title": "OpenAI推出ChatGPT Work智能体，可连续数小时处理任务",
@@ -69,9 +71,31 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时03分"
+        },
+        {
+          "title": "AI产业链中报预告密集披露 存储牛股业绩迎10倍增长|财报解读",
+          "url": "https://www.cls.cn/detail/2422188",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时52分"
+        },
+        {
+          "title": "OpenAI：GPT‑5.6现已成为微软365 Copilot的首选模型。",
+          "url": "https://flash.jin10.com/detail/20260710040649835800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时52分"
         },
         {
           "title": "OpenAI正式推出GPT-5.6系列模型",
@@ -80,7 +104,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时03分"
         },
@@ -91,7 +115,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时03分"
         },
@@ -102,9 +126,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时03分"
+        },
+        {
+          "title": "OpenAI：微软将通过API调用其模型，向Microsoft 365客户推出GPT-5.6服务。",
+          "url": "https://flash.jin10.com/detail/20260710040229258800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时52分"
         },
         {
           "title": "OpenAI：GPT‑5.6的定价以每百万个tokens为单位，分为三档模型：SOL输入为5美元，输出为30美元；TERRA输入为2.50美元，输出为15美元；LUNA输入为1美元，输出为6美元。",
@@ -113,9 +148,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时03分"
+        },
+        {
+          "title": "据The Information：Cursor正开发AI智能代理，欲对标Claude Cowork。",
+          "url": "https://flash.jin10.com/detail/20260710035905609800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时52分"
         },
         {
           "title": "谷歌公司在广告中提高AI透明度。 谷歌在搜索、Youtube广告中新增AI信息披露标签。",
@@ -124,9 +170,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时03分"
+        },
+        {
+          "title": "一条AI短片演绎杨戬劈山",
+          "url": "https://www.douyin.com/hot/2564959",
+          "source": "抖音",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时52分"
         },
         {
           "title": "OpenAI：正式推出GPT-5.6系列模型，面向公众开放使用。",
@@ -135,7 +192,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时03分"
         },
@@ -146,7 +203,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时03分"
         }
@@ -154,7 +211,7 @@
     },
     {
       "keyword_group": "经济 经济学",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "提醒：美国达拉斯联储主席Lorie Logan（2026年FOMC票委）并未置评FOMC货币政策或美国经济前景。",
@@ -163,9 +220,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时03分"
+        },
+        {
+          "title": "美国白宫：商务部长认定美国航空产业正面临挑战，难以充分满足经济和国家安全需求。",
+          "url": "https://flash.jin10.com/detail/20260710042507698800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时52分"
         },
         {
           "title": "“只有一半患者活过3年”，知名经济学家因少见疾病离世",
@@ -175,8 +243,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时02分 ~ 02时03分]"
+          "appearance_count": 3,
+          "time_info": "[02时02分 ~ 04时52分]"
         },
         {
           "title": "金十提示：美联储洛根未对货币政策和经济发表评论。",
@@ -185,7 +253,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时03分"
         }
@@ -193,7 +261,7 @@
     },
     {
       "keyword_group": "年轻人 00后 35岁",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "为什么感觉现在的年轻人，都不怎么爱喝传统碳酸饮料了？",
@@ -203,19 +271,100 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时02分 ~ 02时03分]"
+          "appearance_count": 3,
+          "time_info": "[02时02分 ~ 04时52分]"
         },
         {
           "title": "00后任北大博导",
           "url": "https://s.weibo.com/weibo?q=%2300%E5%90%8E%E4%BB%BB%E5%8C%97%E5%A4%A7%E5%8D%9A%E5%AF%BC%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
           "ranks": [
-            20
+            20,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时02分 ~ 02时03分]"
+          "appearance_count": 3,
+          "time_info": "[02时02分 ~ 04时52分]"
+        },
+        {
+          "title": "00后学者唐晨宇已任北大博导",
+          "url": "https://www.baidu.com/s?wd=00%E5%90%8E%E5%AD%A6%E8%80%85%E5%94%90%E6%99%A8%E5%AE%87%E5%B7%B2%E4%BB%BB%E5%8C%97%E5%A4%A7%E5%8D%9A%E5%AF%BC",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时52分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "消费 存钱 攒钱",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "险资密集现身港股IPO基石投资者名单 认购规模同比增约4倍 信息科技、消费、生物医药等为布局“重地”",
+          "url": "https://www.cls.cn/detail/2421885",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时02分 ~ 04时52分]"
+        },
+        {
+          "title": "标普500指数的11个板块中，信息技术/科技板块收涨1.65%，可选消费板块涨1.46%，金融板块涨1.02%，电信板块涨0.52%，能源板块跌1.58%，日用消费品板块跌1.75%。",
+          "url": "https://wallstreetcn.com/livenews/3131540",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时52分"
+        },
+        {
+          "title": "周四（7月9日），美股行业ETF多数收涨，半导体ETF涨2.48%，科技行业ETF涨2.18%，全球科技股指数ETF涨2.06%，日常消费品ETF、能源业ETF至少跌1.40%。",
+          "url": "https://wallstreetcn.com/livenews/3131539",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时52分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "电影 影视 综艺",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "在当下，为什么一部电影稍有瑕疵就会引发舆论风暴，被全网审判？是否有时候过于苛刻、过度应激了？",
+          "url": "https://www.zhihu.com/question/2056426614649512159",
+          "source": "知乎",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时02分 ~ 04时52分]"
+        },
+        {
+          "title": "电影功夫女足深圳路演",
+          "url": "https://www.douyin.com/hot/2564073",
+          "source": "抖音",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时52分"
         }
       ]
     },
@@ -231,8 +380,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时02分 ~ 02时03分]"
+          "appearance_count": 3,
+          "time_info": "[02时02分 ~ 04时52分]"
         }
       ]
     },
@@ -248,42 +397,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时02分 ~ 02时03分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "消费 存钱 攒钱",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "险资密集现身港股IPO基石投资者名单 认购规模同比增约4倍 信息科技、消费、生物医药等为布局“重地”",
-          "url": "https://www.cls.cn/detail/2421885",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时02分 ~ 02时03分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "电影 影视 综艺",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "在当下，为什么一部电影稍有瑕疵就会引发舆论风暴，被全网审判？是否有时候过于苛刻、过度应激了？",
-          "url": "https://www.zhihu.com/question/2056426614649512159",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时02分 ~ 02时03分]"
+          "appearance_count": 3,
+          "time_info": "[02时02分 ~ 04时52分]"
         }
       ]
     }
