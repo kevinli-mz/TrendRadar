@@ -1,12 +1,38 @@
 {
-  "generated_at": "2026-07-10T06:28:55.105429+08:00",
-  "total_titles_processed": 473,
+  "generated_at": "2026-07-10T08:12:15.156603+08:00",
+  "total_titles_processed": 577,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型",
-      "match_count": 19,
+      "match_count": 24,
       "titles": [
+        {
+          "title": "午后大反击！创业板暴涨超4%，科创50狂飙8%，中芯国际创新高，港股AI大模型双雄分化，智谱涨11%、MINIMAX大跌18%",
+          "url": "https://wallstreetcn.com/articles/3776526",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时02分 ~ 08时12分]"
+        },
+        {
+          "title": "韩股跌入熊市，高盛建议客户“转投中国AI产业链”",
+          "url": "https://wallstreetcn.com/articles/3776515",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时02分 ~ 08时12分]"
+        },
         {
           "title": "美联储会议纪要：通胀担忧加剧，少数官员支持6月加息，AI跻身三大通胀风险",
           "url": "https://wallstreetcn.com/articles/3776500",
@@ -19,16 +45,29 @@
           "time_info": "[02时02分 ~ 04时52分]"
         },
         {
-          "title": "午后大反击！创业板暴涨超4%，科创50狂飙8%，中芯国际创新高，港股AI大模型双雄分化，智谱涨11%、MINIMAX大跌18%",
-          "url": "https://wallstreetcn.com/articles/3776526",
-          "source": "华尔街见闻",
+          "title": "日本高中生携AI爆破被捕",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356003&amp;topic_name=%E6%97%A5%E6%9C%AC%E9%AB%98%E4%B8%AD%E7%94%9F%E6%90%BAAI%E7%88%86%E7%A0%B4%E8%A2%AB%E6%8D%95",
+          "source": "贴吧",
           "ranks": [
-            5,
-            6
+            29,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时02分 ~ 08时12分]"
+        },
+        {
+          "title": "AI产业链中报预告密集披露 存储牛股业绩迎10倍增长|财报解读",
+          "url": "https://www.cls.cn/detail/2422188",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            6,
+            3
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[02时02分 ~ 06时28分]"
+          "time_info": "[04时52分 ~ 08时12分]"
         },
         {
           "title": "海力士美股IPO点燃AI热情，美股高开，科技股反弹，康宁涨超8%，黄金涨超1%，原油回落",
@@ -43,51 +82,51 @@
           "time_info": "[02时02分 ~ 04时52分]"
         },
         {
-          "title": "韩股跌入熊市，高盛建议客户“转投中国AI产业链”",
-          "url": "https://wallstreetcn.com/articles/3776515",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时02分 ~ 06时28分]"
-        },
-        {
-          "title": "日本高中生携AI爆破被捕",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356003&amp;topic_name=%E6%97%A5%E6%9C%AC%E9%AB%98%E4%B8%AD%E7%94%9F%E6%90%BAAI%E7%88%86%E7%A0%B4%E8%A2%AB%E6%8D%95",
-          "source": "贴吧",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时02分 ~ 06时28分]"
-        },
-        {
-          "title": "AI产业链中报预告密集披露 存储牛股业绩迎10倍增长|财报解读",
-          "url": "https://www.cls.cn/detail/2422188",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时52分 ~ 06时28分]"
-        },
-        {
           "title": "一条AI短片演绎杨戬劈山",
           "url": "https://www.douyin.com/hot/2564959",
           "source": "抖音",
           "ranks": [
             24,
-            22
+            22,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时52分 ~ 08时12分]"
+        },
+        {
+          "title": "报道：Meta自研AI芯片“Iris”计划9月量产，2027年算力拟翻倍至14吉瓦",
+          "url": "https://wallstreetcn.com/articles/3776581",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时28分 ~ 08时12分]"
+        },
+        {
+          "title": "美股收盘：“AI的光”再度闪耀 纳指涨超1% 存储、光通信概念领涨",
+          "url": "https://www.cls.cn/detail/2422268",
+          "source": "财联社热门",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时52分 ~ 06时28分]"
+          "time_info": "[08时11分 ~ 08时12分]"
+        },
+        {
+          "title": "AI和空调开始抢电",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%92%8C%E7%A9%BA%E8%B0%83%E5%BC%80%E5%A7%8B%E6%8A%A2%E7%94%B5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时11分 ~ 08时12分]"
         },
         {
           "title": "OpenAI推出ChatGPT Work智能体，可连续数小时处理任务",
@@ -101,15 +140,15 @@
           "time_info": "02时03分"
         },
         {
-          "title": "报道：Meta自研AI芯片“Iris”计划9月量产，2027年算力拟翻倍至14吉瓦",
-          "url": "https://wallstreetcn.com/articles/3776581",
-          "source": "华尔街见闻",
+          "title": "OpenAI高管Fidji Simo将离职，未来将成为该公司兼职顾问。 Simo周四向OpenAI的员工们表达了辞职意愿。 此前，Simo接受的医学治疗时间已经被延长。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3131583",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时28分"
+          "time_info": "08时12分"
         },
         {
           "title": "OpenAI：GPT‑5.6现已成为微软365 Copilot的首选模型。",
@@ -220,13 +259,57 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时03分"
+        },
+        {
+          "title": "OpenAI高管Fidji Simo将卸任",
+          "url": "https://flash.jin10.com/detail/20260710070918440800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时12分"
+        },
+        {
+          "title": "据华尔街日报：OpenAI高管Fidji Simo将辞职，未来将成为该公司兼职顾问。",
+          "url": "https://flash.jin10.com/detail/20260710070247898800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时12分"
         }
       ]
     },
     {
       "keyword_group": "经济 经济学",
-      "match_count": 4,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "日本经济大臣木内：批发价格上涨反映了近期油价上涨，但消费者通胀的涨幅温和。",
+          "url": "https://flash.jin10.com/detail/20260710080953254800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时12分"
+        },
+        {
+          "title": "日本经济大臣木内：日元疲软对国内通胀的影响存在滞后，且影响程度未必很大。",
+          "url": "https://flash.jin10.com/detail/20260710080910922800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时12分"
+        },
         {
           "title": "提醒：美国达拉斯联储主席Lorie Logan（2026年FOMC票委）并未置评FOMC货币政策或美国经济前景。",
           "url": "https://wallstreetcn.com/livenews/3131494",
@@ -237,6 +320,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时03分"
+        },
+        {
+          "title": "日本经济大臣木内：政府一贯传达其立场，即采取注重财政可持续性的政策。",
+          "url": "https://flash.jin10.com/detail/20260710080644067800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时12分"
         },
         {
           "title": "美国白宫：商务部长认定美国航空产业正面临挑战，难以充分满足经济和国家安全需求。",
@@ -262,6 +356,17 @@
           "time_info": "[02时02分 ~ 06时28分]"
         },
         {
+          "title": "英国央行首席经济学家称央行将需提高利率",
+          "url": "https://wallstreetcn.com/livenews/3131581",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时12分"
+        },
+        {
           "title": "金十提示：美联储洛根未对货币政策和经济发表评论。",
           "url": "https://flash.jin10.com/detail/20260710013129771800",
           "source": "金十数据",
@@ -283,11 +388,12 @@
           "url": "https://www.zhihu.com/question/1976975189460927248",
           "source": "知乎",
           "ranks": [
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时02分 ~ 06时28分]"
+          "appearance_count": 6,
+          "time_info": "[02时02分 ~ 08时12分]"
         },
         {
           "title": "00后任北大博导",
@@ -327,8 +433,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时02分 ~ 06时28分]"
+          "appearance_count": 6,
+          "time_info": "[02时02分 ~ 08时12分]"
         },
         {
           "title": "标普500指数的11个板块中，信息技术/科技板块收涨1.65%，可选消费板块涨1.46%，金融板块涨1.02%，电信板块涨0.52%，能源板块跌1.58%，日用消费品板块跌1.75%。",
@@ -367,11 +473,12 @@
           "ranks": [
             8,
             7,
-            12
+            12,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时02分 ~ 06时28分]"
+          "appearance_count": 6,
+          "time_info": "[02时02分 ~ 08时12分]"
         },
         {
           "title": "电影功夫女足深圳路演",
@@ -399,8 +506,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时02分 ~ 06时28分]"
+          "appearance_count": 6,
+          "time_info": "[02时02分 ~ 08时12分]"
         }
       ]
     },
@@ -416,8 +523,25 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时02分 ~ 06时28分]"
+          "appearance_count": 6,
+          "time_info": "[02时02分 ~ 08时12分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "原生家庭 父母 亲子",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "男子抱轮胎游3小时回村找父母",
+          "url": "https://www.toutiao.com/trending/7659790392569577499/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时11分 ~ 08时12分]"
         }
       ]
     }
