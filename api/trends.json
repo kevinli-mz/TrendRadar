@@ -1,218 +1,44 @@
 {
-  "generated_at": "2026-07-11T23:02:49.967522+08:00",
-  "total_titles_processed": 1412,
+  "generated_at": "2026-07-12T00:06:23.091474+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型",
-      "match_count": 22,
+      "match_count": 6,
       "titles": [
         {
           "title": "AI狂欢持续！SK海力士创海外赴美最大IPO，美股首秀收涨13%",
           "url": "https://wallstreetcn.com/articles/3776680",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            3,
-            2,
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时50分 ~ 23时02分]"
-        },
-        {
-          "title": "午后齐跌，创业板跌超4%，商业航天掀涨停潮，芯片半导体下挫，港股AI模型“双雄”暴跌",
-          "url": "https://wallstreetcn.com/articles/3776629",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7,
-            6,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时02分 ~ 16时53分]"
-        },
-        {
-          "title": "华尔街还愿意给AI存储多少溢价？今夜，SK海力士美股首秀或揭晓答案",
-          "url": "https://wallstreetcn.com/articles/3776651",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            7,
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时02分 ~ 16时53分]"
-        },
-        {
-          "title": "算力、模型、数据三箭齐发 吓坏市场的Meta要剑指AI“第三极”？",
-          "url": "https://www.cls.cn/detail/2422869",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时20分 ~ 23时02分]"
-        },
-        {
-          "title": "高盛深度报告：谁将成为中国AI大模型行业的长期赢家？",
-          "url": "https://wallstreetcn.com/articles/3776665",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时20分 ~ 19时57分]"
-        },
-        {
-          "title": "【每日收评】创业板指放量跌超4%，半导体、AI硬件股集体调整，创新药板块逆势活跃",
-          "url": "https://www.cls.cn/detail/2422921",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 07时51分]"
+          "appearance_count": 1,
+          "time_info": "00时06分"
         },
         {
           "title": "AI热潮推动下 行业人士：HBM4价格明年或翻倍",
           "url": "https://www.cls.cn/detail/2423546",
           "source": "财联社热门",
           "ranks": [
-            10,
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时20分 ~ 23时02分]"
-        },
-        {
-          "title": "美联储官宣五大改革工作组领导阵容，前央行行长、硅谷AI大佬、诺奖经济学家加盟",
-          "url": "https://wallstreetcn.com/articles/3776606",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时02分"
+          "time_info": "00时06分"
         },
         {
-          "title": "苹果起诉OpenAI涉嫌窃取商业机密",
-          "url": "https://flash.jin10.com/detail/20260711044802586800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时12分 ~ 07时51分]"
-        },
-        {
-          "title": "苹果起诉OpenAI窃取其顶级商业机密，引发重磅诉讼",
-          "url": "https://wallstreetcn.com/livenews/3132249",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时12分 ~ 07时51分]"
-        },
-        {
-          "title": "全球主权财富基金加大对AI投资",
-          "url": "https://flash.jin10.com/detail/20260711213544573800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时45分 ~ 23时02分]"
-        },
-        {
-          "title": "OpenAI回应苹果公司的诉讼：我们对其他公司的商业秘密没兴趣。 我们仍然侧重于打造创新科技。",
-          "url": "https://wallstreetcn.com/livenews/3132268",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时51分 ~ 11时20分]"
-        },
-        {
-          "title": "市场消息：法院文件显示，苹果(AAPL.O)起诉OpenAI，指控其挪用商业机密。",
-          "url": "https://flash.jin10.com/detail/20260711042558788800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时12分 ~ 07时51分]"
-        },
-        {
-          "title": "美国FCC批准“太空反射镜”试点 马斯克要求员工使用自家AI | 环球市场",
-          "url": "https://www.cls.cn/detail/2423447",
+          "title": "算力、模型、数据三箭齐发 吓坏市场的Meta要剑指AI“第三极”？",
+          "url": "https://www.cls.cn/detail/2422869",
           "source": "财联社热门",
           "ranks": [
-            11,
-            10,
-            13
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时20分 ~ 16时53分]"
-        },
-        {
-          "title": "无人机吊起2人神图系AI合成",
-          "url": "https://www.toutiao.com/trending/7660829419656888339/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时20分 ~ 23时02分]"
-        },
-        {
-          "title": "无人机吊起2人神图系AI合成",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%90%8A%E8%B5%B72%E4%BA%BA%E7%A5%9E%E5%9B%BE%E7%B3%BBAI%E5%90%88%E6%88%90%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时20分 ~ 16时53分]"
+          "appearance_count": 1,
+          "time_info": "00时06分"
         },
         {
           "title": "重回AI一线？Meta单周大涨15%",
@@ -222,412 +48,109 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时45分 ~ 23时02分]"
+          "appearance_count": 1,
+          "time_info": "00时06分"
         },
         {
-          "title": "美国放宽对阿联酋的出口限制，为AI芯片销售打开大门",
-          "url": "https://flash.jin10.com/detail/20260711003717069800",
+          "title": "无人机吊起2人神图系AI合成",
+          "url": "https://www.toutiao.com/trending/7660829419656888339/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时06分"
+        },
+        {
+          "title": "全球主权财富基金加大对AI投资",
+          "url": "https://flash.jin10.com/detail/20260711213544573800",
           "source": "金十数据",
           "ranks": [
-            7
+            25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时02分"
-        },
-        {
-          "title": "据悉OpenAI安全系统负责人将离职",
-          "url": "https://flash.jin10.com/detail/20260711093038446800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时20分"
-        },
-        {
-          "title": "OpenAI安全系统负责人Heidecke将离职。（WIRED）",
-          "url": "https://wallstreetcn.com/livenews/3132277",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时20分"
-        },
-        {
-          "title": "《功夫女足》上映 AI预测总票房超10亿",
-          "url": "https://www.baidu.com/s?wd=%E3%80%8A%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E3%80%8B%E4%B8%8A%E6%98%A0+AI%E9%A2%84%E6%B5%8B%E6%80%BB%E7%A5%A8%E6%88%BF%E8%B6%8510%E4%BA%BF",
-          "source": "百度热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时20分"
-        },
-        {
-          "title": "欧洲央行Moulin：AI可能加剧通胀波动",
-          "url": "https://wallstreetcn.com/livenews/3132205",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时43分"
+          "time_info": "00时06分"
         }
       ]
     },
     {
       "keyword_group": "电影 影视 综艺",
-      "match_count": 16,
+      "match_count": 6,
       "titles": [
         {
-          "title": "如何看待周星驰电影《功夫女足》首日排片超 22.6 万场，刷新中国内地影史暑期档首日场次纪录？",
-          "url": "https://www.zhihu.com/question/2059024185498808451",
-          "source": "知乎",
-          "ranks": [
-            18,
-            12,
-            3,
-            2,
-            4,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[03时42分 ~ 18时20分]"
-        },
-        {
-          "title": "华谊影视发展现状解析",
-          "url": "https://search.bilibili.com/all?keyword=%E5%8D%8E%E8%B0%8A%E5%BD%B1%E8%A7%86%E5%8F%91%E5%B1%95%E7%8E%B0%E7%8A%B6%E8%A7%A3%E6%9E%90",
+          "title": "周星驰新电影值得看吗",
+          "url": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%98%9F%E9%A9%B0%E6%96%B0%E7%94%B5%E5%BD%B1%E5%80%BC%E5%BE%97%E7%9C%8B%E5%90%97",
           "source": "bilibili 热搜",
           "ranks": [
-            22,
-            6,
-            8,
-            26,
-            17,
-            14,
-            25,
-            19
+            2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时02分 ~ 21时45分]"
+          "appearance_count": 1,
+          "time_info": "00时06分"
         },
         {
           "title": "你会去看周星驰的新电影《功夫女足》吗？",
           "url": "https://www.zhihu.com/question/2058093856713969712",
           "source": "知乎",
           "ranks": [
-            6,
-            11,
-            3,
-            2
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时20分 ~ 23时02分]"
-        },
-        {
-          "title": "《功夫女足》首支长预告曝光，张小斐、迪丽热巴带队与各路高手功夫大乱斗，看完预告你期待这部电影吗？",
-          "url": "https://www.zhihu.com/question/2058924914954827300",
-          "source": "知乎",
-          "ranks": [
-            3,
-            2,
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时02分 ~ 11时20分]"
-        },
-        {
-          "title": "周星驰新电影值得看吗",
-          "url": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%98%9F%E9%A9%B0%E6%96%B0%E7%94%B5%E5%BD%B1%E5%80%BC%E5%BE%97%E7%9C%8B%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时57分 ~ 23时02分]"
-        },
-        {
-          "title": "电影功夫女足今日上映",
-          "url": "https://www.douyin.com/hot/2566793",
-          "source": "抖音",
-          "ranks": [
-            13,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时20分 ~ 23时02分]"
-        },
-        {
-          "title": "为什么电影《奥本海默》中的科学家形象，不像现实中的理工科学生，反而像文科生？",
-          "url": "https://www.zhihu.com/question/2055338128379007237",
-          "source": "知乎",
-          "ranks": [
-            11,
-            8,
-            7,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时20分 ~ 21时45分]"
-        },
-        {
-          "title": "周星驰电影《功夫女足》票房破亿",
-          "url": "https://www.baidu.com/s?wd=%E5%91%A8%E6%98%9F%E9%A9%B0%E7%94%B5%E5%BD%B1%E3%80%8A%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E3%80%8B%E7%A5%A8%E6%88%BF%E7%A0%B4%E4%BA%BF",
-          "source": "百度热搜",
-          "ranks": [
-            5,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时20分 ~ 18时20分]"
-        },
-        {
-          "title": "如何评价追光动画出品的电影《三国第一部：争洛阳》？",
-          "url": "https://www.zhihu.com/question/2050951363807405043",
-          "source": "知乎",
-          "ranks": [
-            7,
-            9,
-            12,
-            13,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时20分 ~ 19时57分]"
-        },
-        {
-          "title": "如何评价周星驰执导、编剧的电影《功夫女足》？",
-          "url": "https://www.zhihu.com/question/2058553085396620762",
-          "source": "知乎",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时20分 ~ 23时02分]"
-        },
-        {
-          "title": "火影忍者将拍好莱坞真人电影",
-          "url": "https://www.douyin.com/hot/2566185",
-          "source": "抖音",
-          "ranks": [
-            24,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时50分 ~ 14时20分]"
+          "appearance_count": 1,
+          "time_info": "00时06分"
         },
         {
           "title": "知名主持人喷周星驰新电影：好难看",
           "url": "https://www.baidu.com/s?wd=%E7%9F%A5%E5%90%8D%E4%B8%BB%E6%8C%81%E4%BA%BA%E5%96%B7%E5%91%A8%E6%98%9F%E9%A9%B0%E6%96%B0%E7%94%B5%E5%BD%B1%EF%BC%9A%E5%A5%BD%E9%9A%BE%E7%9C%8B",
           "source": "百度热搜",
           "ranks": [
-            22,
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时57分 ~ 23时02分]"
+          "appearance_count": 1,
+          "time_info": "00时06分"
         },
         {
-          "title": "周星驰电影为何有强大吸引力",
-          "url": "https://www.toutiao.com/trending/7661108266310569482/",
-          "source": "今日头条",
+          "title": "如何评价周星驰执导、编剧的电影《功夫女足》？",
+          "url": "https://www.zhihu.com/question/2058553085396620762",
+          "source": "知乎",
           "ranks": [
-            16,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时52分 ~ 18时20分]"
-        },
-        {
-          "title": "国内电影市场单日票房突破3亿元 创数月新高",
-          "url": "https://flash.jin10.com/detail/20260711205549728800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时45分 ~ 23时02分]"
-        },
-        {
-          "title": "迪丽热巴第4部破亿电影",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%AC%AC4%E9%83%A8%E7%A0%B4%E4%BA%BF%E7%94%B5%E5%BD%B1%23&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时20分"
+          "time_info": "00时06分"
         },
         {
-          "title": "电影极限定档几时休",
-          "url": "https://www.toutiao.com/trending/7661177081195957801/",
-          "source": "今日头条",
+          "title": "电影功夫女足今日上映",
+          "url": "https://www.douyin.com/hot/2566793",
+          "source": "抖音",
           "ranks": [
-            17
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时20分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "婚姻 结婚 离婚 彩礼",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "新娘结婚当天一觉睡到10点多",
-          "url": "https://www.toutiao.com/trending/7660340520979382313/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            9,
-            27,
-            19,
-            10,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时20分 ~ 21时45分]"
+          "time_info": "00时06分"
         },
         {
-          "title": "冉莹颖自曝处在丧偶式婚姻",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%86%89%E8%8E%B9%E9%A2%96%E8%87%AA%E6%9B%9D%E5%A4%84%E5%9C%A8%E4%B8%A7%E5%81%B6%E5%BC%8F%E5%A9%9A%E5%A7%BB%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
+          "title": "华谊影视发展现状解析",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8D%8E%E8%B0%8A%E5%BD%B1%E8%A7%86%E5%8F%91%E5%B1%95%E7%8E%B0%E7%8A%B6%E8%A7%A3%E6%9E%90",
+          "source": "bilibili 热搜",
           "ranks": [
-            28,
-            16,
-            20
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时42分 ~ 07时51分]"
-        },
-        {
-          "title": "当我问我妈不结婚可以吗",
-          "url": "https://s.weibo.com/weibo?q=%E5%BD%93%E6%88%91%E9%97%AE%E6%88%91%E5%A6%88%E4%B8%8D%E7%BB%93%E5%A9%9A%E5%8F%AF%E4%BB%A5%E5%90%97&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时45分 ~ 23时02分]"
-        },
-        {
-          "title": "拳王邹市明妻子自曝“丧偶式婚姻”",
-          "url": "https://www.toutiao.com/trending/7660462569332949046/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时52分 ~ 18时20分]"
-        },
-        {
-          "title": "新娘结婚睡过头醒来看见满屋人",
-          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E5%A8%98%E7%BB%93%E5%A9%9A%E7%9D%A1%E8%BF%87%E5%A4%B4%E9%86%92%E6%9D%A5%E7%9C%8B%E8%A7%81%E6%BB%A1%E5%B1%8B%E4%BA%BA",
-          "source": "百度热搜",
-          "ranks": [
-            26,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时20分 ~ 14时20分]"
-        },
-        {
-          "title": "拳王邹市明妻子自曝“丧偶式婚姻”",
-          "url": "https://www.baidu.com/s?wd=%E6%8B%B3%E7%8E%8B%E9%82%B9%E5%B8%82%E6%98%8E%E5%A6%BB%E5%AD%90%E8%87%AA%E6%9B%9D%E2%80%9C%E4%B8%A7%E5%81%B6%E5%BC%8F%E5%A9%9A%E5%A7%BB%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时52分 ~ 16时53分]"
-        },
-        {
-          "title": "新娘结婚睡过头醒来看见满屋人",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%A8%98%E7%BB%93%E5%A9%9A%E7%9D%A1%E8%BF%87%E5%A4%B4%E9%86%92%E6%9D%A5%E7%9C%8B%E8%A7%81%E6%BB%A1%E5%B1%8B%E4%BA%BA%23&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时52分 ~ 16时53分]"
-        },
-        {
-          "title": "冉莹颖自曝曾多次想离婚",
-          "url": "https://www.baidu.com/s?wd=%E5%86%89%E8%8E%B9%E9%A2%96%E8%87%AA%E6%9B%9D%E6%9B%BE%E5%A4%9A%E6%AC%A1%E6%83%B3%E7%A6%BB%E5%A9%9A",
-          "source": "百度热搜",
-          "ranks": [
-            30,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时20分 ~ 14时20分]"
+          "appearance_count": 1,
+          "time_info": "00时06分"
         }
       ]
     },
     {
       "keyword_group": "教育 鸡娃 小镇做题家",
-      "match_count": 5,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "广西贵港教育园区孤岛救援始末",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B9%BF%E8%A5%BF%E8%B4%B5%E6%B8%AF%E6%95%99%E8%82%B2%E5%9B%AD%E5%8C%BA%E5%AD%A4%E5%B2%9B%E6%95%91%E6%8F%B4%E5%A7%8B%E6%9C%AB%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 05时12分]"
-        },
-        {
-          "title": "教育部：“教师全面硕士化”系谣言",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33559712",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时20分 ~ 19时57分]"
-        },
         {
           "title": "教育部：“教师全面硕士化”系谣言",
           "url": "https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%EF%BC%9A%E2%80%9C%E6%95%99%E5%B8%88%E5%85%A8%E9%9D%A2%E7%A1%95%E5%A3%AB%E5%8C%96%E2%80%9D%E7%B3%BB%E8%B0%A3%E8%A8%80",
@@ -636,283 +159,53 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时57分 ~ 23时02分]"
+          "appearance_count": 1,
+          "time_info": "00时06分"
         },
         {
           "title": "家长投诉孩子期末考试无分数，只有考试等级，教育部称减负不是剥夺家长知分权，学校该如何解决家长这一诉求？",
           "url": "https://www.zhihu.com/question/2058964046766945142",
           "source": "知乎",
           "ranks": [
-            19,
-            16,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时20分 ~ 23时02分]"
-        },
-        {
-          "title": "全国教育辟谣平台矩阵正式启动运行",
-          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E6%95%99%E8%82%B2%E8%BE%9F%E8%B0%A3%E5%B9%B3%E5%8F%B0%E7%9F%A9%E9%98%B5%E6%AD%A3%E5%BC%8F%E5%90%AF%E5%8A%A8%E8%BF%90%E8%A1%8C",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时42分 ~ 03时43分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "经济 经济学",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "一组数据看中国经济蓬勃发展",
-          "url": "https://www.toutiao.com/trending/7660329513477439531/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时20分 ~ 16时53分]"
-        },
-        {
-          "title": "惠誉：沙特阿拉伯地缘政治风险高，但经济和公共财政在美伊战争中表现出韧性。",
-          "url": "https://flash.jin10.com/detail/20260711052432342800",
-          "source": "金十数据",
-          "ranks": [
-            5
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时51分"
-        },
-        {
-          "title": "太空经济的“iPhone时刻”要来了吗",
-          "url": "https://www.toutiao.com/trending/7660854338671087130/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 03时43分]"
-        },
-        {
-          "title": "中国航协：下半年要深化通航与低空经济业务开展",
-          "url": "https://flash.jin10.com/detail/20260711152756572800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时53分"
+          "time_info": "00时06分"
         }
       ]
     },
     {
       "keyword_group": "社会 阶层 社会学",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "国常会：要系统推进数字中国建设，加快新一代通信网、算力网建设，全面赋能经济社会发展",
           "url": "https://www.cls.cn/detail/2423220",
           "source": "财联社热门",
           "ranks": [
-            3,
-            2
+            4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时02分 ~ 23时02分]"
-        },
-        {
-          "title": "稻城亚丁景区：将免收3个月门票，降低交通服务费、对社会车辆实施预约限流通行",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33558643",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时02分 ~ 18时20分]"
+          "appearance_count": 1,
+          "time_info": "00时06分"
         }
       ]
     },
     {
       "keyword_group": "消费 存钱 攒钱",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "周五（7月10日），美股行业ETF普遍上涨，日常消费品ETF收涨超1.1%，银行业ETF、半导体ETF至少涨0.54%，科技行业ETF、全球科技股指数ETF、网络股指数ETF涨约0.2%，全球航空业ETF跌0.99%，生物科技指数ETF跌2.68%。 2026年迄今，半导体ETF累涨69.67%，全球科技股指数ETF累涨34.19%，科技行业ETF、能源业ETF至少涨24.89%，可选消费ETF则跌1.42%。",
-          "url": "https://wallstreetcn.com/livenews/3132246",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时12分 ~ 07时51分]"
-        },
-        {
-          "title": "俄罗斯统计局：6月消费者物价指数环比上涨0.87%（预期为上涨0.8%）；同比上涨6.02%（预期为上涨6.0%）。",
-          "url": "https://flash.jin10.com/detail/20260711000304281800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "心理 心理学 心理咨询",
       "match_count": 1,
       "titles": [
         {
-          "title": "为什么我和伴侣总是因为小事爆发争吵，如何从心理学角度理解和改善？",
-          "url": "https://www.zhihu.com/question/1966462985095587672",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 07时51分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "焦虑 emo",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "突然意识到没必要焦虑",
-          "url": "https://s.weibo.com/weibo?q=%E7%AA%81%E7%84%B6%E6%84%8F%E8%AF%86%E5%88%B0%E6%B2%A1%E5%BF%85%E8%A6%81%E7%84%A6%E8%99%91&t=31&band_rank=27&Refer=top",
+          "title": "丁程鑫说王俊凯太能存钱了",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%81%E7%A8%8B%E9%91%AB%E8%AF%B4%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%A4%AA%E8%83%BD%E5%AD%98%E9%92%B1%E4%BA%86%23&t=31&band_rank=27&Refer=top",
           "source": "微博",
           "ranks": [
-            27,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时02分 ~ 07时51分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "年轻人 00后 35岁",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "35岁女高管立遗嘱将千万资产赠小姨",
-          "url": "https://www.baidu.com/s?wd=35%E5%B2%81%E5%A5%B3%E9%AB%98%E7%AE%A1%E7%AB%8B%E9%81%97%E5%98%B1%E5%B0%86%E5%8D%83%E4%B8%87%E8%B5%84%E4%BA%A7%E8%B5%A0%E5%B0%8F%E5%A7%A8",
-          "source": "百度热搜",
-          "ranks": [
-            10,
-            9,
-            6,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时02分 ~ 11时20分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "就业 失业 裁员 应届生",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "杜华回应半个娱乐圈艺人失业",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9D%9C%E5%8D%8E%E5%9B%9E%E5%BA%94%E5%8D%8A%E4%B8%AA%E5%A8%B1%E4%B9%90%E5%9C%88%E8%89%BA%E4%BA%BA%E5%A4%B1%E4%B8%9A%23&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6
+            27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时20分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "考公 考研 上岸",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "台风10级风圈快上岸了",
-          "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E10%E7%BA%A7%E9%A3%8E%E5%9C%88%E5%BF%AB%E4%B8%8A%E5%B2%B8%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时20分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "生育 催生 不婚",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "大模型算法是否会催生一大批不懂业务的算法工程师，热度过后他们将何去何从？",
-          "url": "https://www.zhihu.com/question/7707791899",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时50分 ~ 07时51分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "恋爱 相亲 婚恋 脱单",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "李钟硕恋爱期间与女生双手插兜",
-          "url": "https://s.weibo.com/weibo?q=%E6%9D%8E%E9%92%9F%E7%A1%95%E6%81%8B%E7%88%B1%E6%9C%9F%E9%97%B4%E4%B8%8E%E5%A5%B3%E7%94%9F%E5%8F%8C%E6%89%8B%E6%8F%92%E5%85%9C&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时20分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "ChatGPT openai Sora",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "GPT-5.6全面发布！同步发布新ChatGPT智能体，奥特曼称和美政府沟通后做出“许多调整”",
-          "url": "https://wallstreetcn.com/articles/3776605",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 05时12分]"
+          "time_info": "00时06分"
         }
       ]
     }
