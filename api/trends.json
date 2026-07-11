@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-11T18:20:51.114335+08:00",
-  "total_titles_processed": 1121,
+  "generated_at": "2026-07-11T19:57:54.772293+08:00",
+  "total_titles_processed": 1227,
   "failed_sources": [],
   "trends": [
     {
@@ -25,6 +25,20 @@
           "time_info": "[01时02分 ~ 16时53分]"
         },
         {
+          "title": "AI狂欢持续！SK海力士创海外赴美最大IPO，美股首秀收涨13%",
+          "url": "https://wallstreetcn.com/articles/3776680",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时50分 ~ 19时57分]"
+        },
+        {
           "title": "华尔街还愿意给AI存储多少溢价？今夜，SK海力士美股首秀或揭晓答案",
           "url": "https://wallstreetcn.com/articles/3776651",
           "source": "华尔街见闻",
@@ -42,20 +56,6 @@
           "time_info": "[01时02分 ~ 16时53分]"
         },
         {
-          "title": "AI狂欢持续！SK海力士创海外赴美最大IPO，美股首秀收涨13%",
-          "url": "https://wallstreetcn.com/articles/3776680",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时50分 ~ 18时20分]"
-        },
-        {
           "title": "算力、模型、数据三箭齐发 吓坏市场的Meta要剑指AI“第三极”？",
           "url": "https://www.cls.cn/detail/2422869",
           "source": "财联社热门",
@@ -66,8 +66,21 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时20分 ~ 18时20分]"
+          "appearance_count": 6,
+          "time_info": "[11时20分 ~ 19时57分]"
+        },
+        {
+          "title": "高盛深度报告：谁将成为中国AI大模型行业的长期赢家？",
+          "url": "https://wallstreetcn.com/articles/3776665",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时20分 ~ 19时57分]"
         },
         {
           "title": "【每日收评】创业板指放量跌超4%，半导体、AI硬件股集体调整，创新药板块逆势活跃",
@@ -80,19 +93,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时02分 ~ 07时51分]"
-        },
-        {
-          "title": "高盛深度报告：谁将成为中国AI大模型行业的长期赢家？",
-          "url": "https://wallstreetcn.com/articles/3776665",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时20分 ~ 18时20分]"
         },
         {
           "title": "美联储官宣五大改革工作组领导阵容，前央行行长、硅谷AI大佬、诺奖经济学家加盟",
@@ -179,6 +179,29 @@
           "time_info": "[14时20分 ~ 16时53分]"
         },
         {
+          "title": "AI热潮推动下 行业人士：HBM4价格明年或翻倍",
+          "url": "https://www.cls.cn/detail/2423546",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时20分 ~ 19时57分]"
+        },
+        {
+          "title": "无人机吊起2人神图系AI合成",
+          "url": "https://www.toutiao.com/trending/7660829419656888339/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时20分 ~ 19时57分]"
+        },
+        {
           "title": "美国放宽对阿联酋的出口限制，为AI芯片销售打开大门",
           "url": "https://flash.jin10.com/detail/20260711003717069800",
           "source": "金十数据",
@@ -188,28 +211,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
-        },
-        {
-          "title": "AI热潮推动下 行业人士：HBM4价格明年或翻倍",
-          "url": "https://www.cls.cn/detail/2423546",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时20分"
-        },
-        {
-          "title": "无人机吊起2人神图系AI合成",
-          "url": "https://www.toutiao.com/trending/7660829419656888339/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时20分"
         },
         {
           "title": "据悉OpenAI安全系统负责人将离职",
@@ -259,7 +260,7 @@
     },
     {
       "keyword_group": "电影 影视 综艺",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "如何看待周星驰电影《功夫女足》首日排片超 22.6 万场，刷新中国内地影史暑期档首日场次纪录？",
@@ -301,11 +302,25 @@
             8,
             26,
             17,
-            14
+            14,
+            25
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时02分 ~ 18时20分]"
+          "appearance_count": 9,
+          "time_info": "[01时02分 ~ 19时57分]"
+        },
+        {
+          "title": "你会去看周星驰的新电影《功夫女足》吗？",
+          "url": "https://www.zhihu.com/question/2058093856713969712",
+          "source": "知乎",
+          "ranks": [
+            6,
+            11,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时20分 ~ 19时57分]"
         },
         {
           "title": "周星驰电影《功夫女足》票房破亿",
@@ -327,23 +342,23 @@
             7,
             9,
             12,
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时20分 ~ 18时20分]"
+          "appearance_count": 6,
+          "time_info": "[11时20分 ~ 19时57分]"
         },
         {
-          "title": "你会去看周星驰的新电影《功夫女足》吗？",
-          "url": "https://www.zhihu.com/question/2058093856713969712",
-          "source": "知乎",
+          "title": "周星驰新电影值得看吗",
+          "url": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%98%9F%E9%A9%B0%E6%96%B0%E7%94%B5%E5%BD%B1%E5%80%BC%E5%BE%97%E7%9C%8B%E5%90%97",
+          "source": "bilibili 热搜",
           "ranks": [
-            6,
-            11
+            1
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时20分 ~ 18时20分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时57分"
         },
         {
           "title": "为什么电影《奥本海默》中的科学家形象，不像现实中的理工科学生，反而像文科生？",
@@ -355,8 +370,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时20分 ~ 18时20分]"
+          "appearance_count": 5,
+          "time_info": "[14时20分 ~ 19时57分]"
         },
         {
           "title": "电影功夫女足今日上映",
@@ -366,8 +381,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时20分 ~ 18时20分]"
+          "appearance_count": 5,
+          "time_info": "[14时20分 ~ 19时57分]"
         },
         {
           "title": "火影忍者将拍好莱坞真人电影",
@@ -400,9 +415,9 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时20分 ~ 19时57分]"
         },
         {
           "title": "迪丽热巴第4部破亿电影",
@@ -422,9 +437,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
+        },
+        {
+          "title": "知名主持人喷周星驰新电影：好难看",
+          "url": "https://www.baidu.com/s?wd=%E7%9F%A5%E5%90%8D%E4%B8%BB%E6%8C%81%E4%BA%BA%E5%96%B7%E5%91%A8%E6%98%9F%E9%A9%B0%E6%96%B0%E7%94%B5%E5%BD%B1%EF%BC%9A%E5%A5%BD%E9%9A%BE%E7%9C%8B",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时57分"
         }
       ]
     },
@@ -440,11 +466,12 @@
             6,
             9,
             27,
-            19
+            19,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时20分 ~ 18时20分]"
+          "appearance_count": 6,
+          "time_info": "[11时20分 ~ 19时57分]"
         },
         {
           "title": "冉莹颖自曝处在丧偶式婚姻",
@@ -519,6 +546,68 @@
       ]
     },
     {
+      "keyword_group": "教育 鸡娃 小镇做题家",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "广西贵港教育园区孤岛救援始末",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B9%BF%E8%A5%BF%E8%B4%B5%E6%B8%AF%E6%95%99%E8%82%B2%E5%9B%AD%E5%8C%BA%E5%AD%A4%E5%B2%9B%E6%95%91%E6%8F%B4%E5%A7%8B%E6%9C%AB%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 05时12分]"
+        },
+        {
+          "title": "教育部：“教师全面硕士化”系谣言",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33559712",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时20分 ~ 19时57分]"
+        },
+        {
+          "title": "全国教育辟谣平台矩阵正式启动运行",
+          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E6%95%99%E8%82%B2%E8%BE%9F%E8%B0%A3%E5%B9%B3%E5%8F%B0%E7%9F%A9%E9%98%B5%E6%AD%A3%E5%BC%8F%E5%90%AF%E5%8A%A8%E8%BF%90%E8%A1%8C",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时42分 ~ 03时43分]"
+        },
+        {
+          "title": "教育部：“教师全面硕士化”系谣言",
+          "url": "https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%EF%BC%9A%E2%80%9C%E6%95%99%E5%B8%88%E5%85%A8%E9%9D%A2%E7%A1%95%E5%A3%AB%E5%8C%96%E2%80%9D%E7%B3%BB%E8%B0%A3%E8%A8%80",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时57分"
+        },
+        {
+          "title": "家长投诉孩子期末考试无分数，只有考试等级，教育部称减负不是剥夺家长知分权，学校该如何解决家长这一诉求？",
+          "url": "https://www.zhihu.com/question/2058964046766945142",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时20分"
+        }
+      ]
+    },
+    {
       "keyword_group": "经济 经济学",
       "match_count": 4,
       "titles": [
@@ -570,57 +659,6 @@
       ]
     },
     {
-      "keyword_group": "教育 鸡娃 小镇做题家",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "广西贵港教育园区孤岛救援始末",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B9%BF%E8%A5%BF%E8%B4%B5%E6%B8%AF%E6%95%99%E8%82%B2%E5%9B%AD%E5%8C%BA%E5%AD%A4%E5%B2%9B%E6%95%91%E6%8F%B4%E5%A7%8B%E6%9C%AB%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 05时12分]"
-        },
-        {
-          "title": "教育部：“教师全面硕士化”系谣言",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33559712",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时20分 ~ 18时20分]"
-        },
-        {
-          "title": "全国教育辟谣平台矩阵正式启动运行",
-          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E6%95%99%E8%82%B2%E8%BE%9F%E8%B0%A3%E5%B9%B3%E5%8F%B0%E7%9F%A9%E9%98%B5%E6%AD%A3%E5%BC%8F%E5%90%AF%E5%8A%A8%E8%BF%90%E8%A1%8C",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时42分 ~ 03时43分]"
-        },
-        {
-          "title": "家长投诉孩子期末考试无分数，只有考试等级，教育部称减负不是剥夺家长知分权，学校该如何解决家长这一诉求？",
-          "url": "https://www.zhihu.com/question/2058964046766945142",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时20分"
-        }
-      ]
-    },
-    {
       "keyword_group": "社会 阶层 社会学",
       "match_count": 2,
       "titles": [
@@ -633,8 +671,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时02分 ~ 18时20分]"
+          "appearance_count": 12,
+          "time_info": "[01时02分 ~ 19时57分]"
         },
         {
           "title": "稻城亚丁景区：将免收3个月门票，降低交通服务费、对社会车辆实施预约限流通行",
@@ -763,7 +801,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
         }
