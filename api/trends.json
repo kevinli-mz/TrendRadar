@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-12T01:59:15.282311+08:00",
-  "total_titles_processed": 368,
+  "generated_at": "2026-07-12T03:20:41.757192+08:00",
+  "total_titles_processed": 394,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时06分 ~ 01时59分]"
+          "appearance_count": 4,
+          "time_info": "[00时06分 ~ 03时20分]"
         },
         {
           "title": "AI热潮推动下 行业人士：HBM4价格明年或翻倍",
@@ -27,8 +27,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时06分 ~ 01时59分]"
+          "appearance_count": 4,
+          "time_info": "[00时06分 ~ 03时20分]"
         },
         {
           "title": "算力、模型、数据三箭齐发 吓坏市场的Meta要剑指AI“第三极”？",
@@ -38,19 +38,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时06分 ~ 01时59分]"
+          "appearance_count": 4,
+          "time_info": "[00时06分 ~ 03时20分]"
         },
         {
           "title": "重回AI一线？Meta单周大涨15%",
           "url": "https://wallstreetcn.com/articles/3776692",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时06分 ~ 01时59分]"
+          "appearance_count": 4,
+          "time_info": "[00时06分 ~ 03时20分]"
         },
         {
           "title": "无人机吊起2人神图系AI合成",
@@ -60,8 +61,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时06分 ~ 01时59分]"
+          "appearance_count": 4,
+          "time_info": "[00时06分 ~ 03时20分]"
         },
         {
           "title": "全球主权财富基金加大对AI投资",
@@ -85,11 +86,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%98%9F%E9%A9%B0%E6%96%B0%E7%94%B5%E5%BD%B1%E5%80%BC%E5%BE%97%E7%9C%8B%E5%90%97",
           "source": "bilibili 热搜",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时06分 ~ 01时59分]"
+          "appearance_count": 4,
+          "time_info": "[00时06分 ~ 03时20分]"
         },
         {
           "title": "你会去看周星驰的新电影《功夫女足》吗？",
@@ -108,11 +110,12 @@
           "url": "https://www.baidu.com/s?wd=%E7%9F%A5%E5%90%8D%E4%B8%BB%E6%8C%81%E4%BA%BA%E5%96%B7%E5%91%A8%E6%98%9F%E9%A9%B0%E6%96%B0%E7%94%B5%E5%BD%B1%EF%BC%9A%E5%A5%BD%E9%9A%BE%E7%9C%8B",
           "source": "百度热搜",
           "ranks": [
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时06分 ~ 01时59分]"
+          "appearance_count": 4,
+          "time_info": "[00时06分 ~ 03时20分]"
         },
         {
           "title": "如何评价周星驰执导、编剧的电影《功夫女足》？",
@@ -122,8 +125,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时06分 ~ 01时59分]"
+          "appearance_count": 4,
+          "time_info": "[00时06分 ~ 03时20分]"
         },
         {
           "title": "华谊影视发展现状解析",
@@ -131,11 +134,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             18,
-            17
+            17,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时06分 ~ 01时59分]"
+          "appearance_count": 4,
+          "time_info": "[00时06分 ~ 03时20分]"
         },
         {
           "title": "电影功夫女足今日上映",
@@ -155,6 +159,18 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "家长投诉孩子期末考试无分数，只有考试等级，教育部称减负不是剥夺家长知分权，学校该如何解决家长这一诉求？",
+          "url": "https://www.zhihu.com/question/2058964046766945142",
+          "source": "知乎",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时06分 ~ 03时20分]"
+        },
+        {
           "title": "教育部：“教师全面硕士化”系谣言",
           "url": "https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%EF%BC%9A%E2%80%9C%E6%95%99%E5%B8%88%E5%85%A8%E9%9D%A2%E7%A1%95%E5%A3%AB%E5%8C%96%E2%80%9D%E7%B3%BB%E8%B0%A3%E8%A8%80",
           "source": "百度热搜",
@@ -162,19 +178,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时06分 ~ 01时59分]"
-        },
-        {
-          "title": "家长投诉孩子期末考试无分数，只有考试等级，教育部称减负不是剥夺家长知分权，学校该如何解决家长这一诉求？",
-          "url": "https://www.zhihu.com/question/2058964046766945142",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时06分 ~ 01时59分]"
+          "appearance_count": 4,
+          "time_info": "[00时06分 ~ 03时20分]"
         }
       ]
     },
@@ -190,8 +195,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时06分 ~ 01时59分]"
+          "appearance_count": 4,
+          "time_info": "[00时06分 ~ 03时20分]"
         }
       ]
     },
@@ -204,11 +209,29 @@
           "url": "https://www.toutiao.com/trending/7660340520979382313/",
           "source": "今日头条",
           "ranks": [
-            23
+            23,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时58分 ~ 01时59分]"
+          "appearance_count": 3,
+          "time_info": "[01时58分 ~ 03时20分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DeepSeek V4 正式版将于 7 月中旬上线，你有什么期待？",
+          "url": "https://www.zhihu.com/question/2055029429290771542",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时20分"
         }
       ]
     },
@@ -222,11 +245,12 @@
           "source": "微博",
           "ranks": [
             27,
-            9
+            9,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时06分 ~ 01时59分]"
+          "appearance_count": 4,
+          "time_info": "[00时06分 ~ 03时20分]"
         }
       ]
     }
