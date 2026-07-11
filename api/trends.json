@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-12T04:58:40.756163+08:00",
-  "total_titles_processed": 420,
+  "generated_at": "2026-07-12T06:00:34.422317+08:00",
+  "total_titles_processed": 434,
   "failed_sources": [],
   "trends": [
     {
@@ -8,22 +8,22 @@
       "match_count": 8,
       "titles": [
         {
-          "title": "AI狂欢持续！SK海力士创海外赴美最大IPO，美股首秀收涨13%",
-          "url": "https://wallstreetcn.com/articles/3776680",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时06分 ~ 04时58分]"
-        },
-        {
           "title": "AI热潮推动下 行业人士：HBM4价格明年或翻倍",
           "url": "https://www.cls.cn/detail/2423546",
           "source": "财联社热门",
           "ranks": [
             2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时06分 ~ 06时00分]"
+        },
+        {
+          "title": "AI狂欢持续！SK海力士创海外赴美最大IPO，美股首秀收涨13%",
+          "url": "https://wallstreetcn.com/articles/3776680",
+          "source": "华尔街见闻",
+          "ranks": [
             1
           ],
           "is_new": false,
@@ -39,19 +39,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时06分 ~ 04时58分]"
-        },
-        {
-          "title": "Meta AI生图功能惹争议 引发侵犯肖像权等担忧后已被下线",
-          "url": "https://flash.jin10.com/detail/20260712032711538800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时58分"
+          "appearance_count": 7,
+          "time_info": "[00时06分 ~ 06时00分]"
         },
         {
           "title": "重回AI一线？Meta单周大涨15%",
@@ -60,11 +49,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时06分 ~ 04时58分]"
+          "appearance_count": 7,
+          "time_info": "[00时06分 ~ 06时00分]"
         },
         {
           "title": "无人机吊起2人神图系AI合成",
@@ -74,8 +64,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时06分 ~ 04时58分]"
+          "appearance_count": 7,
+          "time_info": "[00时06分 ~ 06时00分]"
+        },
+        {
+          "title": "Meta AI生图功能惹争议 引发侵犯肖像权等担忧后已被下线",
+          "url": "https://flash.jin10.com/detail/20260712032711538800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时58分 ~ 06时00分]"
         },
         {
           "title": "美国FCC批准“太空反射镜”试点 马斯克要求员工使用自家AI | 环球市场",
@@ -84,9 +86,9 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时58分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时58分 ~ 06时00分]"
         },
         {
           "title": "全球主权财富基金加大对AI投资",
@@ -114,8 +116,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时06分 ~ 04时58分]"
+          "appearance_count": 7,
+          "time_info": "[00时06分 ~ 06时00分]"
         },
         {
           "title": "知名主持人喷周星驰新电影：好难看",
@@ -124,11 +126,40 @@
           "ranks": [
             6,
             9,
+            16,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时06分 ~ 06时00分]"
+        },
+        {
+          "title": "如何评价周星驰执导、编剧的电影《功夫女足》？",
+          "url": "https://www.zhihu.com/question/2058553085396620762",
+          "source": "知乎",
+          "ranks": [
+            8,
+            17,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时06分 ~ 06时00分]"
+        },
+        {
+          "title": "华谊影视发展现状解析",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8D%8E%E8%B0%8A%E5%BD%B1%E8%A7%86%E5%8F%91%E5%B1%95%E7%8E%B0%E7%8A%B6%E8%A7%A3%E6%9E%90",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18,
+            17,
+            21,
+            20,
             16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时06分 ~ 04时58分]"
+          "appearance_count": 7,
+          "time_info": "[00时06分 ~ 06时00分]"
         },
         {
           "title": "你会去看周星驰的新电影《功夫女足》吗？",
@@ -141,32 +172,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时06分 ~ 01时59分]"
-        },
-        {
-          "title": "如何评价周星驰执导、编剧的电影《功夫女足》？",
-          "url": "https://www.zhihu.com/question/2058553085396620762",
-          "source": "知乎",
-          "ranks": [
-            8,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时06分 ~ 04时58分]"
-        },
-        {
-          "title": "华谊影视发展现状解析",
-          "url": "https://search.bilibili.com/all?keyword=%E5%8D%8E%E8%B0%8A%E5%BD%B1%E8%A7%86%E5%8F%91%E5%B1%95%E7%8E%B0%E7%8A%B6%E8%A7%A3%E6%9E%90",
-          "source": "bilibili 热搜",
-          "ranks": [
-            18,
-            17,
-            21,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时06分 ~ 04时58分]"
         },
         {
           "title": "电影功夫女足今日上映",
@@ -192,11 +197,12 @@
           "ranks": [
             12,
             10,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时06分 ~ 04时58分]"
+          "appearance_count": 7,
+          "time_info": "[00时06分 ~ 06时00分]"
         },
         {
           "title": "教育部：“教师全面硕士化”系谣言",
@@ -206,8 +212,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时06分 ~ 04时58分]"
+          "appearance_count": 7,
+          "time_info": "[00时06分 ~ 06时00分]"
         }
       ]
     },
@@ -237,11 +243,12 @@
           "url": "https://flash.jin10.com/detail/20260712043502920800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时58分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时58分 ~ 06时00分]"
         }
       ]
     },
@@ -259,8 +266,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时58分 ~ 04时58分]"
+          "appearance_count": 6,
+          "time_info": "[01时58分 ~ 06时00分]"
         }
       ]
     },
@@ -274,11 +281,12 @@
           "source": "知乎",
           "ranks": [
             13,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时20分 ~ 04时58分]"
+          "appearance_count": 4,
+          "time_info": "[03时20分 ~ 06时00分]"
         }
       ]
     },
@@ -296,8 +304,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时06分 ~ 04时58分]"
+          "appearance_count": 7,
+          "time_info": "[00时06分 ~ 06时00分]"
         }
       ]
     }
