@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-11T07:51:13.535098+08:00",
-  "total_titles_processed": 572,
+  "generated_at": "2026-07-11T11:20:24.551793+08:00",
+  "total_titles_processed": 736,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型",
-      "match_count": 11,
+      "match_count": 16,
       "titles": [
         {
           "title": "午后齐跌，创业板跌超4%，商业航天掀涨停潮，芯片半导体下挫，港股AI模型“双雄”暴跌",
@@ -15,11 +15,12 @@
             9,
             8,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 07时51分]"
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 11时20分]"
         },
         {
           "title": "华尔街还愿意给AI存储多少溢价？今夜，SK海力士美股首秀或揭晓答案",
@@ -29,11 +30,12 @@
             10,
             9,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 07时51分]"
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 11时20分]"
         },
         {
           "title": "【每日收评】创业板指放量跌超4%，半导体、AI硬件股集体调整，创新药板块逆势活跃",
@@ -48,15 +50,16 @@
           "time_info": "[01时02分 ~ 07时51分]"
         },
         {
-          "title": "OpenAI回应苹果公司的诉讼：我们对其他公司的商业秘密没兴趣。 我们仍然侧重于打造创新科技。",
-          "url": "https://wallstreetcn.com/livenews/3132268",
-          "source": "华尔街见闻-快讯",
+          "title": "AI狂欢持续！SK海力士创海外赴美最大IPO，美股首秀收涨13%",
+          "url": "https://wallstreetcn.com/articles/3776680",
+          "source": "华尔街见闻",
           "ranks": [
-            2
+            9,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时51分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时50分 ~ 11时20分]"
         },
         {
           "title": "美联储官宣五大改革工作组领导阵容，前央行行长、硅谷AI大佬、诺奖经济学家加盟",
@@ -94,6 +97,18 @@
           "time_info": "[05时12分 ~ 07时51分]"
         },
         {
+          "title": "OpenAI回应苹果公司的诉讼：我们对其他公司的商业秘密没兴趣。 我们仍然侧重于打造创新科技。",
+          "url": "https://wallstreetcn.com/livenews/3132268",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时51分 ~ 11时20分]"
+        },
+        {
           "title": "市场消息：法院文件显示，苹果(AAPL.O)起诉OpenAI，指控其挪用商业机密。",
           "url": "https://flash.jin10.com/detail/20260711042558788800",
           "source": "金十数据",
@@ -106,17 +121,6 @@
           "time_info": "[05时12分 ~ 07时51分]"
         },
         {
-          "title": "AI狂欢持续！SK海力士创海外赴美最大IPO，美股首秀收涨13%",
-          "url": "https://wallstreetcn.com/articles/3776680",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时50分 ~ 07时51分]"
-        },
-        {
           "title": "美国放宽对阿联酋的出口限制，为AI芯片销售打开大门",
           "url": "https://flash.jin10.com/detail/20260711003717069800",
           "source": "金十数据",
@@ -126,6 +130,61 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
+        },
+        {
+          "title": "高盛深度报告：谁将成为中国AI大模型行业的长期赢家？",
+          "url": "https://wallstreetcn.com/articles/3776665",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时20分"
+        },
+        {
+          "title": "算力、模型、数据三箭齐发 吓坏市场的Meta要剑指AI“第三极”？",
+          "url": "https://www.cls.cn/detail/2422869",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时20分"
+        },
+        {
+          "title": "美国FCC批准“太空反射镜”试点 马斯克要求员工使用自家AI | 环球市场",
+          "url": "https://www.cls.cn/detail/2423447",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时20分"
+        },
+        {
+          "title": "据悉OpenAI安全系统负责人将离职",
+          "url": "https://flash.jin10.com/detail/20260711093038446800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时20分"
+        },
+        {
+          "title": "OpenAI安全系统负责人Heidecke将离职。（WIRED）",
+          "url": "https://wallstreetcn.com/livenews/3132277",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时20分"
         },
         {
           "title": "欧洲央行Moulin：AI可能加剧通胀波动",
@@ -142,7 +201,7 @@
     },
     {
       "keyword_group": "电影 影视 综艺",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "《功夫女足》首支长预告曝光，张小斐、迪丽热巴带队与各路高手功夫大乱斗，看完预告你期待这部电影吗？",
@@ -151,11 +210,12 @@
           "ranks": [
             3,
             2,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 07时51分]"
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 11时20分]"
         },
         {
           "title": "如何看待周星驰电影《功夫女足》首日排片超 22.6 万场，刷新中国内地影史暑期档首日场次纪录？",
@@ -164,11 +224,12 @@
           "ranks": [
             18,
             12,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时42分 ~ 07时51分]"
+          "appearance_count": 6,
+          "time_info": "[03时42分 ~ 11时20分]"
         },
         {
           "title": "华谊影视发展现状解析",
@@ -188,11 +249,154 @@
           "url": "https://www.douyin.com/hot/2566185",
           "source": "抖音",
           "ranks": [
-            24
+            24,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时50分 ~ 11时20分]"
+        },
+        {
+          "title": "如何评价追光动画出品的电影《三国第一部：争洛阳》？",
+          "url": "https://www.zhihu.com/question/2050951363807405043",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "婚姻 结婚 离婚 彩礼",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "冉莹颖自曝处在丧偶式婚姻",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%86%89%E8%8E%B9%E9%A2%96%E8%87%AA%E6%9B%9D%E5%A4%84%E5%9C%A8%E4%B8%A7%E5%81%B6%E5%BC%8F%E5%A9%9A%E5%A7%BB%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28,
+            16,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时42分 ~ 07时51分]"
+        },
+        {
+          "title": "新娘结婚当天一觉睡到10点多",
+          "url": "https://www.toutiao.com/trending/7660340520979382313/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时20分"
+        },
+        {
+          "title": "新娘结婚睡过头醒来看见满屋人",
+          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E5%A8%98%E7%BB%93%E5%A9%9A%E7%9D%A1%E8%BF%87%E5%A4%B4%E9%86%92%E6%9D%A5%E7%9C%8B%E8%A7%81%E6%BB%A1%E5%B1%8B%E4%BA%BA",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时20分"
+        },
+        {
+          "title": "冉莹颖自曝曾多次想离婚",
+          "url": "https://www.baidu.com/s?wd=%E5%86%89%E8%8E%B9%E9%A2%96%E8%87%AA%E6%9B%9D%E6%9B%BE%E5%A4%9A%E6%AC%A1%E6%83%B3%E7%A6%BB%E5%A9%9A",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "经济 经济学",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "一组数据看中国经济蓬勃发展",
+          "url": "https://www.toutiao.com/trending/7660329513477439531/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时20分"
+        },
+        {
+          "title": "惠誉：沙特阿拉伯地缘政治风险高，但经济和公共财政在美伊战争中表现出韧性。",
+          "url": "https://flash.jin10.com/detail/20260711052432342800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时51分"
+        },
+        {
+          "title": "太空经济的“iPhone时刻”要来了吗",
+          "url": "https://www.toutiao.com/trending/7660854338671087130/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时02分 ~ 03时43分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "教育 鸡娃 小镇做题家",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "广西贵港教育园区孤岛救援始末",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B9%BF%E8%A5%BF%E8%B4%B5%E6%B8%AF%E6%95%99%E8%82%B2%E5%9B%AD%E5%8C%BA%E5%AD%A4%E5%B2%9B%E6%95%91%E6%8F%B4%E5%A7%8B%E6%9C%AB%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 05时12分]"
+        },
+        {
+          "title": "全国教育辟谣平台矩阵正式启动运行",
+          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E6%95%99%E8%82%B2%E8%BE%9F%E8%B0%A3%E5%B9%B3%E5%8F%B0%E7%9F%A9%E9%98%B5%E6%AD%A3%E5%BC%8F%E5%90%AF%E5%8A%A8%E8%BF%90%E8%A1%8C",
+          "source": "百度热搜",
+          "ranks": [
+            29
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时50分 ~ 07时51分]"
+          "time_info": "[03时42分 ~ 03时43分]"
+        },
+        {
+          "title": "教育部：“教师全面硕士化”系谣言",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33559712",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时20分"
         }
       ]
     },
@@ -209,8 +413,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 07时51分]"
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 11时20分]"
         },
         {
           "title": "稻城亚丁景区：将免收3个月门票，降低交通服务费、对社会车辆实施预约限流通行",
@@ -218,40 +422,12 @@
           "source": "澎湃新闻",
           "ranks": [
             7,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 07时51分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "经济 经济学",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "惠誉：沙特阿拉伯地缘政治风险高，但经济和公共财政在美伊战争中表现出韧性。",
-          "url": "https://flash.jin10.com/detail/20260711052432342800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时51分"
-        },
-        {
-          "title": "太空经济的“iPhone时刻”要来了吗",
-          "url": "https://www.toutiao.com/trending/7660854338671087130/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 03时43分]"
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 11时20分]"
         }
       ]
     },
@@ -281,34 +457,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "教育 鸡娃 小镇做题家",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "广西贵港教育园区孤岛救援始末",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B9%BF%E8%A5%BF%E8%B4%B5%E6%B8%AF%E6%95%99%E8%82%B2%E5%9B%AD%E5%8C%BA%E5%AD%A4%E5%B2%9B%E6%95%91%E6%8F%B4%E5%A7%8B%E6%9C%AB%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 05时12分]"
-        },
-        {
-          "title": "全国教育辟谣平台矩阵正式启动运行",
-          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E6%95%99%E8%82%B2%E8%BE%9F%E8%B0%A3%E5%B9%B3%E5%8F%B0%E7%9F%A9%E9%98%B5%E6%AD%A3%E5%BC%8F%E5%90%AF%E5%8A%A8%E8%BF%90%E8%A1%8C",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时42分 ~ 03时43分]"
         }
       ]
     },
@@ -358,30 +506,12 @@
           "ranks": [
             10,
             9,
-            6
+            6,
+            29
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 07时51分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "婚姻 结婚 离婚 彩礼",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "冉莹颖自曝处在丧偶式婚姻",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%86%89%E8%8E%B9%E9%A2%96%E8%87%AA%E6%9B%9D%E5%A4%84%E5%9C%A8%E4%B8%A7%E5%81%B6%E5%BC%8F%E5%A9%9A%E5%A7%BB%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28,
-            16,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时42分 ~ 07时51分]"
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 11时20分]"
         }
       ]
     },
