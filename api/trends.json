@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-12T11:32:22.963633+08:00",
-  "total_titles_processed": 662,
+  "generated_at": "2026-07-12T14:40:54.670186+08:00",
+  "total_titles_processed": 824,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "AI热潮推动下 行业人士：HBM4价格明年或翻倍",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时06分 ~ 11时32分]"
+          "appearance_count": 10,
+          "time_info": "[00时06分 ~ 14时40分]"
         },
         {
           "title": "算力、模型、数据三箭齐发 吓坏市场的Meta要剑指AI“第三极”？",
@@ -28,8 +28,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时06分 ~ 11时32分]"
+          "appearance_count": 10,
+          "time_info": "[00时06分 ~ 14时40分]"
         },
         {
           "title": "AI狂欢持续！SK海力士创海外赴美最大IPO，美股首秀收涨13%",
@@ -68,17 +68,6 @@
           "time_info": "[00时06分 ~ 07时02分]"
         },
         {
-          "title": "百度AI将亮相WAIC 2026，集中展示多款智能体应用",
-          "url": "https://wallstreetcn.com/livenews/3132380",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时32分"
-        },
-        {
           "title": "Meta AI生图功能惹争议 引发侵犯肖像权等担忧后已被下线",
           "url": "https://flash.jin10.com/detail/20260712032711538800",
           "source": "金十数据",
@@ -90,6 +79,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时58分 ~ 07时02分]"
+        },
+        {
+          "title": "百度AI将亮相WAIC 2026，集中展示多款智能体应用",
+          "url": "https://wallstreetcn.com/livenews/3132380",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时32分 ~ 14时40分]"
         },
         {
           "title": "美国FCC批准“太空反射镜”试点 马斯克要求员工使用自家AI | 环球市场",
@@ -107,11 +108,12 @@
           "url": "https://wallstreetcn.com/articles/3776704",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时32分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时32分 ~ 14时40分]"
         },
         {
           "title": "无人机吊起2人神图系AI合成",
@@ -120,9 +122,31 @@
           "ranks": [
             11
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时32分 ~ 14时40分]"
+        },
+        {
+          "title": "韩国股市“便宜”未必是机会，AI热潮难掩周期性阴影",
+          "url": "https://flash.jin10.com/detail/20260712141642422800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时32分"
+          "time_info": "14时40分"
+        },
+        {
+          "title": "黄仁勋称「Prompt 已死，AI 圈正追逐 Loop」，这对 AI 开发及工程师意味着什么？",
+          "url": "https://www.zhihu.com/question/2054980630543442226",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时40分"
         },
         {
           "title": "百度AI将亮相WAIC 2026，集中展示多款智能体应用",
@@ -131,7 +155,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时32分"
         },
@@ -142,7 +166,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时32分"
         },
@@ -171,11 +195,12 @@
             2,
             1,
             3,
-            23
+            23,
+            30
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时06分 ~ 11时32分]"
+          "appearance_count": 10,
+          "time_info": "[00时06分 ~ 14时40分]"
         },
         {
           "title": "知名主持人喷周星驰新电影：好难看",
@@ -236,11 +261,24 @@
           "url": "https://search.bilibili.com/all?keyword=%E7%94%B5%E5%BD%B1%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E5%80%BC%E5%BE%97%E6%9C%9F%E5%BE%85%E5%90%97",
           "source": "bilibili 热搜",
           "ranks": [
-            12
+            12,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时32分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时32分 ~ 14时40分]"
+        },
+        {
+          "title": "如何看待 2026 年 7 月 11 日周星驰新电影《功夫女足》预测票房飙升至 18.6 亿人民币？",
+          "url": "https://www.zhihu.com/question/2059204572552361429",
+          "source": "知乎",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时32分 ~ 14时40分]"
         },
         {
           "title": "周星驰，“到底谁欠谁一张电影票”",
@@ -249,7 +287,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时32分"
         },
@@ -263,23 +301,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时06分"
-        },
-        {
-          "title": "如何看待 2026 年 7 月 11 日周星驰新电影《功夫女足》预测票房飙升至 18.6 亿人民币？",
-          "url": "https://www.zhihu.com/question/2059204572552361429",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时32分"
         }
       ]
     },
     {
       "keyword_group": "婚姻 结婚 离婚 彩礼",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "新娘结婚当天一觉睡到10点多",
@@ -300,11 +327,54 @@
           "url": "https://www.zhihu.com/question/2057515225566242609",
           "source": "知乎",
           "ranks": [
-            15
+            15,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时32分 ~ 14时40分]"
+        },
+        {
+          "title": "32万彩礼女方到手仅12万，婚后发现近20万被婚介所人员截留",
+          "url": "https://news.ifeng.com/c/8uhFrtGXlRN",
+          "source": "凤凰网",
+          "ranks": [
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时32分"
+          "time_info": "14时40分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "消费 存钱 攒钱",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "丁程鑫说王俊凯太能存钱了",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%81%E7%A8%8B%E9%91%AB%E8%AF%B4%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%A4%AA%E8%83%BD%E5%AD%98%E9%92%B1%E4%BA%86%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27,
+            9,
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时06分 ~ 07时02分]"
+        },
+        {
+          "title": "5000 元以下笔记本基本绝迹，购机门槛升至万元以上，为啥涨价幅度这么大？对行业和消费者有哪些影响？",
+          "url": "https://www.zhihu.com/question/2058111600045678958",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时40分"
         }
       ]
     },
@@ -341,6 +411,23 @@
       ]
     },
     {
+      "keyword_group": "情绪 情绪价值 内耗 精神内耗",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美银Hartnett：日本银行股是“全球避险情绪领先指标”，下半年有“四大逆向交易机会”",
+          "url": "https://wallstreetcn.com/articles/3776713",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时40分"
+        }
+      ]
+    },
+    {
       "keyword_group": "社会 阶层 社会学",
       "match_count": 1,
       "titles": [
@@ -368,7 +455,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时32分"
         }
@@ -426,26 +513,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时20分 ~ 07时02分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "消费 存钱 攒钱",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "丁程鑫说王俊凯太能存钱了",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%81%E7%A8%8B%E9%91%AB%E8%AF%B4%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%A4%AA%E8%83%BD%E5%AD%98%E9%92%B1%E4%BA%86%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27,
-            9,
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时06分 ~ 07时02分]"
         }
       ]
     }
