@@ -1,382 +1,72 @@
 {
-  "generated_at": "2026-07-12T23:03:49.752010+08:00",
-  "total_titles_processed": 1275,
+  "generated_at": "2026-07-13T01:07:12.103466+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型",
-      "match_count": 18,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "人口第一大国，被AI做空了",
+          "url": "https://wallstreetcn.com/articles/3776722",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时06分 ~ 01时07分]"
+        },
         {
           "title": "AI热潮推动下 行业人士：HBM4价格明年或翻倍",
           "url": "https://www.cls.cn/detail/2423546",
           "source": "财联社热门",
           "ranks": [
-            2,
-            1,
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时06分 ~ 23时03分]"
-        },
-        {
-          "title": "算力、模型、数据三箭齐发 吓坏市场的Meta要剑指AI“第三极”？",
-          "url": "https://www.cls.cn/detail/2422869",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时06分 ~ 23时03分]"
-        },
-        {
-          "title": "AI狂欢持续！SK海力士创海外赴美最大IPO，美股首秀收涨13%",
-          "url": "https://wallstreetcn.com/articles/3776680",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时06分 ~ 04时58分]"
-        },
-        {
-          "title": "重回AI一线？Meta单周大涨15%",
-          "url": "https://wallstreetcn.com/articles/3776692",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时06分 ~ 07时02分]"
-        },
-        {
-          "title": "无人机吊起2人神图系AI合成",
-          "url": "https://www.toutiao.com/trending/7660829419656888339/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时06分 ~ 07时02分]"
+          "appearance_count": 2,
+          "time_info": "[01时06分 ~ 01时07分]"
         },
         {
           "title": "下周重磅日程：中国GDP与美国CPI、沃什听证会、WAIC大会、长鑫科技打新与台积电财报",
           "url": "https://wallstreetcn.com/articles/3776632",
           "source": "华尔街见闻",
           "ranks": [
-            5,
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时40分 ~ 23时03分]"
+          "appearance_count": 2,
+          "time_info": "[01时06分 ~ 01时07分]"
         },
         {
-          "title": "人口第一大国，被AI做空了",
-          "url": "https://wallstreetcn.com/articles/3776722",
-          "source": "华尔街见闻",
+          "title": "算力、模型、数据三箭齐发 吓坏市场的Meta要剑指AI“第三极”？",
+          "url": "https://www.cls.cn/detail/2422869",
+          "source": "财联社热门",
           "ranks": [
-            7,
-            3
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时16分 ~ 23时03分]"
+          "appearance_count": 2,
+          "time_info": "[01时06分 ~ 01时07分]"
         },
         {
           "title": "苹果起诉OpenAI引骂战，马斯克炮轰Altman欺诈，Altman反讽其吹嘘“太空数据中心”",
           "url": "https://wallstreetcn.com/articles/3776720",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时07分 ~ 23时03分]"
-        },
-        {
-          "title": "百度AI将亮相WAIC 2026，集中展示多款智能体应用",
-          "url": "https://wallstreetcn.com/livenews/3132380",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            14,
-            20,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时32分 ~ 19时16分]"
-        },
-        {
-          "title": "成也 Seedance 2.0，败也 Seedance 2.0！AI漫剧行业已经没有了？",
-          "url": "https://wallstreetcn.com/articles/3776704",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时32分 ~ 17时07分]"
-        },
-        {
-          "title": "Meta AI生图功能惹争议 引发侵犯肖像权等担忧后已被下线",
-          "url": "https://flash.jin10.com/detail/20260712032711538800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时58分 ~ 07时02分]"
-        },
-        {
-          "title": "无人机吊起2人神图系AI合成",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%90%8A%E8%B5%B72%E4%BA%BA%E7%A5%9E%E5%9B%BE%E7%B3%BBAI%E5%90%88%E6%88%90",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时32分 ~ 19时16分]"
-        },
-        {
-          "title": "美国FCC批准“太空反射镜”试点 马斯克要求员工使用自家AI | 环球市场",
-          "url": "https://www.cls.cn/detail/2423447",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时58分 ~ 06时00分]"
-        },
-        {
-          "title": "苹果起诉OpenAI及两名员工窃取产品机密：曾要求带着“零部件”去面试",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33566535",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时32分 ~ 17时07分]"
-        },
-        {
-          "title": "韩国股市“便宜”未必是机会，AI热潮难掩周期性阴影",
-          "url": "https://flash.jin10.com/detail/20260712141642422800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时40分"
-        },
-        {
-          "title": "黄仁勋称「Prompt 已死，AI 圈正追逐 Loop」，这对 AI 开发及工程师意味着什么？",
-          "url": "https://www.zhihu.com/question/2054980630543442226",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时40分"
-        },
-        {
-          "title": "百度AI将亮相WAIC 2026，集中展示多款智能体应用",
-          "url": "https://flash.jin10.com/detail/20260712100812341800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时32分"
-        },
-        {
-          "title": "全球主权财富基金加大对AI投资",
-          "url": "https://flash.jin10.com/detail/20260711213544573800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时06分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "电影 影视 综艺",
-      "match_count": 11,
-      "titles": [
-        {
-          "title": "周星驰新电影值得看吗",
-          "url": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%98%9F%E9%A9%B0%E6%96%B0%E7%94%B5%E5%BD%B1%E5%80%BC%E5%BE%97%E7%9C%8B%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            1,
-            3,
-            23,
-            30,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时06分 ~ 17时07分]"
-        },
-        {
-          "title": "知名主持人喷周星驰新电影：好难看",
-          "url": "https://www.baidu.com/s?wd=%E7%9F%A5%E5%90%8D%E4%B8%BB%E6%8C%81%E4%BA%BA%E5%96%B7%E5%91%A8%E6%98%9F%E9%A9%B0%E6%96%B0%E7%94%B5%E5%BD%B1%EF%BC%9A%E5%A5%BD%E9%9A%BE%E7%9C%8B",
-          "source": "百度热搜",
-          "ranks": [
-            6,
-            9,
-            16,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时06分 ~ 07时02分]"
-        },
-        {
-          "title": "华谊影视发展现状解析",
-          "url": "https://search.bilibili.com/all?keyword=%E5%8D%8E%E8%B0%8A%E5%BD%B1%E8%A7%86%E5%8F%91%E5%B1%95%E7%8E%B0%E7%8A%B6%E8%A7%A3%E6%9E%90",
-          "source": "bilibili 热搜",
-          "ranks": [
-            18,
-            17,
-            21,
-            20,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时06分 ~ 07时02分]"
-        },
-        {
-          "title": "如何评价周星驰执导、编剧的电影《功夫女足》？",
-          "url": "https://www.zhihu.com/question/2058553085396620762",
-          "source": "知乎",
-          "ranks": [
-            8,
-            17,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时06分 ~ 06时00分]"
-        },
-        {
-          "title": "如何看待 2026 年 7 月 11 日周星驰新电影《功夫女足》预测票房飙升至 18.6 亿人民币？",
-          "url": "https://www.zhihu.com/question/2059204572552361429",
-          "source": "知乎",
-          "ranks": [
-            20,
-            19,
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时32分 ~ 23时03分]"
-        },
-        {
-          "title": "电影功夫女足值得期待吗",
-          "url": "https://search.bilibili.com/all?keyword=%E7%94%B5%E5%BD%B1%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E5%80%BC%E5%BE%97%E6%9C%9F%E5%BE%85%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12,
-            22,
-            20,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时32分 ~ 21时41分]"
-        },
-        {
-          "title": "你会去看周星驰的新电影《功夫女足》吗？",
-          "url": "https://www.zhihu.com/question/2058093856713969712",
-          "source": "知乎",
-          "ranks": [
-            4,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时06分 ~ 01时59分]"
-        },
-        {
-          "title": "观众吐槽：周星驰 到底谁欠谁电影票",
-          "url": "https://www.baidu.com/s?wd=%E8%A7%82%E4%BC%97%E5%90%90%E6%A7%BD%EF%BC%9A%E5%91%A8%E6%98%9F%E9%A9%B0+%E5%88%B0%E5%BA%95%E8%B0%81%E6%AC%A0%E8%B0%81%E7%94%B5%E5%BD%B1%E7%A5%A8",
-          "source": "百度热搜",
-          "ranks": [
-            9,
-            8,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时07分 ~ 21时41分]"
-        },
-        {
-          "title": "周星驰，“到底谁欠谁一张电影票”",
-          "url": "https://news.ifeng.com/c/8uh8a4jlr1N",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时32分"
-        },
-        {
-          "title": "电影功夫女足今日上映",
-          "url": "https://www.douyin.com/hot/2566793",
-          "source": "抖音",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时06分"
-        },
-        {
-          "title": "周星驰电影《功夫女足》首日票房 2.6 亿，带动大盘时隔 136 天单日破 3 亿，如何评价这一成绩？",
-          "url": "https://www.zhihu.com/question/2059428102430613532",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时03分"
+          "appearance_count": 2,
+          "time_info": "[01时06分 ~ 01时07分]"
         }
       ]
     },
     {
       "keyword_group": "经济 经济学",
-      "match_count": 6,
+      "match_count": 2,
       "titles": [
         {
           "title": "一组数据看中国经济稳中向优",
@@ -386,201 +76,47 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时40分 ~ 23时03分]"
-        },
-        {
-          "title": "上半年高频数据折射我国经济稳中向优",
-          "url": "https://www.toutiao.com/trending/7660531597158989865/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时07分 ~ 19时16分]"
+          "time_info": "[01时06分 ~ 01时07分]"
         },
         {
-          "title": "成毅带动香港旅游经济",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%88%90%E6%AF%85%E5%B8%A6%E5%8A%A8%E9%A6%99%E6%B8%AF%E6%97%85%E6%B8%B8%E7%BB%8F%E6%B5%8E%23&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时40分 ~ 21时41分]"
-        },
-        {
-          "title": "据华尔街日报调查：美国经济衰退概率降至25%，低于4月的33%。",
-          "url": "https://flash.jin10.com/detail/20260712173241938800",
+          "title": "伊朗总统：我们正参与一场复杂的经济战争，成功克服这一阶段需要公民的积极参与。",
+          "url": "https://flash.jin10.com/detail/20260712234037416800",
           "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时16分"
-        },
-        {
-          "title": "据华尔街日报调查：经济学家预计美国今年国内生产总值增长2.1%，高于四月调查的2%。",
-          "url": "https://flash.jin10.com/detail/20260712173230023800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时16分"
-        },
-        {
-          "title": "据华尔街日报调查：经济学家预计美国今年消费者物价指数（CPI）通胀为3.4%，高于四月调查的3.2%。",
-          "url": "https://flash.jin10.com/detail/20260712173216821800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时16分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "婚姻 结婚 离婚 彩礼",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "冉莹颖称曾多次想离婚，录综艺本想救赎婚姻，录完「不再执着于改造对方」，透露出怎样的婚姻相处智慧？",
-          "url": "https://www.zhihu.com/question/2057515225566242609",
-          "source": "知乎",
-          "ranks": [
-            15,
-            8,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时32分 ~ 23时03分]"
-        },
-        {
-          "title": "新娘结婚当天一觉睡到10点多",
-          "url": "https://www.toutiao.com/trending/7660340520979382313/",
-          "source": "今日头条",
-          "ranks": [
-            23,
-            15,
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时58分 ~ 07时02分]"
-        },
-        {
-          "title": "32万彩礼女方到手仅12万，婚后发现近20万被婚介所人员截留",
-          "url": "https://news.ifeng.com/c/8uhFrtGXlRN",
-          "source": "凤凰网",
           "ranks": [
             12
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时40分"
+          "time_info": "01时07分"
         }
       ]
     },
     {
-      "keyword_group": "DeepSeek 梁文锋",
+      "keyword_group": "电影 影视 综艺",
       "match_count": 2,
       "titles": [
         {
-          "title": "DeepSeek V4 正式版将于 7 月中旬上线，你有什么期待？",
-          "url": "https://www.zhihu.com/question/2055029429290771542",
+          "title": "周星驰电影《功夫女足》首日票房 2.6 亿，带动大盘时隔 136 天单日破 3 亿，如何评价这一成绩？",
+          "url": "https://www.zhihu.com/question/2059428102430613532",
           "source": "知乎",
           "ranks": [
-            13,
-            8,
-            7
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时20分 ~ 07时02分]"
+          "appearance_count": 2,
+          "time_info": "[01时06分 ~ 01时07分]"
         },
         {
-          "title": "商业航天“DeepSeek时刻”到了吗",
-          "url": "https://www.baidu.com/s?wd=%E5%95%86%E4%B8%9A%E8%88%AA%E5%A4%A9%E2%80%9CDeepSeek%E6%97%B6%E5%88%BB%E2%80%9D%E5%88%B0%E4%BA%86%E5%90%97",
-          "source": "百度热搜",
+          "title": "电影功夫女足值得期待吗",
+          "url": "https://search.bilibili.com/all?keyword=%E7%94%B5%E5%BD%B1%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E5%80%BC%E5%BE%97%E6%9C%9F%E5%BE%85%E5%90%97",
+          "source": "bilibili 热搜",
           "ranks": [
-            17
+            30
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时07分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "消费 存钱 攒钱",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "丁程鑫说王俊凯太能存钱了",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%81%E7%A8%8B%E9%91%AB%E8%AF%B4%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%A4%AA%E8%83%BD%E5%AD%98%E9%92%B1%E4%BA%86%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27,
-            9,
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时06分 ~ 07时02分]"
-        },
-        {
-          "title": "5000 元以下笔记本基本绝迹，购机门槛升至万元以上，为啥涨价幅度这么大？对行业和消费者有哪些影响？",
-          "url": "https://www.zhihu.com/question/2058111600045678958",
-          "source": "知乎",
-          "ranks": [
-            20,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时40分 ~ 19时16分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "教育 鸡娃 小镇做题家",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "家长投诉孩子期末考试无分数，只有考试等级，教育部称减负不是剥夺家长知分权，学校该如何解决家长这一诉求？",
-          "url": "https://www.zhihu.com/question/2058964046766945142",
-          "source": "知乎",
-          "ranks": [
-            12,
-            10,
-            9,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时06分 ~ 07时02分]"
-        },
-        {
-          "title": "教育部：“教师全面硕士化”系谣言",
-          "url": "https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%EF%BC%9A%E2%80%9C%E6%95%99%E5%B8%88%E5%85%A8%E9%9D%A2%E7%A1%95%E5%A3%AB%E5%8C%96%E2%80%9D%E7%B3%BB%E8%B0%A3%E8%A8%80",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时06分 ~ 07时02分]"
+          "appearance_count": 2,
+          "time_info": "[01时06分 ~ 01时07分]"
         }
       ]
     },
@@ -593,117 +129,11 @@
           "url": "https://wallstreetcn.com/articles/3776713",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            8,
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时40分 ~ 23时03分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "社会 阶层 社会学",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "国常会：要系统推进数字中国建设，加快新一代通信网、算力网建设，全面赋能经济社会发展",
-          "url": "https://www.cls.cn/detail/2423220",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时06分 ~ 03时20分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "年轻人 00后 35岁",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "00后村支书“三顾茅庐”转移群众",
-          "url": "https://www.toutiao.com/trending/7661429850540376114/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时32分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "就业 失业 裁员 应届生",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "OpenAI创始人奥尔特曼：至少到目前为止，我相当确信，AI总体上是在创造就业岗位，而不是减少就业。这与我此前的预期并不一致。虽然我没有其他人那么悲观，但我原本认为，当AI发展到如今这样的能力水平时，应该已经对就业市场产生一定影响了。当然，这一趋势可能会继续下去。",
-          "url": "https://flash.jin10.com/detail/20260712043502920800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时58分 ~ 07时02分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "性别 男女 女性",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "男女被海浪卷走 两人骑摩托艇营救",
-          "url": "https://www.toutiao.com/trending/7660132966110330889/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "原生家庭 父母 亲子",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "有些生活常识父母根本没教过我们",
-          "url": "https://s.weibo.com/weibo?q=%E6%9C%89%E4%BA%9B%E7%94%9F%E6%B4%BB%E5%B8%B8%E8%AF%86%E7%88%B6%E6%AF%8D%E6%A0%B9%E6%9C%AC%E6%B2%A1%E6%95%99%E8%BF%87%E6%88%91%E4%BB%AC&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时07分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "房价 买房",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "不少华人在波士顿买房“鸡娃”",
-          "url": "https://www.toutiao.com/trending/7661268804329652234/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时07分"
+          "appearance_count": 2,
+          "time_info": "[01时06分 ~ 01时07分]"
         }
       ]
     }
