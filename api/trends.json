@@ -1,160 +1,11 @@
 {
-  "generated_at": "2026-07-14T05:03:56.879038+08:00",
-  "total_titles_processed": 467,
+  "generated_at": "2026-07-14T07:01:59.104522+08:00",
+  "total_titles_processed": 544,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "AI 人工智能 大模型",
-      "match_count": 13,
-      "titles": [
-        {
-          "title": "AI恐慌叠加中东局势升温，美股指盘中齐跌，SK海力士跌7%，油价涨超4%，黄金跌超2%，",
-          "url": "https://wallstreetcn.com/articles/3776754",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时19分 ~ 05时03分]"
-        },
-        {
-          "title": "习近平将出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33574538",
-          "source": "澎湃新闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时19分 ~ 05时03分]"
-        },
-        {
-          "title": "五大亮点提前看！世界人工智能大会本周开幕：智慧、硬核、体验、年轻、治理",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33571516",
-          "source": "澎湃新闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时19分 ~ 05时03分]"
-        },
-        {
-          "title": "解锁2026世界人工智能大会新亮点",
-          "url": "https://www.toutiao.com/trending/7661668281069223946/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时19分 ~ 05时03分]"
-        },
-        {
-          "title": "手慢无、买完还得防举报：“空调羞耻”下欧洲人的AI自救",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33559448",
-          "source": "澎湃新闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时19分 ~ 05时03分]"
-        },
-        {
-          "title": "Meta持续加码AI基建 追加400亿美元投资其最大数据中心项目",
-          "url": "https://www.cls.cn/detail/2424821",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时19分 ~ 05时03分]"
-        },
-        {
-          "title": "美国总统特朗普：将摧毁“镐头山”（Pickaxe Mountain），并警告伊朗做好准备。",
-          "url": "https://wallstreetcn.com/livenews/3133081",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时03分"
-        },
-        {
-          "title": "美国总统特朗普：（关于伊朗）我们将摧毁镐山（Pickaxe Mountain）。",
-          "url": "https://flash.jin10.com/detail/20260714043115058800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时03分"
-        },
-        {
-          "title": "AI债务泡沫要破了？高盛首次公开承认：市场承接能力逼近极限",
-          "url": "https://wallstreetcn.com/articles/3776779",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时19分 ~ 05时03分]"
-        },
-        {
-          "title": "美联储理事沃勒：预计消费者支出将保持强劲增长，人工智能相关投资将持续强劲。",
-          "url": "https://flash.jin10.com/detail/20260714003551373800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时19分"
-        },
-        {
-          "title": "惠誉：未来几年，人工智能带来的行业颠覆对大多数北美多元化服务公司的信用风险仍处于可控范围。",
-          "url": "https://flash.jin10.com/detail/20260714041440304800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时03分"
-        },
-        {
-          "title": "2026世界人工智能大会看点速览。（新华社）",
-          "url": "https://wallstreetcn.com/livenews/3133040",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时38分"
-        },
-        {
-          "title": "美联储理事沃勒：关税、能源价格、人工智能建设需求是推动通胀上升的因素。",
-          "url": "https://flash.jin10.com/detail/20260714003248511800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时19分"
-        }
-      ]
-    },
-    {
       "keyword_group": "经济 经济学",
-      "match_count": 4,
+      "match_count": 17,
       "titles": [
         {
           "title": "李强主持召开经济形势专家和企业家座谈会，黄汉权、于东来等发言",
@@ -164,8 +15,52 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时19分 ~ 05时03分]"
+          "appearance_count": 5,
+          "time_info": "[01时19分 ~ 07时01分]"
+        },
+        {
+          "title": "新西兰联储首席经济学家保罗·康威：最近的PMI数据非常积极，推动了GDPNow预测值的上调。",
+          "url": "https://flash.jin10.com/detail/20260714064315977800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
+        },
+        {
+          "title": "新西兰联储首席经济学家保罗·康威：我们并不打算转向限制性的政策立场。",
+          "url": "https://flash.jin10.com/detail/20260714063112179800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
+        },
+        {
+          "title": "新西兰联储首席经济学家Conway：中东冲突已经让货币政策变得错综复杂。 三季度通胀预期存在上行风险。",
+          "url": "https://wallstreetcn.com/livenews/3133112",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
+        },
+        {
+          "title": "新西兰联储首席经济学家保罗·康威：上周货币政策委员会达成了一致意见，无需投票表决。",
+          "url": "https://flash.jin10.com/detail/20260714062649458800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
         },
         {
           "title": "美联储理事沃勒：经济实质状况良好。",
@@ -199,12 +94,272 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时38分"
+        },
+        {
+          "title": "新西兰联储首席经济学家保罗·康威：如果来自中东冲突的通胀压力比预期更持久，我们将作出回应。",
+          "url": "https://flash.jin10.com/detail/20260714060723422800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
+        },
+        {
+          "title": "新西兰联储首席经济学家保罗·康威：可能需要进一步减少货币刺激。",
+          "url": "https://flash.jin10.com/detail/20260714060720518800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
+        },
+        {
+          "title": "新西兰联储首席经济学家保罗·康威：经济中的闲置产能应有助于限制传导效应。",
+          "url": "https://flash.jin10.com/detail/20260714060703926800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
+        },
+        {
+          "title": "新西兰联储首席经济学家保罗·康威：令人鼓舞的是，中期通胀预期依然稳固。",
+          "url": "https://flash.jin10.com/detail/20260714060649389800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
+        },
+        {
+          "title": "新西兰联储首席经济学家保罗·康威：货币政策可以防止初次价格效应转变为二次通胀压力。",
+          "url": "https://flash.jin10.com/detail/20260714060648288800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
+        },
+        {
+          "title": "新西兰联储首席经济学家保罗·康威：过去一周中东局势的发展表明，我们对九月份季度预测存在上行风险。",
+          "url": "https://flash.jin10.com/detail/20260714060643668800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
+        },
+        {
+          "title": "新西兰联储首席经济学家保罗·康威：尽管油价已经回落，但这一冲击的影响将在经济中持续一段时间。",
+          "url": "https://flash.jin10.com/detail/20260714060639518800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
+        },
+        {
+          "title": "新西兰联储首席经济学家保罗·康威：与所有供应冲击一样，中东冲突使货币政策变得复杂。",
+          "url": "https://flash.jin10.com/detail/20260714060636089800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
+        },
+        {
+          "title": "新西兰联储首席经济学家保罗·康威：了解企业如何应对成本冲击对于保持通胀低位和稳定至关重要。",
+          "url": "https://flash.jin10.com/detail/20260714060633992800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI 人工智能 大模型",
+      "match_count": 14,
+      "titles": [
+        {
+          "title": "习近平将出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33574538",
+          "source": "澎湃新闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时19分 ~ 07时01分]"
+        },
+        {
+          "title": "五大亮点提前看！世界人工智能大会本周开幕：智慧、硬核、体验、年轻、治理",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33571516",
+          "source": "澎湃新闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时19分 ~ 07时01分]"
+        },
+        {
+          "title": "解锁2026世界人工智能大会新亮点",
+          "url": "https://www.toutiao.com/trending/7661668281069223946/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时19分 ~ 07时01分]"
+        },
+        {
+          "title": "手慢无、买完还得防举报：“空调羞耻”下欧洲人的AI自救",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33559448",
+          "source": "澎湃新闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时19分 ~ 07时01分]"
+        },
+        {
+          "title": "Meta持续加码AI基建 追加400亿美元投资其最大数据中心项目",
+          "url": "https://www.cls.cn/detail/2424821",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时19分 ~ 07时01分]"
+        },
+        {
+          "title": "AI恐慌叠加中东局势升温，美股指盘中齐跌，SK海力士跌7%，油价涨超4%，黄金跌超2%，",
+          "url": "https://wallstreetcn.com/articles/3776754",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时19分 ~ 05时03分]"
+        },
+        {
+          "title": "美国总统特朗普：将摧毁“镐头山”（Pickaxe Mountain），并警告伊朗做好准备。",
+          "url": "https://wallstreetcn.com/livenews/3133081",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时03分"
+        },
+        {
+          "title": "美国总统特朗普：（关于伊朗）我们将摧毁镐山（Pickaxe Mountain）。",
+          "url": "https://flash.jin10.com/detail/20260714043115058800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时03分"
+        },
+        {
+          "title": "AI债务泡沫要破了？高盛首次公开承认：市场承接能力逼近极限",
+          "url": "https://wallstreetcn.com/articles/3776779",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时19分 ~ 07时01分]"
+        },
+        {
+          "title": "美联储理事沃勒：预计消费者支出将保持强劲增长，人工智能相关投资将持续强劲。",
+          "url": "https://flash.jin10.com/detail/20260714003551373800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时19分"
+        },
+        {
+          "title": "惠誉：未来几年，人工智能带来的行业颠覆对大多数北美多元化服务公司的信用风险仍处于可控范围。",
+          "url": "https://flash.jin10.com/detail/20260714041440304800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时03分"
+        },
+        {
+          "title": "2026世界人工智能大会看点速览。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3133040",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时38分"
+        },
+        {
+          "title": "美联储理事沃勒：关税、能源价格、人工智能建设需求是推动通胀上升的因素。",
+          "url": "https://flash.jin10.com/detail/20260714003248511800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时19分"
+        },
+        {
+          "title": "周一（7月13日），美股存储芯片与硬件供应链指数跌6.96%，报213.87点。 美股超大规模云服务商（Hyperscalers）跌1.01%，报93.03点。 信息科技指数跌4.60%，报405.46点。 人工智能（AI）赢家指数跌4.36%，报402.62点。 AI软件先驱指数涨1.04%，报111.48点。 北美科技软件股指数ETF涨0.31%，Global X网络安全ETF涨0.69%，纳斯达克网络安全ETF跌0.04%，ETFMG网络安全ETF涨0.28%。 美国科技股七巨头（Magnificent 7）指数跌0.94%，报215.76点，整体持续走低。 “超大”市值科技股指数跌1.81%，报438.29点。",
+          "url": "https://wallstreetcn.com/livenews/3133099",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
         }
       ]
     },
     {
       "keyword_group": "就业 失业 裁员 应届生",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美联储理事沃勒：近期就业报告持续好于预期，且表现强劲。",
@@ -229,6 +384,17 @@
           "time_info": "01时19分"
         },
         {
+          "title": "新西兰经济研究所（NZIER）：商业信心在二季度改善。 8%的受访企业预计经济形势将改善。 1%的受访企业称二季度贸易形势改善。 54%的受访企业预计将在三季度涨价。 1%的受访企业预计将在三季度裁员。 10%的受访企业预计三季度贸易形势将更好。",
+          "url": "https://wallstreetcn.com/livenews/3133111",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
+        },
+        {
           "title": "美联储理事沃勒：劳动力市场稳定，接近美联储的最大就业目标。",
           "url": "https://flash.jin10.com/detail/20260714003027316800",
           "source": "金十数据",
@@ -238,6 +404,61 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "电影 影视 综艺",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "周星驰电影《功夫女足》次日票房 2.39 亿，首周票房 5 亿，预测将破 20 亿甚至 25 亿，希望有多大？",
+          "url": "https://www.zhihu.com/question/2059790933936137165",
+          "source": "知乎",
+          "ranks": [
+            11,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时19分 ~ 07时01分]"
+        },
+        {
+          "title": "如何看待周星驰新电影《功夫女足》口碑两极分化的现象？无厘头是不是过时了？",
+          "url": "https://www.zhihu.com/question/2059946981699728081",
+          "source": "知乎",
+          "ranks": [
+            14,
+            13,
+            12,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时19分 ~ 07时01分]"
+        },
+        {
+          "title": "博主：喜剧电影已迎来新时代",
+          "url": "https://www.toutiao.com/trending/7662011047682772521/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时19分"
+        },
+        {
+          "title": "《八仙！》开点映了，看完的朋友来说说，如何评价这部电影？",
+          "url": "https://www.zhihu.com/question/2058505696463812158",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
         }
       ]
     },
@@ -253,8 +474,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时19分 ~ 05时03分]"
+          "appearance_count": 5,
+          "time_info": "[01时19分 ~ 07时01分]"
         },
         {
           "title": "国务院：让居民消费底气更足",
@@ -262,11 +483,12 @@
           "source": "今日头条",
           "ranks": [
             18,
-            21
+            21,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时19分 ~ 05时03分]"
+          "appearance_count": 5,
+          "time_info": "[01时19分 ~ 07时01分]"
         },
         {
           "title": "媒体解读未来5年“消费升级路线图”",
@@ -282,45 +504,19 @@
       ]
     },
     {
-      "keyword_group": "电影 影视 综艺",
-      "match_count": 3,
+      "keyword_group": "心理 心理学 心理咨询",
+      "match_count": 1,
       "titles": [
         {
-          "title": "周星驰电影《功夫女足》次日票房 2.39 亿，首周票房 5 亿，预测将破 20 亿甚至 25 亿，希望有多大？",
-          "url": "https://www.zhihu.com/question/2059790933936137165",
-          "source": "知乎",
+          "title": "现货黄金跌超2.9%，失守4000美元整数位心理关口",
+          "url": "https://wallstreetcn.com/livenews/3133090",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11,
-            6,
-            4
+            29
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时19分 ~ 05时03分]"
-        },
-        {
-          "title": "如何看待周星驰新电影《功夫女足》口碑两极分化的现象？无厘头是不是过时了？",
-          "url": "https://www.zhihu.com/question/2059946981699728081",
-          "source": "知乎",
-          "ranks": [
-            14,
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时19分 ~ 05时03分]"
-        },
-        {
-          "title": "博主：喜剧电影已迎来新时代",
-          "url": "https://www.toutiao.com/trending/7662011047682772521/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时19分"
+          "time_info": "07时01分"
         }
       ]
     },
@@ -335,7 +531,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时03分"
         }
