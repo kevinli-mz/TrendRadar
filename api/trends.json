@@ -1,131 +1,44 @@
 {
-  "generated_at": "2026-07-13T22:49:44.802410+08:00",
-  "total_titles_processed": 1258,
+  "generated_at": "2026-07-14T01:19:25.765187+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型",
-      "match_count": 28,
+      "match_count": 9,
       "titles": [
         {
-          "title": "人口第一大国，被AI做空了",
-          "url": "https://wallstreetcn.com/articles/3776722",
+          "title": "AI恐慌叠加中东局势升温，美股指盘中齐跌，SK海力士跌7%，油价涨超4%，黄金跌超2%，",
+          "url": "https://wallstreetcn.com/articles/3776754",
           "source": "华尔街见闻",
           "ranks": [
-            3,
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时06分 ~ 15时29分]"
+          "appearance_count": 1,
+          "time_info": "01时19分"
         },
         {
-          "title": "AI热潮推动下 行业人士：HBM4价格明年或翻倍",
-          "url": "https://www.cls.cn/detail/2423546",
-          "source": "财联社热门",
+          "title": "习近平将出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33574538",
+          "source": "澎湃新闻",
           "ranks": [
-            3,
-            4
+            1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时06分 ~ 07时02分]"
-        },
-        {
-          "title": "下周重磅日程：中国GDP与美国CPI、沃什听证会、WAIC大会、长鑫科技打新与台积电财报",
-          "url": "https://wallstreetcn.com/articles/3776632",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时06分 ~ 07时02分]"
-        },
-        {
-          "title": "苹果起诉OpenAI引骂战，马斯克炮轰Altman欺诈，Altman反讽其吹嘘“太空数据中心”",
-          "url": "https://wallstreetcn.com/articles/3776720",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时06分 ~ 15时29分]"
-        },
-        {
-          "title": "本周重磅日程：中国GDP与美国CPI、沃什听证会、WAIC大会、长鑫科技打新与台积电财报",
-          "url": "https://wallstreetcn.com/articles/3776632",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时34分 ~ 19时20分]"
-        },
-        {
-          "title": "算力、模型、数据三箭齐发 吓坏市场的Meta要剑指AI“第三极”？",
-          "url": "https://www.cls.cn/detail/2422869",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时06分 ~ 07时02分]"
-        },
-        {
-          "title": "AI“下半场”的赛道变了？不再光比谁更大、更强……",
-          "url": "https://www.cls.cn/detail/2424196",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时28分 ~ 19时20分]"
+          "appearance_count": 1,
+          "time_info": "01时19分"
         },
         {
           "title": "五大亮点提前看！世界人工智能大会本周开幕：智慧、硬核、体验、年轻、治理",
           "url": "https://m.thepaper.cn/newsDetail_forward_33571516",
           "source": "澎湃新闻",
           "ranks": [
-            17,
-            11,
-            4
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时34分 ~ 22时49分]"
-        },
-        {
-          "title": "AI恐慌叠加中东局势升温，美股指涨跌互现，存储芯片股普跌，SK海力士跌8%，油涨金跌",
-          "url": "https://wallstreetcn.com/articles/3776754",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时49分"
-        },
-        {
-          "title": "手慢无、买完还得防举报：“空调羞耻”下欧洲人的AI自救",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33559448",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            13,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时34分 ~ 22时49分]"
+          "time_info": "01时19分"
         },
         {
           "title": "解锁2026世界人工智能大会新亮点",
@@ -134,363 +47,110 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时49分"
-        },
-        {
-          "title": "AI恐慌蔓延，美股盘前存储芯片股普跌，SK海力士暴跌15.4%创历史最大跌幅，原油上涨，黄金下跌",
-          "url": "https://wallstreetcn.com/articles/3776754",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时20分"
+          "time_info": "01时19分"
         },
         {
-          "title": "AI需求蔓延至成熟制程 台积电拟上调报价 预计明年1月生效",
-          "url": "https://www.cls.cn/detail/2424076",
-          "source": "财联社热门",
+          "title": "手慢无、买完还得防举报：“空调羞耻”下欧洲人的AI自救",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33559448",
+          "source": "澎湃新闻",
           "ranks": [
-            12,
-            9
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时28分 ~ 19时20分]"
-        },
-        {
-          "title": "“存储双雄”又暴跌！韩国央行发声：AI驱动的芯片超级周期将持续",
-          "url": "https://www.cls.cn/detail/2424084",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时28分 ~ 15时29分]"
-        },
-        {
-          "title": "手机成大模型竞争新赛场 AI“超级载体”利好哪些硬件环节？",
-          "url": "https://www.cls.cn/detail/2422793",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时34分 ~ 11时35分]"
-        },
-        {
-          "title": "AI债务泡沫要破了？高盛首次公开承认：市场承接能力逼近极限",
-          "url": "https://wallstreetcn.com/articles/3776779",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时20分 ~ 22时49分]"
-        },
-        {
-          "title": "苹果指控OpenAI偷窃商业机密",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9C%E6%8C%87%E6%8E%A7OpenAI%E5%81%B7%E7%AA%83%E5%95%86%E4%B8%9A%E6%9C%BA%E5%AF%86",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时34分 ~ 11时35分]"
-        },
-        {
-          "title": "“加息噩梦”萦绕？高盛：AI或引爆美国通胀 存储暴涨是核心推手",
-          "url": "https://www.cls.cn/detail/2424017",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时28分 ~ 15时29分]"
-        },
-        {
-          "title": "AI是如何“杀死”印度IT行业的",
-          "url": "https://www.toutiao.com/trending/7661654432722980388/",
-          "source": "今日头条",
-          "ranks": [
-            25,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时58分 ~ 07时02分]"
-        },
-        {
-          "title": "印度本土为何跑不出一家OpenAI",
-          "url": "https://www.toutiao.com/trending/7661777860511665706/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时34分 ~ 11时35分]"
+          "appearance_count": 1,
+          "time_info": "01时19分"
         },
         {
           "title": "Meta持续加码AI基建 追加400亿美元投资其最大数据中心项目",
           "url": "https://www.cls.cn/detail/2424821",
           "source": "财联社热门",
           "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时49分"
-        },
-        {
-          "title": "白宫计划就AI电力成本达成自愿承诺。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3132855",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时20分"
+          "time_info": "01时19分"
         },
         {
-          "title": "习近平将出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话。（新华社）",
-          "url": "https://wallstreetcn.com/livenews/3132676",
-          "source": "华尔街见闻-快讯",
+          "title": "AI债务泡沫要破了？高盛首次公开承认：市场承接能力逼近极限",
+          "url": "https://wallstreetcn.com/articles/3776779",
+          "source": "华尔街见闻",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时29分"
+          "time_info": "01时19分"
         },
         {
-          "title": "投资者避险抛售AI股，苹果市值反弹近6000亿美元",
-          "url": "https://flash.jin10.com/detail/20260713190308012800",
+          "title": "美联储理事沃勒：预计消费者支出将保持强劲增长，人工智能相关投资将持续强劲。",
+          "url": "https://flash.jin10.com/detail/20260714003551373800",
           "source": "金十数据",
           "ranks": [
-            10
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时20分"
+          "time_info": "01时19分"
         },
         {
-          "title": "Plus精选图示：AI巨头将公布二季度财报，现金流可能出现转折",
-          "url": "https://flash.jin10.com/detail/20260713221325781800",
+          "title": "美联储理事沃勒：关税、能源价格、人工智能建设需求是推动通胀上升的因素。",
+          "url": "https://flash.jin10.com/detail/20260714003248511800",
           "source": "金十数据",
           "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时49分"
-        },
-        {
-          "title": "韩国央行看好AI驱动的芯片超级周期，驳斥“见顶”担忧",
-          "url": "https://wallstreetcn.com/livenews/3132561",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时35分"
-        },
-        {
-          "title": "中国自研AI芯片取得架构突破",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%87%AA%E7%A0%94AI%E8%8A%AF%E7%89%87%E5%8F%96%E5%BE%97%E6%9E%B6%E6%9E%84%E7%AA%81%E7%A0%B4%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时49分"
-        },
-        {
-          "title": "习近平将出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33574538",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时20分"
+          "time_info": "01时19分"
         }
       ]
     },
     {
-      "keyword_group": "电影 影视 综艺",
-      "match_count": 11,
+      "keyword_group": "就业 失业 裁员 应届生",
+      "match_count": 3,
       "titles": [
         {
-          "title": "如何看待周星驰新电影《功夫女足》预测票房大幅飙升至 25 亿人民币？",
-          "url": "https://www.zhihu.com/question/2059770577624290592",
-          "source": "知乎",
+          "title": "美联储理事沃勒：近期就业报告持续好于预期，且表现强劲。",
+          "url": "https://flash.jin10.com/detail/20260714005215973800",
+          "source": "金十数据",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时34分 ~ 15时29分]"
-        },
-        {
-          "title": "周星驰电影《功夫女足》首日票房 2.6 亿，带动大盘时隔 136 天单日破 3 亿，如何评价这一成绩？",
-          "url": "https://www.zhihu.com/question/2059428102430613532",
-          "source": "知乎",
-          "ranks": [
-            9,
-            4,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时06分 ~ 07时02分]"
-        },
-        {
-          "title": "《八仙！》开点映了，看完的朋友来说说，如何评价这部电影？",
-          "url": "https://www.zhihu.com/question/2058505696463812158",
-          "source": "知乎",
-          "ranks": [
-            17,
-            18,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时34分 ~ 22时49分]"
-        },
-        {
-          "title": "《争洛阳》票房不佳，《星三国》弃拍续集，以曹操为主角的三国电影究竟出路何在？",
-          "url": "https://www.zhihu.com/question/2059762739908817212",
-          "source": "知乎",
-          "ranks": [
-            17,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时28分 ~ 19时20分]"
-        },
-        {
-          "title": "电影功夫女足值得期待吗",
-          "url": "https://search.bilibili.com/all?keyword=%E7%94%B5%E5%BD%B1%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E5%80%BC%E5%BE%97%E6%9C%9F%E5%BE%85%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时06分 ~ 03时14分]"
-        },
-        {
-          "title": "如何看待 2026 年 7 月 12 日周星驰新电影《功夫女足》预测票房大幅飙升至 25 亿人民币？",
-          "url": "https://www.zhihu.com/question/2059770577624290592",
-          "source": "知乎",
-          "ranks": [
-            13,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时01分 ~ 07时02分]"
-        },
-        {
-          "title": "周星驰电影《功夫女足》次日票房 2.39 亿，首周票房 5 亿，预测将破 20 亿甚至 25 亿，希望有多大？",
-          "url": "https://www.zhihu.com/question/2059790933936137165",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时49分"
+          "time_info": "01时19分"
         },
         {
-          "title": "周星驰新片“奶”活同期电影",
-          "url": "https://www.baidu.com/s?wd=%E5%91%A8%E6%98%9F%E9%A9%B0%E6%96%B0%E7%89%87%E2%80%9C%E5%A5%B6%E2%80%9D%E6%B4%BB%E5%90%8C%E6%9C%9F%E7%94%B5%E5%BD%B1",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时20分"
-        },
-        {
-          "title": "深成指、创业板指均跌超2%，沪指跌1.18%，军工、培育钻石、影视游戏、光纤等方向跌幅居前，沪深京三市下跌个股近4400只，其中近120股跌超9%。",
-          "url": "https://wallstreetcn.com/livenews/3132548",
+          "title": "美联储理事沃勒：我们持续收到了更好、更强劲的就业报告 人工智能（AI）可能会影响金融状况。 如果人工智能泡沫破裂或出现回调，我们将看到金融状况发生相当大的变化。 看不出有任何理由会处于准备金稀缺的机制中。 我认为没有任何理由会处于准备金稀缺的机制中。 如果能找到方法让银行不需要那么多准备金，那么相应地缩减资产负债表就没有问题。 关于仅凭准备金需求能缩减多少资产负债表，存在很多争议。 工作组将思考我们可以多认真地考虑缩减资产负债表。 我很难看出当前规模的资产负债表正在造成什么问题。",
+          "url": "https://wallstreetcn.com/livenews/3133016",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            27
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时35分"
+          "time_info": "01时19分"
         },
         {
-          "title": "电影想你了是给挚友的情书",
-          "url": "https://www.douyin.com/hot/2569208",
-          "source": "抖音",
+          "title": "美联储理事沃勒：劳动力市场稳定，接近美联储的最大就业目标。",
+          "url": "https://flash.jin10.com/detail/20260714003027316800",
+          "source": "金十数据",
           "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时49分"
-        },
-        {
-          "title": "三大指数均跌超1%，军工、培育钻石、影视游戏、光纤等方向跌幅居前，沪深京三市下跌个股近4300只。",
-          "url": "https://wallstreetcn.com/livenews/3132543",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
+            23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时35分"
+          "time_info": "01时19分"
         }
       ]
     },
     {
       "keyword_group": "经济 经济学",
-      "match_count": 7,
+      "match_count": 3,
       "titles": [
-        {
-          "title": "一组数据看中国经济稳中向优",
-          "url": "https://www.douyin.com/hot/2568709",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时06分 ~ 07时02分]"
-        },
-        {
-          "title": "多元业态激发夏日经济活力",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%85%83%E4%B8%9A%E6%80%81%E6%BF%80%E5%8F%91%E5%A4%8F%E6%97%A5%E7%BB%8F%E6%B5%8E%E6%B4%BB%E5%8A%9B",
-          "source": "百度热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时20分"
-        },
         {
           "title": "李强主持召开经济形势专家和企业家座谈会，黄汉权、于东来等发言",
           "url": "https://www.cls.cn/detail/2424936",
@@ -498,295 +158,109 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时49分"
+          "time_info": "01时19分"
         },
         {
-          "title": "伊朗总统：我们正参与一场复杂的经济战争，成功克服这一阶段需要公民的积极参与。",
-          "url": "https://flash.jin10.com/detail/20260712234037416800",
+          "title": "美联储理事沃勒：经济实质状况良好。",
+          "url": "https://flash.jin10.com/detail/20260714003250980800",
           "source": "金十数据",
           "ranks": [
-            12,
-            25
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时07分 ~ 03时14分]"
+          "appearance_count": 1,
+          "time_info": "01时19分"
         },
         {
-          "title": "据路透调查：经济学家预计加拿大央行在2027年前不会调整利率政策。部分经济学家表示不能排除加拿大央行未来降息的可能性。",
-          "url": "https://flash.jin10.com/detail/20260713190023827800",
+          "title": "美联储理事沃勒：劳动力市场不是通胀压力的来源，也不影响经济扩张的强度。",
+          "url": "https://flash.jin10.com/detail/20260714003241892800",
           "source": "金十数据",
           "ranks": [
-            14
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时20分"
-        },
-        {
-          "title": "伊朗冲突拖累欧元区前景 经济学家下调增长预测",
-          "url": "https://wallstreetcn.com/livenews/3132658",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时29分"
-        },
-        {
-          "title": "印尼经济部：政府将继续加强政策执行的质量和可预测性，以维护市场信心。",
-          "url": "https://flash.jin10.com/detail/20260713184549606800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时20分"
+          "time_info": "01时19分"
         }
       ]
     },
     {
       "keyword_group": "消费 存钱 攒钱",
-      "match_count": 6,
+      "match_count": 3,
       "titles": [
         {
           "title": "国务院批复《扩大消费“十五五”规划》",
           "url": "https://www.cls.cn/detail/2424650",
           "source": "财联社热门",
           "ranks": [
-            3,
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时20分 ~ 22时49分]"
-        },
-        {
-          "title": "消费观突然就被矫正了",
-          "url": "https://s.weibo.com/weibo?q=%E6%B6%88%E8%B4%B9%E8%A7%82%E7%AA%81%E7%84%B6%E5%B0%B1%E8%A2%AB%E7%9F%AB%E6%AD%A3%E4%BA%86&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时28分 ~ 15时29分]"
+          "appearance_count": 1,
+          "time_info": "01时19分"
         },
         {
           "title": "国务院：让居民消费底气更足",
           "url": "https://www.toutiao.com/trending/7661937802280239123/",
           "source": "今日头条",
           "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时49分"
-        },
-        {
-          "title": "5000 元以下笔记本基本绝迹，购机门槛升至万元以上，为啥涨价幅度这么大？对行业和消费者有哪些影响？",
-          "url": "https://www.zhihu.com/question/2058111600045678958",
-          "source": "知乎",
-          "ranks": [
-            20
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时02分"
+          "time_info": "01时19分"
         },
         {
-          "title": "金十图示：2026年07月13日（周一）富时中国A50指数成分股今日收盘行情一览：成分股涨跌分化，银行、石油石化、煤炭开采等板块维持涨势，半导体、消费电子、光伏设备等板块跌幅居前。",
-          "url": "https://flash.jin10.com/detail/20260713150558564800",
-          "source": "金十数据",
+          "title": "媒体解读未来5年“消费升级路线图”",
+          "url": "https://www.toutiao.com/trending/7661997463334797363/",
+          "source": "今日头条",
           "ranks": [
-            20
+            29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时29分"
-        },
-        {
-          "title": "美股盘初，主要行业ETF涨跌不一，能源业ETF涨超2%，日常消费品ETF涨近1%，半导体ETF跌2.5%。",
-          "url": "https://wallstreetcn.com/livenews/3132944",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时49分"
+          "time_info": "01时19分"
         }
       ]
     },
     {
-      "keyword_group": "婚姻 结婚 离婚 彩礼",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "曝李小冉徐佳宁离婚",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E6%9D%8E%E5%B0%8F%E5%86%89%E5%BE%90%E4%BD%B3%E5%AE%81%E7%A6%BB%E5%A9%9A%23&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12,
-            11,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时34分 ~ 19时20分]"
-        },
-        {
-          "title": "冉莹颖自曝曾多次想离婚，如何看待明星夫妇对外公开婚姻中的挣扎？",
-          "url": "https://www.zhihu.com/question/2059234779497772975",
-          "source": "知乎",
-          "ranks": [
-            11,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时34分 ~ 19时20分]"
-        },
-        {
-          "title": "冉莹颖称曾多次想离婚，录综艺本想救赎婚姻，录完「不再执着于改造对方」，透露出怎样的婚姻相处智慧？",
-          "url": "https://www.zhihu.com/question/2057515225566242609",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时02分"
-        },
-        {
-          "title": "32万彩礼到手仅12万婚介所截留20万",
-          "url": "https://www.baidu.com/s?wd=32%E4%B8%87%E5%BD%A9%E7%A4%BC%E5%88%B0%E6%89%8B%E4%BB%8512%E4%B8%87%E5%A9%9A%E4%BB%8B%E6%89%80%E6%88%AA%E7%95%9920%E4%B8%87",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时20分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "年轻人 00后 35岁",
+      "keyword_group": "电影 影视 综艺",
       "match_count": 3,
       "titles": [
         {
-          "title": "新能源车成「快消品」，平均车龄仅 1.8 年，年轻人为何把电车当手机一样换这么频繁？",
-          "url": "https://www.zhihu.com/question/2059928907206472162",
+          "title": "周星驰电影《功夫女足》次日票房 2.39 亿，首周票房 5 亿，预测将破 20 亿甚至 25 亿，希望有多大？",
+          "url": "https://www.zhihu.com/question/2059790933936137165",
           "source": "知乎",
           "ranks": [
-            6,
-            4
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时28分 ~ 19时20分]"
+          "appearance_count": 1,
+          "time_info": "01时19分"
         },
         {
-          "title": "A股齐跌 00后股民：半年白干",
-          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E9%BD%90%E8%B7%8C+00%E5%90%8E%E8%82%A1%E6%B0%91%EF%BC%9A%E5%8D%8A%E5%B9%B4%E7%99%BD%E5%B9%B2",
-          "source": "百度热搜",
+          "title": "如何看待周星驰新电影《功夫女足》口碑两极分化的现象？无厘头是不是过时了？",
+          "url": "https://www.zhihu.com/question/2059946981699728081",
+          "source": "知乎",
           "ranks": [
             14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时20分"
+          "time_info": "01时19分"
         },
         {
-          "title": "00后股民“追光”遭遇光速变脸",
-          "url": "https://www.toutiao.com/trending/7661918193799708715/",
+          "title": "博主：喜剧电影已迎来新时代",
+          "url": "https://www.toutiao.com/trending/7662011047682772521/",
           "source": "今日头条",
           "ranks": [
-            27
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时20分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "情绪 情绪价值 内耗 精神内耗",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美银Hartnett：日本银行股是“全球避险情绪领先指标”，下半年有“四大逆向交易机会”",
-          "url": "https://wallstreetcn.com/articles/3776713",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时06分 ~ 07时02分]"
-        },
-        {
-          "title": "金十图示：2026年07月13日（周一）投机情绪指数",
-          "url": "https://flash.jin10.com/detail/20260713151121889800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时29分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "就业 失业 裁员 应届生",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "韩国现代汽车工人开始三天部分罢工 要求提高奖金并保障就业岗位",
-          "url": "https://flash.jin10.com/detail/20260713111008430800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时35分"
-        },
-        {
-          "title": "调查显示今年法国失业率将触及七年新高",
-          "url": "https://wallstreetcn.com/livenews/3132664",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时29分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "考公 考研 上岸",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "青岛沿海掀巨浪 海水涌上岸淹没道路",
-          "url": "https://www.baidu.com/s?wd=%E9%9D%92%E5%B2%9B%E6%B2%BF%E6%B5%B7%E6%8E%80%E5%B7%A8%E6%B5%AA+%E6%B5%B7%E6%B0%B4%E6%B6%8C%E4%B8%8A%E5%B2%B8%E6%B7%B9%E6%B2%A1%E9%81%93%E8%B7%AF",
-          "source": "百度热搜",
-          "ranks": [
-            10,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时34分 ~ 15时29分]"
+          "time_info": "01时19分"
         }
       ]
     }
