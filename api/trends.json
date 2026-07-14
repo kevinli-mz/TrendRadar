@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-15T04:19:11.107617+08:00",
-  "total_titles_processed": 504,
+  "generated_at": "2026-07-15T06:06:02.361279+08:00",
+  "total_titles_processed": 602,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型",
-      "match_count": 24,
+      "match_count": 31,
       "titles": [
         {
           "title": "AI时代需要什么样的人：从DeepSeek招聘清单说起",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 04时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 06时06分]"
         },
         {
           "title": "当AI穿上白大褂：谁来唤醒沉睡的医疗数据？",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 04时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 06时06分]"
         },
         {
           "title": "如何评价呼和浩特摄影比赛一等奖作品疑 AI 生成，工作人员称「的确太假了」？应该允许 AI 作品参展吗？",
@@ -35,11 +35,12 @@
           "source": "知乎",
           "ranks": [
             6,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 04时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 06时06分]"
         },
         {
           "title": "全美首个州级“刹车令”！纽约州暂停新建大型AI数据中心，一年内不再发放新许可",
@@ -50,19 +51,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 04时19分]"
-        },
-        {
-          "title": "OpenAI置评苹果公司发起的窃密诉讼：对原告的任何证据都不知情。 我们严肃对待苹果的指控。",
-          "url": "https://wallstreetcn.com/livenews/3133848",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时19分"
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 06时06分]"
         },
         {
           "title": "美联储主席沃什国会首秀讲稿：誓言驯服通胀 看好AI投资红利",
@@ -74,8 +64,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 04时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 06时06分]"
         },
         {
           "title": "AI生成环卫工照片获摄影比赛一等奖",
@@ -84,11 +74,12 @@
           "ranks": [
             9,
             15,
-            19
+            19,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 04时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 06时06分]"
         },
         {
           "title": "摄影获奖作品被质疑为AI生成，呼和浩特官方发布情况通报",
@@ -98,8 +89,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 04时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 06时06分]"
         },
         {
           "title": "经纬度：中国人工智能发展的战略定力",
@@ -111,8 +102,19 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 04时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 06时06分]"
+        },
+        {
+          "title": "OpenAI置评苹果公司发起的窃密诉讼：对原告的任何证据都不知情。 我们严肃对待苹果的指控。",
+          "url": "https://wallstreetcn.com/livenews/3133848",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时19分"
         },
         {
           "title": "UP主解读AI浪潮下的资本周期",
@@ -123,8 +125,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时09分 ~ 04时19分]"
+          "appearance_count": 5,
+          "time_info": "[02时09分 ~ 06时06分]"
         },
         {
           "title": "如何评价 OpenAI 新模型 GPT-5.6 Sol Ultra，在不到一小时内证明循环双覆盖猜想？",
@@ -156,7 +158,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时19分"
         },
@@ -167,7 +169,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时19分"
         },
@@ -178,7 +180,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时19分"
         },
@@ -200,7 +202,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时19分"
         },
@@ -238,6 +240,17 @@
           "time_info": "02时09分"
         },
         {
+          "title": "OpenAI开始涉足苹果“舒适区”，拟推首款AI硬件",
+          "url": "https://flash.jin10.com/detail/20260715050136121800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时06分"
+        },
+        {
           "title": "据CNBC：苹果(AAPL.O)正在与PrismML洽谈，旨在缩小人工智能模型以便在iPhone上运行。",
           "url": "https://flash.jin10.com/detail/20260715010740944800",
           "source": "金十数据",
@@ -260,6 +273,39 @@
           "time_info": "00时24分"
         },
         {
+          "title": "OpenAI打算发布家用音箱，作为其首款硬件产品",
+          "url": "https://wallstreetcn.com/livenews/3133879",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时06分"
+        },
+        {
+          "title": "OpenAI表示，其AI智能音箱产品并未侵犯苹果(AAPL.O)的商业机密。",
+          "url": "https://flash.jin10.com/detail/20260715044652988800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时06分"
+        },
+        {
+          "title": "市场消息：OpenAI计划推出AI智能音箱作为旗下首款硬件产品，定位为AI陪伴助手。",
+          "url": "https://flash.jin10.com/detail/20260715044636741800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时06分"
+        },
+        {
           "title": "摩根大通敦促员工慎用高价AI处理简单任务，企业高管开始忧心成本",
           "url": "https://wallstreetcn.com/livenews/3133798",
           "source": "华尔街见闻-快讯",
@@ -269,6 +315,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时09分"
+        },
+        {
+          "title": "美联储理事、曾经担任金融监管事务的副主席迈克尔·巴尔表示，尽管他欢迎创新，但AI究竟会减少还是加剧收入和财富不平等，目前尚不清楚。 “关于AI在不远和遥远的未来将能做到什么，我们听到了许多大胆论断。有些可能会成为现实，有些则不会。但未来的不平等不仅取决于AI能做什么，也取决于我们选择用AI做什么，”巴尔表示。",
+          "url": "https://wallstreetcn.com/livenews/3133873",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时06分"
+        },
+        {
+          "title": "美联储负责监管的副主席鲍曼：不应在AI等问题上“微观管理”银行",
+          "url": "https://wallstreetcn.com/livenews/3133872",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时06分"
+        },
+        {
+          "title": "美国最大电网因AI热潮未能达成电力供应目标",
+          "url": "https://wallstreetcn.com/livenews/3133868",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时06分"
         },
         {
           "title": "美股开盘：AI硬件股上涨 IBM跌22%",
@@ -295,8 +374,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 04时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 06时06分]"
         },
         {
           "title": "《功夫女足》预测票房涨至 30.3 亿，你觉得能打破《美人鱼》创造的「无厘头喜剧电影」票房纪录吗？",
@@ -308,8 +387,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 04时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 06时06分]"
         },
         {
           "title": "张小斐主演电影票房破110亿",
@@ -321,6 +400,32 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时23分 ~ 02时09分]"
+        },
+        {
+          "title": "电影八仙提档718",
+          "url": "https://www.douyin.com/hot/2570509",
+          "source": "抖音",
+          "ranks": [
+            11,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 06时06分]"
+        },
+        {
+          "title": "如何评价电影功夫女足",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E7%94%B5%E5%BD%B1%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12,
+            17,
+            22,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 06时06分]"
         },
         {
           "title": "动画电影《八仙！》官宣提档至 7 月 18 日全国上映，对此你有何期待？",
@@ -335,40 +440,17 @@
           "time_info": "[00时23分 ~ 02时09分]"
         },
         {
-          "title": "电影八仙提档718",
-          "url": "https://www.douyin.com/hot/2570509",
-          "source": "抖音",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 04时19分]"
-        },
-        {
-          "title": "如何评价电影功夫女足",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E7%94%B5%E5%BD%B1%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12,
-            17,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 04时19分]"
-        },
-        {
           "title": "“终于不欠周星驰电影票了”",
           "url": "https://www.baidu.com/s?wd=%E2%80%9C%E7%BB%88%E4%BA%8E%E4%B8%8D%E6%AC%A0%E5%91%A8%E6%98%9F%E9%A9%B0%E7%94%B5%E5%BD%B1%E7%A5%A8%E4%BA%86%E2%80%9D",
           "source": "百度热搜",
           "ranks": [
             16,
-            20
+            20,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时09分 ~ 04时19分]"
+          "appearance_count": 5,
+          "time_info": "[02时09分 ~ 06时06分]"
         }
       ]
     },
@@ -393,11 +475,12 @@
           "source": "知乎",
           "ranks": [
             15,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时09分 ~ 04时19分]"
+          "appearance_count": 5,
+          "time_info": "[02时09分 ~ 06时06分]"
         },
         {
           "title": "美联储主席沃什：人工智能在短期内可能会对就业造成冲击，但也会创造新的就业机会。",
@@ -436,7 +519,7 @@
     },
     {
       "keyword_group": "消费 存钱 攒钱",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "未来5年消费“路线图”来了",
@@ -446,8 +529,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 04时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 06时06分]"
         },
         {
           "title": "惠民生促消费双向发力",
@@ -457,8 +540,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 04时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 06时06分]"
         },
         {
           "title": "24小时制能否成为酒店业服务新方向？我们找消费者和从业者聊了聊",
@@ -469,8 +552,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 04时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 06时06分]"
+        },
+        {
+          "title": "周二（7月14日），美股行业ETF涨跌各异，半导体ETF收涨2.51%，全球科技股指数ETF、科技行业ETF至多涨1.65%，银行业ETF跌0.06%，全球航空业ETF、日常消费品ETF至多跌1.38%，医疗业ETF跌1.93%。",
+          "url": "https://wallstreetcn.com/livenews/3133869",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时06分"
         }
       ]
     },
@@ -517,11 +611,12 @@
           "url": "https://www.douyin.com/hot/2571019",
           "source": "抖音",
           "ranks": [
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 04时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 06时06分]"
         }
       ]
     },
@@ -556,8 +651,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 04时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 06时06分]"
         }
       ]
     },
