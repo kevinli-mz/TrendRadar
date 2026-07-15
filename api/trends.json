@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-15T19:40:56.291281+08:00",
-  "total_titles_processed": 1415,
+  "generated_at": "2026-07-15T21:55:35.244039+08:00",
+  "total_titles_processed": 1572,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型",
-      "match_count": 61,
+      "match_count": 66,
       "titles": [
         {
           "title": "AI时代需要什么样的人：从DeepSeek招聘清单说起",
@@ -127,6 +127,17 @@
           "time_info": "[00时23分 ~ 06时06分]"
         },
         {
+          "title": "5张图看懂中国人工智能进化之路",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33586048",
+          "source": "澎湃新闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时40分 ~ 21时55分]"
+        },
+        {
           "title": "AI拿冠军,摄影比赛闹笑话",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356179&amp;topic_name=AI%E6%8B%BF%E5%86%A0%E5%86%9B%2C%E6%91%84%E5%BD%B1%E6%AF%94%E8%B5%9B%E9%97%B9%E7%AC%91%E8%AF%9D",
           "source": "贴吧",
@@ -134,22 +145,46 @@
             4,
             3,
             10,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时21分 ~ 19时40分]"
+          "appearance_count": 5,
+          "time_info": "[11时21分 ~ 21时55分]"
         },
         {
-          "title": "5张图看懂中国人工智能进化之路",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33586048",
+          "title": "国行苹果AI完成备案",
+          "url": "https://www.douyin.com/hot/2572485",
+          "source": "抖音",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时40分 ~ 21时55分]"
+        },
+        {
+          "title": "小浪花看WAIC丨“三地四馆”全攻略：路线、看点、隐藏玩法一次说清",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33589310",
           "source": "澎湃新闻",
           "ranks": [
-            2
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时40分 ~ 21时55分]"
+        },
+        {
+          "title": "英国央行委员哈斯克尔：我对人工智能推动英国生产力增长持乐观态度。",
+          "url": "https://flash.jin10.com/detail/20260715213722779800",
+          "source": "金十数据",
+          "ranks": [
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时40分"
+          "time_info": "21时55分"
         },
         {
           "title": "金山办公将推出独立AI办公智能体灵犀专业版，率先上线PC端",
@@ -163,26 +198,28 @@
           "time_info": "14时21分"
         },
         {
-          "title": "小浪花看WAIC丨“三地四馆”全攻略：路线、看点、隐藏玩法一次说清",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33589310",
-          "source": "澎湃新闻",
+          "title": "7款手机端侧大模型获备案！苹果Apple智能在列，阿里、百度提供支持",
+          "url": "https://www.cls.cn/detail/2427348",
+          "source": "财联社热门",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时40分"
+          "time_info": "21时55分"
         },
         {
-          "title": "国行苹果AI完成备案",
-          "url": "https://www.douyin.com/hot/2572485",
-          "source": "抖音",
+          "title": "身家飙升至 360 亿美元，为什么梁文锋能超越奥特曼和达里奥成全球 AI 大模型创始人首富？",
+          "url": "https://www.zhihu.com/question/2060645375338180828",
+          "source": "知乎",
           "ranks": [
+            10,
+            7,
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时40分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时21分 ~ 21时55分]"
         },
         {
           "title": "OpenAI置评苹果公司发起的窃密诉讼：对原告的任何证据都不知情。 我们严肃对待苹果的指控。",
@@ -218,18 +255,6 @@
           "time_info": "17时14分"
         },
         {
-          "title": "身家飙升至 360 亿美元，为什么梁文锋能超越奥特曼和达里奥成全球 AI 大模型创始人首富？",
-          "url": "https://www.zhihu.com/question/2060645375338180828",
-          "source": "知乎",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时21分 ~ 19时40分]"
-        },
-        {
           "title": "如何评价 OpenAI 新模型 GPT-5.6 Sol Ultra，在不到一小时内证明循环双覆盖猜想？",
           "url": "https://www.zhihu.com/question/2059349642496710015",
           "source": "知乎",
@@ -240,6 +265,29 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时23分 ~ 02时09分]"
+        },
+        {
+          "title": "“Apple智能”等7款提供手机端侧生成式人工智能服务已备案",
+          "url": "https://www.cls.cn/detail/2427185",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时40分 ~ 21时55分]"
+        },
+        {
+          "title": "DeepSeek首轮融资落地 腾讯、宁德时代、国家人工智能产业基金悉数入股",
+          "url": "https://www.cls.cn/detail/2427193",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时40分 ~ 21时55分]"
         },
         {
           "title": "苹果AI国行版已过审",
@@ -299,15 +347,15 @@
           "time_info": "[00时23分 ~ 00时24分]"
         },
         {
-          "title": "“Apple智能”等7款提供手机端侧生成式人工智能服务已备案",
-          "url": "https://www.cls.cn/detail/2427185",
-          "source": "财联社热门",
+          "title": "美国通胀降温叠加AI交易重燃，美股盘初走高，阿斯麦涨约3%，油价涨1%",
+          "url": "https://wallstreetcn.com/articles/3776964",
+          "source": "华尔街见闻",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时40分"
+          "time_info": "21时55分"
         },
         {
           "title": "OpenAI：我们相信竞争，也支持人们自由选择工作地点。",
@@ -321,24 +369,13 @@
           "time_info": "04时19分"
         },
         {
-          "title": "DeepSeek首轮融资落地 腾讯、宁德时代、国家人工智能产业基金悉数入股",
-          "url": "https://www.cls.cn/detail/2427193",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时40分"
-        },
-        {
           "title": "苹果AI 千问",
           "url": "https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9CAI%20%E5%8D%83%E9%97%AE&t=31&band_rank=8&Refer=top",
           "source": "微博",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时40分"
         },
@@ -393,7 +430,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时40分"
         },
@@ -431,13 +468,24 @@
           "time_info": "17时14分"
         },
         {
+          "title": "美股开盘，道指开涨0.18%，标普500指数涨0.41%，纳指涨0.63%。SK海力士ADR(SKHY.O)跌7%，阿里巴巴(BABA.N)涨超4%，消息面上，阿里千问将作为AI能力集成至苹果智能。微软(MSFT.O)、苹果(AAPL.O)、IBM(IBM.N)均涨超1%。",
+          "url": "https://flash.jin10.com/detail/20260715213026496800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
+        },
+        {
           "title": "哈萨克斯坦总统托卡耶夫抵达上海 出席2026世界人工智能大会暨人工智能全球治理高级别会议",
           "url": "https://wallstreetcn.com/livenews/3134319",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时40分"
         },
@@ -448,7 +496,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时40分"
         },
@@ -492,9 +540,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时40分"
+        },
+        {
+          "title": "【豆包AI手机今年将发布多款机型】据界面新闻，字节跳动联合中兴努比亚打造的首款 AI 智能体手机（ “豆包 AI 智能体手机”）今年将有多款机型发布，其中一款将于 2026 世界人工智能大会期间亮相，其整体备货约20万台，首批备货10万台以内。界面新闻就此消息向中兴求证，截至发稿中兴方面暂无回应。供应链人士表示，本代产品最初备货远超前代，部分备件的规模超过百万，由于上游元器件成本的上涨，经历过多次调整，由原先的30万调整至20万台左右。",
+          "url": "https://wallstreetcn.com/livenews/3134387",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
         },
         {
           "title": "OpenAI拟进军消费硬件市场：首款无屏智能音箱曝光 未来目标瞄准“手机替代品”",
@@ -709,7 +768,7 @@
     },
     {
       "keyword_group": "经济 经济学",
-      "match_count": 22,
+      "match_count": 27,
       "titles": [
         {
           "title": "央行最新发声！加大逆周期和跨周期调节力度，巩固拓展经济稳中向好势头",
@@ -764,9 +823,31 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时40分"
+        },
+        {
+          "title": "今年上半年中国经济总体平稳向新向优",
+          "url": "https://www.toutiao.com/trending/7662032297893593114/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
+        },
+        {
+          "title": "四字解读中国经济上半年成绩单",
+          "url": "https://www.douyin.com/hot/2572825",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
         },
         {
           "title": "美国白宫国家经济委员会主任哈塞特：伊朗对全球经济的威胁能力已下降。",
@@ -775,7 +856,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时40分"
         },
@@ -820,7 +901,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时40分"
         },
@@ -831,7 +912,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时40分"
         },
@@ -853,7 +934,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时40分"
         },
@@ -880,6 +961,17 @@
           "time_info": "17时14分"
         },
         {
+          "title": "美联储威廉姆斯：更广泛的消费者信贷增长与经济保持一致。K型经济是真实存在的。",
+          "url": "https://flash.jin10.com/detail/20260715212822749800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
+        },
+        {
           "title": "国家统计局：上半年以高端制造、数字经济、现代服务为代表的新动能对经济增长贡献率超四成",
           "url": "https://wallstreetcn.com/livenews/3134039",
           "source": "华尔街见闻-快讯",
@@ -889,6 +981,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时21分"
+        },
+        {
+          "title": "半年报出炉，人民日报：中国经济坚韧向前",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33588680",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
+        },
+        {
+          "title": "江西加码推进“省会引领”战略：以实体经济作支撑，发出强省会新信号",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33589347",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
         },
         {
           "title": "创业板指涨超1%，沪指涨0.19%，深成指涨0.53%，医药医疗、白酒、宠物经济、美容护理等方向涨幅居前，沪深京三市上涨个股超4100只。",
@@ -960,7 +1074,7 @@
     },
     {
       "keyword_group": "电影 影视 综艺",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "纪念施南生｜香港电影真正的大女主，定义了制片人最体面最专业的模样",
@@ -995,11 +1109,12 @@
             17,
             22,
             15,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 07时58分]"
+          "appearance_count": 10,
+          "time_info": "[00时23分 ~ 21时55分]"
         },
         {
           "title": "张小斐主演电影票房破110亿",
@@ -1025,6 +1140,17 @@
           "time_info": "[00时23分 ~ 06时06分]"
         },
         {
+          "title": "张全蛋聊电影功夫女足",
+          "url": "https://search.bilibili.com/all?keyword=%E5%BC%A0%E5%85%A8%E8%9B%8B%E8%81%8A%E7%94%B5%E5%BD%B1%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
+        },
+        {
           "title": "动画电影《八仙！》官宣提档至 7 月 18 日全国上映，对此你有何期待？",
           "url": "https://www.zhihu.com/question/2060302796297959128",
           "source": "知乎",
@@ -1035,6 +1161,21 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时23分 ~ 02时09分]"
+        },
+        {
+          "title": "电影功夫女足争议全解析",
+          "url": "https://search.bilibili.com/all?keyword=%E7%94%B5%E5%BD%B1%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E4%BA%89%E8%AE%AE%E5%85%A8%E8%A7%A3%E6%9E%90",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            21,
+            18,
+            16,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时21分 ~ 21时55分]"
         },
         {
           "title": "“终于不欠周星驰电影票了”",
@@ -1048,20 +1189,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时09分 ~ 06时06分]"
-        },
-        {
-          "title": "电影功夫女足争议全解析",
-          "url": "https://search.bilibili.com/all?keyword=%E7%94%B5%E5%BD%B1%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E4%BA%89%E8%AE%AE%E5%85%A8%E8%A7%A3%E6%9E%90",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            21,
-            18,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时21分 ~ 19时40分]"
         },
         {
           "title": "为什么《三国第一部：争洛阳》这样用心制作的动画电影受不到市场认可？",
@@ -1100,6 +1227,18 @@
           "time_info": "[17时14分 ~ 19时40分]"
         },
         {
+          "title": "国企投近900万拍综艺收益仅8600元",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E4%BC%81%E6%8A%95%E8%BF%91900%E4%B8%87%E6%8B%8D%E7%BB%BC%E8%89%BA%E6%94%B6%E7%9B%8A%E4%BB%858600%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            21,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时40分 ~ 21时55分]"
+        },
+        {
           "title": "电影好一个乖乖女组讯",
           "url": "https://s.weibo.com/weibo?q=%23%E7%94%B5%E5%BD%B1%E5%A5%BD%E4%B8%80%E4%B8%AA%E4%B9%96%E4%B9%96%E5%A5%B3%E7%BB%84%E8%AE%AF%23&t=31&band_rank=10&Refer=top",
           "source": "微博",
@@ -1120,17 +1259,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时14分"
-        },
-        {
-          "title": "国企投近900万拍综艺收益仅8600元",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E4%BC%81%E6%8A%95%E8%BF%91900%E4%B8%87%E6%8B%8D%E7%BB%BC%E8%89%BA%E6%94%B6%E7%9B%8A%E4%BB%858600%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时40分"
         },
         {
           "title": "A股影视院线板块再度走高，幸福蓝海涨停，儒意电影此前涨停，光线传媒涨超10%，北京文化、中国电影、奥飞娱乐、百纳千成、上海电影跟涨。",
@@ -1169,7 +1297,7 @@
     },
     {
       "keyword_group": "消费 存钱 攒钱",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "未来5年消费“路线图”来了",
@@ -1211,11 +1339,23 @@
           "url": "https://www.cls.cn/detail/2427336",
           "source": "财联社热门",
           "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时40分 ~ 21时55分]"
+        },
+        {
+          "title": "美股盘初，主要行业ETF涨跌不一，网络股指数ETF涨超1%，可选消费ETF涨近1%，生物科技ETF跌近1%。",
+          "url": "https://wallstreetcn.com/livenews/3134399",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时40分"
+          "time_info": "21时55分"
         },
         {
           "title": "官方把房子定位为大宗消费品意味啥",
@@ -1225,11 +1365,12 @@
             20,
             18,
             19,
-            24
+            24,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时21分 ~ 19时40分]"
+          "appearance_count": 5,
+          "time_info": "[11时21分 ~ 21时55分]"
         },
         {
           "title": "国家统计局：智能绿色健康消费逐渐成为新消费风尚",
@@ -1429,7 +1570,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时40分"
         }
@@ -1497,11 +1638,12 @@
           "source": "微博",
           "ranks": [
             1,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时14分 ~ 19时40分]"
+          "appearance_count": 3,
+          "time_info": "[17时14分 ~ 21时55分]"
         },
         {
           "title": "曝DeepSeek计划明年上市",
@@ -1527,11 +1669,12 @@
           "ranks": [
             4,
             11,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时21分 ~ 19时40分]"
+          "appearance_count": 4,
+          "time_info": "[14时21分 ~ 21时55分]"
         },
         {
           "title": "AI乐观情绪重燃，阿斯麦绩后涨7%，韩股涨到熔断、SK海力士涨约9%，油价维持80美元高位",
@@ -1540,7 +1683,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时40分"
         }
@@ -1593,7 +1736,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时40分"
         }
