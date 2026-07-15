@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-16T03:21:46.554738+08:00",
-  "total_titles_processed": 393,
+  "generated_at": "2026-07-16T05:07:27.166346+08:00",
+  "total_titles_processed": 500,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型",
-      "match_count": 15,
+      "match_count": 19,
       "titles": [
         {
           "title": "5张图看懂中国人工智能进化之路",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时23分 ~ 03时21分]"
+          "appearance_count": 4,
+          "time_info": "[01时23分 ~ 05时07分]"
         },
         {
           "title": "小浪花看WAIC丨“三地四馆”全攻略：路线、看点、隐藏玩法一次说清",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时23分 ~ 03时21分]"
+          "appearance_count": 4,
+          "time_info": "[01时23分 ~ 05时07分]"
         },
         {
           "title": "7款手机端侧大模型获备案！苹果Apple智能在列，阿里、百度提供支持",
@@ -37,8 +37,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时23分 ~ 03时21分]"
+          "appearance_count": 4,
+          "time_info": "[01时23分 ~ 05时07分]"
+        },
+        {
+          "title": "国行苹果AI完成备案",
+          "url": "https://www.douyin.com/hot/2572485",
+          "source": "抖音",
+          "ranks": [
+            2,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时23分 ~ 05时07分]"
         },
         {
           "title": "美联储理事库克：AI建设与供应冲击都在驱动通胀风险。",
@@ -52,16 +64,26 @@
           "time_info": "01时24分"
         },
         {
-          "title": "国行苹果AI完成备案",
-          "url": "https://www.douyin.com/hot/2572485",
-          "source": "抖音",
+          "title": "SPACEXAI：开源Grok Build，SPACEXAI的编码代理和TUI。",
+          "url": "https://flash.jin10.com/detail/20260716043259996800",
+          "source": "金十数据",
           "ranks": [
-            2,
-            8
+            4
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时23分 ~ 03时21分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时07分"
+        },
+        {
+          "title": "周三（7月15日），美股信息科技指数跌3.43%，报398.76点。成分股中，戴尔科技收跌9.80%，与西部数据、闪迪、美光科技、Lumentum表现最差，甲骨文涨3.56%、与苹果领跑。 人工智能（AI）赢家指数跌2.51%，报400.58点。成分股中，戴尔、西数、闪迪、美光、Lumentum领跌，Meta、谷歌A、甲骨文领涨。 AI软件先驱指数跌0.18%，报110.87点。成分股MongoDB收跌3.37%，领跌，甲骨文领涨。",
+          "url": "https://wallstreetcn.com/livenews/3134609",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时07分"
         },
         {
           "title": "身家飙升至 360 亿美元，为什么梁文锋能超越奥特曼和达里奥成全球 AI 大模型创始人首富？",
@@ -69,11 +91,23 @@
           "source": "知乎",
           "ranks": [
             8,
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时23分 ~ 03时21分]"
+          "appearance_count": 4,
+          "time_info": "[01时23分 ~ 05时07分]"
+        },
+        {
+          "title": "AI拿冠军,摄影比赛闹笑话",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356179&amp;topic_name=AI%E6%8B%BF%E5%86%A0%E5%86%9B%2C%E6%91%84%E5%BD%B1%E6%AF%94%E8%B5%9B%E9%97%B9%E7%AC%91%E8%AF%9D",
+          "source": "贴吧",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时23分 ~ 05时07分]"
         },
         {
           "title": "世界人工智能大会逛展攻略来了",
@@ -87,15 +121,26 @@
           "time_info": "[01时23分 ~ 03时21分]"
         },
         {
-          "title": "AI拿冠军,摄影比赛闹笑话",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356179&amp;topic_name=AI%E6%8B%BF%E5%86%A0%E5%86%9B%2C%E6%91%84%E5%BD%B1%E6%AF%94%E8%B5%9B%E9%97%B9%E7%AC%91%E8%AF%9D",
-          "source": "贴吧",
+          "title": "贝森特主持金融会议 聚焦地缘政治风险与AI主题",
+          "url": "https://flash.jin10.com/detail/20260716042723261800",
+          "source": "金十数据",
           "ranks": [
-            15
+            6
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时23分 ~ 03时21分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时07分"
+        },
+        {
+          "title": "xAI：Grok Build现在开源",
+          "url": "https://wallstreetcn.com/livenews/3134605",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时07分"
         },
         {
           "title": "AI 时代，更稀缺的是「提出好问题」还是「判断好答案」?",
@@ -104,7 +149,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时21分"
         },
@@ -126,7 +171,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时21分"
         },
@@ -137,7 +182,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时21分"
         },
@@ -148,7 +193,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时21分"
         },
@@ -159,7 +204,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时21分"
         },
@@ -178,7 +223,7 @@
     },
     {
       "keyword_group": "经济 经济学",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "今年上半年中国经济总体平稳向新向优",
@@ -188,8 +233,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时23分 ~ 03时21分]"
+          "appearance_count": 4,
+          "time_info": "[01时23分 ~ 05时07分]"
         },
         {
           "title": "四字解读中国经济上半年成绩单",
@@ -199,8 +244,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时23分 ~ 03时21分]"
+          "appearance_count": 4,
+          "time_info": "[01时23分 ~ 05时07分]"
         },
         {
           "title": "半年报出炉，人民日报：中国经济坚韧向前",
@@ -210,8 +255,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时23分 ~ 03时21分]"
+          "appearance_count": 4,
+          "time_info": "[01时23分 ~ 05时07分]"
         },
         {
           "title": "江西加码推进“省会引领”战略：以实体经济作支撑，发出强省会新信号",
@@ -222,8 +267,30 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时23分 ~ 03时21分]"
+          "appearance_count": 4,
+          "time_info": "[01时23分 ~ 05时07分]"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任哈塞特：今天我和财政部长贝森特会面，讨论了未来的税务议程。",
+          "url": "https://flash.jin10.com/detail/20260716041755331800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时07分"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任哈塞特：当前GDP增长预估存在较大偏差。",
+          "url": "https://flash.jin10.com/detail/20260716041437020800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时07分"
         },
         {
           "title": "美联储理事丽莎·库克将于十分钟后就经济前景发表讲话。",
@@ -250,8 +317,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时23分 ~ 03时21分]"
+          "appearance_count": 4,
+          "time_info": "[01时23分 ~ 05时07分]"
         },
         {
           "title": "创一代不内耗,分手提车又捐钱",
@@ -261,8 +328,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时23分 ~ 03时21分]"
+          "appearance_count": 4,
+          "time_info": "[01时23分 ~ 05时07分]"
         }
       ]
     },
@@ -277,7 +344,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时21分"
         },
@@ -299,18 +366,6 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "官方把房子定位为大宗消费品意味啥",
-          "url": "https://www.toutiao.com/trending/7662141975089627177/",
-          "source": "今日头条",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时23分 ~ 03时21分]"
-        },
-        {
           "title": "【焦点复盘】科创50长阴反包逼近30日线，算力硬件股全天低迷，大消费板块全线回暖",
           "url": "https://www.cls.cn/detail/2427336",
           "source": "财联社热门",
@@ -318,8 +373,21 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时23分 ~ 03时21分]"
+          "appearance_count": 4,
+          "time_info": "[01时23分 ~ 05时07分]"
+        },
+        {
+          "title": "官方把房子定位为大宗消费品意味啥",
+          "url": "https://www.toutiao.com/trending/7662141975089627177/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            2,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时23分 ~ 05时07分]"
         }
       ]
     },
@@ -336,19 +404,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时23分 ~ 03时21分]"
+          "appearance_count": 4,
+          "time_info": "[01时23分 ~ 05时07分]"
         },
         {
           "title": "电影功夫女足争议全解析",
           "url": "https://search.bilibili.com/all?keyword=%E7%94%B5%E5%BD%B1%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E4%BA%89%E8%AE%AE%E5%85%A8%E8%A7%A3%E6%9E%90",
           "source": "bilibili 热搜",
           "ranks": [
-            26
+            26,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时23分 ~ 01时24分]"
+          "appearance_count": 3,
+          "time_info": "[01时23分 ~ 05时07分]"
         }
       ]
     },
@@ -362,11 +431,12 @@
           "source": "知乎",
           "ranks": [
             17,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时23分 ~ 03时21分]"
+          "appearance_count": 4,
+          "time_info": "[01时23分 ~ 05时07分]"
         }
       ]
     },
@@ -400,8 +470,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时23分 ~ 03时21分]"
+          "appearance_count": 4,
+          "time_info": "[01时23分 ~ 05时07分]"
         }
       ]
     }
