@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-16T14:25:29.776193+08:00",
-  "total_titles_processed": 989,
+  "generated_at": "2026-07-16T17:20:31.779375+08:00",
+  "total_titles_processed": 1177,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型",
-      "match_count": 40,
+      "match_count": 46,
       "titles": [
         {
           "title": "5张图看懂中国人工智能进化之路",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时23分 ~ 14时25分]"
+          "appearance_count": 8,
+          "time_info": "[01时23分 ~ 17时20分]"
         },
         {
           "title": "小浪花看WAIC丨“三地四馆”全攻略：路线、看点、隐藏玩法一次说清",
@@ -54,6 +54,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时23分 ~ 14时25分]"
+        },
+        {
+          "title": "沃什：AI推高价格但未必推升通胀，任何通胀指标都不精确，特朗普没试图干预美联储",
+          "url": "https://wallstreetcn.com/articles/3777042",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时03分 ~ 17时20分]"
         },
         {
           "title": "如何看待网传 DeepSeek 实习日薪突破 5500 元？这反映了 AI 行业与求职市场哪些现状？",
@@ -133,7 +146,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
         },
@@ -147,18 +160,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时07分"
-        },
-        {
-          "title": "沃什：AI推高价格但未必推升通胀，任何通胀指标都不精确，特朗普没试图干预美联储",
-          "url": "https://wallstreetcn.com/articles/3777042",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时03分 ~ 14时25分]"
         },
         {
           "title": "身家飙升至 360 亿美元，为什么梁文锋能超越奥特曼和达里奥成全球 AI 大模型创始人首富？",
@@ -191,23 +192,12 @@
           "source": "澎湃新闻",
           "ranks": [
             18,
-            13
+            13,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时03分 ~ 14时25分]"
-        },
-        {
-          "title": "花钱就看这?功夫女足公开用AI",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356211&amp;topic_name=%E8%8A%B1%E9%92%B1%E5%B0%B1%E7%9C%8B%E8%BF%99%3F%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E5%85%AC%E5%BC%80%E7%94%A8AI",
-          "source": "贴吧",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时15分 ~ 14时25分]"
+          "appearance_count": 4,
+          "time_info": "[07时03分 ~ 17时20分]"
         },
         {
           "title": "澳大利亚政府成立AI办公室",
@@ -217,8 +207,21 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时15分 ~ 14时25分]"
+          "appearance_count": 3,
+          "time_info": "[11时15分 ~ 17时20分]"
+        },
+        {
+          "title": "花钱就看这?功夫女足公开用AI",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356211&amp;topic_name=%E8%8A%B1%E9%92%B1%E5%B0%B1%E7%9C%8B%E8%BF%99%3F%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E5%85%AC%E5%BC%80%E7%94%A8AI",
+          "source": "贴吧",
+          "ranks": [
+            7,
+            9,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时15分 ~ 17时20分]"
         },
         {
           "title": "国行 iPhone 即将牵手阿里千问上线「苹果 AI」，有哪些亮点？可能给手机行业带来哪些影响？",
@@ -277,6 +280,17 @@
           "time_info": "11时15分"
         },
         {
+          "title": "纽约州叫停建设AI数据中心？特朗普怒喷：你们在白白丢掉“摇钱树”！",
+          "url": "https://www.cls.cn/detail/2427879",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
+        },
+        {
           "title": "黄仁勋日本行感谢30年前“救命恩人” 传英伟达或与日本AI国家队结盟",
           "url": "https://flash.jin10.com/detail/20260716105658967800",
           "source": "金十数据",
@@ -288,13 +302,35 @@
           "time_info": "11时15分"
         },
         {
+          "title": "外交部：愿同各方提升全球人工智能创新发展水平",
+          "url": "https://wallstreetcn.com/livenews/3134963",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
+        },
+        {
+          "title": "披着AI外衣的现实短片",
+          "url": "https://www.douyin.com/hot/2573340",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
+        },
+        {
           "title": "中国一汽入驻阿里云百炼，为首个商业化车企大模型",
           "url": "https://flash.jin10.com/detail/20260716133824629800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
         },
@@ -360,9 +396,31 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
+        },
+        {
+          "title": "上海市新增4款已完成登记的生成式人工智能服务",
+          "url": "https://wallstreetcn.com/livenews/3134956",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
+        },
+        {
+          "title": "外资机构把脉A股：AI景气度仍向好，市场正进入结构性分化新阶段",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33586841",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
         },
         {
           "title": "AirNow：美国纽约市空气质量指数现在为“中等”。",
@@ -426,7 +484,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
         },
@@ -453,6 +511,17 @@
           "time_info": "11时15分"
         },
         {
+          "title": "2026世界人工智能大会准备就绪，所有展览明日展出",
+          "url": "https://wallstreetcn.com/livenews/3134942",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
+        },
+        {
           "title": "美联储主席沃什：如果AI企业让投资者感到失望，资本可能会枯竭。",
           "url": "https://wallstreetcn.com/livenews/3134505",
           "source": "华尔街见闻-快讯",
@@ -467,7 +536,7 @@
     },
     {
       "keyword_group": "经济 经济学",
-      "match_count": 12,
+      "match_count": 15,
       "titles": [
         {
           "title": "今年上半年中国经济总体平稳向新向优",
@@ -514,6 +583,20 @@
           "time_info": "[11时15分 ~ 14时25分]"
         },
         {
+          "title": "江西加码推进“省会引领”战略：以实体经济作支撑，发出强省会新信号",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33589347",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            20,
+            16,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时23分 ~ 17时20分]"
+        },
+        {
           "title": "半年报出炉，人民日报：中国经济坚韧向前",
           "url": "https://m.thepaper.cn/newsDetail_forward_33588680",
           "source": "澎湃新闻",
@@ -543,22 +626,31 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
         },
         {
-          "title": "江西加码推进“省会引领”战略：以实体经济作支撑，发出强省会新信号",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33589347",
-          "source": "澎湃新闻",
+          "title": "电表里藏着中国经济的黑马",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B5%E8%A1%A8%E9%87%8C%E8%97%8F%E7%9D%80%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E7%9A%84%E9%BB%91%E9%A9%AC%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
           "ranks": [
-            19,
-            20,
-            16
+            3
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时23分 ~ 14时25分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
+        },
+        {
+          "title": "从半年报看中国经济三重底色",
+          "url": "https://www.douyin.com/hot/2573426",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
         },
         {
           "title": "美国白宫国家经济委员会主任哈塞特：今天我和财政部长贝森特会面，讨论了未来的税务议程。",
@@ -581,6 +673,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时07分"
+        },
+        {
+          "title": "韩国央行三年半来首次加息，韩国经济过热了吗？",
+          "url": "https://www.zhihu.com/question/2061026194238038246",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
         },
         {
           "title": "美联储理事丽莎·库克将于十分钟后就经济前景发表讲话。",
@@ -608,7 +711,7 @@
     },
     {
       "keyword_group": "电影 影视 综艺",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "张全蛋聊电影功夫女足",
@@ -644,11 +747,12 @@
           "source": "百度热搜",
           "ranks": [
             30,
-            10
+            10,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时15分 ~ 14时25分]"
+          "appearance_count": 3,
+          "time_info": "[11时15分 ~ 17时20分]"
         },
         {
           "title": "媒体评邹市明冉莹颖把家事搬上综艺",
@@ -675,13 +779,35 @@
           "time_info": "[11时15分 ~ 14时25分]"
         },
         {
+          "title": "真实评价电影功夫女足",
+          "url": "https://search.bilibili.com/all?keyword=%E7%9C%9F%E5%AE%9E%E8%AF%84%E4%BB%B7%E7%94%B5%E5%BD%B1%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
+        },
+        {
+          "title": "曝《功夫女足》被偷票房，大量观众称电影票为纸质手写，这是普遍现象吗？对电影有哪些影响？制片方如何维权？",
+          "url": "https://www.zhihu.com/question/2060808065167746714",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
+        },
+        {
           "title": "白鹿宣布告别欢娱影视",
           "url": "https://www.toutiao.com/trending/7662962589949038130/",
           "source": "今日头条",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
         },
@@ -692,7 +818,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
         }
@@ -700,7 +826,7 @@
     },
     {
       "keyword_group": "情绪 情绪价值 内耗 精神内耗",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "对抗情绪升温，伊朗人又拿“特朗普”出气",
@@ -728,6 +854,17 @@
           "time_info": "[01时23分 ~ 14时25分]"
         },
         {
+          "title": "【昭衍新药：生物资产公允价值受多种不确定性因素影响 存在较大价值波动风险】昭衍新药公告称，公司股票于2026年7月14日、15日和16日连续3个交易日内日收盘价格涨幅偏离值累计超过20%，属于股票交易异常波动。公司股票于2026年7月14日、7月15日、7月16日连续三个交易日内收盘价格涨幅偏离值累计超过20%，公司股价短期内涨幅较大，存在市场情绪过热、非理性炒作风险，交易风险极大，随时存在股价下跌的风险。另外，公司生物资产公允价值受多种不确定性因素影响，存在较大价值波动风险。敬请广大投资者注意二级市场交易风险，理性决策，审慎投资。",
+          "url": "https://wallstreetcn.com/livenews/3134974",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
+        },
+        {
           "title": "贝林厄姆情绪失控起冲突",
           "url": "https://search.bilibili.com/all?keyword=%E8%B4%9D%E6%9E%97%E5%8E%84%E5%A7%86%E6%83%85%E7%BB%AA%E5%A4%B1%E6%8E%A7%E8%B5%B7%E5%86%B2%E7%AA%81",
           "source": "bilibili 热搜",
@@ -740,13 +877,24 @@
           "time_info": "[11时15分 ~ 14时25分]"
         },
         {
+          "title": "昭衍新药：存在市场情绪过热、非理性炒作风险",
+          "url": "https://flash.jin10.com/detail/20260716165505116800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
+        },
+        {
           "title": "贝克汉姆看台情绪破防获贝嫂安慰",
           "url": "https://www.toutiao.com/trending/7662614033153425451/",
           "source": "今日头条",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
         }
@@ -754,7 +902,7 @@
     },
     {
       "keyword_group": "就业 失业 裁员 应届生",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "微软在安全业务更换八名高管、裁员数百人，将侧重于网络防御方面的AI。（The Information）",
@@ -777,6 +925,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时24分"
+        },
+        {
+          "title": "美国商务部：台积电的投资将创造大量建筑和高科技就业岗位，同时带动数十亿美元的间接经济产出。",
+          "url": "https://flash.jin10.com/detail/20260716163546433800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
         }
       ]
     },
@@ -791,7 +950,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
         },
@@ -802,7 +961,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
         }
@@ -858,6 +1017,23 @@
       ]
     },
     {
+      "keyword_group": "社会 阶层 社会学",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "上半年社会融资规模增量合理增长",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%8A%E5%8D%8A%E5%B9%B4%E7%A4%BE%E4%BC%9A%E8%9E%8D%E8%B5%84%E8%A7%84%E6%A8%A1%E5%A2%9E%E9%87%8F%E5%90%88%E7%90%86%E5%A2%9E%E9%95%BF",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
+        }
+      ]
+    },
+    {
       "keyword_group": "躺平",
       "match_count": 1,
       "titles": [
@@ -877,6 +1053,23 @@
       ]
     },
     {
+      "keyword_group": "生育 催生 不婚",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金十整理：5个月催生、2个月引爆，如今紧急叫停，一场杠杆“豪赌”如何掀翻韩国股市？",
+          "url": "https://flash.jin10.com/detail/20260716170058224800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
+        }
+      ]
+    },
+    {
       "keyword_group": "恋爱 相亲 婚恋 脱单",
       "match_count": 1,
       "titles": [
@@ -891,6 +1084,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时23分 ~ 03时21分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "原生家庭 父母 亲子",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "吴绮莉公开成龙拒认吴卓林原因，称自己不想做亲子鉴定，分开了孩子与男方无关，如何看待她的观点？",
+          "url": "https://www.zhihu.com/question/2060818697267015737",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
         }
       ]
     },
