@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-17T02:12:00.381706+08:00",
-  "total_titles_processed": 401,
+  "generated_at": "2026-07-17T04:07:06.014420+08:00",
+  "total_titles_processed": 478,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "成立世界人工智能合作组织协定签署仪式在上海举行",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 02时12分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 04时07分]"
         },
         {
           "title": "世界人工智能合作组织协定签署",
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 02时12分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 04时07分]"
         },
         {
           "title": "经纬度：在上海，WAIC见证人工智能改变未来",
@@ -38,8 +38,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 02时12分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 04时07分]"
         },
         {
           "title": "业绩预增、再签新单 AI芯片三龙头携手“报喜”",
@@ -49,8 +49,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 02时12分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 04时07分]"
         },
         {
           "title": "超300款全球首发AI产品即将亮相",
@@ -60,8 +60,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时11分 ~ 02时12分]"
+          "appearance_count": 4,
+          "time_info": "[02时11分 ~ 04时07分]"
         },
         {
           "title": "谷歌(GOOG.O)在美国上线搜索AI模式应用集成功能，支持与更多应用协同。",
@@ -92,7 +92,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时12分"
         },
@@ -103,7 +103,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时12分"
         },
@@ -112,22 +112,24 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33586841",
           "source": "澎湃新闻",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 02时12分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 04时07分]"
         },
         {
           "title": "WAIC前夕看全球AI治理变局：拒绝“富国游戏”，规则之争加快",
           "url": "https://m.thepaper.cn/newsDetail_forward_33590679",
           "source": "澎湃新闻",
           "ranks": [
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 02时12分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 04时07分]"
         },
         {
           "title": "花钱就看这?功夫女足公开用AI",
@@ -138,8 +140,19 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 02时12分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 04时07分]"
+        },
+        {
+          "title": "披着AI外衣的现实短片",
+          "url": "https://www.douyin.com/hot/2573340",
+          "source": "抖音",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时06分 ~ 04时07分]"
         },
         {
           "title": "美国银行CEO加入华尔街高管之列，警示Mythos等AI模型风险",
@@ -170,7 +183,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时12分"
         },
@@ -203,7 +216,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时12分"
         }
@@ -222,8 +235,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 02时12分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 04时07分]"
         },
         {
           "title": "【每日收评】沪指跌近2%失守3900点，医药、影视股逆势活跃，芯片产业链持续调整",
@@ -233,8 +246,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 02时12分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 04时07分]"
         },
         {
           "title": "真实评价电影功夫女足",
@@ -242,11 +255,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             10,
-            12
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 02时12分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 04时07分]"
         },
         {
           "title": "电影《八仙》口碑",
@@ -285,8 +299,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 02时12分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 04时07分]"
         },
         {
           "title": "梁文锋打新长鑫科技",
@@ -297,8 +311,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 02时12分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 04时07分]"
         }
       ]
     },
@@ -314,8 +328,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 02时12分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 04时07分]"
         },
         {
           "title": "巴西外长维埃拉：美国要求巴西全面、单方面开放整个经济领域，但未提出任何对等措施。",
@@ -324,7 +338,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时12分"
         }
@@ -343,8 +357,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 02时12分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 04时07分]"
         }
       ]
     },
@@ -358,11 +372,12 @@
           "source": "知乎",
           "ranks": [
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 02时12分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 04时07分]"
         }
       ]
     }
