@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-18T19:09:57.998427+08:00",
-  "total_titles_processed": 1204,
+  "generated_at": "2026-07-18T21:28:43.124743+08:00",
+  "total_titles_processed": 1367,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型",
-      "match_count": 70,
+      "match_count": 84,
       "titles": [
         {
           "title": "详讯丨习近平出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话",
@@ -129,11 +129,12 @@
             7,
             14,
             16,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时20分 ~ 19时09分]"
+          "appearance_count": 15,
+          "time_info": "[00时20分 ~ 21时28分]"
         },
         {
           "title": "2026世界人工智能大会有哪些不同",
@@ -146,11 +147,12 @@
             20,
             23,
             19,
-            18
+            18,
+            21
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时20分 ~ 19时09分]"
+          "appearance_count": 15,
+          "time_info": "[00时20分 ~ 21时28分]"
         },
         {
           "title": "大瓦特·让每一度电都有AI",
@@ -178,6 +180,32 @@
           "time_info": "[00时20分 ~ 08时03分]"
         },
         {
+          "title": "外交部驳斥“蒸馏论”：矮化中国AI创新能力，居心叵测",
+          "url": "https://news.ifeng.com/c/8urOVdXg5Y1",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时03分 ~ 21时28分]"
+        },
+        {
+          "title": "Kimi K3 横空出世，大摩：中国前沿大模型已实现全面追赶，规模、性能与定价同步突破",
+          "url": "https://wallstreetcn.com/articles/3777236",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            6,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[08时02分 ~ 21时28分]"
+        },
+        {
           "title": "2026WAIC开幕：AI百花齐放，数百项首发首秀、逾300台人形机器人同台竞技",
           "url": "https://www.cls.cn/detail/2429951",
           "source": "财联社热门",
@@ -202,17 +230,6 @@
           "time_info": "[00时20分 ~ 07时01分]"
         },
         {
-          "title": "外交部驳斥“蒸馏论”：矮化中国AI创新能力，居心叵测",
-          "url": "https://news.ifeng.com/c/8urOVdXg5Y1",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时03分 ~ 19时09分]"
-        },
-        {
           "title": "感受人工智能的“智”与“志”",
           "url": "https://www.baidu.com/s?wd=%E6%84%9F%E5%8F%97%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%9A%84%E2%80%9C%E6%99%BA%E2%80%9D%E4%B8%8E%E2%80%9C%E5%BF%97%E2%80%9D",
           "source": "百度热搜",
@@ -235,29 +252,26 @@
           "time_info": "[17时40分 ~ 19时09分]"
         },
         {
-          "title": "如何评价月之暗面 kimi 最新发布的大模型 k3？对比全球其他大模型能力如何？",
-          "url": "https://www.zhihu.com/question/2061412232924337204",
-          "source": "知乎",
+          "title": "中国首创人工智能赋能核能技术路线全球首发",
+          "url": "https://flash.jin10.com/detail/20260718210538813800",
+          "source": "金十数据",
           "ranks": [
-            4
+            2
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时40分 ~ 19时09分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
         },
         {
-          "title": "Kimi K3 横空出世，大摩：中国前沿大模型已实现全面追赶，规模、性能与定价同步突破",
-          "url": "https://wallstreetcn.com/articles/3777236",
-          "source": "华尔街见闻",
+          "title": "魔法原子Magic-VLA K02亮相WAIC，叠盒封胶长程任务成功率超90%",
+          "url": "https://wallstreetcn.com/livenews/3136040",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
-            9,
-            6,
-            7
+            2
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时02分 ~ 19时09分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
         },
         {
           "title": "如何评价月之暗面 kimi 最新发布的大模型 k3 ?",
@@ -269,6 +283,31 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时03分"
+        },
+        {
+          "title": "单周重挫10%、连续三周大跌，较高点回撤20%！“AI牛市龙头”经历“史上最大动量抛售之一”",
+          "url": "https://wallstreetcn.com/articles/3777275",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时03分 ~ 21时28分]"
+        },
+        {
+          "title": "中国首创AI赋能核能技术路线全球首发",
+          "url": "https://wallstreetcn.com/livenews/3136038",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
         },
         {
           "title": "智汇上海 共赴AI新未来",
@@ -291,6 +330,44 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
+        },
+        {
+          "title": "如何评价月之暗面 kimi 最新发布的大模型 k3？对比全球其他大模型能力如何？",
+          "url": "https://www.zhihu.com/question/2061412232924337204",
+          "source": "知乎",
+          "ranks": [
+            4,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时40分 ~ 21时28分]"
+        },
+        {
+          "title": "美企抄袭中国AI玩双标被点名",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356286&amp;topic_name=%E7%BE%8E%E4%BC%81%E6%8A%84%E8%A2%AD%E4%B8%AD%E5%9B%BDAI%E7%8E%A9%E5%8F%8C%E6%A0%87%E8%A2%AB%E7%82%B9%E5%90%8D",
+          "source": "贴吧",
+          "ranks": [
+            8,
+            10,
+            12,
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时05分 ~ 21时28分]"
+        },
+        {
+          "title": "世界人工智能大会超全攻略",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%A7%E4%BC%9A%E8%B6%85%E5%85%A8%E6%94%BB%E7%95%A5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时05分 ~ 21时28分]"
         },
         {
           "title": "癌中之王胆囊癌AI无创诊断率超九成，恶性肿瘤的诊断和治疗模式发生了根本变革",
@@ -316,6 +393,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时00分 ~ 08时03分]"
+        },
+        {
+          "title": "直击2026WAIC：超300台真机扎堆，具身智能离GPT时刻还差海量物理数据",
+          "url": "https://www.cls.cn/detail/2430120",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时03分 ~ 21时28分]"
         },
         {
           "title": "中兴通讯星系列人形机器人及具身智能解决方案亮相WAIC 2026",
@@ -366,20 +454,6 @@
           "time_info": "[00时21分 ~ 02时11分]"
         },
         {
-          "title": "美企抄袭中国AI玩双标被点名",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356286&amp;topic_name=%E7%BE%8E%E4%BC%81%E6%8A%84%E8%A2%AD%E4%B8%AD%E5%9B%BDAI%E7%8E%A9%E5%8F%8C%E6%A0%87%E8%A2%AB%E7%82%B9%E5%90%8D",
-          "source": "贴吧",
-          "ranks": [
-            8,
-            10,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时05分 ~ 19时09分]"
-        },
-        {
           "title": "三地联办摄影大赛获奖作品被指AI生成，作者承认“用AI加了一道闪电”",
           "url": "https://m.thepaper.cn/newsDetail_forward_33600057",
           "source": "澎湃新闻",
@@ -387,17 +461,6 @@
             16,
             12,
             10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时05分 ~ 19时09分]"
-        },
-        {
-          "title": "世界人工智能大会超全攻略",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%A7%E4%BC%9A%E8%B6%85%E5%85%A8%E6%94%BB%E7%95%A5",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -414,30 +477,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[08时02分 ~ 19时09分]"
-        },
-        {
-          "title": "直击2026WAIC：超300台真机扎堆，具身智能离GPT时刻还差海量物理数据",
-          "url": "https://www.cls.cn/detail/2430120",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时03分 ~ 19时09分]"
-        },
-        {
-          "title": "单周重挫10%、连续三周大跌，较高点回撤20%！“AI牛市龙头”经历“史上最大动量抛售之一”",
-          "url": "https://wallstreetcn.com/articles/3777275",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时03分 ~ 19时09分]"
         },
         {
           "title": "伊朗革命卫队：如果美国继续打击伊朗目标，伊方将扩大对美国在中东地区相关工业、科技和人工智能资产的攻击。",
@@ -479,6 +518,19 @@
           "time_info": "[06时00分 ~ 08时03分]"
         },
         {
+          "title": "《大众摄影》回应刊发“五腿牛”照片：作者承认系使用AI失误",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33612045",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时40分 ~ 21时28分]"
+        },
+        {
           "title": "AI能终结癌症吗",
           "url": "https://www.baidu.com/s?wd=AI%E8%83%BD%E7%BB%88%E7%BB%93%E7%99%8C%E7%97%87%E5%90%97",
           "source": "百度热搜",
@@ -489,6 +541,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时02分 ~ 12时05分]"
+        },
+        {
+          "title": "周鸿祎谈AI安全：AI正成为能自主执行任务的“新物种”，必须可信可靠可控",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33608598",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时40分 ~ 21时28分]"
         },
         {
           "title": "95后夫妻手搓500集AI漫剧爆火",
@@ -537,18 +601,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时05分 ~ 15时03分]"
-        },
-        {
-          "title": "《大众摄影》回应刊发“五腿牛”照片：作者承认系使用AI失误",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33612045",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时40分 ~ 19时09分]"
         },
         {
           "title": "一图尽览WAIC 2026首日亮点！",
@@ -608,15 +660,15 @@
           "time_info": "[12时05分 ~ 15时03分]"
         },
         {
-          "title": "周鸿祎谈AI安全：AI正成为能自主执行任务的“新物种”，必须可信可靠可控",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33608598",
-          "source": "澎湃新闻",
+          "title": "洞察时空首次公开“数算一体AI星座”：576颗卫星打造“一天一次”对地观测能力",
+          "url": "https://wallstreetcn.com/livenews/3136036",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            20
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时40分 ~ 19时09分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
         },
         {
           "title": "阿里巴巴发布企业级AI应用创作平台秒悟团队版",
@@ -630,6 +682,50 @@
           "time_info": "12时05分"
         },
         {
+          "title": "阿里发布秒悟团队版，打造企业级AI应用创作平台",
+          "url": "https://wallstreetcn.com/livenews/3136035",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
+        },
+        {
+          "title": "AI牛市结束了吗？市场充满疑虑",
+          "url": "https://wallstreetcn.com/articles/3777289",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
+        },
+        {
+          "title": "2025诺奖得主：中国人工智能技术领先，基础研究投入是主因",
+          "url": "https://wallstreetcn.com/livenews/3136033",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
+        },
+        {
+          "title": "美股半导体指数跌入熊市，芯片股溃败时苹果盘中夺回市值第一，AI牛市迎来“换锚”时刻？",
+          "url": "https://wallstreetcn.com/articles/3777263",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
+        },
+        {
           "title": "Linus 称 Linux 不搞「反 AI」，并要求「要么 fork，要么走人」，这会带来哪些影响？",
           "url": "https://www.zhihu.com/question/2061099332632416849",
           "source": "知乎",
@@ -641,13 +737,35 @@
           "time_info": "12时05分"
         },
         {
+          "title": "阿里云发布灵骏真武M890超节点实例，AI Native基础设施全栈革新",
+          "url": "https://wallstreetcn.com/livenews/3136031",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
+        },
+        {
+          "title": "千觉机器人首个VTLA具身触觉模型亮相世界人工智能大会",
+          "url": "https://flash.jin10.com/detail/20260718203633453800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
+        },
+        {
           "title": "机器人在WAIC一脚踹出真本事",
           "url": "https://www.douyin.com/hot/2574930",
           "source": "抖音",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时09分"
         },
@@ -696,6 +814,17 @@
           "time_info": "12时05分"
         },
         {
+          "title": "B2B行业首份AI智能体全球支付白皮书发布",
+          "url": "https://flash.jin10.com/detail/20260718202648250800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
+        },
+        {
           "title": "MiniMax携M3、H3等全模态模型及产品亮相WAIC2026",
           "url": "https://wallstreetcn.com/livenews/3135820",
           "source": "华尔街见闻-快讯",
@@ -729,6 +858,17 @@
           "time_info": "00时21分"
         },
         {
+          "title": "千觉机器人首个VTLA具身触觉模型亮相世界人工智能大会",
+          "url": "https://wallstreetcn.com/livenews/3136023",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
+        },
+        {
           "title": "95后夫妻手搓AI漫剧爆火",
           "url": "https://www.baidu.com/s?wd=95%E5%90%8E%E5%A4%AB%E5%A6%BB%E6%89%8B%E6%90%93AI%E6%BC%AB%E5%89%A7%E7%88%86%E7%81%AB",
           "source": "百度热搜",
@@ -749,6 +889,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时12分"
+        },
+        {
+          "title": "国务院国资委：国资央企要持续攻关基础算法、物理AI、智算芯片、量子通信等原创性技术",
+          "url": "https://flash.jin10.com/detail/20260718201459495800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
         },
         {
           "title": "首款AI记忆眼镜亮相WAIC，售价799元起",
@@ -828,6 +979,17 @@
           "time_info": "04时12分"
         },
         {
+          "title": "网易有道WAIC首展AI耳机OpenPods",
+          "url": "https://flash.jin10.com/detail/20260718193241116800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
+        },
+        {
           "title": "俄罗斯：在Mykolaiv港口打击四艘干散货船只。）（国际文传电讯社IFX）",
           "url": "https://wallstreetcn.com/livenews/3135807",
           "source": "华尔街见闻-快讯",
@@ -841,139 +1003,8 @@
       ]
     },
     {
-      "keyword_group": "电影 影视 综艺",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "《三国第一部：争洛阳》官方发文「觉得电影不好看的，可以找片方退票」，如何看待这一操作？",
-          "url": "https://www.zhihu.com/question/2061409074185335802",
-          "source": "知乎",
-          "ranks": [
-            14,
-            13,
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时20分 ~ 08时03分]"
-        },
-        {
-          "title": "诺兰史诗新作《奥德赛》首波媒体口碑出炉，大量评价用「惊人」「令人屏息」「杰作」形容，你看好这部电影吗？",
-          "url": "https://www.zhihu.com/question/2058197753138602590",
-          "source": "知乎",
-          "ranks": [
-            9,
-            10,
-            17,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 12时05分]"
-        },
-        {
-          "title": "电影《功夫女足》韩国惹争议，韩网友不满梨花队戴美瞳、犯规设定，韩媒指影片贬低韩国足球队，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/2061426581864714302",
-          "source": "知乎",
-          "ranks": [
-            6,
-            4,
-            8,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时05分 ~ 19时09分]"
-        },
-        {
-          "title": "如何评价东方梦工厂出品的动画电影《八仙！》？",
-          "url": "https://www.zhihu.com/question/2061035588799697257",
-          "source": "知乎",
-          "ranks": [
-            4,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时05分 ~ 15时03分]"
-        },
-        {
-          "title": "周星驰电影《功夫女足》剑指 30 亿，如何看待多年前李成儒的墙角论？周星驰电影是墙角吗？",
-          "url": "https://www.zhihu.com/question/2060645191220990307",
-          "source": "知乎",
-          "ranks": [
-            10,
-            8,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时05分 ~ 17时40分]"
-        },
-        {
-          "title": "电影八仙今日上映",
-          "url": "https://www.douyin.com/hot/2575709",
-          "source": "抖音",
-          "ranks": [
-            18,
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时03分 ~ 19时09分]"
-        },
-        {
-          "title": "《群星闪耀时》开点映了，已经看完的朋友来说说，如何评价这部电影？",
-          "url": "https://www.zhihu.com/question/2058505695797031998",
-          "source": "知乎",
-          "ranks": [
-            20,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时40分 ~ 19时09分]"
-        },
-        {
-          "title": "电影八仙真实观后感",
-          "url": "https://search.bilibili.com/all?keyword=%E7%94%B5%E5%BD%B1%E5%85%AB%E4%BB%99%E7%9C%9F%E5%AE%9E%E8%A7%82%E5%90%8E%E6%84%9F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时09分"
-        },
-        {
-          "title": "电影《八仙！》今日上映",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B5%E5%BD%B1%E3%80%8A%E5%85%AB%E4%BB%99%EF%BC%81%E3%80%8B%E4%BB%8A%E6%97%A5%E4%B8%8A%E6%98%A0",
-          "source": "百度热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时03分"
-        },
-        {
-          "title": "电影《八仙！》中有哪些细思极恐的地方？",
-          "url": "https://www.zhihu.com/question/2061503601025835441",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时09分"
-        }
-      ]
-    },
-    {
       "keyword_group": "消费 存钱 攒钱",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "财政部等三部门：调整部分电池消费税政策",
@@ -1072,9 +1103,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时09分"
+        },
+        {
+          "title": "锂电池开征消费税 新能源车要涨价吗",
+          "url": "https://www.toutiao.com/trending/7663809319988629018/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
         },
         {
           "title": "分析师：消费者信心调查对货币政策具有安抚作用",
@@ -1086,6 +1128,138 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "电影 影视 综艺",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "《三国第一部：争洛阳》官方发文「觉得电影不好看的，可以找片方退票」，如何看待这一操作？",
+          "url": "https://www.zhihu.com/question/2061409074185335802",
+          "source": "知乎",
+          "ranks": [
+            14,
+            13,
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时20分 ~ 08时03分]"
+        },
+        {
+          "title": "诺兰史诗新作《奥德赛》首波媒体口碑出炉，大量评价用「惊人」「令人屏息」「杰作」形容，你看好这部电影吗？",
+          "url": "https://www.zhihu.com/question/2058197753138602590",
+          "source": "知乎",
+          "ranks": [
+            9,
+            10,
+            17,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 12时05分]"
+        },
+        {
+          "title": "电影《功夫女足》韩国惹争议，韩网友不满梨花队戴美瞳、犯规设定，韩媒指影片贬低韩国足球队，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2061426581864714302",
+          "source": "知乎",
+          "ranks": [
+            6,
+            4,
+            8,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时05分 ~ 19时09分]"
+        },
+        {
+          "title": "如何评价东方梦工厂出品的动画电影《八仙！》？",
+          "url": "https://www.zhihu.com/question/2061035588799697257",
+          "source": "知乎",
+          "ranks": [
+            4,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时05分 ~ 15时03分]"
+        },
+        {
+          "title": "电影八仙今日上映",
+          "url": "https://www.douyin.com/hot/2575709",
+          "source": "抖音",
+          "ranks": [
+            18,
+            14,
+            15,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时03分 ~ 21时28分]"
+        },
+        {
+          "title": "周星驰电影《功夫女足》剑指 30 亿，如何看待多年前李成儒的墙角论？周星驰电影是墙角吗？",
+          "url": "https://www.zhihu.com/question/2060645191220990307",
+          "source": "知乎",
+          "ranks": [
+            10,
+            8,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时05分 ~ 17时40分]"
+        },
+        {
+          "title": "《群星闪耀时》开点映了，已经看完的朋友来说说，如何评价这部电影？",
+          "url": "https://www.zhihu.com/question/2058505695797031998",
+          "source": "知乎",
+          "ranks": [
+            20,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时40分 ~ 19时09分]"
+        },
+        {
+          "title": "电影八仙真实观后感",
+          "url": "https://search.bilibili.com/all?keyword=%E7%94%B5%E5%BD%B1%E5%85%AB%E4%BB%99%E7%9C%9F%E5%AE%9E%E8%A7%82%E5%90%8E%E6%84%9F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时09分"
+        },
+        {
+          "title": "电影《八仙！》今日上映",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B5%E5%BD%B1%E3%80%8A%E5%85%AB%E4%BB%99%EF%BC%81%E3%80%8B%E4%BB%8A%E6%97%A5%E4%B8%8A%E6%98%A0",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时03分"
+        },
+        {
+          "title": "电影《八仙！》中有哪些细思极恐的地方？",
+          "url": "https://www.zhihu.com/question/2061503601025835441",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时09分"
         }
       ]
     },
@@ -1108,6 +1282,18 @@
           "time_info": "[00时20分 ~ 08时03分]"
         },
         {
+          "title": "经济学家任泽平 VIP 付费会员群「暴雷」，有人听信操作建议亏损 1000 多万，你如何看这种现象？",
+          "url": "https://www.zhihu.com/question/2061371759589323819",
+          "source": "知乎",
+          "ranks": [
+            7,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时09分 ~ 21时28分]"
+        },
+        {
           "title": "智能体引爆Token经济，我国日均Token调用量增长超千倍",
           "url": "https://wallstreetcn.com/livenews/3135970",
           "source": "华尔街见闻-快讯",
@@ -1120,24 +1306,13 @@
           "time_info": "[15时03分 ~ 17时40分]"
         },
         {
-          "title": "经济学家任泽平 VIP 付费会员群「暴雷」，有人听信操作建议亏损 1000 多万，你如何看这种现象？",
-          "url": "https://www.zhihu.com/question/2061371759589323819",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时09分"
-        },
-        {
           "title": "中国人民银行副行长宣昌能会见布基纳法索经济财政部部长阿布巴卡尔·纳卡纳博一行",
           "url": "https://flash.jin10.com/detail/20260718171622874800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时09分"
         },
@@ -1179,8 +1354,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时05分 ~ 19时09分]"
+          "appearance_count": 5,
+          "time_info": "[12时05分 ~ 21时28分]"
         },
         {
           "title": "家长谈彩礼成了小家启动金",
@@ -1228,22 +1403,24 @@
           "source": "百度热搜",
           "ranks": [
             8,
-            9
+            9,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时40分 ~ 19时09分]"
+          "appearance_count": 3,
+          "time_info": "[17时40分 ~ 21时28分]"
         },
         {
           "title": "日本通过修正案拒绝女性天皇",
           "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E9%80%9A%E8%BF%87%E4%BF%AE%E6%AD%A3%E6%A1%88%E6%8B%92%E7%BB%9D%E5%A5%B3%E6%80%A7%E5%A4%A9%E7%9A%87%23&t=31&band_rank=15&Refer=top",
           "source": "微博",
           "ranks": [
-            15
+            15,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时09分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时09分 ~ 21时28分]"
         }
       ]
     },
@@ -1268,11 +1445,12 @@
           "source": "百度热搜",
           "ranks": [
             4,
-            8
+            8,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时40分 ~ 19时09分]"
+          "appearance_count": 3,
+          "time_info": "[17时40分 ~ 21时28分]"
         },
         {
           "title": "留学生骗父母借债千万全花给两任女友",
@@ -1310,7 +1488,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时09分"
         },
@@ -1340,8 +1518,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时03分 ~ 19时09分]"
+          "appearance_count": 4,
+          "time_info": "[15时03分 ~ 21时28分]"
         },
         {
           "title": "现货黄金涨1%收复4000美元整数位心理关口，本周跌2.5%，白银本周跌6.6%",
@@ -1370,11 +1548,12 @@
             7,
             6,
             8,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时20分 ~ 19时09分]"
+          "appearance_count": 15,
+          "time_info": "[00时20分 ~ 21时28分]"
         },
         {
           "title": "白宫新闻秘书莱维特：看到美国7月初消费者信心指数升至五个月高点，这是因为汽油价格下降提振了民众情绪。",
@@ -1486,11 +1665,12 @@
             14,
             7,
             5,
-            3
+            3,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时05分 ~ 19时09分]"
+          "appearance_count": 5,
+          "time_info": "[12时05分 ~ 21时28分]"
         }
       ]
     },
