@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-20T01:05:44.844142+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-07-20T03:15:30.731537+08:00",
+  "total_titles_processed": 366,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时05分"
+          "appearance_count": 2,
+          "time_info": "[01时05分 ~ 03时15分]"
         },
         {
           "title": "中国大模型首次登顶全球代码榜",
@@ -26,30 +26,32 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时05分"
+          "appearance_count": 2,
+          "time_info": "[01时05分 ~ 03时15分]"
         },
         {
           "title": "《人工智能发展与安全倡议书》发布：为构建安全、可信、可控的人工智能共同奋斗",
           "url": "https://wallstreetcn.com/livenews/3136307",
           "source": "华尔街见闻-快讯",
           "ranks": [
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时05分 ~ 03时15分]"
+        },
+        {
+          "title": "如何看待 OpenAI 战略未来负责人对 kimi k3 开源的公开发言？",
+          "url": "https://www.zhihu.com/question/2062166923002090163",
+          "source": "知乎",
+          "ranks": [
+            9,
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时05分"
-        },
-        {
-          "title": "用AI预测西班牙vs阿根廷",
-          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8AI%E9%A2%84%E6%B5%8B%E8%A5%BF%E7%8F%AD%E7%89%99vs%E9%98%BF%E6%A0%B9%E5%BB%B7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时05分"
+          "appearance_count": 2,
+          "time_info": "[01时05分 ~ 03时15分]"
         },
         {
           "title": "AI算力需求与产品结构优化双轮驱动，新易盛上半年净利同比预增78%～103%｜财报见闻",
@@ -59,19 +61,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时05分"
-        },
-        {
-          "title": "如何看待 OpenAI 战略未来负责人对 kimi k3 开源的公开发言？",
-          "url": "https://www.zhihu.com/question/2062166923002090163",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时05分"
+          "appearance_count": 2,
+          "time_info": "[01时05分 ~ 03时15分]"
         },
         {
           "title": "直击WAIC 2026：“全球AI for ADANES核能智能体系”来了，破解核安全与AI黑箱难题",
@@ -81,8 +72,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时05分"
+          "appearance_count": 2,
+          "time_info": "[01时05分 ~ 03时15分]"
+        },
+        {
+          "title": "月之暗面将推出新模型 KimiK3，将给 AI 市场带来哪些新冲击？",
+          "url": "https://www.zhihu.com/question/2061156114658485568",
+          "source": "知乎",
+          "ranks": [
+            16,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时05分 ~ 03时15分]"
         },
         {
           "title": "华为、阿里等集体亮剑 超节点多成果亮相WAIC 国产算力向互联和系统集成延伸",
@@ -92,8 +95,32 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时05分"
+          "appearance_count": 2,
+          "time_info": "[01时05分 ~ 03时15分]"
+        },
+        {
+          "title": "人工智能换了一种“打开方式”|WAIC观察",
+          "url": "https://www.cls.cn/detail/2430557",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时05分 ~ 03时15分]"
+        },
+        {
+          "title": "Kimi K3让全球AI圈炸锅了",
+          "url": "https://www.toutiao.com/trending/7664192249667784198/",
+          "source": "今日头条",
+          "ranks": [
+            21,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时05分 ~ 03时15分]"
         },
         {
           "title": "成立世界人工智能合作组织，中国参与全球治理核心战略的历史性转型",
@@ -103,37 +130,15 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时05分"
+          "appearance_count": 2,
+          "time_info": "[01时05分 ~ 03时15分]"
         },
         {
-          "title": "人工智能换了一种“打开方式”|WAIC观察",
-          "url": "https://www.cls.cn/detail/2430557",
-          "source": "财联社热门",
+          "title": "用AI预测西班牙vs阿根廷",
+          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8AI%E9%A2%84%E6%B5%8B%E8%A5%BF%E7%8F%AD%E7%89%99vs%E9%98%BF%E6%A0%B9%E5%BB%B7",
+          "source": "bilibili 热搜",
           "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时05分"
-        },
-        {
-          "title": "月之暗面将推出新模型 KimiK3，将给 AI 市场带来哪些新冲击？",
-          "url": "https://www.zhihu.com/question/2061156114658485568",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时05分"
-        },
-        {
-          "title": "Kimi K3让全球AI圈炸锅了",
-          "url": "https://www.toutiao.com/trending/7664192249667784198/",
-          "source": "今日头条",
-          "ranks": [
-            21
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -172,11 +177,12 @@
           "url": "https://www.zhihu.com/question/2060160756528702468",
           "source": "知乎",
           "ranks": [
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时05分"
+          "appearance_count": 2,
+          "time_info": "[01时05分 ~ 03时15分]"
         },
         {
           "title": "电影《八仙！》票房突破 2 亿，猫眼预测超 14 亿，你觉得最终票房能到多少？",
@@ -186,8 +192,20 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时05分"
+          "appearance_count": 2,
+          "time_info": "[01时05分 ~ 03时15分]"
+        },
+        {
+          "title": "火影综艺飞舞吧忍者第一集",
+          "url": "https://search.bilibili.com/all?keyword=%E7%81%AB%E5%BD%B1%E7%BB%BC%E8%89%BA%E9%A3%9E%E8%88%9E%E5%90%A7%E5%BF%8D%E8%80%85%E7%AC%AC%E4%B8%80%E9%9B%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时05分 ~ 03时15分]"
         },
         {
           "title": "被电影八仙神级站位帅到了",
@@ -195,17 +213,6 @@
           "source": "抖音",
           "ranks": [
             26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时05分"
-        },
-        {
-          "title": "火影综艺飞舞吧忍者第一集",
-          "url": "https://search.bilibili.com/all?keyword=%E7%81%AB%E5%BD%B1%E7%BB%BC%E8%89%BA%E9%A3%9E%E8%88%9E%E5%90%A7%E5%BF%8D%E8%80%85%E7%AC%AC%E4%B8%80%E9%9B%86",
-          "source": "bilibili 热搜",
-          "ranks": [
-            27
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -222,22 +229,24 @@
           "url": "https://www.cls.cn/detail/2430433",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时05分"
+          "appearance_count": 2,
+          "time_info": "[01时05分 ~ 03时15分]"
         },
         {
           "title": "中东股市收盘播报｜卡塔尔股市收盘跌穿1万点整数位心理关口，为去年4月份以来首次",
           "url": "https://wallstreetcn.com/livenews/3136260",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            24
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时05分"
+          "appearance_count": 2,
+          "time_info": "[01时05分 ~ 03时15分]"
         },
         {
           "title": "抗吧心理师:BLG铁定内讧",
@@ -247,8 +256,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时05分"
+          "appearance_count": 2,
+          "time_info": "[01时05分 ~ 03时15分]"
         }
       ]
     },
@@ -264,19 +273,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时05分"
+          "appearance_count": 2,
+          "time_info": "[01时05分 ~ 03时15分]"
         },
         {
           "title": "如何看待部分社区认为 DeepSeek-V4 的灰度测试是路由 Claude Fable 、 Opus 等模型？",
           "url": "https://www.zhihu.com/question/2062188301013071138",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时05分"
+          "appearance_count": 2,
+          "time_info": "[01时05分 ~ 03时15分]"
         }
       ]
     },
@@ -289,11 +299,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33616443",
           "source": "澎湃新闻",
           "ranks": [
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时05分"
+          "appearance_count": 2,
+          "time_info": "[01时05分 ~ 03时15分]"
         }
       ]
     }
