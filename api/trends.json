@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-20T19:51:54.177578+08:00",
-  "total_titles_processed": 1241,
+  "generated_at": "2026-07-20T22:21:38.958829+08:00",
+  "total_titles_processed": 1393,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型",
-      "match_count": 50,
+      "match_count": 56,
       "titles": [
         {
           "title": "中国大模型首次登顶全球代码榜",
@@ -88,6 +88,18 @@
           "time_info": "[01时05分 ~ 08时03分]"
         },
         {
+          "title": "清华姚班 全球AI半壁江山",
+          "url": "https://s.weibo.com/weibo?q=%E6%B8%85%E5%8D%8E%E5%A7%9A%E7%8F%AD%20%E5%85%A8%E7%90%83AI%E5%8D%8A%E5%A3%81%E6%B1%9F%E5%B1%B1&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时51分 ~ 22时21分]"
+        },
+        {
           "title": "2026世界人工智能大会硬核瞬间",
           "url": "https://www.toutiao.com/trending/7664429615074725403/",
           "source": "今日头条",
@@ -99,13 +111,38 @@
           "time_info": "[12时40分 ~ 16时11分]"
         },
         {
+          "title": "尾盘变盘！上证50大涨超3%，“煤电酒油”爆发，科技股再度下跌，恒指、恒科指均涨超2%，AI大模型股逆势下挫",
+          "url": "https://wallstreetcn.com/articles/3777388",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时51分 ~ 22时21分]"
+        },
+        {
+          "title": "如何评价代数几何著名猜想「雅可比猜想」被 AI 证伪？如此简洁、可独立验证的数学发现意味着什么？",
+          "url": "https://www.zhihu.com/question/2062518030224061737",
+          "source": "知乎",
+          "ranks": [
+            18,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时11分 ~ 22时21分]"
+        },
+        {
           "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850576&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/07/xEC23L5QlNQqzCmzOgQ3x.jpg/lite\" height=\"120\"/></a>",
           "url": "https://flash.jin10.com/detail/20260720193849532800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时51分"
         },
@@ -132,6 +169,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时05分 ~ 08时03分]"
+        },
+        {
+          "title": "今天为什么需要世界人工智能大会",
+          "url": "https://www.baidu.com/s?wd=%E4%BB%8A%E5%A4%A9%E4%B8%BA%E4%BB%80%E4%B9%88%E9%9C%80%E8%A6%81%E4%B8%96%E7%95%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%A7%E4%BC%9A",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
         },
         {
           "title": "外交部：2026世界人工智能大会成果丰硕",
@@ -162,20 +210,21 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时51分"
         },
         {
-          "title": "尾盘变盘！上证50大涨超3%，“煤电酒油”爆发，科技股再度下跌，恒指、恒科指均涨超2%，AI大模型股逆势下挫",
-          "url": "https://wallstreetcn.com/articles/3777388",
-          "source": "华尔街见闻",
+          "title": "AI不准用,日本漫画家被迫停更",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356343&amp;topic_name=AI%E4%B8%8D%E5%87%86%E7%94%A8%2C%E6%97%A5%E6%9C%AC%E6%BC%AB%E7%94%BB%E5%AE%B6%E8%A2%AB%E8%BF%AB%E5%81%9C%E6%9B%B4",
+          "source": "贴吧",
           "ranks": [
-            4
+            5,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时51分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时11分 ~ 22时21分]"
         },
         {
           "title": "AI如何成为我们的智能伙伴",
@@ -187,17 +236,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时11分"
-        },
-        {
-          "title": "清华姚班 全球AI半壁江山",
-          "url": "https://s.weibo.com/weibo?q=%E6%B8%85%E5%8D%8E%E5%A7%9A%E7%8F%AD%20%E5%85%A8%E7%90%83AI%E5%8D%8A%E5%A3%81%E6%B1%9F%E5%B1%B1&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时51分"
         },
         {
           "title": "Kimi K3让全球AI圈炸锅了",
@@ -275,41 +313,18 @@
           "time_info": "[04时59分 ~ 06时02分]"
         },
         {
-          "title": "如何评价代数几何著名猜想「雅可比猜想」被 AI 证伪？如此简洁、可独立验证的数学发现意味着什么？",
-          "url": "https://www.zhihu.com/question/2062518030224061737",
-          "source": "知乎",
-          "ranks": [
-            18,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时11分 ~ 19时51分]"
-        },
-        {
-          "title": "AI不准用,日本漫画家被迫停更",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356343&amp;topic_name=AI%E4%B8%8D%E5%87%86%E7%94%A8%2C%E6%97%A5%E6%9C%AC%E6%BC%AB%E7%94%BB%E5%AE%B6%E8%A2%AB%E8%BF%AB%E5%81%9C%E6%9B%B4",
-          "source": "贴吧",
-          "ranks": [
-            5,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时11分 ~ 19时51分]"
-        },
-        {
           "title": "AI观察｜2026WAIC上风很大的“Token工厂”已是“红海”？",
           "url": "https://m.thepaper.cn/newsDetail_forward_33616683",
           "source": "澎湃新闻",
           "ranks": [
             14,
             10,
-            11
+            11,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时40分 ~ 19时51分]"
+          "appearance_count": 4,
+          "time_info": "[12时40分 ~ 22时21分]"
         },
         {
           "title": "王祖贤肖像授权网易AI",
@@ -320,8 +335,20 @@
             10
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时11分 ~ 22时21分]"
+        },
+        {
+          "title": "SK董事长：明年AI芯片需求将增长100%，存储价格将进一步上涨",
+          "url": "https://wallstreetcn.com/articles/3777377",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时11分 ~ 19时51分]"
+          "time_info": "[19时51分 ~ 22时21分]"
         },
         {
           "title": "月之暗面将推出新模型 KimiK3，将给 AI 市场带来哪些新冲击？",
@@ -382,17 +409,6 @@
           "time_info": "08时03分"
         },
         {
-          "title": "SK董事长：明年AI芯片需求将增长100%，存储价格将进一步上涨",
-          "url": "https://wallstreetcn.com/articles/3777377",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时51分"
-        },
-        {
           "title": "用AI预测西班牙vs阿根廷",
           "url": "https://search.bilibili.com/all?keyword=%E7%94%A8AI%E9%A2%84%E6%B5%8B%E8%A5%BF%E7%8F%AD%E7%89%99vs%E9%98%BF%E6%A0%B9%E5%BB%B7",
           "source": "bilibili 热搜",
@@ -410,9 +426,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时51分"
+        },
+        {
+          "title": "纽约暂停新数据中心建设，AI发展遇到“摩擦”：美国人为何宁愿放慢技术进步？",
+          "url": "https://flash.jin10.com/detail/20260720220218046800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
         },
         {
           "title": "高盛策略师建议目光投向AI以外投资主题 关注消费体验类股等美股板块",
@@ -514,6 +541,28 @@
           "time_info": "12时40分"
         },
         {
+          "title": "中国 K3 大模型震惊 AI 界，美巨头高价模式还能撑多久？",
+          "url": "https://www.zhihu.com/question/2061405940272960418",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
+        },
+        {
+          "title": "美股高位拉锯战背后空头押注飙至历史新高，AI投资将换玩法？",
+          "url": "https://flash.jin10.com/detail/20260720215916403800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
+        },
+        {
           "title": "王祖贤AI人脸授权",
           "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E7%A5%96%E8%B4%A4AI%E4%BA%BA%E8%84%B8%E6%8E%88%E6%9D%83&t=31&band_rank=18&Refer=top",
           "source": "微博",
@@ -558,6 +607,28 @@
           "time_info": "01时05分"
         },
         {
+          "title": "建议普通人都尽早用上AI",
+          "url": "https://s.weibo.com/weibo?q=%E5%BB%BA%E8%AE%AE%E6%99%AE%E9%80%9A%E4%BA%BA%E9%83%BD%E5%B0%BD%E6%97%A9%E7%94%A8%E4%B8%8AAI&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
+        },
+        {
+          "title": "报道：谷歌研发新芯片以提升AI模型效率",
+          "url": "https://wallstreetcn.com/livenews/3136931",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
+        },
+        {
           "title": "如何看90年数学难题被AI证伪",
           "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B90%E5%B9%B4%E6%95%B0%E5%AD%A6%E9%9A%BE%E9%A2%98%E8%A2%ABAI%E8%AF%81%E4%BC%AA",
           "source": "bilibili 热搜",
@@ -594,7 +665,7 @@
     },
     {
       "keyword_group": "经济 经济学",
-      "match_count": 11,
+      "match_count": 15,
       "titles": [
         {
           "title": "读懂2026上半年中国经济成绩单",
@@ -608,13 +679,46 @@
           "time_info": "[12时40分 ~ 16时11分]"
         },
         {
+          "title": "木星资产管理公司：，英国经济增长疲软可能最终使英国央行能够降息。",
+          "url": "https://flash.jin10.com/detail/20260720220937431800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
+        },
+        {
+          "title": "Servus Credit Union首席经济学家Charles St-Arnaud表示：这份CPI报告证实了加拿大央行近期的观点，即更高的能源成本并未导致广泛的通胀压力。 然而，由于汽油价格依然处于高位，且近几周油价上涨导致持续的运输成本居高不下，现在说央行可以放松警惕可能还为时过早。",
+          "url": "https://wallstreetcn.com/livenews/3136962",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
+        },
+        {
+          "title": "数读上半年工业和信息化经济成绩单",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%95%B0%E8%AF%BB%E4%B8%8A%E5%8D%8A%E5%B9%B4%E5%B7%A5%E4%B8%9A%E5%92%8C%E4%BF%A1%E6%81%AF%E5%8C%96%E7%BB%8F%E6%B5%8E%E6%88%90%E7%BB%A9%E5%8D%95%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
+        },
+        {
           "title": "中国与泰国签署加强产供链经济合作的谅解备忘录",
           "url": "https://flash.jin10.com/detail/20260720193759564800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时51分"
         },
@@ -628,6 +732,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
+        },
+        {
+          "title": "据伊朗媒体报道，伊朗内政部长于今日率团访问巴基斯坦。访问期间，双方将在会谈和联席会议中讨论并交流有关发展双边关系的问题，包括加强边境合作、扩大两国在经济、过境和农业领域的合作等事宜。",
+          "url": "https://flash.jin10.com/detail/20260720220345698800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
         },
         {
           "title": "经济日报金观平：着力破解人才用工适配难",
@@ -658,7 +773,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时51分"
         },
@@ -669,7 +784,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时51分"
         },
@@ -680,7 +795,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时51分"
         },
@@ -691,7 +806,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时51分"
         },
@@ -702,7 +817,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时51分"
         },
@@ -779,11 +894,12 @@
           "source": "抖音",
           "ranks": [
             27,
-            21
+            21,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时40分 ~ 16时11分]"
+          "appearance_count": 3,
+          "time_info": "[12时40分 ~ 22时21分]"
         },
         {
           "title": "电影《群星闪耀时》曝终极预告",
@@ -803,7 +919,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时51分"
         },
@@ -814,7 +930,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时51分"
         },
@@ -897,11 +1013,12 @@
           "ranks": [
             8,
             5,
-            11
+            11,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时40分 ~ 19时51分]"
+          "appearance_count": 4,
+          "time_info": "[12时40分 ~ 22时21分]"
         },
         {
           "title": "欧洲央行消费者预期调查：一年、三年和五年期的通胀预期基本保持稳定。",
@@ -949,11 +1066,12 @@
           "url": "https://www.zhihu.com/question/2061761575296546408",
           "source": "知乎",
           "ranks": [
-            19
+            19,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时51分 ~ 22时21分]"
         },
         {
           "title": "坦克300献给都市年轻人的脚办",
@@ -1004,9 +1122,9 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时51分 ~ 22时21分]"
         },
         {
           "title": "DeepSeekV4能超越KimiK3吗",
@@ -1086,7 +1204,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时51分"
         }
@@ -1102,11 +1220,12 @@
           "source": "抖音",
           "ranks": [
             25,
-            24
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时11分 ~ 19时51分]"
+          "appearance_count": 3,
+          "time_info": "[16时11分 ~ 22时21分]"
         },
         {
           "title": "女子不堪家暴想离婚发现结婚证假的",
@@ -1134,8 +1253,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时11分 ~ 19时51分]"
+          "appearance_count": 3,
+          "time_info": "[16时11分 ~ 22时21分]"
         },
         {
           "title": "教育部官宣27个新专业“急用先上”",
@@ -1161,7 +1280,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时51分"
         }
@@ -1178,7 +1297,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时51分"
         }
@@ -1195,7 +1314,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时51分"
         }
