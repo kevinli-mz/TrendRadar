@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-21T08:03:35.322523+08:00",
-  "total_titles_processed": 649,
+  "generated_at": "2026-07-21T12:19:50.345750+08:00",
+  "total_titles_processed": 873,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型",
-      "match_count": 22,
+      "match_count": 33,
       "titles": [
         {
           "title": "今天为什么需要世界人工智能大会",
@@ -19,24 +19,24 @@
           "time_info": "[00时37分 ~ 08时03分]"
         },
         {
-          "title": "AI观察｜2026WAIC上风很大的“Token工厂”已是“红海”？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33616683",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时37分 ~ 08时03分]"
-        },
-        {
           "title": "尾盘变盘！上证50大涨超3%，“煤电酒油”爆发，科技股再度下跌，恒指、恒科指均涨超2%，AI大模型股逆势下挫",
           "url": "https://wallstreetcn.com/articles/3777388",
           "source": "华尔街见闻",
           "ranks": [
             5,
             6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时37分 ~ 12时19分]"
+        },
+        {
+          "title": "AI观察｜2026WAIC上风很大的“Token工厂”已是“红海”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33616683",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            4
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -73,11 +73,12 @@
           "source": "贴吧",
           "ranks": [
             9,
-            11
+            11,
+            18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时37分 ~ 08时03分]"
+          "appearance_count": 8,
+          "time_info": "[00时37分 ~ 12时19分]"
         },
         {
           "title": "王祖贤肖像授权网易AI",
@@ -85,11 +86,12 @@
           "source": "贴吧",
           "ranks": [
             11,
-            13
+            13,
+            20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时37分 ~ 08时03分]"
+          "appearance_count": 8,
+          "time_info": "[00时37分 ~ 12时19分]"
         },
         {
           "title": "建议普通人都尽早用上AI",
@@ -112,9 +114,53 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时03分"
+        },
+        {
+          "title": "超节点、超集群、TPU方案涌现 算力“拼系统”时代产业最关心Token性价比|WAIC观察",
+          "url": "https://www.cls.cn/detail/2432010",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时19分"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-07-21）",
+          "url": "https://flash.jin10.com/detail/20260721115253032800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时19分"
+        },
+        {
+          "title": "未来的AI终端长什么样",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9C%AA%E6%9D%A5%E7%9A%84AI%E7%BB%88%E7%AB%AF%E9%95%BF%E4%BB%80%E4%B9%88%E6%A0%B7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时19分"
+        },
+        {
+          "title": "谷歌被曝正打造新型AI服务器芯片 目标大幅提升Gemini运行效率",
+          "url": "https://www.cls.cn/detail/2431896",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时19分"
         },
         {
           "title": "美国为何急着打压中国开源大模型",
@@ -151,6 +197,40 @@
           "time_info": "[00时37分 ~ 02时58分]"
         },
         {
+          "title": "“七巨头”时代终结？分析师：这一概念已不再适用 AI投资逻辑正在重构",
+          "url": "https://www.cls.cn/detail/2431826",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时03分 ~ 12时19分]"
+        },
+        {
+          "title": "OpenAI负责人抨击Kimi开源",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356366&amp;topic_name=OpenAI%E8%B4%9F%E8%B4%A3%E4%BA%BA%E6%8A%A8%E5%87%BBKimi%E5%BC%80%E6%BA%90",
+          "source": "贴吧",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时19分"
+        },
+        {
+          "title": "OpenAI 负责人称 Kimi 开源是减速主义，他的说法有道理吗？开源对 AI 的发展能带来什么？",
+          "url": "https://www.zhihu.com/question/2062575282591209175",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时19分"
+        },
+        {
           "title": "xAI为微软Excel推出Grok插件",
           "url": "https://wallstreetcn.com/livenews/3137014",
           "source": "华尔街见闻-快讯",
@@ -162,15 +242,15 @@
           "time_info": "00时37分"
         },
         {
-          "title": "“七巨头”时代终结？分析师：这一概念已不再适用 AI投资逻辑正在重构",
-          "url": "https://www.cls.cn/detail/2431826",
-          "source": "财联社热门",
+          "title": "AI动量交易面临挑战，高盛：对冲基金过去两个月创纪录抛售美国科技股",
+          "url": "https://wallstreetcn.com/articles/3777491",
+          "source": "华尔街见闻",
           "ranks": [
-            13
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时03分"
+          "time_info": "12时19分"
         },
         {
           "title": "SpaceXAI：Grok for Excel是一款免费的Microsoft 365插件。",
@@ -223,9 +303,31 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时03分"
+        },
+        {
+          "title": "港股AI股震荡走高，智谱(02513.HK)涨超23%，兆易创新(03986.HK)涨超13%，MINIMAX-W(00100.HK)涨超10%，澜起科技(06809.HK)涨超9%，壁仞科技(06082.HK)、天数智芯(09903.HK)等个股跟涨。",
+          "url": "https://flash.jin10.com/detail/20260721114242170800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时19分"
+        },
+        {
+          "title": "专访UCL教授：AI正抽走职业梯子的最底层，大学必须补上这一环",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33622414",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时19分"
         },
         {
           "title": "周一（7月20日），美股存储芯片与硬件供应链指数涨1.43%，报192.09点，整体高开低走。 美股超大规模云服务商（Hyperscalers）涨0.67%，报92.61点，美股早盘持续上涨，之后逐步回吐涨幅。 信息科技指数涨1%，报378.18点。 人工智能（AI）赢家指数涨0.73%，报378.70点。 AI软件先驱指数涨0.84%，报109.45点，美股早盘持续反弹，00:00以来高位震荡。 美国科技股七巨头（Magnificent 7）指数涨0.09%，报217.20点。成分股中，特斯拉收跌2.96%，苹果跌2.14%，亚马逊、谷歌A至多涨1.51%，微软涨2.15%。 “超大”市值科技股指数涨0.11%，报431.23点，整体呈现出两波M形走势。",
@@ -237,6 +339,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时06分"
+        },
+        {
+          "title": "OpenAI高管炮轰Kimi",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E9%AB%98%E7%AE%A1%E7%82%AE%E8%BD%B0Kimi",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时19分"
         },
         {
           "title": "美国总统特朗普的AI安全部门主管离职。（Axios）",
@@ -256,68 +369,149 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时03分"
+        },
+        {
+          "title": "智谱股价一度涨19%，落地1GW级算力数据中心建设，全部采用国产AI芯片",
+          "url": "https://wallstreetcn.com/livenews/3137250",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时19分"
         }
       ]
     },
     {
-      "keyword_group": "经济 经济学",
-      "match_count": 4,
+      "keyword_group": "电影 影视 综艺",
+      "match_count": 9,
       "titles": [
         {
-          "title": "世界杯经济谁是赢家",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E6%9D%AF%E7%BB%8F%E6%B5%8E%E8%B0%81%E6%98%AF%E8%B5%A2%E5%AE%B6",
-          "source": "百度热搜",
+          "title": "徐静雨谈电影功夫女足",
+          "url": "https://search.bilibili.com/all?keyword=%E5%BE%90%E9%9D%99%E9%9B%A8%E8%B0%88%E7%94%B5%E5%BD%B1%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3",
+          "source": "bilibili 热搜",
           "ranks": [
-            27,
-            8,
-            21
+            14,
+            5,
+            26,
+            30
           ],
           "is_new": false,
-          "appearance_count": 4,
+          "appearance_count": 6,
           "time_info": "[02时57分 ~ 08时03分]"
         },
         {
-          "title": "加拿大总理卡尼：面对（美国）这些措施及对加拿大主权的威胁，加拿大各省、各地区以及全国各地的民众团结一致，采取必要行动以支持本国经济，并捍卫加拿大工人、农民、企业及家庭的利益。",
-          "url": "https://flash.jin10.com/detail/20260721075212659800",
-          "source": "金十数据",
+          "title": "89岁“四哥”谢贤离世，香港影视黄金时代再别一位见证者",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33620641",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时37分 ~ 08时03分]"
+        },
+        {
+          "title": "电影八仙孙悟空出场救赎感拉满",
+          "url": "https://www.douyin.com/hot/2578012",
+          "source": "抖音",
+          "ranks": [
+            23,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时37分 ~ 12时19分]"
+        },
+        {
+          "title": "怎么看导演郭帆对动画电影《八仙！》的评价？",
+          "url": "https://www.zhihu.com/question/2062108518619124379",
+          "source": "知乎",
+          "ranks": [
+            14,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时03分 ~ 12时19分]"
+        },
+        {
+          "title": "影视飓风被指一群员工陪老板演松弛感白人，影视飓风回应「解读太恶毒」，如何看待此事？",
+          "url": "https://www.zhihu.com/question/2062642099518795923",
+          "source": "知乎",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时03分"
+          "time_info": "12时19分"
         },
         {
-          "title": "数读上半年工业和信息化经济成绩单",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%95%B0%E8%AF%BB%E4%B8%8A%E5%8D%8A%E5%B9%B4%E5%B7%A5%E4%B8%9A%E5%92%8C%E4%BF%A1%E6%81%AF%E5%8C%96%E7%BB%8F%E6%B5%8E%E6%88%90%E7%BB%A9%E5%8D%95%23&t=31&band_rank=8&Refer=top",
+          "title": "影视飓风去年参保人数为122人",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BD%B1%E8%A7%86%E9%A3%93%E9%A3%8E%E5%8E%BB%E5%B9%B4%E5%8F%82%E4%BF%9D%E4%BA%BA%E6%95%B0%E4%B8%BA122%E4%BA%BA%23&t=31&band_rank=9&Refer=top",
           "source": "微博",
           "ranks": [
-            8
+            9
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时37分"
+          "time_info": "12时19分"
         },
         {
-          "title": "中方愿与包括泰方在内的各方共同落实好《数字经济和绿色发展国际经贸合作框架倡议》，推动数字绿色转型和可持续发展。（央视）",
-          "url": "https://wallstreetcn.com/livenews/3137003",
-          "source": "华尔街见闻-快讯",
+          "title": "影视飓风回怼“员工陪老板演松弛”",
+          "url": "https://www.toutiao.com/trending/7664529546716643371/",
+          "source": "今日头条",
           "ranks": [
-            18
+            12
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时37分"
+          "time_info": "12时19分"
+        },
+        {
+          "title": "如何评价诺兰执导的史诗电影《奥德赛》？",
+          "url": "https://www.zhihu.com/question/2061467293138116879",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时19分"
+        },
+        {
+          "title": "影视飓风回怼博主恶意解读",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BD%B1%E8%A7%86%E9%A3%93%E9%A3%8E%E5%9B%9E%E6%80%BC%E5%8D%9A%E4%B8%BB%E6%81%B6%E6%84%8F%E8%A7%A3%E8%AF%BB%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时19分"
         }
       ]
     },
     {
       "keyword_group": "消费 存钱 攒钱",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "服务消费旺 商品消费稳",
+          "url": "https://www.toutiao.com/trending/7663824851681640491/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时19分"
+        },
         {
           "title": "老年人消费屡屡遭遇准入红线",
           "url": "https://www.baidu.com/s?wd=%E8%80%81%E5%B9%B4%E4%BA%BA%E6%B6%88%E8%B4%B9%E5%B1%A1%E5%B1%A1%E9%81%AD%E9%81%87%E5%87%86%E5%85%A5%E7%BA%A2%E7%BA%BF",
@@ -364,61 +558,91 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时37分"
+        },
+        {
+          "title": "金十图示：2026年07月21日（周二）富时中国A50指数成分股午盘收盘行情一览：银行、保险、白酒等板块回落，半导体、通信设备、消费电子板块大幅走强",
+          "url": "https://flash.jin10.com/detail/20260721113749809800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时19分"
+        },
+        {
+          "title": "谢霆锋曾说谢贤不存钱 晚年还想工作",
+          "url": "https://www.baidu.com/s?wd=%E8%B0%A2%E9%9C%86%E9%94%8B%E6%9B%BE%E8%AF%B4%E8%B0%A2%E8%B4%A4%E4%B8%8D%E5%AD%98%E9%92%B1+%E6%99%9A%E5%B9%B4%E8%BF%98%E6%83%B3%E5%B7%A5%E4%BD%9C",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时19分"
         }
       ]
     },
     {
-      "keyword_group": "电影 影视 综艺",
-      "match_count": 4,
+      "keyword_group": "经济 经济学",
+      "match_count": 5,
       "titles": [
         {
-          "title": "徐静雨谈电影功夫女足",
-          "url": "https://search.bilibili.com/all?keyword=%E5%BE%90%E9%9D%99%E9%9B%A8%E8%B0%88%E7%94%B5%E5%BD%B1%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3",
-          "source": "bilibili 热搜",
+          "title": "世界杯经济谁是赢家",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E6%9D%AF%E7%BB%8F%E6%B5%8E%E8%B0%81%E6%98%AF%E8%B5%A2%E5%AE%B6",
+          "source": "百度热搜",
           "ranks": [
-            14,
-            5,
-            26,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时57分 ~ 08时03分]"
-        },
-        {
-          "title": "89岁“四哥”谢贤离世，香港影视黄金时代再别一位见证者",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33620641",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时37分 ~ 08时03分]"
-        },
-        {
-          "title": "电影八仙孙悟空出场救赎感拉满",
-          "url": "https://www.douyin.com/hot/2578012",
-          "source": "抖音",
-          "ranks": [
-            23,
-            22
+            27,
+            8,
+            21
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[00时37分 ~ 08时03分]"
+          "time_info": "[02时57分 ~ 08时03分]"
         },
         {
-          "title": "怎么看导演郭帆对动画电影《八仙！》的评价？",
-          "url": "https://www.zhihu.com/question/2062108518619124379",
-          "source": "知乎",
+          "title": "加拿大总理卡尼：面对（美国）这些措施及对加拿大主权的威胁，加拿大各省、各地区以及全国各地的民众团结一致，采取必要行动以支持本国经济，并捍卫加拿大工人、农民、企业及家庭的利益。",
+          "url": "https://flash.jin10.com/detail/20260721075212659800",
+          "source": "金十数据",
           "ranks": [
-            14
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时03分"
+        },
+        {
+          "title": "数读上半年工业和信息化经济成绩单",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%95%B0%E8%AF%BB%E4%B8%8A%E5%8D%8A%E5%B9%B4%E5%B7%A5%E4%B8%9A%E5%92%8C%E4%BF%A1%E6%81%AF%E5%8C%96%E7%BB%8F%E6%B5%8E%E6%88%90%E7%BB%A9%E5%8D%95%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时37分"
+        },
+        {
+          "title": "日本经济财政大臣城内实：对汇率和收益率的每日走势、前景不予置评。",
+          "url": "https://wallstreetcn.com/livenews/3137282",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时03分"
+          "time_info": "12时19分"
+        },
+        {
+          "title": "中方愿与包括泰方在内的各方共同落实好《数字经济和绿色发展国际经贸合作框架倡议》，推动数字绿色转型和可持续发展。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3137003",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时37分"
         }
       ]
     },
@@ -459,7 +683,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时03分"
         }
@@ -526,6 +750,40 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时37分 ~ 04时28分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "恋爱 相亲 婚恋 脱单",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "26岁女子恋爱后体检发现自己是男性",
+          "url": "https://www.baidu.com/s?wd=26%E5%B2%81%E5%A5%B3%E5%AD%90%E6%81%8B%E7%88%B1%E5%90%8E%E4%BD%93%E6%A3%80%E5%8F%91%E7%8E%B0%E8%87%AA%E5%B7%B1%E6%98%AF%E7%94%B7%E6%80%A7",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "教育 鸡娃 小镇做题家",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "对话｜北京四中雄安校区校长黄春谈教育：不补课，少点作业",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33621312",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时19分"
         }
       ]
     }
