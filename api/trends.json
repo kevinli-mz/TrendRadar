@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-22T05:17:50.215684+08:00",
-  "total_titles_processed": 459,
+  "generated_at": "2026-07-22T07:03:16.326444+08:00",
+  "total_titles_processed": 542,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型",
-      "match_count": 23,
+      "match_count": 30,
       "titles": [
         {
           "title": "英媒爆料：中美正计划9月举行AI会谈",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时29分 ~ 05时17分]"
+          "appearance_count": 5,
+          "time_info": "[01时29分 ~ 07时03分]"
         },
         {
           "title": "世界人工智能大会达成丰硕成果",
@@ -26,19 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时29分 ~ 05时17分]"
-        },
-        {
-          "title": "美股AI概念盘前昂扬齐涨 美伊战火仍在持续 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2433005",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时29分 ~ 05时17分]"
+          "appearance_count": 5,
+          "time_info": "[01时29分 ~ 07时03分]"
         },
         {
           "title": "网友发现很多 KTV 都没有 MV 了，全是奇怪的 AI 画面，为什么会这样？你有遇到这种情况吗？",
@@ -47,11 +36,24 @@
           "ranks": [
             13,
             4,
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时29分 ~ 05时17分]"
+          "appearance_count": 5,
+          "time_info": "[01时29分 ~ 07时03分]"
+        },
+        {
+          "title": "美股AI概念盘前昂扬齐涨 美伊战火仍在持续 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2433005",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时29分 ~ 07时03分]"
         },
         {
           "title": "核能企业Oklo和X-energy已加入特朗普政府推动的新核反应堆建设计划，旨在加快为人工智能数据中心提供能源支持。",
@@ -60,9 +62,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
+        },
+        {
+          "title": "据日经新闻：英伟达与纬创（Wistron）将在美国得克萨斯州生产Blackwell AI服务器。",
+          "url": "https://flash.jin10.com/detail/20260722064209185800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时03分"
         },
         {
           "title": "专访UCL教授：AI正抽走职业梯子的最底层，大学必须补上这一环",
@@ -73,8 +86,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时29分 ~ 05时17分]"
+          "appearance_count": 5,
+          "time_info": "[01时29分 ~ 07时03分]"
+        },
+        {
+          "title": "OpenAI负责人抨击Kimi开源",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356366&amp;topic_name=OpenAI%E8%B4%9F%E8%B4%A3%E4%BA%BA%E6%8A%A8%E5%87%BBKimi%E5%BC%80%E6%BA%90",
+          "source": "贴吧",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时29分 ~ 07时03分]"
         },
         {
           "title": "AI动量交易面临挑战，高盛：对冲基金过去两个月创纪录抛售美国科技股",
@@ -89,15 +113,16 @@
           "time_info": "[01时29分 ~ 05时17分]"
         },
         {
-          "title": "OpenAI负责人抨击Kimi开源",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356366&amp;topic_name=OpenAI%E8%B4%9F%E8%B4%A3%E4%BA%BA%E6%8A%A8%E5%87%BBKimi%E5%BC%80%E6%BA%90",
-          "source": "贴吧",
+          "title": "AI“斯普特尼克时刻”！Kimi K3震动硅谷，Stability AI联合创始人：推理成本还有10至50倍下降空间",
+          "url": "https://wallstreetcn.com/articles/3777546",
+          "source": "华尔街见闻",
           "ranks": [
-            22
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时29分 ~ 05时17分]"
+          "appearance_count": 2,
+          "time_info": "[05时17分 ~ 07时03分]"
         },
         {
           "title": "OpenAI：宣布推出面向小型企业的ChatGPT服务计划。ChatGPT Work和GPT-5.6今日起面向小型企业开放。",
@@ -111,13 +136,24 @@
           "time_info": "01时29分"
         },
         {
+          "title": "据The Information：Meta Platforms(META.O)的AI孵化器正在开发OpenRouter的竞品，旨在降低编码成本。",
+          "url": "https://flash.jin10.com/detail/20260722064010298800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时03分"
+        },
+        {
           "title": "AI逃离沙盒 OpenAI认下Hugging Face被黑事件",
           "url": "https://wallstreetcn.com/livenews/3137753",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
         },
@@ -128,7 +164,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
         },
@@ -139,18 +175,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时17分"
-        },
-        {
-          "title": "AI“斯普特尼克时刻”！Kimi K3震动硅谷，Stability AI联合创始人：推理成本还有10至50倍下降空间",
-          "url": "https://wallstreetcn.com/articles/3777546",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
         },
@@ -172,9 +197,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
+        },
+        {
+          "title": "白宫拟将数千亿美元科研资金向AI和个人科学家倾斜",
+          "url": "https://flash.jin10.com/detail/20260722062234546800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时03分"
         },
         {
           "title": "英伟达Vera CPU测试显示AI智能体编排性能提升，支持高并发推理",
@@ -186,6 +222,50 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时29分"
+        },
+        {
+          "title": "AI算力需求驱动+产品涨价，半导体产业链上半年业绩大面积预增",
+          "url": "https://wallstreetcn.com/livenews/3137778",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时03分"
+        },
+        {
+          "title": "Kimi 新模型 K3 跑分力压 ClaudeFable5 登顶，这将对大模型市场格局产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2061356466783642903",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时03分"
+        },
+        {
+          "title": "据华尔街日报：白宫将把数十亿美元的研究资金从高校转向人工智能领域，减少对高校的支持。",
+          "url": "https://flash.jin10.com/detail/20260722060138158800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时03分"
+        },
+        {
+          "title": "据华尔街日报：官员透露，特朗普政府计划在联邦科学研究中降低对高校的侧重，转而强调人工智能。",
+          "url": "https://flash.jin10.com/detail/20260722060041607800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时03分"
         },
         {
           "title": "英伟达发布Spectrum-6以太网交换系统，面向下一代超大规模AI工厂",
@@ -238,7 +318,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
         },
@@ -260,7 +340,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
         }
@@ -291,8 +371,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时29分 ~ 05时17分]"
+          "appearance_count": 5,
+          "time_info": "[01时29分 ~ 07时03分]"
         },
         {
           "title": "影视飓风被指一群员工陪老板演松弛感白人，影视飓风回应「解读太恶毒」，如何看待此事？",
@@ -304,8 +384,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时29分 ~ 05时17分]"
+          "appearance_count": 5,
+          "time_info": "[01时29分 ~ 07时03分]"
         },
         {
           "title": "电影功夫女足票房破16亿",
@@ -313,11 +393,12 @@
           "source": "微博",
           "ranks": [
             10,
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时40分 ~ 05时17分]"
+          "appearance_count": 4,
+          "time_info": "[03时40分 ~ 07时03分]"
         },
         {
           "title": "博主：谢贤一生藏着香港影视业变迁",
@@ -342,11 +423,12 @@
           "source": "微博",
           "ranks": [
             9,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时29分 ~ 05时17分]"
+          "appearance_count": 5,
+          "time_info": "[01时29分 ~ 07时03分]"
         },
         {
           "title": "26岁女子恋爱后体检发现自己是男性",
@@ -357,8 +439,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时29分 ~ 05时17分]"
+          "appearance_count": 5,
+          "time_info": "[01时29分 ~ 07时03分]"
         }
       ]
     },
@@ -404,8 +486,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时29分 ~ 03时41分]"
+          "appearance_count": 4,
+          "time_info": "[01时29分 ~ 07时03分]"
         },
         {
           "title": "标普500指数的11个板块中，信息技术/科技板块收涨2.35%，能源板块涨1.15%，电信板块跌0.85%，日用消费品板块跌1.01%。",
@@ -414,7 +496,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
         }
@@ -429,11 +511,29 @@
           "url": "https://wallstreetcn.com/livenews/3137759",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时17分 ~ 07时03分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "就业 失业 裁员 应届生",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "英特尔确认将进一步裁员，股价大涨近9%",
+          "url": "https://wallstreetcn.com/livenews/3137765",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时17分"
+          "time_info": "07时03分"
         }
       ]
     },
@@ -446,11 +546,29 @@
           "url": "https://wallstreetcn.com/articles/3777510",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时29分 ~ 05时17分]"
+          "appearance_count": 5,
+          "time_info": "[01时29分 ~ 07时03分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "经济 经济学",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "多地加紧推进重大项目建设，助力三季度经济稳增长",
+          "url": "https://wallstreetcn.com/livenews/3137787",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时03分"
         }
       ]
     },
@@ -466,8 +584,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时29分 ~ 05时17分]"
+          "appearance_count": 5,
+          "time_info": "[01时29分 ~ 07时03分]"
         }
       ]
     }
