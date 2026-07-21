@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-21T15:36:55.298274+08:00",
-  "total_titles_processed": 1043,
+  "generated_at": "2026-07-21T18:31:58.523060+08:00",
+  "total_titles_processed": 1230,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型",
-      "match_count": 41,
+      "match_count": 44,
       "titles": [
         {
           "title": "今天为什么需要世界人工智能大会",
@@ -31,6 +31,36 @@
           "time_info": "[00时37分 ~ 15时36分]"
         },
         {
+          "title": "AI不准用,日本漫画家被迫停更",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356343&amp;topic_name=AI%E4%B8%8D%E5%87%86%E7%94%A8%2C%E6%97%A5%E6%9C%AC%E6%BC%AB%E7%94%BB%E5%AE%B6%E8%A2%AB%E8%BF%AB%E5%81%9C%E6%9B%B4",
+          "source": "贴吧",
+          "ranks": [
+            9,
+            11,
+            18,
+            22,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时37分 ~ 18时31分]"
+        },
+        {
+          "title": "王祖贤肖像授权网易AI",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356337&amp;topic_name=%E7%8E%8B%E7%A5%96%E8%B4%A4%E8%82%96%E5%83%8F%E6%8E%88%E6%9D%83%E7%BD%91%E6%98%93AI",
+          "source": "贴吧",
+          "ranks": [
+            11,
+            13,
+            20,
+            24,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时37分 ~ 18时31分]"
+        },
+        {
           "title": "AI观察｜2026WAIC上风很大的“Token工厂”已是“红海”？",
           "url": "https://m.thepaper.cn/newsDetail_forward_33616683",
           "source": "澎湃新闻",
@@ -41,34 +71,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时37分 ~ 08时03分]"
-        },
-        {
-          "title": "AI不准用,日本漫画家被迫停更",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356343&amp;topic_name=AI%E4%B8%8D%E5%87%86%E7%94%A8%2C%E6%97%A5%E6%9C%AC%E6%BC%AB%E7%94%BB%E5%AE%B6%E8%A2%AB%E8%BF%AB%E5%81%9C%E6%9B%B4",
-          "source": "贴吧",
-          "ranks": [
-            9,
-            11,
-            18,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时37分 ~ 15时36分]"
-        },
-        {
-          "title": "王祖贤肖像授权网易AI",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356337&amp;topic_name=%E7%8E%8B%E7%A5%96%E8%B4%A4%E8%82%96%E5%83%8F%E6%8E%88%E6%9D%83%E7%BD%91%E6%98%93AI",
-          "source": "贴吧",
-          "ranks": [
-            11,
-            13,
-            20,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时37分 ~ 15时36分]"
         },
         {
           "title": "如何评价代数几何著名猜想「雅可比猜想」被 AI 证伪？如此简洁、可独立验证的数学发现意味着什么？",
@@ -143,24 +145,13 @@
           "time_info": "08时03分"
         },
         {
-          "title": "AI的猴子为什么能让菲律宾“破防”",
-          "url": "https://www.toutiao.com/trending/7664683124179337279/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时36分"
-        },
-        {
           "title": "Rain喊话NiKo大表哥对决",
           "url": "https://search.bilibili.com/all?keyword=Rain%E5%96%8A%E8%AF%9DNiKo%E5%A4%A7%E8%A1%A8%E5%93%A5%E5%AF%B9%E5%86%B3",
           "source": "bilibili 热搜",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
         },
@@ -176,15 +167,51 @@
           "time_info": "12时19分"
         },
         {
+          "title": "AI耗电激增与高温炙烤下 美国电网迎极限考验",
+          "url": "https://wallstreetcn.com/livenews/3137523",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
+        },
+        {
+          "title": "抛售已近尾声？瑞银喊话：逢低买入AI与半导体股时机已到",
+          "url": "https://www.cls.cn/detail/2432258",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时36分 ~ 18时31分]"
+        },
+        {
+          "title": "AI的猴子为什么能让菲律宾“破防”",
+          "url": "https://www.toutiao.com/trending/7664683124179337279/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时36分 ~ 18时31分]"
+        },
+        {
           "title": "未来的AI终端长什么样",
           "url": "https://search.bilibili.com/all?keyword=%E6%9C%AA%E6%9D%A5%E7%9A%84AI%E7%BB%88%E7%AB%AF%E9%95%BF%E4%BB%80%E4%B9%88%E6%A0%B7",
           "source": "bilibili 热搜",
           "ranks": [
-            5
+            5,
+            21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时19分"
+          "appearance_count": 2,
+          "time_info": "[12时19分 ~ 18时31分]"
         },
         {
           "title": "美国为何急着打压中国开源大模型",
@@ -210,6 +237,44 @@
           "time_info": "[02时57分 ~ 08时03分]"
         },
         {
+          "title": "OpenAI负责人抨击Kimi开源",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356366&amp;topic_name=OpenAI%E8%B4%9F%E8%B4%A3%E4%BA%BA%E6%8A%A8%E5%87%BBKimi%E5%BC%80%E6%BA%90",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            10,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时19分 ~ 18时31分]"
+        },
+        {
+          "title": "OpenAI 负责人称 Kimi 开源是减速主义，他的说法有道理吗？开源对 AI 的发展能带来什么？",
+          "url": "https://www.zhihu.com/question/2062575282591209175",
+          "source": "知乎",
+          "ranks": [
+            6,
+            18,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时19分 ~ 18时31分]"
+        },
+        {
+          "title": "AI动量交易面临挑战，高盛：对冲基金过去两个月创纪录抛售美国科技股",
+          "url": "https://wallstreetcn.com/articles/3777491",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时19分 ~ 18时31分]"
+        },
+        {
           "title": "SK董事长：明年AI芯片需求将增长100%，存储价格将进一步上涨",
           "url": "https://wallstreetcn.com/articles/3777377",
           "source": "华尔街见闻",
@@ -221,40 +286,16 @@
           "time_info": "[00时37分 ~ 02时58分]"
         },
         {
-          "title": "OpenAI负责人抨击Kimi开源",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356366&amp;topic_name=OpenAI%E8%B4%9F%E8%B4%A3%E4%BA%BA%E6%8A%A8%E5%87%BBKimi%E5%BC%80%E6%BA%90",
-          "source": "贴吧",
+          "title": "专访UCL教授：AI正抽走职业梯子的最底层，大学必须补上这一环",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33622414",
+          "source": "澎湃新闻",
           "ranks": [
-            6,
-            10
+            18,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时19分 ~ 15时36分]"
-        },
-        {
-          "title": "OpenAI 负责人称 Kimi 开源是减速主义，他的说法有道理吗？开源对 AI 的发展能带来什么？",
-          "url": "https://www.zhihu.com/question/2062575282591209175",
-          "source": "知乎",
-          "ranks": [
-            6,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时19分 ~ 15时36分]"
-        },
-        {
-          "title": "AI动量交易面临挑战，高盛：对冲基金过去两个月创纪录抛售美国科技股",
-          "url": "https://wallstreetcn.com/articles/3777491",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时19分 ~ 15时36分]"
+          "appearance_count": 3,
+          "time_info": "[12时19分 ~ 18时31分]"
         },
         {
           "title": "“七巨头”时代终结？分析师：这一概念已不再适用 AI投资逻辑正在重构",
@@ -269,27 +310,27 @@
           "time_info": "[08时03分 ~ 12时19分]"
         },
         {
-          "title": "专访UCL教授：AI正抽走职业梯子的最底层，大学必须补上这一环",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33622414",
-          "source": "澎湃新闻",
+          "title": "DeepSeek V4 开放灰度测试，你认为能超越 Kimi K3 吗？两个大模型各有哪些优劣？",
+          "url": "https://www.zhihu.com/question/2062579631564093084",
+          "source": "知乎",
           "ranks": [
-            18,
-            16
+            19,
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时19分 ~ 15时36分]"
+          "time_info": "[15时36分 ~ 18时31分]"
         },
         {
-          "title": "抛售已近尾声？瑞银喊话：逢低买入AI与半导体股时机已到",
-          "url": "https://www.cls.cn/detail/2432258",
-          "source": "财联社热门",
+          "title": "对话︱图灵奖得主萨顿：智慧并不等于知识的堆砌，AI迈向“经验时代”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33620327",
+          "source": "澎湃新闻",
           "ranks": [
-            7
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时36分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时36分 ~ 18时31分]"
         },
         {
           "title": "xAI为微软Excel推出Grok插件",
@@ -301,6 +342,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时37分"
+        },
+        {
+          "title": "锁定万亿订单就能躺赚？这可能是AI产业链条上最大的“伪命题”！",
+          "url": "https://www.cls.cn/detail/2432387",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
         },
         {
           "title": "SpaceXAI：Grok for Excel是一款免费的Microsoft 365插件。",
@@ -364,7 +416,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
         },
@@ -375,7 +427,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
         },
@@ -402,17 +454,6 @@
           "time_info": "06时06分"
         },
         {
-          "title": "对话︱图灵奖得主萨顿：智慧并不等于知识的堆砌，AI迈向“经验时代”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33620327",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时36分"
-        },
-        {
           "title": "OpenAI高管炮轰Kimi",
           "url": "https://search.bilibili.com/all?keyword=OpenAI%E9%AB%98%E7%AE%A1%E7%82%AE%E8%BD%B0Kimi",
           "source": "bilibili 热搜",
@@ -430,18 +471,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时36分"
-        },
-        {
-          "title": "DeepSeek V4 开放灰度测试，你认为能超越 Kimi K3 吗？两个大模型各有哪些优劣？",
-          "url": "https://www.zhihu.com/question/2062579631564093084",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
         },
@@ -477,12 +507,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时19分"
+        },
+        {
+          "title": "嘉实基金王贵重：AI产业链仍然存在持续的投资机会",
+          "url": "https://wallstreetcn.com/livenews/3137480",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
         }
       ]
     },
     {
       "keyword_group": "电影 影视 综艺",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "徐静雨谈电影功夫女足",
@@ -511,17 +552,6 @@
           "time_info": "[00时37分 ~ 08时03分]"
         },
         {
-          "title": "影视飓风被吐槽演松弛感白人",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356370&amp;topic_name=%E5%BD%B1%E8%A7%86%E9%A3%93%E9%A3%8E%E8%A2%AB%E5%90%90%E6%A7%BD%E6%BC%94%E6%9D%BE%E5%BC%9B%E6%84%9F%E7%99%BD%E4%BA%BA",
-          "source": "贴吧",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时36分"
-        },
-        {
           "title": "电影八仙孙悟空出场救赎感拉满",
           "url": "https://www.douyin.com/hot/2578012",
           "source": "抖音",
@@ -532,6 +562,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时37分 ~ 12时19分]"
+        },
+        {
+          "title": "影视飓风被吐槽演松弛感白人",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356370&amp;topic_name=%E5%BD%B1%E8%A7%86%E9%A3%93%E9%A3%8E%E8%A2%AB%E5%90%90%E6%A7%BD%E6%BC%94%E6%9D%BE%E5%BC%9B%E6%84%9F%E7%99%BD%E4%BA%BA",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时36分 ~ 18时31分]"
         },
         {
           "title": "怎么看导演郭帆对动画电影《八仙！》的评价？",
@@ -551,11 +593,23 @@
           "url": "https://www.zhihu.com/question/2062642099518795923",
           "source": "知乎",
           "ranks": [
-            8
+            8,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时19分 ~ 15时36分]"
+          "appearance_count": 3,
+          "time_info": "[12时19分 ~ 18时31分]"
+        },
+        {
+          "title": "从《八仙！》上映来说，八仙有八个人，为何多数影视剧中八仙的故事，总是以吕洞宾当第一主角？",
+          "url": "https://www.zhihu.com/question/2062307341001926171",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
         },
         {
           "title": "影视飓风去年参保人数为122人",
@@ -604,182 +658,20 @@
       ]
     },
     {
-      "keyword_group": "消费 存钱 攒钱",
-      "match_count": 8,
+      "keyword_group": "经济 经济学",
+      "match_count": 9,
       "titles": [
         {
-          "title": "服务消费旺 商品消费稳",
-          "url": "https://www.toutiao.com/trending/7663824851681640491/",
+          "title": "工业对经济增长贡献率超35%",
+          "url": "https://www.toutiao.com/trending/7664540470965653046/",
           "source": "今日头条",
           "ranks": [
             3
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时19分 ~ 15时36分]"
-        },
-        {
-          "title": "老年人消费屡屡遭遇准入红线",
-          "url": "https://www.baidu.com/s?wd=%E8%80%81%E5%B9%B4%E4%BA%BA%E6%B6%88%E8%B4%B9%E5%B1%A1%E5%B1%A1%E9%81%AD%E9%81%87%E5%87%86%E5%85%A5%E7%BA%A2%E7%BA%BF",
-          "source": "百度热搜",
-          "ranks": [
-            23,
-            9,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时57分 ~ 06时06分]"
-        },
-        {
-          "title": "周一（7月20日），美股行业ETF多数收跌，生物科技指数ETF跌1.70%，医疗业ETF、银行业ETF、区域银行ETF至多跌1.14%。 科技行业ETF、全球科技股指数ETF、网络股指数ETF至多涨0.29%，半导体ETF涨0.34%，能源业ETF涨0.49%。 标普500指数的11个板块中，保健板块收跌1.15%，原材料、工业、房地产、金融、可选消费板块至多跌0.94%，信息技术/科技板块涨0.1%，能源部那张0.55%，电信板块涨0.74%。",
-          "url": "https://wallstreetcn.com/livenews/3137077",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时28分 ~ 06时06分]"
-        },
-        {
-          "title": "三星电子进军信用卡市场。 该公司推出“三星信用卡”（Samsung Galaxy Card）。 合作方为巴克莱美国消费者银行（Barclays US LLC.）。",
-          "url": "https://wallstreetcn.com/livenews/3137096",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时06分"
-        },
-        {
-          "title": "一年超 8 万家面包店关停，超市烘焙区却排长队，面包生意到底好不好做？反映了怎样的消费趋势？",
-          "url": "https://www.zhihu.com/question/2062293737414160723",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时37分"
-        },
-        {
-          "title": "金十图示：2026年07月21日（周二）富时中国A50指数成分股午盘收盘行情一览：银行、保险、白酒等板块回落，半导体、通信设备、消费电子板块大幅走强",
-          "url": "https://flash.jin10.com/detail/20260721113749809800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时19分"
-        },
-        {
-          "title": "乐事回应「消费者吃到蓝色薯片」，系工厂使用的着色验证薯片，不影响食品安全与品质，薯片为什么要着色验证？",
-          "url": "https://www.zhihu.com/question/2061399390741337380",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时36分"
+          "time_info": "18时31分"
         },
-        {
-          "title": "谢霆锋曾说谢贤不存钱 晚年还想工作",
-          "url": "https://www.baidu.com/s?wd=%E8%B0%A2%E9%9C%86%E9%94%8B%E6%9B%BE%E8%AF%B4%E8%B0%A2%E8%B4%A4%E4%B8%8D%E5%AD%98%E9%92%B1+%E6%99%9A%E5%B9%B4%E8%BF%98%E6%83%B3%E5%B7%A5%E4%BD%9C",
-          "source": "百度热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时19分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "婚姻 结婚 离婚 彩礼",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "余文乐宣布离婚",
-          "url": "https://www.douyin.com/hot/2578389",
-          "source": "抖音",
-          "ranks": [
-            26,
-            30,
-            29,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时37分 ~ 08时03分]"
-        },
-        {
-          "title": "坚持不结婚的人最适合结婚",
-          "url": "https://s.weibo.com/weibo?q=%E5%9D%9A%E6%8C%81%E4%B8%8D%E7%BB%93%E5%A9%9A%E7%9A%84%E4%BA%BA%E6%9C%80%E9%80%82%E5%90%88%E7%BB%93%E5%A9%9A&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时36分"
-        },
-        {
-          "title": "余文乐宣布离婚，其 2017 年与妻子结婚育有一儿一女，怎样看待他们的婚姻？",
-          "url": "https://www.zhihu.com/question/2062540964820772002",
-          "source": "知乎",
-          "ranks": [
-            19,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时57分 ~ 06时06分]"
-        },
-        {
-          "title": "易峥结婚",
-          "url": "https://s.weibo.com/weibo?q=%E6%98%93%E5%B3%A5%E7%BB%93%E5%A9%9A&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时36分"
-        },
-        {
-          "title": "谢贤曾因谢霆锋离婚落泪",
-          "url": "https://www.baidu.com/s?wd=%E8%B0%A2%E8%B4%A4%E6%9B%BE%E5%9B%A0%E8%B0%A2%E9%9C%86%E9%94%8B%E7%A6%BB%E5%A9%9A%E8%90%BD%E6%B3%AA",
-          "source": "百度热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时03分"
-        },
-        {
-          "title": "谢贤一生最痛心谢霆锋离婚",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%B0%A2%E8%B4%A4%E4%B8%80%E7%94%9F%E6%9C%80%E7%97%9B%E5%BF%83%E8%B0%A2%E9%9C%86%E9%94%8B%E7%A6%BB%E5%A9%9A%23&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时36分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "经济 经济学",
-      "match_count": 5,
-      "titles": [
         {
           "title": "世界杯经济谁是赢家",
           "url": "https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E6%9D%AF%E7%BB%8F%E6%B5%8E%E8%B0%81%E6%98%AF%E8%B5%A2%E5%AE%B6",
@@ -836,12 +728,241 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时37分"
+        },
+        {
+          "title": "德国7月ZEW经济景气指数 26.3，预期 18，前值 10.5。",
+          "url": "https://wallstreetcn.com/livenews/3137479",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
+        },
+        {
+          "title": "德国7月ZEW经济现况指数 -77.6，前值 -81。",
+          "url": "https://wallstreetcn.com/livenews/3137478",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
+        },
+        {
+          "title": "欧元区7月ZEW经济景气指数 23.4，前值 9.5。",
+          "url": "https://wallstreetcn.com/livenews/3137477",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "消费 存钱 攒钱",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "服务消费旺 商品消费稳",
+          "url": "https://www.toutiao.com/trending/7663824851681640491/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时19分 ~ 15时36分]"
+        },
+        {
+          "title": "老年人消费屡屡遭遇准入红线",
+          "url": "https://www.baidu.com/s?wd=%E8%80%81%E5%B9%B4%E4%BA%BA%E6%B6%88%E8%B4%B9%E5%B1%A1%E5%B1%A1%E9%81%AD%E9%81%87%E5%87%86%E5%85%A5%E7%BA%A2%E7%BA%BF",
+          "source": "百度热搜",
+          "ranks": [
+            23,
+            9,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时57分 ~ 06时06分]"
+        },
+        {
+          "title": "周一（7月20日），美股行业ETF多数收跌，生物科技指数ETF跌1.70%，医疗业ETF、银行业ETF、区域银行ETF至多跌1.14%。 科技行业ETF、全球科技股指数ETF、网络股指数ETF至多涨0.29%，半导体ETF涨0.34%，能源业ETF涨0.49%。 标普500指数的11个板块中，保健板块收跌1.15%，原材料、工业、房地产、金融、可选消费板块至多跌0.94%，信息技术/科技板块涨0.1%，能源部那张0.55%，电信板块涨0.74%。",
+          "url": "https://wallstreetcn.com/livenews/3137077",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时28分 ~ 06时06分]"
+        },
+        {
+          "title": "乐事回应「消费者吃到蓝色薯片」，系工厂使用的着色验证薯片，不影响食品安全与品质，薯片为什么要着色验证？",
+          "url": "https://www.zhihu.com/question/2061399390741337380",
+          "source": "知乎",
+          "ranks": [
+            20,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时36分 ~ 18时31分]"
+        },
+        {
+          "title": "三星电子进军信用卡市场。 该公司推出“三星信用卡”（Samsung Galaxy Card）。 合作方为巴克莱美国消费者银行（Barclays US LLC.）。",
+          "url": "https://wallstreetcn.com/livenews/3137096",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时06分"
+        },
+        {
+          "title": "张坤增聘后首份季报，调仓方向明了，加科技、减消费、砍港股",
+          "url": "https://www.cls.cn/detail/2432530",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
+        },
+        {
+          "title": "一年超 8 万家面包店关停，超市烘焙区却排长队，面包生意到底好不好做？反映了怎样的消费趋势？",
+          "url": "https://www.zhihu.com/question/2062293737414160723",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时37分"
+        },
+        {
+          "title": "金十图示：2026年07月21日（周二）富时中国A50指数成分股午盘收盘行情一览：银行、保险、白酒等板块回落，半导体、通信设备、消费电子板块大幅走强",
+          "url": "https://flash.jin10.com/detail/20260721113749809800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时19分"
+        },
+        {
+          "title": "谢霆锋曾说谢贤不存钱 晚年还想工作",
+          "url": "https://www.baidu.com/s?wd=%E8%B0%A2%E9%9C%86%E9%94%8B%E6%9B%BE%E8%AF%B4%E8%B0%A2%E8%B4%A4%E4%B8%8D%E5%AD%98%E9%92%B1+%E6%99%9A%E5%B9%B4%E8%BF%98%E6%83%B3%E5%B7%A5%E4%BD%9C",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "婚姻 结婚 离婚 彩礼",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "余文乐宣布离婚",
+          "url": "https://www.douyin.com/hot/2578389",
+          "source": "抖音",
+          "ranks": [
+            26,
+            30,
+            29,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时37分 ~ 08时03分]"
+        },
+        {
+          "title": "坚持不结婚的人最适合结婚",
+          "url": "https://s.weibo.com/weibo?q=%E5%9D%9A%E6%8C%81%E4%B8%8D%E7%BB%93%E5%A9%9A%E7%9A%84%E4%BA%BA%E6%9C%80%E9%80%82%E5%90%88%E7%BB%93%E5%A9%9A&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时36分"
+        },
+        {
+          "title": "余文乐宣布离婚，其 2017 年与妻子结婚育有一儿一女，怎样看待他们的婚姻？",
+          "url": "https://www.zhihu.com/question/2062540964820772002",
+          "source": "知乎",
+          "ranks": [
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时57分 ~ 06时06分]"
+        },
+        {
+          "title": "易峥结婚",
+          "url": "https://s.weibo.com/weibo?q=%E6%98%93%E5%B3%A5%E7%BB%93%E5%A9%9A&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时36分"
+        },
+        {
+          "title": "相亲2天花33万闪婚 1月后女方提离婚",
+          "url": "https://www.baidu.com/s?wd=%E7%9B%B8%E4%BA%B22%E5%A4%A9%E8%8A%B133%E4%B8%87%E9%97%AA%E5%A9%9A+1%E6%9C%88%E5%90%8E%E5%A5%B3%E6%96%B9%E6%8F%90%E7%A6%BB%E5%A9%9A",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
+        },
+        {
+          "title": "谢贤曾因谢霆锋离婚落泪",
+          "url": "https://www.baidu.com/s?wd=%E8%B0%A2%E8%B4%A4%E6%9B%BE%E5%9B%A0%E8%B0%A2%E9%9C%86%E9%94%8B%E7%A6%BB%E5%A9%9A%E8%90%BD%E6%B3%AA",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时03分"
+        },
+        {
+          "title": "谢贤一生最痛心谢霆锋离婚",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%B0%A2%E8%B4%A4%E4%B8%80%E7%94%9F%E6%9C%80%E7%97%9B%E5%BF%83%E8%B0%A2%E9%9C%86%E9%94%8B%E7%A6%BB%E5%A9%9A%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时36分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "为什么豆包没有被 DeepSeek「斩杀」？",
@@ -881,6 +1002,58 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时06分 ~ 08时03分]"
+        },
+        {
+          "title": "复刻“DeepSeek时刻”？华尔街齐称：Kimi K3反而强化算力需求",
+          "url": "https://wallstreetcn.com/articles/3777510",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "恋爱 相亲 婚恋 脱单",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "26岁女子恋爱后体检发现自己是男性",
+          "url": "https://www.baidu.com/s?wd=26%E5%B2%81%E5%A5%B3%E5%AD%90%E6%81%8B%E7%88%B1%E5%90%8E%E4%BD%93%E6%A3%80%E5%8F%91%E7%8E%B0%E8%87%AA%E5%B7%B1%E6%98%AF%E7%94%B7%E6%80%A7",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            12,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时19分 ~ 18时31分]"
+        },
+        {
+          "title": "26岁女子恋爱后体检发现自己是男性",
+          "url": "https://www.toutiao.com/trending/7664830013404921862/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
+        },
+        {
+          "title": "26岁女子恋爱后体检发现自己是男性",
+          "url": "https://s.weibo.com/weibo?q=%2326%E5%B2%81%E5%A5%B3%E5%AD%90%E6%81%8B%E7%88%B1%E5%90%8E%E4%BD%93%E6%A3%80%E5%8F%91%E7%8E%B0%E8%87%AA%E5%B7%B1%E6%98%AF%E7%94%B7%E6%80%A7%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时36分"
         }
       ]
     },
@@ -895,7 +1068,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
         },
@@ -906,36 +1079,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时36分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "恋爱 相亲 婚恋 脱单",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "26岁女子恋爱后体检发现自己是男性",
-          "url": "https://www.baidu.com/s?wd=26%E5%B2%81%E5%A5%B3%E5%AD%90%E6%81%8B%E7%88%B1%E5%90%8E%E4%BD%93%E6%A3%80%E5%8F%91%E7%8E%B0%E8%87%AA%E5%B7%B1%E6%98%AF%E7%94%B7%E6%80%A7",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            12
-          ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时19分 ~ 15时36分]"
-        },
-        {
-          "title": "26岁女子恋爱后体检发现自己是男性",
-          "url": "https://s.weibo.com/weibo?q=%2326%E5%B2%81%E5%A5%B3%E5%AD%90%E6%81%8B%E7%88%B1%E5%90%8E%E4%BD%93%E6%A3%80%E5%8F%91%E7%8E%B0%E8%87%AA%E5%B7%B1%E6%98%AF%E7%94%B7%E6%80%A7%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "15时36分"
         }
@@ -951,11 +1095,12 @@
           "source": "澎湃新闻",
           "ranks": [
             12,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时19分 ~ 15时36分]"
+          "appearance_count": 3,
+          "time_info": "[12时19分 ~ 18时31分]"
         },
         {
           "title": "上海市教育算力专区正式开启试运行",
@@ -964,7 +1109,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
         }
@@ -981,9 +1126,26 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "焦虑 emo",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "AI都扛不住反复焦虑的人",
+          "url": "https://s.weibo.com/weibo?q=AI%E9%83%BD%E6%89%9B%E4%B8%8D%E4%BD%8F%E5%8F%8D%E5%A4%8D%E7%84%A6%E8%99%91%E7%9A%84%E4%BA%BA&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
         }
       ]
     },
@@ -996,11 +1158,12 @@
           "url": "https://www.zhihu.com/question/2057487320488613098",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时36分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时36分 ~ 18时31分]"
         }
       ]
     },
@@ -1020,6 +1183,23 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时37分 ~ 04时28分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "原生家庭 父母 亲子",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "如何看待父母「你不要比吃，不要比穿，就比学习」的想法？",
+          "url": "https://www.zhihu.com/question/324437913",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
         }
       ]
     }
