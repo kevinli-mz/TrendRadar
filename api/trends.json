@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-23T04:16:26.328653+08:00",
-  "total_titles_processed": 473,
+  "generated_at": "2026-07-23T06:10:46.424102+08:00",
+  "total_titles_processed": 542,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型",
-      "match_count": 16,
+      "match_count": 19,
       "titles": [
         {
           "title": "AI交易热情回落，美股盘初走低，存储芯片、光通信股普跌，SK海力士跌5%，布油涨近3%",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 04时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 06时10分]"
         },
         {
           "title": "6000亿美元→7500亿美元 OpenAI被曝大幅提高算力支出预测",
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 04时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 06时10分]"
         },
         {
           "title": "云支出目标狂飙至7500亿美元！OpenAI豪掷超300亿美元建数据中心，推出Presence平台进军企业软件市场",
@@ -38,8 +38,21 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 04时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 06时10分]"
+        },
+        {
+          "title": "为什么要说尽量少跟AI倾诉聊天",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E8%AF%B4%E5%B0%BD%E9%87%8F%E5%B0%91%E8%B7%9FAI%E5%80%BE%E8%AF%89%E8%81%8A%E5%A4%A9&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 06时10分]"
         },
         {
           "title": "用AI通关高难度跑步游戏",
@@ -50,20 +63,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 04时16分]"
-        },
-        {
-          "title": "为什么要说尽量少跟AI倾诉聊天",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E8%AF%B4%E5%B0%BD%E9%87%8F%E5%B0%91%E8%B7%9FAI%E5%80%BE%E8%AF%89%E8%81%8A%E5%A4%A9&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 04时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 06时10分]"
         },
         {
           "title": "别再给AI乱传文件了",
@@ -72,11 +73,12 @@
           "ranks": [
             1,
             6,
-            9
+            9,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 04时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 06时10分]"
         },
         {
           "title": "OpenAI 模型「失控」入侵全球最大 AI 开源社区，敲响了哪些 AI 安全警钟？",
@@ -88,8 +90,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 04时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 06时10分]"
         },
         {
           "title": "震惊硅谷！OpenAI模型“失控越狱”，入侵HuggingFace“抄答案”，智谱GLM 5.2临危救场",
@@ -99,8 +101,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 04时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 06时10分]"
         },
         {
           "title": "AMD首次押注Anthropic：最高投资50亿美元 并锁定数百亿美元AI服务器订单",
@@ -108,11 +110,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 04时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 06时10分]"
         },
         {
           "title": "从“靠天发电”到可控发电：光伏告别规模扩张后 AI与光储融合构筑新增长底座",
@@ -123,8 +126,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 04时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 06时10分]"
         },
         {
           "title": "前所未有的人工智能失控事故！中方救场",
@@ -134,8 +137,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 04时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 06时10分]"
         },
         {
           "title": "OpenAI遭遇史上首次评测失控事故",
@@ -145,8 +148,20 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 04时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 06时10分]"
+        },
+        {
+          "title": "如何看待《第九区》导演发布 13 分钟全 AI 短片《阴兵》，并计划拍长片， AI 电影发展到哪步了？",
+          "url": "https://www.zhihu.com/question/2062918586486583714",
+          "source": "知乎",
+          "ranks": [
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时16分 ~ 06时10分]"
         },
         {
           "title": "OpenAI：将向国家实验室和大学中约2000名“创世使命”研究人员提供400万美元的Codex访问权限。",
@@ -171,17 +186,6 @@
           "time_info": "00时25分"
         },
         {
-          "title": "如何看待《第九区》导演发布 13 分钟全 AI 短片《阴兵》，并计划拍长片， AI 电影发展到哪步了？",
-          "url": "https://www.zhihu.com/question/2062918586486583714",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时16分"
-        },
-        {
           "title": "OpenAI：将承诺提供300万美元的API支持，用于两项大规模科学活动，以针对重大科学挑战测试前沿模型。",
           "url": "https://flash.jin10.com/detail/20260722233432620800",
           "source": "金十数据",
@@ -191,6 +195,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时25分"
+        },
+        {
+          "title": "AI基础设施概念股盘后大涨，谷歌母公司在电话会上谈及产能扩张",
+          "url": "https://wallstreetcn.com/livenews/3138424",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时10分"
+        },
+        {
+          "title": "谷歌母公司Alphabet的CEO：公司在Gemini 4侧重于AI计算。 公司将加快发布AI模型的速度。 TPU作为独立系统的需求强劲。",
+          "url": "https://wallstreetcn.com/livenews/3138423",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时10分"
+        },
+        {
+          "title": "谷歌CFO：季度资本开支主要用于AI基础设施。",
+          "url": "https://wallstreetcn.com/livenews/3138413",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时10分"
         }
       ]
     },
@@ -238,7 +275,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时16分"
         },
@@ -249,7 +286,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时16分"
         }
@@ -280,8 +317,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 04时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 06时10分]"
         },
         {
           "title": "火影综艺飞舞吧忍者第二集",
@@ -293,8 +330,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 04时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 06时10分]"
         },
         {
           "title": "影视飓风被吐槽演松弛感白人",
@@ -304,19 +341,50 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 04时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 06时10分]"
         },
         {
           "title": "动画电影《八仙！》凭什么火遍全网",
           "url": "https://www.toutiao.com/trending/7665251528526331950/",
           "source": "今日头条",
           "ranks": [
-            22
+            22,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时13分 ~ 02时14分]"
+          "appearance_count": 3,
+          "time_info": "[02时13分 ~ 06时10分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "抑郁 抑郁症",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "70岁阿姨因丈夫去世引起中度抑郁",
+          "url": "https://www.toutiao.com/trending/7665265563451768895/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            30,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 06时10分]"
+        },
+        {
+          "title": "丈夫去世 70岁阿姨中度抑郁",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%88%E5%A4%AB%E5%8E%BB%E4%B8%96+70%E5%B2%81%E9%98%BF%E5%A7%A8%E4%B8%AD%E5%BA%A6%E6%8A%91%E9%83%81",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时10分"
         }
       ]
     },
@@ -332,8 +400,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 04时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 06时10分]"
         },
         {
           "title": "如何看待 7 月 22 日 DeepSeek 客户端联网搜索近 4 小时不可用？",
@@ -341,11 +409,12 @@
           "source": "知乎",
           "ranks": [
             14,
-            7
+            7,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时13分 ~ 04时16分]"
+          "appearance_count": 4,
+          "time_info": "[02时13分 ~ 06时10分]"
         }
       ]
     },
@@ -361,8 +430,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 04时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 06时10分]"
         },
         {
           "title": "快递员摔坏购入价 18.6 万元的手镯，快递公司只愿赔 5 万元，赔偿金额应如何认定？消费者该如何维权？",
@@ -371,29 +440,12 @@
           "ranks": [
             14,
             7,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 04时16分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "抑郁 抑郁症",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "70岁阿姨因丈夫去世引起中度抑郁",
-          "url": "https://www.toutiao.com/trending/7665265563451768895/",
-          "source": "今日头条",
-          "ranks": [
-            27,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 04时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 06时10分]"
         }
       ]
     },
@@ -409,8 +461,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 04时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 06时10分]"
         }
       ]
     },
@@ -426,8 +478,25 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 04时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 06时10分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "生育 催生 不婚",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "阿根廷世界杯失利催生各类阴谋论",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%98%BF%E6%A0%B9%E5%BB%B7%E4%B8%96%E7%95%8C%E6%9D%AF%E5%A4%B1%E5%88%A9%E5%82%AC%E7%94%9F%E5%90%84%E7%B1%BB%E9%98%B4%E8%B0%8B%E8%AE%BA%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时10分"
         }
       ]
     },
@@ -441,11 +510,12 @@
           "source": "知乎",
           "ranks": [
             13,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时13分 ~ 04时16分]"
+          "appearance_count": 4,
+          "time_info": "[02时13分 ~ 06时10分]"
         }
       ]
     },
@@ -459,11 +529,12 @@
           "source": "微博",
           "ranks": [
             24,
-            21
+            21,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时13分 ~ 04时16分]"
+          "appearance_count": 4,
+          "time_info": "[02时13分 ~ 06时10分]"
         }
       ]
     }
