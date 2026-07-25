@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-25T19:17:18.896071+08:00",
-  "total_titles_processed": 1093,
+  "generated_at": "2026-07-25T21:48:51.724326+08:00",
+  "total_titles_processed": 1232,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型",
-      "match_count": 39,
+      "match_count": 46,
       "titles": [
         {
           "title": "AI开支担忧与地缘风险夹击美股，标普创月内最大跌幅，特斯拉跌超14%，油价破百，黄金重挫",
@@ -19,6 +19,20 @@
           "time_info": "[01时43分 ~ 05时12分]"
         },
         {
+          "title": "中国AI反超,老美急眼下黑手",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356490&amp;topic_name=%E4%B8%AD%E5%9B%BDAI%E5%8F%8D%E8%B6%85%2C%E8%80%81%E7%BE%8E%E6%80%A5%E7%9C%BC%E4%B8%8B%E9%BB%91%E6%89%8B",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            5,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时19分 ~ 21时48分]"
+        },
+        {
           "title": "AI烧钱担忧叠加中东局势，纳斯达克100指数跌幅扩大至1.2%，存储芯片板块重挫逾6%，SK海力士跌7%，油价跌超2%",
           "url": "https://wallstreetcn.com/articles/3777833",
           "source": "华尔街见闻",
@@ -28,19 +42,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时43分 ~ 05时12分]"
-        },
-        {
-          "title": "中国AI反超,老美急眼下黑手",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356490&amp;topic_name=%E4%B8%AD%E5%9B%BDAI%E5%8F%8D%E8%B6%85%2C%E8%80%81%E7%BE%8E%E6%80%A5%E7%9C%BC%E4%B8%8B%E9%BB%91%E6%89%8B",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            5,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时19分 ~ 19时17分]"
         },
         {
           "title": "大摩警告：AI存储狂欢接近拐点，内存价格或于四季度见顶",
@@ -91,17 +92,6 @@
           "time_info": "01时43分"
         },
         {
-          "title": "消息称，OpenAI的ChatGPT与Codex出现大范围无法使用故障。",
-          "url": "https://wallstreetcn.com/livenews/3139736",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时17分"
-        },
-        {
           "title": "新闻蒸馏器｜OpenAI模型失控事件后，美国两党议员推动“AI终止开关法案”",
           "url": "https://m.thepaper.cn/newsDetail_forward_33650370",
           "source": "澎湃新闻",
@@ -113,6 +103,20 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时43分 ~ 11时19分]"
+        },
+        {
+          "title": "男生中考 699 分偷偷改志愿读中职，称「未来想当程序员，AI 时代也不怕」，如何看待这一升学选择？",
+          "url": "https://www.zhihu.com/question/2064272326489628784",
+          "source": "知乎",
+          "ranks": [
+            18,
+            12,
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时24分 ~ 21时48分]"
         },
         {
           "title": "SK海力士：与英伟达达成长期AI内存合作协议。",
@@ -154,6 +158,18 @@
           "time_info": "[14时24分 ~ 19时17分]"
         },
         {
+          "title": "消息称，OpenAI的ChatGPT与Codex出现大范围无法使用故障。",
+          "url": "https://wallstreetcn.com/livenews/3139736",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时17分 ~ 21时48分]"
+        },
+        {
           "title": "AI需求引爆十五年最强增长，英特尔Q2营收增25%大超预期，指引保持高增，盘后拉涨丨财报见闻",
           "url": "https://wallstreetcn.com/articles/3777819",
           "source": "华尔街见闻",
@@ -163,19 +179,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时43分 ~ 05时12分]"
-        },
-        {
-          "title": "男生中考 699 分偷偷改志愿读中职，称「未来想当程序员，AI 时代也不怕」，如何看待这一升学选择？",
-          "url": "https://www.zhihu.com/question/2064272326489628784",
-          "source": "知乎",
-          "ranks": [
-            18,
-            12,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时24分 ~ 19时17分]"
         },
         {
           "title": "大厂挤爆AI宠物赛道",
@@ -203,6 +206,18 @@
           "time_info": "[11时19分 ~ 14时24分]"
         },
         {
+          "title": "马斯克：中国很有可能成AI领导者",
+          "url": "https://www.toutiao.com/trending/7666381434109578761/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时17分 ~ 21时48分]"
+        },
+        {
           "title": "AI重现狼牙山五壮士英雄壮举",
           "url": "https://www.toutiao.com/trending/7666058970050183209/",
           "source": "今日头条",
@@ -225,6 +240,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时05分 ~ 19时17分]"
+        },
+        {
+          "title": "韩国绑定美国AI产业链！三星、SK海力士与英伟达、博通等签9500亿美元芯片大单",
+          "url": "https://wallstreetcn.com/articles/3777926",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时48分"
         },
         {
           "title": "Meta Platforms(META.O)：未来几周内，Meta AI 的新功能将扩展至更多国家及平台（包括WhatsApp）。",
@@ -260,6 +286,39 @@
           "time_info": "01时43分"
         },
         {
+          "title": "黄仁勋首推支持开源AI模型，奥特曼意外呼应，马斯克称所有涉及X系统的代码将开源",
+          "url": "https://wallstreetcn.com/articles/3777898",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时48分"
+        },
+        {
+          "title": "有人呼吁美“封杀”中国大模型，黄仁勋等人急了：快开源美国AI",
+          "url": "https://news.ifeng.com/c/8v36WP0WL2Y",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时48分"
+        },
+        {
+          "title": "亚洲大型股票基金转向落后股，来规避AI波动风险",
+          "url": "https://wallstreetcn.com/livenews/3139752",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时48分"
+        },
+        {
           "title": "Anthropic宣布推出Opus 5 AI模型，其性能接近前沿智能水平的 Fable 5，但价格仅为其一半。",
           "url": "https://flash.jin10.com/detail/20260725010125721800",
           "source": "金十数据",
@@ -269,6 +328,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
+        },
+        {
+          "title": "中东断供叠加AI算力爆发，电子布涨超100%，龙头急扩产",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33654798",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时48分"
         },
         {
           "title": "市场消息：英特尔(INTC.O)将在AI封装技术领域与Lens Tech合作。",
@@ -321,18 +391,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时17分"
-        },
-        {
-          "title": "马斯克：中国很有可能成AI领导者",
-          "url": "https://www.toutiao.com/trending/7666381434109578761/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时17分"
         },
@@ -390,6 +449,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时39分"
+        },
+        {
+          "title": "事关基础研究、人工智能、人民城市，上海这场重磅会议锚定哪些关键方向",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33656318",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时48分"
+        },
+        {
+          "title": "黄仁勋发布首条推文力挺开源AI：世界需要前沿的开源模型",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33656792",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时48分"
         },
         {
           "title": "英伟达与SK集团推出5000亿美元AI计划",
@@ -482,8 +563,20 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时05分 ~ 21时48分]"
+        },
+        {
+          "title": "经济日报：携程为何挨了最重的罚？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33656915",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            7
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时05分 ~ 19时17分]"
+          "time_info": "[19时17分 ~ 21时48分]"
         },
         {
           "title": "美国宣布对 60 个经济体加征 10%-12.5% 的 301 关税，但石油、天然气、食品得到豁免，对此你怎么看？",
@@ -528,17 +621,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
-        },
-        {
-          "title": "经济日报：携程为何挨了最重的罚？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33656915",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时17分"
         },
         {
           "title": "欧洲央行首席经济学家：美国并非国际贸易主导力量",
@@ -600,8 +682,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时05分 ~ 19时17分]"
+          "appearance_count": 3,
+          "time_info": "[17时05分 ~ 21时48分]"
         },
         {
           "title": "男子为初恋想离婚要分女儿630万房款",
@@ -641,7 +723,7 @@
     },
     {
       "keyword_group": "电影 影视 综艺",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "曝演员片酬再降，片酬从 2 亿降到最高 2500 万，透露出影视业哪些问题？对行业生态来说，是好事还是坏事？",
@@ -676,11 +758,23 @@
           "source": "抖音",
           "ranks": [
             18,
-            23
+            23,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时05分 ~ 19时17分]"
+          "appearance_count": 3,
+          "time_info": "[17时05分 ~ 21时48分]"
+        },
+        {
+          "title": "电影八仙总票房破6亿",
+          "url": "https://www.douyin.com/hot/2584903",
+          "source": "抖音",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时48分"
         },
         {
           "title": "周星驰电影最大的转折是什么",
@@ -700,6 +794,20 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "中国模型加速AI明星“内卷”，Anthropic上新Opus 5，性能逼近Fable 5价格打对折，刷新ARC-AGI-3纪录",
+          "url": "https://wallstreetcn.com/articles/3777901",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时19分 ~ 21时48分]"
+        },
+        {
           "title": "宁德时代回应中东订单变化：不会参与储能价格内卷，看好下半年及明年需求|直击业绩会",
           "url": "https://www.cls.cn/detail/2436798",
           "source": "财联社热门",
@@ -715,20 +823,6 @@
           "time_info": "[01时43分 ~ 17时05分]"
         },
         {
-          "title": "中国模型加速AI明星“内卷”，Anthropic上新Opus 5，性能逼近Fable 5价格打对折，刷新ARC-AGI-3纪录",
-          "url": "https://wallstreetcn.com/articles/3777901",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时19分 ~ 19时17分]"
-        },
-        {
           "title": "人民日报：查处携程垄断案释放反垄断反内卷强烈信号",
           "url": "https://wallstreetcn.com/livenews/3139710",
           "source": "华尔街见闻-快讯",
@@ -740,6 +834,47 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时24分 ~ 19时17分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "年轻人 00后 35岁",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "《争洛阳》主创：被忽略的三国开局，想让年轻人和古人同频共振",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33650328",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时24分 ~ 19时17分]"
+        },
+        {
+          "title": "这题交给年轻人",
+          "url": "https://www.douyin.com/hot/2583325",
+          "source": "抖音",
+          "ranks": [
+            29,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时43分 ~ 05时12分]"
+        },
+        {
+          "title": "年轻人喜欢的Livehouse涨价了",
+          "url": "https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%96%9C%E6%AC%A2%E7%9A%84Livehouse%E6%B6%A8%E4%BB%B7%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时48分"
         }
       ]
     },
@@ -805,11 +940,12 @@
           "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E8%A3%85%E9%80%80%E8%B4%A7%E7%8E%87%E8%BE%BE80%25+%E8%B4%A3%E4%BB%BB%E4%B8%8D%E5%9C%A8%E6%B6%88%E8%B4%B9%E8%80%85",
           "source": "百度热搜",
           "ranks": [
-            5
+            5,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时17分 ~ 21时48分]"
         },
         {
           "title": "周五（7月24日），美股行业ETF多数收涨，全球航空业ETF涨2.66%，网络股指数ETF涨0.44%，能源业ETF涨0.4%，科技行业ETF跌1.44%，全球科技股指数ETF跌1.69%，半导体ETF跌3.27%。 2026年迄今，半导体ETF累计涨幅收窄至55.83%，能源业ETF涨35.19%，全球科技股指数ETF、科技行业ETF至多涨26.76%，网络股指数ETF跌3.73%，可选消费ETF跌8.01%。",
@@ -854,39 +990,23 @@
       ]
     },
     {
-      "keyword_group": "年轻人 00后 35岁",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "《争洛阳》主创：被忽略的三国开局，想让年轻人和古人同频共振",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33650328",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时24分 ~ 19时17分]"
-        },
-        {
-          "title": "这题交给年轻人",
-          "url": "https://www.douyin.com/hot/2583325",
-          "source": "抖音",
-          "ranks": [
-            29,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时43分 ~ 05时12分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "性别 男女 女性",
       "match_count": 2,
       "titles": [
+        {
+          "title": "高市早苗强推《皇室典范》修订，未松绑“女性天皇”却引入“皇室养子”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33653295",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            14,
+            13,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时19分 ~ 21时48分]"
+        },
         {
           "title": "视频丨菲尔兹奖得主王虹：很荣幸成为第三个获奖女性，勇敢去做喜欢的事",
           "url": "https://m.thepaper.cn/newsDetail_forward_33649546",
@@ -899,19 +1019,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时43分 ~ 07时07分]"
-        },
-        {
-          "title": "高市早苗强推《皇室典范》修订，未松绑“女性天皇”却引入“皇室养子”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33653295",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时19分 ~ 19时17分]"
         }
       ]
     },
@@ -928,11 +1035,12 @@
             16,
             22,
             23,
-            25
+            25,
+            27
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时43分 ~ 19时17分]"
+          "appearance_count": 9,
+          "time_info": "[01时43分 ~ 21时48分]"
         },
         {
           "title": "中国基础教育 自信从何而来？",
@@ -977,11 +1085,12 @@
             17,
             23,
             24,
-            26
+            26,
+            28
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时43分 ~ 19时17分]"
+          "appearance_count": 9,
+          "time_info": "[01时43分 ~ 21时48分]"
         }
       ]
     },
@@ -999,6 +1108,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "考公 考研 上岸",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "上百斤重水泥柱被巨浪拍断冲上岸",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%8A%E7%99%BE%E6%96%A4%E9%87%8D%E6%B0%B4%E6%B3%A5%E6%9F%B1%E8%A2%AB%E5%B7%A8%E6%B5%AA%E6%8B%8D%E6%96%AD%E5%86%B2%E4%B8%8A%E5%B2%B8",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时48分"
         }
       ]
     },
@@ -1031,7 +1157,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时17分"
         }
