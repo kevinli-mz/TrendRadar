@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-26T18:07:21.031880+08:00",
-  "total_titles_processed": 980,
+  "generated_at": "2026-07-26T20:10:19.108806+08:00",
+  "total_titles_processed": 1097,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型",
-      "match_count": 38,
+      "match_count": 43,
       "titles": [
         {
           "title": "韩国绑定美国AI产业链！三星、SK海力士与英伟达、博通等签9500亿美元芯片大单",
@@ -59,8 +59,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时07分 ~ 18时07分]"
+          "appearance_count": 13,
+          "time_info": "[01时07分 ~ 20时10分]"
         },
         {
           "title": "如何看待月之暗面发布 kimi K3-256K 大模型，能力和 K3 一样，不能看视频，上下文只有 256K？",
@@ -176,6 +176,19 @@
           "time_info": "[05时01分 ~ 08时06分]"
         },
         {
+          "title": "AI还要跌多久",
+          "url": "https://wallstreetcn.com/articles/3777943",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时40分 ~ 20时10分]"
+        },
+        {
           "title": "假如莫奈遇上AI机器人",
           "url": "https://search.bilibili.com/all?keyword=%E5%81%87%E5%A6%82%E8%8E%AB%E5%A5%88%E9%81%87%E4%B8%8AAI%E6%9C%BA%E5%99%A8%E4%BA%BA",
           "source": "bilibili 热搜",
@@ -259,16 +272,16 @@
           "time_info": "[12时32分 ~ 15时40分]"
         },
         {
-          "title": "AI还要跌多久",
-          "url": "https://wallstreetcn.com/articles/3777943",
-          "source": "华尔街见闻",
+          "title": "如何看待谷歌豪赌 AI ，自由现金流数十年来首次转负？",
+          "url": "https://www.zhihu.com/question/2063587044526404438",
+          "source": "知乎",
           "ranks": [
-            9,
+            14,
             7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时40分 ~ 18时07分]"
+          "time_info": "[18时07分 ~ 20时10分]"
         },
         {
           "title": "百元油价、AI反噬、关税重启--股市多头的“艰难盛夏”",
@@ -282,6 +295,18 @@
           "time_info": "[08时05分 ~ 08时06分]"
         },
         {
+          "title": "美国五大科技巨头 AI 隐性债务被曝达 1.65 万亿美元，四年内增长 8 倍，巨额表外负债会成为定时炸弹吗？",
+          "url": "https://www.zhihu.com/question/2063915578427963194",
+          "source": "知乎",
+          "ranks": [
+            19,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时07分 ~ 20时10分]"
+        },
+        {
           "title": "AI 会让艺术「更繁荣」还是「更廉价」？",
           "url": "https://www.zhihu.com/question/2056403801884423338",
           "source": "知乎",
@@ -293,13 +318,24 @@
           "time_info": "[08时05分 ~ 08时06分]"
         },
         {
+          "title": "美国发生AI失控事故",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%8F%91%E7%94%9FAI%E5%A4%B1%E6%8E%A7%E4%BA%8B%E6%95%85%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时10分"
+        },
+        {
           "title": "如何看美国审查中国AI模型",
           "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E7%BE%8E%E5%9B%BD%E5%AE%A1%E6%9F%A5%E4%B8%AD%E5%9B%BDAI%E6%A8%A1%E5%9E%8B",
           "source": "bilibili 热搜",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时07分"
         },
@@ -348,6 +384,17 @@
           "time_info": "12时32分"
         },
         {
+          "title": "马斯克、黄仁勋最新涉华表态：中国注定会产出卓越的AI技术，美国就算禁用也挡不住",
+          "url": "https://wallstreetcn.com/livenews/3139836",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时10分"
+        },
+        {
           "title": "英伟达与 SK 集团推出超 5000 亿美元双向交易 AI 合作计划，英伟达买内存，SK 买超算，如何解读？",
           "url": "https://www.zhihu.com/question/2064306906437571115",
           "source": "知乎",
@@ -359,26 +406,26 @@
           "time_info": "12时32分"
         },
         {
-          "title": "如何看待谷歌豪赌 AI ，自由现金流数十年来首次转负？",
-          "url": "https://www.zhihu.com/question/2063587044526404438",
-          "source": "知乎",
+          "title": "谁还没跳ACAI拖拉机舞",
+          "url": "https://www.douyin.com/hot/2586099",
+          "source": "抖音",
           "ranks": [
-            14
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时07分"
+          "time_info": "20时10分"
         },
         {
-          "title": "美国五大科技巨头 AI 隐性债务被曝达 1.65 万亿美元，四年内增长 8 倍，巨额表外负债会成为定时炸弹吗？",
-          "url": "https://www.zhihu.com/question/2063915578427963194",
-          "source": "知乎",
+          "title": "观众为何不能容忍长剧片头用AI",
+          "url": "https://www.toutiao.com/trending/7666471179586650166/",
+          "source": "今日头条",
           "ranks": [
-            19
+            20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时07分"
+          "time_info": "20时10分"
         },
         {
           "title": "AI冲击下短剧演员掀起改行潮",
@@ -390,6 +437,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
+        },
+        {
+          "title": "中国AI芯片国产替代率五年从10%升至40%",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BDAI%E8%8A%AF%E7%89%87%E5%9B%BD%E4%BA%A7%E6%9B%BF%E4%BB%A3%E7%8E%87%E4%BA%94%E5%B9%B4%E4%BB%8E10%25%E5%8D%87%E8%87%B340%25&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时10分"
         },
         {
           "title": "马斯克说未来中国极可能成为AI领导者",
@@ -420,7 +478,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时07分"
         },
@@ -461,7 +519,7 @@
     },
     {
       "keyword_group": "电影 影视 综艺",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "《三国第一部：争洛阳》上映 16 天官宣撤档，票房未破亿，电影的问题出在哪？改档期会有效吗？",
@@ -538,11 +596,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            3
+            3,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时40分 ~ 18时07分]"
+          "appearance_count": 3,
+          "time_info": "[15时40分 ~ 20时10分]"
         },
         {
           "title": "2026暑期档电影票房破55亿",
@@ -563,11 +622,12 @@
           "source": "抖音",
           "ranks": [
             24,
-            17
+            17,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时40分 ~ 18时07分]"
+          "appearance_count": 3,
+          "time_info": "[15时40分 ~ 20时10分]"
         },
         {
           "title": "电影《三国第一部：争洛阳》宣布撤档",
@@ -576,67 +636,26 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时07分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "就业 失业 裁员 应届生",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "为AI投资腾资金？美国科技巨头年内裁员近14万人",
-          "url": "https://wallstreetcn.com/articles/3777930",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时32分 ~ 18时07分]"
-        },
-        {
-          "title": "横店演员失业卖凉皮：演太监都得1米8",
-          "url": "https://www.baidu.com/s?wd=%E6%A8%AA%E5%BA%97%E6%BC%94%E5%91%98%E5%A4%B1%E4%B8%9A%E5%8D%96%E5%87%89%E7%9A%AE%EF%BC%9A%E6%BC%94%E5%A4%AA%E7%9B%91%E9%83%BD%E5%BE%971%E7%B1%B38",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            6
-          ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时32分 ~ 15时40分]"
+          "time_info": "[18时07分 ~ 20时10分]"
         },
         {
-          "title": "有人说医学专业就业难、工作压力大，但我感觉学医就业途径多、收入不菲，真实的情况究竟是怎样?",
-          "url": "https://www.zhihu.com/question/1916279312321083336",
+          "title": "科幻电影《群星闪耀时》的设定有哪些 bug？",
+          "url": "https://www.zhihu.com/question/2064068221662242115",
           "source": "知乎",
           "ranks": [
-            17
+            19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时07分"
-        },
-        {
-          "title": "正颌手术被做反女孩术后直接失业",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%AD%A3%E9%A2%8C%E6%89%8B%E6%9C%AF%E8%A2%AB%E5%81%9A%E5%8F%8D%E5%A5%B3%E5%AD%A9%E6%9C%AF%E5%90%8E%E7%9B%B4%E6%8E%A5%E5%A4%B1%E4%B8%9A%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时32分"
+          "time_info": "20时10分"
         }
       ]
     },
     {
       "keyword_group": "婚姻 结婚 离婚 彩礼",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "博三女生没结婚问亲戚：谁笑话我妈了",
@@ -685,6 +704,69 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
+        },
+        {
+          "title": "大学生帮结婚37年夫妻圆拍照心愿",
+          "url": "https://www.toutiao.com/trending/7666749862060113947/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时10分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "就业 失业 裁员 应届生",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "为AI投资腾资金？美国科技巨头年内裁员近14万人",
+          "url": "https://wallstreetcn.com/articles/3777930",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时32分 ~ 18时07分]"
+        },
+        {
+          "title": "横店演员失业卖凉皮：演太监都得1米8",
+          "url": "https://www.baidu.com/s?wd=%E6%A8%AA%E5%BA%97%E6%BC%94%E5%91%98%E5%A4%B1%E4%B8%9A%E5%8D%96%E5%87%89%E7%9A%AE%EF%BC%9A%E6%BC%94%E5%A4%AA%E7%9B%91%E9%83%BD%E5%BE%971%E7%B1%B38",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时32分 ~ 15时40分]"
+        },
+        {
+          "title": "有人说医学专业就业难、工作压力大，但我感觉学医就业途径多、收入不菲，真实的情况究竟是怎样?",
+          "url": "https://www.zhihu.com/question/1916279312321083336",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时07分"
+        },
+        {
+          "title": "正颌手术被做反女孩术后直接失业",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%AD%A3%E9%A2%8C%E6%89%8B%E6%9C%AF%E8%A2%AB%E5%81%9A%E5%8F%8D%E5%A5%B3%E5%AD%A9%E6%9C%AF%E5%90%8E%E7%9B%B4%E6%8E%A5%E5%A4%B1%E4%B8%9A%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时32分"
         }
       ]
     },
@@ -705,6 +787,17 @@
           "time_info": "[01时07分 ~ 08时06分]"
         },
         {
+          "title": "多家外媒：中国经济展现出较强韧性",
+          "url": "https://www.toutiao.com/trending/7666633756211757119/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时40分 ~ 20时10分]"
+        },
+        {
           "title": "数字经济交出亮眼成绩单",
           "url": "https://s.weibo.com/weibo?q=%23%E6%95%B0%E5%AD%97%E7%BB%8F%E6%B5%8E%E4%BA%A4%E5%87%BA%E4%BA%AE%E7%9C%BC%E6%88%90%E7%BB%A9%E5%8D%95%23&t=31&band_rank=3&Refer=top",
           "source": "微博",
@@ -716,26 +809,57 @@
           "time_info": "[01时07分 ~ 03时18分]"
         },
         {
-          "title": "多家外媒：中国经济展现出较强韧性",
-          "url": "https://www.toutiao.com/trending/7666633756211757119/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时40分 ~ 18时07分]"
-        },
-        {
           "title": "非洲开发银行气候负责人：超级厄尔尼诺现象可能导致受影响的非洲国家经济损失在100亿至200亿美元之间。",
           "url": "https://flash.jin10.com/detail/20260726160033957800",
           "source": "金十数据",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时07分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "年轻人 00后 35岁",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "85岁剑桥教授，为何成中国年轻人的“树洞”",
+          "url": "https://news.ifeng.com/c/8v2ydgnLCVu",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时07分 ~ 08时06分]"
+        },
+        {
+          "title": "新一届“35岁以下科技创新35人”中国区名单在沪发布，罗福莉在列",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33658459",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            14,
+            15,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时05分 ~ 18时07分]"
+        },
+        {
+          "title": "年轻人不愿为夜店溢价买单了",
+          "url": "https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%8D%E6%84%BF%E4%B8%BA%E5%A4%9C%E5%BA%97%E6%BA%A2%E4%BB%B7%E4%B9%B0%E5%8D%95%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时10分"
         }
       ]
     },
@@ -774,9 +898,38 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时07分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "社会 阶层 社会学",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "巴勒斯坦总统呼吁国际社会制止以方行动",
+          "url": "https://wallstreetcn.com/livenews/3139837",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时10分"
+        },
+        {
+          "title": "巴勒斯坦外长：巴勒斯坦人的血液被用作以色列选举的筹码。我们要求国际社会紧急介入，约旦河西岸的局势非常严重。",
+          "url": "https://flash.jin10.com/detail/20260726022946125800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时18分 ~ 05时01分]"
         }
       ]
     },
@@ -800,42 +953,12 @@
           "url": "https://www.baidu.com/s?wd=%E5%A5%87%E7%91%9E%E8%91%A3%E4%BA%8B%E9%95%BF%EF%BC%9A%E6%88%91%E4%BB%AC%E4%B8%8D%E5%86%8D%E5%8F%82%E5%8A%A0%E5%86%85%E5%8D%B7",
           "source": "百度热搜",
           "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时07分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "年轻人 00后 35岁",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "85岁剑桥教授，为何成中国年轻人的“树洞”",
-          "url": "https://news.ifeng.com/c/8v2ydgnLCVu",
-          "source": "凤凰网",
-          "ranks": [
-            11
+            25,
+            9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时07分 ~ 08时06分]"
-        },
-        {
-          "title": "新一届“35岁以下科技创新35人”中国区名单在沪发布，罗福莉在列",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33658459",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            14,
-            15,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时05分 ~ 18时07分]"
+          "appearance_count": 2,
+          "time_info": "[18时07分 ~ 20时10分]"
         }
       ]
     },
@@ -868,24 +991,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时07分 ~ 08时06分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "社会 阶层 社会学",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "巴勒斯坦外长：巴勒斯坦人的血液被用作以色列选举的筹码。我们要求国际社会紧急介入，约旦河西岸的局势非常严重。",
-          "url": "https://flash.jin10.com/detail/20260726022946125800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时18分 ~ 05时01分]"
         }
       ]
     },
@@ -936,11 +1041,12 @@
           "ranks": [
             2,
             14,
-            15
+            15,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时32分 ~ 18时07分]"
+          "appearance_count": 4,
+          "time_info": "[12时32分 ~ 20时10分]"
         }
       ]
     },
@@ -957,11 +1063,12 @@
             9,
             4,
             3,
-            10
+            10,
+            17
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[03时17分 ~ 12时32分]"
+          "appearance_count": 10,
+          "time_info": "[03时17分 ~ 20时10分]"
         }
       ]
     }
