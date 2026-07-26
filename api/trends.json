@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-26T12:32:23.929287+08:00",
-  "total_titles_processed": 691,
+  "generated_at": "2026-07-26T15:40:36.646625+08:00",
+  "total_titles_processed": 839,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型",
-      "match_count": 27,
+      "match_count": 34,
       "titles": [
         {
           "title": "韩国绑定美国AI产业链！三星、SK海力士与英伟达、博通等签9500亿美元芯片大单",
@@ -54,11 +54,12 @@
           "source": "贴吧",
           "ranks": [
             13,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时07分 ~ 12时32分]"
+          "appearance_count": 11,
+          "time_info": "[01时07分 ~ 15时40分]"
         },
         {
           "title": "如何看待月之暗面发布 kimi K3-256K 大模型，能力和 K3 一样，不能看视频，上下文只有 256K？",
@@ -145,9 +146,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时32分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时32分 ~ 15时40分]"
         },
         {
           "title": "OpenAI产品负责人Tibo：ChatGPT Work的活跃用户数量正式超越Codex。",
@@ -156,7 +157,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
         },
@@ -172,6 +173,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时01分 ~ 08时06分]"
+        },
+        {
+          "title": "假如莫奈遇上AI机器人",
+          "url": "https://search.bilibili.com/all?keyword=%E5%81%87%E5%A6%82%E8%8E%AB%E5%A5%88%E9%81%87%E4%B8%8AAI%E6%9C%BA%E5%99%A8%E4%BA%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20,
+            26,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时05分 ~ 15时40分]"
         },
         {
           "title": "亚洲大型股票基金转向落后股，来规避AI波动风险",
@@ -221,16 +235,16 @@
           "time_info": "[06时04分 ~ 12时32分]"
         },
         {
-          "title": "假如莫奈遇上AI机器人",
-          "url": "https://search.bilibili.com/all?keyword=%E5%81%87%E5%A6%82%E8%8E%AB%E5%A5%88%E9%81%87%E4%B8%8AAI%E6%9C%BA%E5%99%A8%E4%BA%BA",
-          "source": "bilibili 热搜",
+          "title": "AI短剧《被裁掉的女孩》播放破2亿",
+          "url": "https://www.toutiao.com/trending/7665929964277006363/",
+          "source": "今日头条",
           "ranks": [
-            20,
-            26
+            6,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时05分 ~ 12时32分]"
+          "appearance_count": 2,
+          "time_info": "[12时32分 ~ 15时40分]"
         },
         {
           "title": "百元油价、AI反噬、关税重启--股市多头的“艰难盛夏”",
@@ -244,6 +258,17 @@
           "time_info": "[08时05分 ~ 08时06分]"
         },
         {
+          "title": "环球下周看点：美联储决议携AI巨头财报来袭 美股迎来“超级周”",
+          "url": "https://www.cls.cn/detail/2437061",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时32分 ~ 15时40分]"
+        },
+        {
           "title": "AI 会让艺术「更繁荣」还是「更廉价」？",
           "url": "https://www.zhihu.com/question/2056403801884423338",
           "source": "知乎",
@@ -255,26 +280,26 @@
           "time_info": "[08时05分 ~ 08时06分]"
         },
         {
-          "title": "AI短剧《被裁掉的女孩》播放破2亿",
-          "url": "https://www.toutiao.com/trending/7665929964277006363/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时32分"
-        },
-        {
           "title": "Anthropic也要自研AI芯片了！已向SK海力士寻求供应",
           "url": "https://wallstreetcn.com/articles/3777924",
           "source": "华尔街见闻",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
+        },
+        {
+          "title": "AI还要跌多久",
+          "url": "https://wallstreetcn.com/articles/3777943",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时40分"
         },
         {
           "title": "黄仁勋：中国注定会产出卓越的AI技术",
@@ -283,9 +308,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
+        },
+        {
+          "title": "中国AI步步紧逼，美国科技巨头先内讧了",
+          "url": "https://news.ifeng.com/c/8v4ERxkHrbt",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时40分"
         },
         {
           "title": "史无前例！美国出现人工智能失控事故，更多内幕曝光",
@@ -294,18 +330,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时32分"
-        },
-        {
-          "title": "环球下周看点：美联储决议携AI巨头财报来袭 美股迎来“超级周”",
-          "url": "https://www.cls.cn/detail/2437061",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
         },
@@ -316,7 +341,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
         },
@@ -327,15 +352,70 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
+        },
+        {
+          "title": "马斯克说未来中国极可能成为AI领导者",
+          "url": "https://flash.jin10.com/detail/20260726131248112800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时40分"
+        },
+        {
+          "title": "英国人工智能大臣：芯片和无人机将成为“再工业化”战略的核心",
+          "url": "https://flash.jin10.com/detail/20260726130954988800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时40分"
+        },
+        {
+          "title": "英伟达与首尔大学在韩国设立联合AI研究中心",
+          "url": "https://flash.jin10.com/detail/20260726130226499800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时40分"
+        },
+        {
+          "title": "三星李在镕与OpenAI据悉磋商AI与半导体领域合作方案",
+          "url": "https://flash.jin10.com/detail/20260726125707233800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时40分"
+        },
+        {
+          "title": "AI的回答让我重新理解活着",
+          "url": "https://www.douyin.com/hot/2584567",
+          "source": "抖音",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时40分"
         }
       ]
     },
     {
       "keyword_group": "电影 影视 综艺",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "《三国第一部：争洛阳》上映 16 天官宣撤档，票房未破亿，电影的问题出在哪？改档期会有效吗？",
@@ -418,51 +498,34 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时07分 ~ 12时32分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "就业 失业 裁员 应届生",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "为AI投资腾资金？美国科技巨头年内裁员近14万人",
-          "url": "https://wallstreetcn.com/articles/3777930",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时32分"
         },
         {
-          "title": "正颌手术被做反女孩术后直接失业",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%AD%A3%E9%A2%8C%E6%89%8B%E6%9C%AF%E8%A2%AB%E5%81%9A%E5%8F%8D%E5%A5%B3%E5%AD%A9%E6%9C%AF%E5%90%8E%E7%9B%B4%E6%8E%A5%E5%A4%B1%E4%B8%9A%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
+          "title": "2026年暑期档电影票房已破55亿元，超去年同期10亿元",
+          "url": "https://wallstreetcn.com/livenews/3139816",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            27
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时32分"
+          "time_info": "15时40分"
         },
         {
-          "title": "横店演员失业卖凉皮：演太监都得1米8",
-          "url": "https://www.baidu.com/s?wd=%E6%A8%AA%E5%BA%97%E6%BC%94%E5%91%98%E5%A4%B1%E4%B8%9A%E5%8D%96%E5%87%89%E7%9A%AE%EF%BC%9A%E6%BC%94%E5%A4%AA%E7%9B%91%E9%83%BD%E5%BE%971%E7%B1%B38",
-          "source": "百度热搜",
+          "title": "电影痴迷到底恐怖在哪里",
+          "url": "https://www.douyin.com/hot/2585711",
+          "source": "抖音",
           "ranks": [
-            29
+            24
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时32分"
+          "time_info": "15时40分"
         }
       ]
     },
     {
       "keyword_group": "婚姻 结婚 离婚 彩礼",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "博三女生没结婚问亲戚：谁笑话我妈了",
@@ -491,15 +554,106 @@
           "time_info": "[06时04分 ~ 06时05分]"
         },
         {
+          "title": "如何评价邹市明曾为不和冉莹颖离婚带失效身份证去民事局，邹市明冉莹颖的感情状况到底如何？",
+          "url": "https://www.zhihu.com/question/2064377659606266424",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时40分"
+        },
+        {
           "title": "房主任离婚后户口还没迁出",
           "url": "https://www.douyin.com/hot/2585161",
           "source": "抖音",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "就业 失业 裁员 应届生",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "为AI投资腾资金？美国科技巨头年内裁员近14万人",
+          "url": "https://wallstreetcn.com/articles/3777930",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时32分 ~ 15时40分]"
+        },
+        {
+          "title": "横店演员失业卖凉皮：演太监都得1米8",
+          "url": "https://www.baidu.com/s?wd=%E6%A8%AA%E5%BA%97%E6%BC%94%E5%91%98%E5%A4%B1%E4%B8%9A%E5%8D%96%E5%87%89%E7%9A%AE%EF%BC%9A%E6%BC%94%E5%A4%AA%E7%9B%91%E9%83%BD%E5%BE%971%E7%B1%B38",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时32分 ~ 15时40分]"
+        },
+        {
+          "title": "正颌手术被做反女孩术后直接失业",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%AD%A3%E9%A2%8C%E6%89%8B%E6%9C%AF%E8%A2%AB%E5%81%9A%E5%8F%8D%E5%A5%B3%E5%AD%A9%E6%9C%AF%E5%90%8E%E7%9B%B4%E6%8E%A5%E5%A4%B1%E4%B8%9A%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "经济 经济学",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "经济日报：携程为何挨了最重的罚？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33656915",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时07分 ~ 08时06分]"
+        },
+        {
+          "title": "数字经济交出亮眼成绩单",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%95%B0%E5%AD%97%E7%BB%8F%E6%B5%8E%E4%BA%A4%E5%87%BA%E4%BA%AE%E7%9C%BC%E6%88%90%E7%BB%A9%E5%8D%95%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时07分 ~ 03时18分]"
+        },
+        {
+          "title": "多家外媒：中国经济展现出较强韧性",
+          "url": "https://www.toutiao.com/trending/7666633756211757119/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时40分"
         }
       ]
     },
@@ -524,40 +678,42 @@
           "source": "澎湃新闻",
           "ranks": [
             19,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时05分 ~ 12时32分]"
+          "appearance_count": 4,
+          "time_info": "[08时05分 ~ 15时40分]"
         }
       ]
     },
     {
-      "keyword_group": "经济 经济学",
+      "keyword_group": "原生家庭 父母 亲子",
       "match_count": 2,
       "titles": [
         {
-          "title": "经济日报：携程为何挨了最重的罚？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33656915",
-          "source": "澎湃新闻",
+          "title": "完全是不扫兴的父母了",
+          "url": "https://www.douyin.com/hot/2584270",
+          "source": "抖音",
           "ranks": [
-            7,
-            6
+            28,
+            30,
+            29
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时07分 ~ 08时06分]"
+          "appearance_count": 8,
+          "time_info": "[01时07分 ~ 12时32分]"
         },
         {
-          "title": "数字经济交出亮眼成绩单",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%95%B0%E5%AD%97%E7%BB%8F%E6%B5%8E%E4%BA%A4%E5%87%BA%E4%BA%AE%E7%9C%BC%E6%88%90%E7%BB%A9%E5%8D%95%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
+          "title": "张子萱自曝父母买不起北京的大房子",
+          "url": "https://www.toutiao.com/trending/7665581100568248346/",
+          "source": "今日头条",
           "ranks": [
-            3
+            21
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时07分 ~ 03时18分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时40分"
         }
       ]
     },
@@ -572,11 +728,12 @@
           "ranks": [
             2,
             5,
-            13
+            13,
+            25
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时07分 ~ 12时32分]"
+          "appearance_count": 7,
+          "time_info": "[01时07分 ~ 15时40分]"
         },
         {
           "title": "马克龙致电王虹,硬吹法国教育",
@@ -663,25 +820,6 @@
       ]
     },
     {
-      "keyword_group": "原生家庭 父母 亲子",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "完全是不扫兴的父母了",
-          "url": "https://www.douyin.com/hot/2584270",
-          "source": "抖音",
-          "ranks": [
-            28,
-            30,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时07分 ~ 12时32分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
@@ -690,11 +828,12 @@
           "url": "https://wallstreetcn.com/livenews/3139801",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时32分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时32分 ~ 15时40分]"
         }
       ]
     },
