@@ -1,22 +1,37 @@
 {
-  "generated_at": "2026-07-26T06:05:04.602912+08:00",
-  "total_titles_processed": 427,
+  "generated_at": "2026-07-26T08:06:16.655972+08:00",
+  "total_titles_processed": 497,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
         {
           "title": "韩国绑定美国AI产业链！三星、SK海力士与英伟达、博通等签9500亿美元芯片大单",
           "url": "https://wallstreetcn.com/articles/3777926",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时07分 ~ 06时05分]"
+          "appearance_count": 9,
+          "time_info": "[01时07分 ~ 08时06分]"
+        },
+        {
+          "title": "卖脸给AI游本昌王祖贤1个好评1个挨骂",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%96%E8%84%B8%E7%BB%99AI%E6%B8%B8%E6%9C%AC%E6%98%8C%E7%8E%8B%E7%A5%96%E8%B4%A41%E4%B8%AA%E5%A5%BD%E8%AF%841%E4%B8%AA%E6%8C%A8%E9%AA%82",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            16,
+            13,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时07分 ~ 08时06分]"
         },
         {
           "title": "如何看待月之暗面发布 kimi K3-256K 大模型，能力和 K3 一样，不能看视频，上下文只有 256K？",
@@ -29,8 +44,56 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时07分 ~ 06时05分]"
+          "appearance_count": 9,
+          "time_info": "[01时07分 ~ 08时06分]"
+        },
+        {
+          "title": "有人呼吁美“封杀”中国大模型，黄仁勋等人急了：快开源美国AI",
+          "url": "https://news.ifeng.com/c/8v36WP0WL2Y",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时07分 ~ 08时06分]"
+        },
+        {
+          "title": "中国AI反超,老美急眼下黑手",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356490&amp;topic_name=%E4%B8%AD%E5%9B%BDAI%E5%8F%8D%E8%B6%85%2C%E8%80%81%E7%BE%8E%E6%80%A5%E7%9C%BC%E4%B8%8B%E9%BB%91%E6%89%8B",
+          "source": "贴吧",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时07分 ~ 08时06分]"
+        },
+        {
+          "title": "事关基础研究、人工智能、人民城市，上海这场重磅会议锚定哪些关键方向",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33656318",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时07分 ~ 08时06分]"
+        },
+        {
+          "title": "搞清楚市场担心什么AI风险：蛋糕大小，还是分配？",
+          "url": "https://wallstreetcn.com/articles/3777925",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[03时17分 ~ 08时06分]"
         },
         {
           "title": "马斯克：中国很有可能成AI领导者",
@@ -41,41 +104,6 @@
             27,
             7,
             29
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时07分 ~ 06时05分]"
-        },
-        {
-          "title": "有人呼吁美“封杀”中国大模型，黄仁勋等人急了：快开源美国AI",
-          "url": "https://news.ifeng.com/c/8v36WP0WL2Y",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时07分 ~ 06时05分]"
-        },
-        {
-          "title": "卖脸给AI游本昌王祖贤1个好评1个挨骂",
-          "url": "https://www.baidu.com/s?wd=%E5%8D%96%E8%84%B8%E7%BB%99AI%E6%B8%B8%E6%9C%AC%E6%98%8C%E7%8E%8B%E7%A5%96%E8%B4%A41%E4%B8%AA%E5%A5%BD%E8%AF%841%E4%B8%AA%E6%8C%A8%E9%AA%82",
-          "source": "百度热搜",
-          "ranks": [
-            19,
-            16,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时07分 ~ 06时05分]"
-        },
-        {
-          "title": "中国AI反超,老美急眼下黑手",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356490&amp;topic_name=%E4%B8%AD%E5%9B%BDAI%E5%8F%8D%E8%B6%85%2C%E8%80%81%E7%BE%8E%E6%80%A5%E7%9C%BC%E4%B8%8B%E9%BB%91%E6%89%8B",
-          "source": "贴吧",
-          "ranks": [
-            13
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -96,18 +124,6 @@
           "time_info": "[01时07分 ~ 06时05分]"
         },
         {
-          "title": "事关基础研究、人工智能、人民城市，上海这场重磅会议锚定哪些关键方向",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33656318",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时07分 ~ 06时05分]"
-        },
-        {
           "title": "黄仁勋发布首条推文力挺开源AI：世界需要前沿的开源模型",
           "url": "https://m.thepaper.cn/newsDetail_forward_33656792",
           "source": "澎湃新闻",
@@ -120,28 +136,17 @@
           "time_info": "[01时07分 ~ 06时05分]"
         },
         {
-          "title": "搞清楚市场担心什么AI风险：蛋糕大小，还是分配？",
-          "url": "https://wallstreetcn.com/articles/3777925",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时17分 ~ 06时05分]"
-        },
-        {
           "title": "OpenAI Codex开发人员Thomas Ricouard：我让5.6 Sol稍微提升几何精度和材质细节，效果令人惊喜。这是一个完全在Blender中构建的场景，可以自由操控和漫游，而且它还能持续从中生成颇有格调的静态画面。",
           "url": "https://flash.jin10.com/detail/20260726044659225800",
           "source": "金十数据",
           "ranks": [
             2,
-            8
+            8,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时01分 ~ 06时05分]"
+          "appearance_count": 3,
+          "time_info": "[05时01分 ~ 08时06分]"
         },
         {
           "title": "亚洲大型股票基金转向落后股，来规避AI波动风险",
@@ -171,11 +176,34 @@
           "source": "金十数据",
           "ranks": [
             14,
-            20
+            20,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时01分 ~ 08时06分]"
+        },
+        {
+          "title": "百元油价、AI反噬、关税重启--股市多头的“艰难盛夏”",
+          "url": "https://wallstreetcn.com/articles/3777919",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时01分 ~ 06时05分]"
+          "time_info": "[08时05分 ~ 08时06分]"
+        },
+        {
+          "title": "AI 会让艺术「更繁荣」还是「更廉价」？",
+          "url": "https://www.zhihu.com/question/2056403801884423338",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时05分 ~ 08时06分]"
         },
         {
           "title": "AI已经摸不透柯洁了",
@@ -187,6 +215,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时04分 ~ 06时05分]"
+        },
+        {
+          "title": "假如莫奈遇上AI机器人",
+          "url": "https://search.bilibili.com/all?keyword=%E5%81%87%E5%A6%82%E8%8E%AB%E5%A5%88%E9%81%87%E4%B8%8AAI%E6%9C%BA%E5%99%A8%E4%BA%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时05分 ~ 08时06分]"
         }
       ]
     },
@@ -200,11 +239,12 @@
           "source": "知乎",
           "ranks": [
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时07分 ~ 06时05分]"
+          "appearance_count": 9,
+          "time_info": "[01时07分 ~ 08时06分]"
         },
         {
           "title": "电影八仙总票房破6亿",
@@ -215,8 +255,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时07分 ~ 06时05分]"
+          "appearance_count": 9,
+          "time_info": "[01时07分 ~ 08时06分]"
         },
         {
           "title": "高中生自制综艺拿捏邓超",
@@ -226,11 +266,12 @@
             21,
             24,
             25,
-            18
+            18,
+            16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时07分 ~ 06时05分]"
+          "appearance_count": 9,
+          "time_info": "[01时07分 ~ 08时06分]"
         },
         {
           "title": "《年会不能停 2！》开点映了，看过的都来说说，如何评价这部电影？",
@@ -239,11 +280,12 @@
           "ranks": [
             19,
             13,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时17分 ~ 06时05分]"
+          "appearance_count": 8,
+          "time_info": "[03时17分 ~ 08时06分]"
         },
         {
           "title": "电影《三国第一部：争洛阳》撤档",
@@ -252,22 +294,52 @@
           "ranks": [
             21,
             8,
-            27
+            27,
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时07分 ~ 05时01分]"
+          "appearance_count": 7,
+          "time_info": "[01时07分 ~ 08时06分]"
         },
         {
           "title": "2026暑期档电影票房破55亿",
           "url": "https://wallstreetcn.com/livenews/3139775",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时07分 ~ 06时05分]"
+          "appearance_count": 5,
+          "time_info": "[01时07分 ~ 08时06分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "年轻人 00后 35岁",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "85岁剑桥教授，为何成中国年轻人的“树洞”",
+          "url": "https://news.ifeng.com/c/8v2ydgnLCVu",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时07分 ~ 08时06分]"
+        },
+        {
+          "title": "新一届“35岁以下科技创新35人”中国区名单在沪发布，罗福莉在列",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33658459",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时05分 ~ 08时06分]"
         }
       ]
     },
@@ -283,11 +355,12 @@
             17,
             6,
             7,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时07分 ~ 06时05分]"
+          "appearance_count": 9,
+          "time_info": "[01时07分 ~ 08时06分]"
         },
         {
           "title": "博三女生没结婚问亲戚：谁笑话我妈了",
@@ -307,6 +380,18 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "经济日报：携程为何挨了最重的罚？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33656915",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时07分 ~ 08时06分]"
+        },
+        {
           "title": "数字经济交出亮眼成绩单",
           "url": "https://s.weibo.com/weibo?q=%23%E6%95%B0%E5%AD%97%E7%BB%8F%E6%B5%8E%E4%BA%A4%E5%87%BA%E4%BA%AE%E7%9C%BC%E6%88%90%E7%BB%A9%E5%8D%95%23&t=31&band_rank=3&Refer=top",
           "source": "微博",
@@ -316,18 +401,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时07分 ~ 03时18分]"
-        },
-        {
-          "title": "经济日报：携程为何挨了最重的罚？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33656915",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时07分 ~ 06时05分]"
         }
       ]
     },
@@ -340,11 +413,12 @@
           "url": "https://wallstreetcn.com/livenews/3139783",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时07分 ~ 06时05分]"
+          "appearance_count": 5,
+          "time_info": "[01时07分 ~ 08时06分]"
         },
         {
           "title": "马克龙致电王虹,硬吹法国教育",
@@ -354,8 +428,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时07分 ~ 06时05分]"
+          "appearance_count": 9,
+          "time_info": "[01时07分 ~ 08时06分]"
         }
       ]
     },
@@ -389,25 +463,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时00分 ~ 06时05分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "年轻人 00后 35岁",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "85岁剑桥教授，为何成中国年轻人的“树洞”",
-          "url": "https://news.ifeng.com/c/8v2ydgnLCVu",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时07分 ~ 06时05分]"
+          "appearance_count": 6,
+          "time_info": "[05时00分 ~ 08时06分]"
         }
       ]
     },
@@ -442,8 +499,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时07分 ~ 06时05分]"
+          "appearance_count": 9,
+          "time_info": "[01时07分 ~ 08时06分]"
         }
       ]
     },
@@ -457,11 +514,12 @@
           "source": "抖音",
           "ranks": [
             28,
-            30
+            30,
+            29
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时07分 ~ 06时05分]"
+          "appearance_count": 7,
+          "time_info": "[01时07分 ~ 08时06分]"
         }
       ]
     },
@@ -476,11 +534,12 @@
           "ranks": [
             13,
             9,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时17分 ~ 06时05分]"
+          "appearance_count": 8,
+          "time_info": "[03时17分 ~ 08时06分]"
         }
       ]
     }
