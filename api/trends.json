@@ -1,314 +1,55 @@
 {
-  "generated_at": "2026-07-27T23:48:26.007031+08:00",
-  "total_titles_processed": 1310,
+  "generated_at": "2026-07-28T01:48:44.346317+08:00",
+  "total_titles_processed": 306,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型",
-      "match_count": 58,
+      "match_count": 18,
       "titles": [
-        {
-          "title": "侵权零成本!电竞选手遭AI换脸",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356525&amp;topic_name=%E4%BE%B5%E6%9D%83%E9%9B%B6%E6%88%90%E6%9C%AC%21%E7%94%B5%E7%AB%9E%E9%80%89%E6%89%8B%E9%81%ADAI%E6%8D%A2%E8%84%B8",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            8,
-            13,
-            15,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[02时05分 ~ 23时48分]"
-        },
         {
           "title": "美宣称拟对中国人工智能企业开展调查并实施制裁，中方回应",
           "url": "https://www.cls.cn/detail/2438053",
           "source": "财联社热门",
           "ranks": [
-            2,
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时31分 ~ 23时48分]"
+          "appearance_count": 1,
+          "time_info": "01时48分"
         },
         {
-          "title": "谁还没跳ACAI拖拉机舞",
-          "url": "https://www.douyin.com/hot/2586099",
-          "source": "抖音",
+          "title": "国内首部AI长片首播",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%86%85%E9%A6%96%E9%83%A8AI%E9%95%BF%E7%89%87%E9%A6%96%E6%92%AD",
+          "source": "百度热搜",
           "ranks": [
-            24,
-            23,
-            19,
-            13,
-            26
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时05分 ~ 20时32分]"
-        },
-        {
-          "title": "全世界都在 ALL in AI ，AI 真的是第四次工业革命吗？人类的科技树是否点错了？",
-          "url": "https://www.zhihu.com/question/2052464126996353859",
-          "source": "知乎",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时31分 ~ 23时48分]"
-        },
-        {
-          "title": "不要长期向AI倾泻心事",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%8D%E8%A6%81%E9%95%BF%E6%9C%9F%E5%90%91AI%E5%80%BE%E6%B3%BB%E5%BF%83%E4%BA%8B&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5,
-            4,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时05分 ~ 08时07分]"
-        },
-        {
-          "title": "OpenAI失控入侵,遭索赔1亿算力",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356534&amp;topic_name=OpenAI%E5%A4%B1%E6%8E%A7%E5%85%A5%E4%BE%B5%2C%E9%81%AD%E7%B4%A2%E8%B5%941%E4%BA%BF%E7%AE%97%E5%8A%9B",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            9,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时42分 ~ 23时48分]"
-        },
-        {
-          "title": "各个行业被AI取代的概率",
-          "url": "https://s.weibo.com/weibo?q=%E5%90%84%E4%B8%AA%E8%A1%8C%E4%B8%9A%E8%A2%ABAI%E5%8F%96%E4%BB%A3%E7%9A%84%E6%A6%82%E7%8E%87&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时47分 ~ 23时48分]"
+          "appearance_count": 1,
+          "time_info": "01时48分"
         },
         {
           "title": "AI挤占DRAM颗粒供应 又一模组厂预警“无货可卖”风险",
           "url": "https://www.cls.cn/detail/2437715",
           "source": "财联社热门",
           "ranks": [
-            4,
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时31分 ~ 23时48分]"
-        },
-        {
-          "title": "OpenAI模型失控始末曝光，Hugging Face“索赔”1亿美元算力",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33662817",
-          "source": "澎湃新闻",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时42分 ~ 16时37分]"
-        },
-        {
-          "title": "Kimi AI：发布 Kimi K3的模型权重和技术报告。Kimi K3是我们目前能力最强的模型，这款模型拥有2.8万亿参数的 MoE（混合专家）模型，具备原生视觉理解能力，并支持100万 Token上下文窗口。",
-          "url": "https://flash.jin10.com/detail/20260727231719610800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时48分"
+          "time_info": "01时48分"
         },
         {
-          "title": "OpenAI：出现影响ChatGPT的较高错误率，已实施缓解措施，并在监控ChatGPT的恢复情况。",
-          "url": "https://wallstreetcn.com/livenews/3140016",
-          "source": "华尔街见闻-快讯",
+          "title": "中国AI又双叒Open了",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BDAI%E5%8F%88%E5%8F%8C%E5%8F%92Open%E4%BA%86",
+          "source": "bilibili 热搜",
           "ranks": [
-            3
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时42分"
-        },
-        {
-          "title": "AI还要跌多久",
-          "url": "https://wallstreetcn.com/articles/3777943",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时05分 ~ 08时07分]"
-        },
-        {
-          "title": "中国中化发布国内化工行业首款垂类安全大模型",
-          "url": "https://wallstreetcn.com/livenews/3140322",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时32分"
-        },
-        {
-          "title": "英伟达在OpenAI联合创始人伊利亚·苏茨克沃的安全超级智能项目中投资达数十亿美元。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3140408",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时48分"
-        },
-        {
-          "title": "黄仁勋、马斯克同日发声：中国的人工智能注定卓越 将成为全球领导者",
-          "url": "https://www.cls.cn/detail/2437146",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时05分 ~ 08时07分]"
-        },
-        {
-          "title": "据The Information：英伟达在OpenAI联合创始人伊利亚·苏茨克沃的安全超级智能项目中投资达数十亿美元。",
-          "url": "https://flash.jin10.com/detail/20260727230812803800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时48分"
-        },
-        {
-          "title": "AI冲击短剧行业 “戏王”也扛不住了",
-          "url": "https://www.baidu.com/s?wd=AI%E5%86%B2%E5%87%BB%E7%9F%AD%E5%89%A7%E8%A1%8C%E4%B8%9A+%E2%80%9C%E6%88%8F%E7%8E%8B%E2%80%9D%E4%B9%9F%E6%89%9B%E4%B8%8D%E4%BD%8F%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            8,
-            12,
-            16,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时05分 ~ 08时07分]"
-        },
-        {
-          "title": "中国AI反超,老美急眼下黑手",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356490&amp;topic_name=%E4%B8%AD%E5%9B%BDAI%E5%8F%8D%E8%B6%85%2C%E8%80%81%E7%BE%8E%E6%80%A5%E7%9C%BC%E4%B8%8B%E9%BB%91%E6%89%8B",
-          "source": "贴吧",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时05分 ~ 08时07分]"
-        },
-        {
-          "title": "特朗普在社交平台上发布了一张飞机袭击哈尔克岛的AI图片。",
-          "url": "https://flash.jin10.com/detail/20260727034241267800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时15分 ~ 06时05分]"
-        },
-        {
-          "title": "OpenAI失控AI内幕曝光：越狱一周才被发现 还有智能体曾留下“逃脱秘籍”",
-          "url": "https://www.cls.cn/detail/2437261",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时42分 ~ 16时37分]"
-        },
-        {
-          "title": "AI短剧《被裁掉的女孩》播放破2亿",
-          "url": "https://www.toutiao.com/trending/7665929964277006363/",
-          "source": "今日头条",
-          "ranks": [
-            26,
-            10,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时15分 ~ 08时07分]"
-        },
-        {
-          "title": "虞书欣疑似被AI融脸和声音",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E7%96%91%E4%BC%BC%E8%A2%ABAI%E8%9E%8D%E8%84%B8%E5%92%8C%E5%A3%B0%E9%9F%B3%23&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时31分 ~ 23时48分]"
-        },
-        {
-          "title": "全网厌恶AI脸，但这个被裁掉的女孩绕过了“恐怖谷”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33662866",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时31分 ~ 23时48分]"
-        },
-        {
-          "title": "如何看待米哈游创始人「蔡浩宇」海外团队 AI 产品 AnuNeko 突然宣布永久停运？",
-          "url": "https://www.zhihu.com/question/2064803992841069459",
-          "source": "知乎",
-          "ranks": [
-            18,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时42分 ~ 20时32分]"
-        },
-        {
-          "title": "中方回应美拟制裁中国人工智能企业",
-          "url": "https://www.toutiao.com/trending/7667153251594145331/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时31分 ~ 20时32分]"
+          "time_info": "01时48分"
         },
         {
           "title": "花40亿token做出AI督学官",
@@ -318,597 +59,169 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时47分 ~ 23时48分]"
+          "appearance_count": 1,
+          "time_info": "01时48分"
         },
         {
-          "title": "瑞银：低成本开源模型正重塑AI交易格局，利好英伟达等硬件及云巨头！",
-          "url": "https://www.cls.cn/detail/2437519",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时31分 ~ 20时32分]"
-        },
-        {
-          "title": "特朗普连发数十张AI图遭吐槽",
-          "url": "https://www.douyin.com/hot/2586656",
-          "source": "抖音",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时47分 ~ 23时48分]"
-        },
-        {
-          "title": "中方回应美方拟制裁中国人工智能企业",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%BE%8E%E6%96%B9%E6%8B%9F%E5%88%B6%E8%A3%81%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E4%BC%81%E4%B8%9A",
-          "source": "百度热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时31分 ~ 20时32分]"
-        },
-        {
-          "title": "用AI把这一秒过火做成民国解密游戏",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%94%A8AI%E6%8A%8A%E8%BF%99%E4%B8%80%E7%A7%92%E8%BF%87%E7%81%AB%E5%81%9A%E6%88%90%E6%B0%91%E5%9B%BD%E8%A7%A3%E5%AF%86%E6%B8%B8%E6%88%8F%23&t=31&band_rank=19&Refer=top",
+          "title": "各个行业被AI取代的概率",
+          "url": "https://s.weibo.com/weibo?q=%E5%90%84%E4%B8%AA%E8%A1%8C%E4%B8%9A%E8%A2%ABAI%E5%8F%96%E4%BB%A3%E7%9A%84%E6%A6%82%E7%8E%87&t=31&band_rank=9&Refer=top",
           "source": "微博",
           "ranks": [
-            19
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时31分 ~ 20时32分]"
+          "appearance_count": 1,
+          "time_info": "01时48分"
+        },
+        {
+          "title": "全世界都在 ALL in AI ，AI 真的是第四次工业革命吗？人类的科技树是否点错了？",
+          "url": "https://www.zhihu.com/question/2052464126996353859",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时48分"
+        },
+        {
+          "title": "OpenAI失控入侵,遭索赔1亿算力",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356534&amp;topic_name=OpenAI%E5%A4%B1%E6%8E%A7%E5%85%A5%E4%BE%B5%2C%E9%81%AD%E7%B4%A2%E8%B5%941%E4%BA%BF%E7%AE%97%E5%8A%9B",
+          "source": "贴吧",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时48分"
+        },
+        {
+          "title": "全网厌恶AI脸，但这个被裁掉的女孩绕过了“恐怖谷”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33662866",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时48分"
+        },
+        {
+          "title": "报道：英伟达将向Ilya Sutskever的AI研究实验室投资50亿美元",
+          "url": "https://wallstreetcn.com/livenews/3140439",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时48分"
         },
         {
           "title": "Anthropic 刚招了研究王阳明的哲学教授，你觉得其他 AI 公司会跟进吗？",
           "url": "https://www.zhihu.com/question/2058547288499119870",
           "source": "知乎",
           "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时48分"
+        },
+        {
+          "title": "侵权零成本!电竞选手遭AI换脸",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356525&amp;topic_name=%E4%BE%B5%E6%9D%83%E9%9B%B6%E6%88%90%E6%9C%AC%21%E7%94%B5%E7%AB%9E%E9%80%89%E6%89%8B%E9%81%ADAI%E6%8D%A2%E8%84%B8",
+          "source": "贴吧",
+          "ranks": [
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时47分 ~ 23时48分]"
-        },
-        {
-          "title": "美国AI霸权正在被自己人亲手撕碎吗",
-          "url": "https://www.toutiao.com/trending/7667143265350585875/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时31分 ~ 20时32分]"
-        },
-        {
-          "title": "国内首部AI长片首播",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%86%85%E9%A6%96%E9%83%A8AI%E9%95%BF%E7%89%87%E9%A6%96%E6%92%AD",
-          "source": "百度热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时47分 ~ 23时48分]"
+          "appearance_count": 1,
+          "time_info": "01时48分"
         },
         {
           "title": "真有人把AI的照片当成自己",
-          "url": "https://s.weibo.com/weibo?q=%E7%9C%9F%E6%9C%89%E4%BA%BA%E6%8A%8AAI%E7%9A%84%E7%85%A7%E7%89%87%E5%BD%93%E6%88%90%E8%87%AA%E5%B7%B1&t=31&band_rank=27&Refer=top",
+          "url": "https://s.weibo.com/weibo?q=%E7%9C%9F%E6%9C%89%E4%BA%BA%E6%8A%8AAI%E7%9A%84%E7%85%A7%E7%89%87%E5%BD%93%E6%88%90%E8%87%AA%E5%B7%B1&t=31&band_rank=20&Refer=top",
           "source": "微博",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时47分 ~ 23时48分]"
-        },
-        {
-          "title": "马斯克、黄仁勋最新涉华表态：中国注定会产出卓越的AI技术，美国就算禁用也挡不住",
-          "url": "https://wallstreetcn.com/livenews/3139836",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时05分 ~ 04时15分]"
-        },
-        {
-          "title": "“停火期间”发胜利AI图，伊媒指特朗普“投资”虚拟火力",
-          "url": "https://flash.jin10.com/detail/20260727043919947800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时05分"
-        },
-        {
-          "title": "知情人士称，英伟达正就为OpenAI俄亥俄州数据中心项目提供约2500亿美元财务担保进行谈判。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3139891",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时07分"
-        },
-        {
-          "title": "OpenAI：出现影响ChatGPT的较高错误率。已实施缓解措施，并在监控ChatGPT的恢复情况。",
-          "url": "https://flash.jin10.com/detail/20260727121032306800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时42分"
-        },
-        {
-          "title": "OpenAI、Anthropic被曝游说封堵开源模型 硅谷上演“开源保卫战”",
-          "url": "https://www.cls.cn/detail/2437206",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时42分"
-        },
-        {
-          "title": "特朗普在社交平台上发布伊朗油轮被炸毁的AI图片，并配文“动能已经耗尽”。",
-          "url": "https://flash.jin10.com/detail/20260727041540869800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时05分"
-        },
-        {
-          "title": "英伟达拟为OpenAI数据中心项目提供2500亿美元财务担保",
-          "url": "https://flash.jin10.com/detail/20260727072716929800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时07分"
-        },
-        {
-          "title": "据华尔街日报：知情人士称，英伟达(NVDA.O)正就为OpenAI俄亥俄州数据中心项目提供约2500亿美元财务担保进行谈判。",
-          "url": "https://flash.jin10.com/detail/20260727072121648800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时07分"
-        },
-        {
-          "title": "美国五大科技巨头 AI 隐性债务被曝达 1.65 万亿美元，四年内增长 8 倍，巨额表外负债会成为定时炸弹吗？",
-          "url": "https://www.zhihu.com/question/2063915578427963194",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时05分"
-        },
-        {
-          "title": "环球下周看点：美联储决议携AI巨头财报来袭 美股迎来“超级周”",
-          "url": "https://www.cls.cn/detail/2437061",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时07分"
-        },
-        {
-          "title": "鹿晗这两张图被判AI了",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E8%BF%99%E4%B8%A4%E5%BC%A0%E5%9B%BE%E8%A2%AB%E5%88%A4AI%E4%BA%86%23&t=31&band_rank=13&Refer=top",
-          "source": "微博",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时42分"
-        },
-        {
-          "title": "物理AI公司“正奇未来”完成数亿元天使系列融资，年内开展全球商业化落地",
-          "url": "https://wallstreetcn.com/livenews/3140000",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时42分"
-        },
-        {
-          "title": "北航副教授用小学知识讲透AI原理",
-          "url": "https://s.weibo.com/weibo?q=%E5%8C%97%E8%88%AA%E5%89%AF%E6%95%99%E6%8E%88%E7%94%A8%E5%B0%8F%E5%AD%A6%E7%9F%A5%E8%AF%86%E8%AE%B2%E9%80%8FAI%E5%8E%9F%E7%90%86&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时42分"
-        },
-        {
-          "title": "终于来了个老实人AI",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BB%88%E4%BA%8E%E6%9D%A5%E4%BA%86%E4%B8%AA%E8%80%81%E5%AE%9E%E4%BA%BAAI%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时42分"
-        },
-        {
-          "title": "OpenAI的CEO Altman将与美国高级官员们预览众多新款模型。（CNBC）",
-          "url": "https://wallstreetcn.com/livenews/3140389",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时48分"
-        },
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2026-07-27）",
-          "url": "https://flash.jin10.com/detail/20260727115049550800",
-          "source": "金十数据",
           "ranks": [
             20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时42分"
+          "time_info": "01时48分"
         },
         {
-          "title": "Naver计划在下半年在韩国推出一款AI代理平台。",
-          "url": "https://flash.jin10.com/detail/20260727200421156800",
-          "source": "金十数据",
+          "title": "小米大模型调用量全球第一",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E5%A4%A7%E6%A8%A1%E5%9E%8B%E8%B0%83%E7%94%A8%E9%87%8F%E5%85%A8%E7%90%83%E7%AC%AC%E4%B8%80",
+          "source": "百度热搜",
           "ranks": [
             21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时32分"
+          "time_info": "01时48分"
         },
         {
-          "title": "世界黄金协会全球研究负责人：美联储重估与AI吸金夹击，东方买盘正重塑定价逻辑",
-          "url": "https://wallstreetcn.com/livenews/3140300",
+          "title": "受AI热潮推动，贝莱德韩国ETF连续第三周录得资金净流入",
+          "url": "https://wallstreetcn.com/livenews/3140433",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时32分"
-        },
-        {
-          "title": "报道：PIMCO“放弃警告”，现在拥抱AI热潮，主导大型交易条款制定",
-          "url": "https://wallstreetcn.com/livenews/3140387",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时48分"
-        },
-        {
-          "title": "腾讯QQ宣布QQ宠物回归，接入腾讯混元Hy3大模型",
-          "url": "https://wallstreetcn.com/livenews/3140299",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时32分"
-        },
-        {
-          "title": "英伟达信用违约保护成本创纪录最大升幅，AI基建交易引发循环融资忧虑",
-          "url": "https://wallstreetcn.com/livenews/3140386",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时48分"
-        },
-        {
-          "title": "安徽卫视播AI剧",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86%E6%92%ADAI%E5%89%A7%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时42分"
-        },
-        {
-          "title": "国务院国资委：将深入推进央企“AI+”专项行动，加快算力基础设施建设",
-          "url": "https://wallstreetcn.com/livenews/3140376",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时48分"
-        },
-        {
-          "title": "一家三口AI识菇中毒4岁女童进ICU",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%AE%B6%E4%B8%89%E5%8F%A3AI%E8%AF%86%E8%8F%87%E4%B8%AD%E6%AF%924%E5%B2%81%E5%A5%B3%E7%AB%A5%E8%BF%9BICU%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时07分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "电影 影视 综艺",
-      "match_count": 19,
-      "titles": [
-        {
-          "title": "电影成为全球观众爱上中国新窗口",
-          "url": "https://www.douyin.com/hot/2587058",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时37分 ~ 20时32分]"
-        },
-        {
-          "title": "如何评价章笛沙执导，黄渤、吴磊、高叶等主演的电影《群星闪耀时》？",
-          "url": "https://www.zhihu.com/question/2061413101283586667",
-          "source": "知乎",
-          "ranks": [
-            3,
-            5,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时05分 ~ 06时05分]"
-        },
-        {
-          "title": "2026暑期档电影票房已突破57亿元",
-          "url": "https://wallstreetcn.com/livenews/3139897",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时07分"
-        },
-        {
-          "title": "电影《群星闪耀时》上映2天宣布撤档，《年会不能停2！》提档",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33664288",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18,
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时42分 ~ 23时48分]"
-        },
-        {
-          "title": "多部电影撤出暑期档",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%9A%E9%83%A8%E7%94%B5%E5%BD%B1%E6%92%A4%E5%87%BA%E6%9A%91%E6%9C%9F%E6%A1%A3%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时07分"
-        },
-        {
-          "title": "电影功夫女足",
-          "url": "https://s.weibo.com/weibo?q=%E7%94%B5%E5%BD%B1%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8,
-            7,
             23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时15分 ~ 08时07分]"
+          "appearance_count": 1,
+          "time_info": "01时48分"
         },
         {
-          "title": "电影《群星闪耀时》突然宣布撤档",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B5%E5%BD%B1%E3%80%8A%E7%BE%A4%E6%98%9F%E9%97%AA%E8%80%80%E6%97%B6%E3%80%8B%E7%AA%81%E7%84%B6%E5%AE%A3%E5%B8%83%E6%92%A4%E6%A1%A3",
+          "title": "翻唱老歌火爆全网 神秘歌手是AI吗",
+          "url": "https://www.baidu.com/s?wd=%E7%BF%BB%E5%94%B1%E8%80%81%E6%AD%8C%E7%81%AB%E7%88%86%E5%85%A8%E7%BD%91+%E7%A5%9E%E7%A7%98%E6%AD%8C%E6%89%8B%E6%98%AFAI%E5%90%97",
           "source": "百度热搜",
           "ranks": [
-            4,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时07分 ~ 12时42分]"
-        },
-        {
-          "title": "如何看待科幻电影《群星闪耀时》宣布撤档？",
-          "url": "https://www.zhihu.com/question/2064855057015779808",
-          "source": "知乎",
-          "ranks": [
-            13,
-            11,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时42分 ~ 20时32分]"
-        },
-        {
-          "title": "电影《年会不能停 2！》点映后口碑如何，它有哪些看点值得期待？",
-          "url": "https://www.zhihu.com/question/2064285305331627552",
-          "source": "知乎",
-          "ranks": [
-            19,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时31分 ~ 23时48分]"
-        },
-        {
-          "title": "电影痴迷到底恐怖在哪里",
-          "url": "https://www.douyin.com/hot/2585711",
-          "source": "抖音",
-          "ranks": [
-            25,
-            24,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时05分 ~ 12时42分]"
-        },
-        {
-          "title": "《年会不能停 2！》开点映了，看过的都来说说，如何评价这部电影？",
-          "url": "https://www.zhihu.com/question/2063662105644082961",
-          "source": "知乎",
-          "ranks": [
-            20,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时04分 ~ 08时07分]"
-        },
-        {
-          "title": "萧敬腾ALin新歌微电影也太会演",
-          "url": "https://search.bilibili.com/all?keyword=%E8%90%A7%E6%95%AC%E8%85%BEALin%E6%96%B0%E6%AD%8C%E5%BE%AE%E7%94%B5%E5%BD%B1%E4%B9%9F%E5%A4%AA%E4%BC%9A%E6%BC%94",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时47分 ~ 23时48分]"
-        },
-        {
-          "title": "电影《群星闪耀时》突然宣布撤档",
-          "url": "https://www.toutiao.com/trending/7666355395845734446/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时07分 ~ 12时42分]"
-        },
-        {
-          "title": "韩红曾在电影节推荐《群星闪耀时》",
-          "url": "https://www.toutiao.com/trending/7666981089940930603/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时47分 ~ 23时48分]"
-        },
-        {
-          "title": "电影《八仙！》总票房破8亿",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B5%E5%BD%B1%E3%80%8A%E5%85%AB%E4%BB%99%EF%BC%81%E3%80%8B%E6%80%BB%E7%A5%A8%E6%88%BF%E7%A0%B48%E4%BA%BF",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时31分 ~ 20时32分]"
-        },
-        {
-          "title": "2026年暑期档电影票房已破55亿元，超去年同期10亿元",
-          "url": "https://wallstreetcn.com/livenews/3139816",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时05分 ~ 04时15分]"
-        },
-        {
-          "title": "现在的电影扑街就撤档",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%B0%E5%9C%A8%E7%9A%84%E7%94%B5%E5%BD%B1%E6%89%91%E8%A1%97%E5%B0%B1%E6%92%A4%E6%A1%A3%23&t=31&band_rank=14&Refer=top",
-          "source": "微博",
-          "ranks": [
-            14
+            25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时07分"
+          "time_info": "01时48分"
         },
         {
-          "title": "多部电影撤出暑期档",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E9%83%A8%E7%94%B5%E5%BD%B1%E6%92%A4%E5%87%BA%E6%9A%91%E6%9C%9F%E6%A1%A3",
+          "title": "佛得角门将签约“泪洒现场”图是AI",
+          "url": "https://www.baidu.com/s?wd=%E4%BD%9B%E5%BE%97%E8%A7%92%E9%97%A8%E5%B0%86%E7%AD%BE%E7%BA%A6%E2%80%9C%E6%B3%AA%E6%B4%92%E7%8E%B0%E5%9C%BA%E2%80%9D%E5%9B%BE%E6%98%AFAI",
           "source": "百度热搜",
           "ranks": [
             26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时42分"
+          "time_info": "01时48分"
         },
         {
-          "title": "电影群星闪耀时撤档",
-          "url": "https://www.douyin.com/hot/2586468",
-          "source": "抖音",
+          "title": "安徽卫视播AI剧 明确标注AI制作",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86%E6%92%ADAI%E5%89%A7+%E6%98%8E%E7%A1%AE%E6%A0%87%E6%B3%A8AI%E5%88%B6%E4%BD%9C",
+          "source": "百度热搜",
           "ranks": [
             29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时42分"
+          "time_info": "01时48分"
         }
       ]
     },
     {
       "keyword_group": "经济 经济学",
-      "match_count": 7,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "数说中国硬核经济亮点",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%95%B0%E8%AF%B4%E4%B8%AD%E5%9B%BD%E7%A1%AC%E6%A0%B8%E7%BB%8F%E6%B5%8E%E4%BA%AE%E7%82%B9%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时48分"
+        },
         {
           "title": "数说中国经济新亮点",
           "url": "https://www.douyin.com/hot/2587544",
@@ -917,146 +230,54 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时47分 ~ 23时48分]"
+          "appearance_count": 1,
+          "time_info": "01时48分"
         },
         {
           "title": "经济日报：中国学者开出菲尔兹奖“双响”，欣喜之余亦需清醒看到不足",
           "url": "https://m.thepaper.cn/newsDetail_forward_33664671",
           "source": "澎湃新闻",
           "ranks": [
-            16,
-            15,
-            7,
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时42分 ~ 23时48分]"
-        },
-        {
-          "title": "一组数据读懂中国硬核经济满满亮点",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%80%E7%BB%84%E6%95%B0%E6%8D%AE%E8%AF%BB%E6%87%82%E4%B8%AD%E5%9B%BD%E7%A1%AC%E6%A0%B8%E7%BB%8F%E6%B5%8E%E6%BB%A1%E6%BB%A1%E4%BA%AE%E7%82%B9",
-          "source": "百度热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时42分"
-        },
-        {
-          "title": "印度央行副行长：印度的经济雄心需要金融市场动员更多长期资本，更有效地分配风险。",
-          "url": "https://flash.jin10.com/detail/20260727201141429800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时32分"
-        },
-        {
-          "title": "叙利亚外长：感谢联合国秘书长古特雷斯对叙利亚的访问。与古特雷斯先生讨论了多个共同关心的议题，包括联合国在支持恢复优先事项、人权、经济发展等方面的作用，以增强叙利亚在建设更稳定未来方面的努力。",
-          "url": "https://flash.jin10.com/detail/20260727015653912800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时15分"
-        },
-        {
-          "title": "加拿大至7月24日全国经济信心指数 52.6，前值51.4。",
-          "url": "https://flash.jin10.com/detail/20260727200011642800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时32分"
-        },
-        {
-          "title": "中金公司首席经济学家彭文生到龄退休，缪延亮接任",
-          "url": "https://wallstreetcn.com/livenews/3140379",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时48分"
+          "time_info": "01时48分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 4,
+      "match_count": 2,
       "titles": [
         {
-          "title": "梁文锋打新长鑫浮盈8.27亿",
-          "url": "https://www.toutiao.com/trending/7666377405216509494/",
-          "source": "今日头条",
+          "title": "真逗,DeepSeek说要去吃饭",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356554&amp;topic_name=%E7%9C%9F%E9%80%97%2CDeepSeek%E8%AF%B4%E8%A6%81%E5%8E%BB%E5%90%83%E9%A5%AD",
+          "source": "贴吧",
           "ranks": [
-            2
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时37分"
+          "time_info": "01时48分"
         },
         {
           "title": "DeepSeek说他先去吃饭了",
-          "url": "https://s.weibo.com/weibo?q=DeepSeek%E8%AF%B4%E4%BB%96%E5%85%88%E5%8E%BB%E5%90%83%E9%A5%AD%E4%BA%86&t=31&band_rank=7&Refer=top",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E8%AF%B4%E4%BB%96%E5%85%88%E5%8E%BB%E5%90%83%E9%A5%AD%E4%BA%86&t=31&band_rank=11&Refer=top",
           "source": "微博",
           "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时47分 ~ 23时48分]"
-        },
-        {
-          "title": "梁文锋打新长鑫浮盈8.27亿",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%A2%81%E6%96%87%E9%94%8B%E6%89%93%E6%96%B0%E9%95%BF%E9%91%AB%E6%B5%AE%E7%9B%888.27%E4%BA%BF%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时31分 ~ 20时32分]"
-        },
-        {
-          "title": "梁文锋打新长鑫科技浮盈8.27亿",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%A2%81%E6%96%87%E9%94%8B%E6%89%93%E6%96%B0%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E6%B5%AE%E7%9B%888.27%E4%BA%BF%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时37分"
+          "time_info": "01时48分"
         }
       ]
     },
     {
       "keyword_group": "情绪 情绪价值 内耗 精神内耗",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "据伊朗高级知情人士透露，美国暂停对伊朗袭击之后，（对美国+以色列的）“怀疑态度超过乐观情绪”。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3139858",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时05分 ~ 06时05分]"
-        },
         {
           "title": "美伊暂停交火提振市场情绪 美股期指上涨 油价大幅回落 | 今夜看点",
           "url": "https://www.cls.cn/detail/2438191",
@@ -1065,275 +286,42 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时47分 ~ 23时48分]"
-        },
-        {
-          "title": "英国国防大臣：欧洲将感谢特朗普，因为他迫使欧洲实现自立。我们并不总是认同特朗普及其行事方式，但他促使我们避免产生自满情绪。",
-          "url": "https://flash.jin10.com/detail/20260727002330493800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时05分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "心理 心理学 心理咨询",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "顾客占便宜心理",
-          "url": "https://s.weibo.com/weibo?q=%E9%A1%BE%E5%AE%A2%E5%8D%A0%E4%BE%BF%E5%AE%9C%E5%BF%83%E7%90%86&t=31&band_rank=15&Refer=top",
-          "source": "微博",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时31分 ~ 20时32分]"
-        },
-        {
-          "title": "心理学角度分析王虹为何引共鸣",
-          "url": "https://www.douyin.com/hot/2586749",
-          "source": "抖音",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时37分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "社会 阶层 社会学",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "巴勒斯坦总统呼吁国际社会制止以方行动",
-          "url": "https://wallstreetcn.com/livenews/3139837",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时05分 ~ 06时05分]"
-        },
-        {
-          "title": "韩国电竞选手 Faker 获任名誉警察与警长，将如何提升电竞社会形象？",
-          "url": "https://www.zhihu.com/question/2063300236198556617",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时37分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "年轻人 00后 35岁",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "00后都在装大人",
-          "url": "https://s.weibo.com/weibo?q=00%E5%90%8E%E9%83%BD%E5%9C%A8%E8%A3%85%E5%A4%A7%E4%BA%BA&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时31分 ~ 20时32分]"
-        },
-        {
-          "title": "5元五金店挤满年轻人",
-          "url": "https://www.baidu.com/s?wd=5%E5%85%83%E4%BA%94%E9%87%91%E5%BA%97%E6%8C%A4%E6%BB%A1%E5%B9%B4%E8%BD%BB%E4%BA%BA",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时42分"
+          "time_info": "01时48分"
         }
       ]
     },
     {
       "keyword_group": "考公 考研 上岸",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "两个月时间足够考研上岸吗",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%A4%E4%B8%AA%E6%9C%88%E6%97%B6%E9%97%B4%E8%B6%B3%E5%A4%9F%E8%80%83%E7%A0%94%E4%B8%8A%E5%B2%B8%E5%90%97",
           "source": "bilibili 热搜",
           "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时47分 ~ 23时48分]"
-        },
-        {
-          "title": "考公人发现豆包的神奇用法",
-          "url": "https://s.weibo.com/weibo?q=%E8%80%83%E5%85%AC%E4%BA%BA%E5%8F%91%E7%8E%B0%E8%B1%86%E5%8C%85%E7%9A%84%E7%A5%9E%E5%A5%87%E7%94%A8%E6%B3%95&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
+            21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时05分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "原生家庭 父母 亲子",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "龙卷风突袭 他3分钟失去父母和公司",
-          "url": "https://www.baidu.com/s?wd=%E9%BE%99%E5%8D%B7%E9%A3%8E%E7%AA%81%E8%A2%AD+%E4%BB%963%E5%88%86%E9%92%9F%E5%A4%B1%E5%8E%BB%E7%88%B6%E6%AF%8D%E5%92%8C%E5%85%AC%E5%8F%B8",
-          "source": "百度热搜",
-          "ranks": [
-            6,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时05分 ~ 08时07分]"
-        },
-        {
-          "title": "张子萱自曝父母买不起北京的大房子",
-          "url": "https://www.toutiao.com/trending/7665581100568248346/",
-          "source": "今日头条",
-          "ranks": [
-            28,
-            30,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时05分 ~ 08时07分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "消费 存钱 攒钱",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "今年消费品以旧换新销售额超万亿元",
-          "url": "https://www.toutiao.com/trending/7664881086253907994/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时05分 ~ 08时07分]"
-        },
-        {
-          "title": "列车+持续升温 拓宽服务消费新空间",
-          "url": "https://www.baidu.com/s?wd=%E5%88%97%E8%BD%A6%2B%E6%8C%81%E7%BB%AD%E5%8D%87%E6%B8%A9+%E6%8B%93%E5%AE%BD%E6%9C%8D%E5%8A%A1%E6%B6%88%E8%B4%B9%E6%96%B0%E7%A9%BA%E9%97%B4",
-          "source": "百度热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时37分 ~ 20时32分]"
+          "time_info": "01时48分"
         }
       ]
     },
     {
       "keyword_group": "教育 鸡娃 小镇做题家",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "成都教育局回应“中考立定跳远等标准过高”：符合部委相关要求",
           "url": "https://m.thepaper.cn/newsDetail_forward_33663750",
           "source": "澎湃新闻",
           "ranks": [
-            15,
-            12,
-            5,
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时42分 ~ 23时48分]"
-        },
-        {
-          "title": "腾讯云：10月30日起，实时互动-教育版产品退市",
-          "url": "https://wallstreetcn.com/livenews/3140150",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时37分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "内卷",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "奇瑞董事长：我们不再参加内卷",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%87%E7%91%9E%E8%91%A3%E4%BA%8B%E9%95%BF%EF%BC%9A%E6%88%91%E4%BB%AC%E4%B8%8D%E5%86%8D%E5%8F%82%E5%8A%A0%E5%86%85%E5%8D%B7",
-          "source": "百度热搜",
-          "ranks": [
-            7,
-            8,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时05分 ~ 08时07分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "就业 失业 裁员 应届生",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美国7月达拉斯联储制造业就业指数 12.2，前值13.9。",
-          "url": "https://flash.jin10.com/detail/20260727223403930800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时48分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "婚姻 结婚 离婚 彩礼",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "如何看待韩国“最贵离婚案”宣判",
-          "url": "https://www.toutiao.com/trending/7666967438650543657/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时07分"
+          "time_info": "01时48分"
         }
       ]
     }
