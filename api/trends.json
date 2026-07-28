@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-28T16:45:30.742480+08:00",
-  "total_titles_processed": 1086,
+  "generated_at": "2026-07-28T19:24:56.438116+08:00",
+  "total_titles_processed": 1249,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型",
-      "match_count": 53,
+      "match_count": 55,
       "titles": [
         {
           "title": "美宣称拟对中国人工智能企业开展调查并实施制裁，中方回应",
@@ -27,8 +27,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时57分 ~ 16时45分]"
+          "appearance_count": 6,
+          "time_info": "[10时57分 ~ 19时24分]"
         },
         {
           "title": "OpenAI失控入侵,遭索赔1亿算力",
@@ -69,6 +69,18 @@
           "time_info": "[01时48分 ~ 13时56分]"
         },
         {
+          "title": "我国启动人工智能大模型IPv6能力提升专项行动",
+          "url": "https://www.cls.cn/detail/2438712",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时45分 ~ 19时24分]"
+        },
+        {
           "title": "AI烧钱疑虑重燃，韩股重挫10%再熔断，日股跌4%、铠侠大跌18%，芯片股全线承压",
           "url": "https://wallstreetcn.com/articles/3778080",
           "source": "华尔街见闻",
@@ -78,6 +90,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时55分 ~ 13时56分]"
+        },
+        {
+          "title": "创业板跌超7%，光刻机、大消费逆势活跃，芯片、算力硬件齐跌，港股AI大模型双雄下挫、智谱跌近20%",
+          "url": "https://wallstreetcn.com/articles/3778088",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时45分 ~ 19时24分]"
         },
         {
           "title": "AI忧虑盖过油价下跌，美股指震荡承压，半导体指数一度跌超5%，中概股逆市收涨",
@@ -125,6 +148,17 @@
           "time_info": "[10时57分 ~ 16时45分]"
         },
         {
+          "title": "抖火杯AI番外大电影",
+          "url": "https://www.douyin.com/hot/2588435",
+          "source": "抖音",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
+        },
+        {
           "title": "各个行业被AI取代的概率",
           "url": "https://s.weibo.com/weibo?q=%E5%90%84%E4%B8%AA%E8%A1%8C%E4%B8%9A%E8%A2%ABAI%E5%8F%96%E4%BB%A3%E7%9A%84%E6%A6%82%E7%8E%87&t=31&band_rank=9&Refer=top",
           "source": "微博",
@@ -135,28 +169,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时48分 ~ 07时10分]"
-        },
-        {
-          "title": "创业板跌超7%，光刻机、大消费逆势活跃，芯片、算力硬件齐跌，港股AI大模型双雄下挫、智谱跌近20%",
-          "url": "https://wallstreetcn.com/articles/3778088",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时45分"
-        },
-        {
-          "title": "我国启动人工智能大模型IPv6能力提升专项行动",
-          "url": "https://www.cls.cn/detail/2438712",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时45分"
         },
         {
           "title": "贝莱德避开AI债券滑铁卢，123亿美元债务发行受追捧",
@@ -263,11 +275,25 @@
           "source": "知乎",
           "ranks": [
             16,
-            11
+            11,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时55分 ~ 19时24分]"
+        },
+        {
+          "title": "花40亿token做出AI督学官",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8A%B140%E4%BA%BFtoken%E5%81%9A%E5%87%BAAI%E7%9D%A3%E5%AD%A6%E5%AE%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            8,
+            10
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[13时55分 ~ 16时45分]"
+          "time_info": "[01时48分 ~ 19时24分]"
         },
         {
           "title": "英伟达集结产业链成立“开放安全AI联盟” 并力挺开放权重模型",
@@ -307,16 +333,39 @@
           "time_info": "[01时48分 ~ 07时10分]"
         },
         {
-          "title": "花40亿token做出AI督学官",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8A%B140%E4%BA%BFtoken%E5%81%9A%E5%87%BAAI%E7%9D%A3%E5%AD%A6%E5%AE%98",
-          "source": "bilibili 热搜",
+          "title": "AI浪潮下最讽刺一幕：苹果不争，故天下莫能与之争？",
+          "url": "https://www.cls.cn/detail/2438854",
+          "source": "财联社热门",
           "ranks": [
-            9,
+            10,
             8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时48分 ~ 03时44分]"
+          "time_info": "[16时45分 ~ 19时24分]"
+        },
+        {
+          "title": "电影《大空头》原型：任何一家科技巨头削减AI支出，股市将直线下跌！",
+          "url": "https://www.cls.cn/detail/2438626",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时45分 ~ 19时24分]"
+        },
+        {
+          "title": "绑定SK集团与OpenAI！英伟达卷入7500亿美元豪赌，AI“循环融资”警报再响",
+          "url": "https://wallstreetcn.com/articles/3778049",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时45分 ~ 19时24分]"
         },
         {
           "title": "AI烧钱疑虑重燃，韩股重挫8%，日股跌4%、铠侠大跌18%，芯片股全线承压",
@@ -375,6 +424,17 @@
           "time_info": "[10时57分 ~ 10时58分]"
         },
         {
+          "title": "黑色星期二！全球芯片股遭血洗，SK海力士重挫13%，AI回报成市场最大担心",
+          "url": "https://wallstreetcn.com/articles/3778106",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
+        },
+        {
           "title": "AI挤占DRAM颗粒供应 又一模组厂预警“无货可卖”风险",
           "url": "https://www.cls.cn/detail/2437715",
           "source": "财联社热门",
@@ -419,28 +479,6 @@
           "time_info": "05时18分"
         },
         {
-          "title": "绑定SK集团与OpenAI！英伟达卷入7500亿美元豪赌，AI“循环融资”警报再响",
-          "url": "https://wallstreetcn.com/articles/3778049",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时45分"
-        },
-        {
-          "title": "电影《大空头》原型：任何一家科技巨头削减AI支出，股市将直线下跌！",
-          "url": "https://www.cls.cn/detail/2438626",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时45分"
-        },
-        {
           "title": "据The Information：美国总统特朗普政府正在最终确定人工智能模型提交框架。",
           "url": "https://flash.jin10.com/detail/20260728041608521800",
           "source": "金十数据",
@@ -461,17 +499,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时44分"
-        },
-        {
-          "title": "AI浪潮下最讽刺一幕：苹果不争，故天下莫能与之争？",
-          "url": "https://www.cls.cn/detail/2438854",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时45分"
         },
         {
           "title": "《杭州市人工智能产业发展促进条例（草案）》拟出台 首次引入词元概念并作出促进生产等制度安排",
@@ -546,7 +573,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时45分"
         },
@@ -579,7 +606,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时45分"
         },
@@ -620,7 +647,7 @@
     },
     {
       "keyword_group": "经济 经济学",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "数说中国硬核经济亮点",
@@ -688,6 +715,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时10分"
+        },
+        {
+          "title": "德国央行称伊朗冲突冲击下 德国经济料仍实现增长",
+          "url": "https://wallstreetcn.com/livenews/3140969",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
         },
         {
           "title": "日本经济产业大臣赤泽亮正：正在考虑利用美国的银行融资来进行美国投资项目。 正在讨论第二轮美国投资项目。",
@@ -770,8 +808,21 @@
     },
     {
       "keyword_group": "消费 存钱 攒钱",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
+        {
+          "title": "央媒调查：机票超售与高额退票费，是否触碰公平消费底线？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33669459",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时57分 ~ 19时24分]"
+        },
         {
           "title": "据媒体报道：日本首相最快本周四将披露消费税命令。",
           "url": "https://wallstreetcn.com/livenews/3140558",
@@ -801,21 +852,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时45分"
-        },
-        {
-          "title": "央媒调查：机票超售与高额退票费，是否触碰公平消费底线？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33669459",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时57分 ~ 16时45分]"
         },
         {
           "title": "酒店夜晚关空调 消费者被热醒",
@@ -830,6 +869,41 @@
           "time_info": "[03时44分 ~ 05时18分]"
         },
         {
+          "title": "爷爷撬开焊死6年存钱箱助孙子上大学",
+          "url": "https://www.baidu.com/s?wd=%E7%88%B7%E7%88%B7%E6%92%AC%E5%BC%80%E7%84%8A%E6%AD%BB6%E5%B9%B4%E5%AD%98%E9%92%B1%E7%AE%B1%E5%8A%A9%E5%AD%99%E5%AD%90%E4%B8%8A%E5%A4%A7%E5%AD%A6",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时45分 ~ 19时24分]"
+        },
+        {
+          "title": "上海市消保委：修复消费信任，携程还需根治“杀熟”顽症",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33672335",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时45分 ~ 19时24分]"
+        },
+        {
+          "title": "【每日收评】创业板指跌超7%创阶段新低，算力硬件股集体重挫，大消费、脑机接口概念逆势活跃",
+          "url": "https://www.cls.cn/detail/2439030",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
+        },
+        {
           "title": "周一（7月27日），美股行业ETF涨跌各异，半导体ETF收跌2.25%，能源业ETF跌2.11%，科技行业ETF、全球科技股指数ETF、银行业ETF至多跌0.9%。 生物科技指数ETF则涨0.1%，可选消费ETF涨1.31%，网络股指数ETF涨1.89%，全球航空业ETF涨2.89%。",
           "url": "https://wallstreetcn.com/livenews/3140509",
           "source": "华尔街见闻-快讯",
@@ -839,28 +913,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时18分"
-        },
-        {
-          "title": "上海市消保委：修复消费信任，携程还需根治“杀熟”顽症",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33672335",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时45分"
-        },
-        {
-          "title": "爷爷撬开焊死6年存钱箱助孙子上大学",
-          "url": "https://www.baidu.com/s?wd=%E7%88%B7%E7%88%B7%E6%92%AC%E5%BC%80%E7%84%8A%E6%AD%BB6%E5%B9%B4%E5%AD%98%E9%92%B1%E7%AE%B1%E5%8A%A9%E5%AD%99%E5%AD%90%E4%B8%8A%E5%A4%A7%E5%AD%A6",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时45分"
         },
         {
           "title": "韩国7月消费者信心指数 106.8，前值106.6。",
@@ -880,7 +932,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时45分"
         }
@@ -916,6 +968,18 @@
           "time_info": "[03时44分 ~ 07时10分]"
         },
         {
+          "title": "电影八仙带火悬空寺",
+          "url": "https://www.douyin.com/hot/2588013",
+          "source": "抖音",
+          "ranks": [
+            23,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时45分 ~ 19时24分]"
+        },
+        {
           "title": "影视寒冬哥哥们伙食倒是迎春了",
           "url": "https://s.weibo.com/weibo?q=%E5%BD%B1%E8%A7%86%E5%AF%92%E5%86%AC%E5%93%A5%E5%93%A5%E4%BB%AC%E4%BC%99%E9%A3%9F%E5%80%92%E6%98%AF%E8%BF%8E%E6%98%A5%E4%BA%86&t=31&band_rank=25&Refer=top",
           "source": "微博",
@@ -947,23 +1011,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时44分"
-        },
-        {
-          "title": "电影八仙带火悬空寺",
-          "url": "https://www.douyin.com/hot/2588013",
-          "source": "抖音",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时45分"
         }
       ]
     },
     {
       "keyword_group": "年轻人 00后 35岁",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "年轻人为何对王虹产生强烈共鸣",
@@ -977,6 +1030,41 @@
           "time_info": "[13时55分 ~ 13时56分]"
         },
         {
+          "title": "预制菜以一种新形态重回年轻人餐桌",
+          "url": "https://www.baidu.com/s?wd=%E9%A2%84%E5%88%B6%E8%8F%9C%E4%BB%A5%E4%B8%80%E7%A7%8D%E6%96%B0%E5%BD%A2%E6%80%81%E9%87%8D%E5%9B%9E%E5%B9%B4%E8%BD%BB%E4%BA%BA%E9%A4%90%E6%A1%8C",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
+        },
+        {
+          "title": "年轻人为何越来越早进入世界前沿",
+          "url": "https://www.toutiao.com/trending/7667426480149761579/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时45分 ~ 19时24分]"
+        },
+        {
+          "title": "这盘四拼米粉太懂当代年轻人了",
+          "url": "https://www.douyin.com/hot/2588015",
+          "source": "抖音",
+          "ranks": [
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时45分 ~ 19时24分]"
+        },
+        {
           "title": "都在喊制造业缺人，可厂里老师傅想教，年轻人压根不想学，这到底是谁的问题？",
           "url": "https://www.zhihu.com/question/2054346307687526884",
           "source": "知乎",
@@ -986,28 +1074,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时10分"
-        },
-        {
-          "title": "年轻人为何越来越早进入世界前沿",
-          "url": "https://www.toutiao.com/trending/7667426480149761579/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时45分"
-        },
-        {
-          "title": "这盘四拼米粉太懂当代年轻人了",
-          "url": "https://www.douyin.com/hot/2588015",
-          "source": "抖音",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时45分"
         }
       ]
     },
@@ -1038,6 +1104,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "社会 阶层 社会学",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "社会人士冒充名校教授被举报，涉事学院：并无这一教职人员",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33667771",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时57分 ~ 19时24分]"
+        },
+        {
+          "title": "2026上半年社会热点观察",
+          "url": "https://search.bilibili.com/all?keyword=2026%E4%B8%8A%E5%8D%8A%E5%B9%B4%E7%A4%BE%E4%BC%9A%E7%83%AD%E7%82%B9%E8%A7%82%E5%AF%9F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
         }
       ]
     },
@@ -1078,11 +1173,12 @@
           "url": "https://www.toutiao.com/trending/7666647917814480937/",
           "source": "今日头条",
           "ranks": [
-            12
+            12,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时45分 ~ 19时24分]"
         },
         {
           "title": "纽约中央公园“出轨门”男女身份曝光",
@@ -1091,9 +1187,9 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时45分 ~ 19时24分]"
         }
       ]
     },
@@ -1108,11 +1204,12 @@
           "ranks": [
             1,
             7,
-            13
+            13,
+            17
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时48分 ~ 16时45分]"
+          "appearance_count": 11,
+          "time_info": "[01时48分 ~ 19时24分]"
         },
         {
           "title": "DeepSeek说他先去吃饭了",
@@ -1129,20 +1226,31 @@
       ]
     },
     {
-      "keyword_group": "社会 阶层 社会学",
-      "match_count": 1,
+      "keyword_group": "房价 买房",
+      "match_count": 2,
       "titles": [
         {
-          "title": "社会人士冒充名校教授被举报，涉事学院：并无这一教职人员",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33667771",
-          "source": "澎湃新闻",
+          "title": "“全款买房”的人在变多",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%85%A8%E6%AC%BE%E4%B9%B0%E6%88%BF%E2%80%9D%E7%9A%84%E4%BA%BA%E5%9C%A8%E5%8F%98%E5%A4%9A",
+          "source": "百度热搜",
           "ranks": [
-            9,
-            8
+            2,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时57分 ~ 16时45分]"
+          "appearance_count": 4,
+          "time_info": "[13时55分 ~ 19时24分]"
+        },
+        {
+          "title": "全款买房的人为何变多了",
+          "url": "https://www.toutiao.com/trending/7667444179103055882/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
         }
       ]
     },
@@ -1170,6 +1278,23 @@
       ]
     },
     {
+      "keyword_group": "婚姻 结婚 离婚 彩礼",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "三甲医院凭假结婚证通过试管审核",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%89%E7%94%B2%E5%8C%BB%E9%99%A2%E5%87%AD%E5%81%87%E7%BB%93%E5%A9%9A%E8%AF%81%E9%80%9A%E8%BF%87%E8%AF%95%E7%AE%A1%E5%AE%A1%E6%A0%B8%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
+        }
+      ]
+    },
+    {
       "keyword_group": "原生家庭 父母 亲子",
       "match_count": 1,
       "titles": [
@@ -1184,23 +1309,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时17分 ~ 07时10分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "房价 买房",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "“全款买房”的人在变多",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%85%A8%E6%AC%BE%E4%B9%B0%E6%88%BF%E2%80%9D%E7%9A%84%E4%BA%BA%E5%9C%A8%E5%8F%98%E5%A4%9A",
-          "source": "百度热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时55分 ~ 16时45分]"
         }
       ]
     },
