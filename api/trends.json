@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-29T02:20:19.970150+08:00",
-  "total_titles_processed": 398,
+  "generated_at": "2026-07-29T04:21:51.570224+08:00",
+  "total_titles_processed": 470,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型",
-      "match_count": 19,
+      "match_count": 23,
       "titles": [
         {
           "title": "关键时刻惠誉也来泼冷水：AI市场回调正成为全球主要信用风险",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时46分 ~ 02时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时46分 ~ 04时21分]"
         },
         {
           "title": "AI忧虑盖过油价下跌，纳指承压，半导体指数一度跌超5%，中概股逆市收涨",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时46分 ~ 02时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时46分 ~ 04时21分]"
         },
         {
           "title": "OpenAI：我们在API中引入了两种新的转录模型，GPT-Live-Transcribe和GPT-Transcribe。这两个模型都能更好地理解上下文，并能更准确地转录真实世界的音频，涵盖各种口音和语言，包括短语、数字、专业术语以及在嘈杂背景噪音下的语音。",
@@ -36,18 +36,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时20分"
-        },
-        {
-          "title": "黄仁勋呼吁支持开源权重人工智能模型",
-          "url": "https://wallstreetcn.com/livenews/3141151",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时20分"
         },
@@ -60,8 +49,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时46分 ~ 02时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时46分 ~ 04时21分]"
         },
         {
           "title": "AI泡沫的金丝雀，刚刚死去.....",
@@ -72,8 +61,31 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时46分 ~ 04时21分]"
+        },
+        {
+          "title": "印度成首个被AI做空的国家",
+          "url": "https://s.weibo.com/weibo?q=%E5%8D%B0%E5%BA%A6%E6%88%90%E9%A6%96%E4%B8%AA%E8%A2%ABAI%E5%81%9A%E7%A9%BA%E7%9A%84%E5%9B%BD%E5%AE%B6&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时21分"
+        },
+        {
+          "title": "黄仁勋呼吁支持开源权重人工智能模型",
+          "url": "https://wallstreetcn.com/livenews/3141151",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            23
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时46分 ~ 02时20分]"
+          "time_info": "[02时20分 ~ 04时21分]"
         },
         {
           "title": "黑色星期二！全球芯片股遭血洗，SK海力士重挫13%，AI回报成市场最大担心",
@@ -84,8 +96,44 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时46分 ~ 04时21分]"
+        },
+        {
+          "title": "花40亿token做出AI督学官",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8A%B140%E4%BA%BFtoken%E5%81%9A%E5%87%BAAI%E7%9D%A3%E5%AD%A6%E5%AE%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17,
+            19,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时46分 ~ 04时21分]"
+        },
+        {
+          "title": "时隔八年 QQ 宠物正式回归，保留喂食等玩法，取消死亡机制，接入大模型，有哪些亮点？能重新打动用户吗？",
+          "url": "https://www.zhihu.com/question/2065066004346926732",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时46分 ~ 04时21分]"
+        },
+        {
+          "title": "AI公司 原版书籍销毁",
+          "url": "https://s.weibo.com/weibo?q=AI%E5%85%AC%E5%8F%B8%20%E5%8E%9F%E7%89%88%E4%B9%A6%E7%B1%8D%E9%94%80%E6%AF%81&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8,
+            10
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时46分 ~ 02时20分]"
+          "time_info": "[02时20分 ~ 04时21分]"
         },
         {
           "title": "AI重现被困师生救援事件",
@@ -100,38 +148,27 @@
           "time_info": "[00时46分 ~ 02时20分]"
         },
         {
-          "title": "花40亿token做出AI督学官",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8A%B140%E4%BA%BFtoken%E5%81%9A%E5%87%BAAI%E7%9D%A3%E5%AD%A6%E5%AE%98",
-          "source": "bilibili 热搜",
+          "title": "康宁三季度业绩指引略逊预期 AI光通信业务增速放缓 股价盘中跌近20%",
+          "url": "https://www.cls.cn/detail/2439413",
+          "source": "财联社热门",
           "ranks": [
-            17,
-            19
+            13,
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时46分 ~ 02时20分]"
+          "time_info": "[02时20分 ~ 04时21分]"
         },
         {
-          "title": "时隔八年 QQ 宠物正式回归，保留喂食等玩法，取消死亡机制，接入大模型，有哪些亮点？能重新打动用户吗？",
-          "url": "https://www.zhihu.com/question/2065066004346926732",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时46分 ~ 02时20分]"
-        },
-        {
-          "title": "AI公司 原版书籍销毁",
-          "url": "https://s.weibo.com/weibo?q=AI%E5%85%AC%E5%8F%B8%20%E5%8E%9F%E7%89%88%E4%B9%A6%E7%B1%8D%E9%94%80%E6%AF%81&t=31&band_rank=8&Refer=top",
-          "source": "微博",
+          "title": "ASM业绩指引超预期，AI热潮提振芯片设备需求",
+          "url": "https://wallstreetcn.com/livenews/3141168",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时20分"
+          "time_info": "04时21分"
         },
         {
           "title": "xAI面向Grok推出Build模型。 Grok Build模型处于早期测试阶段，针对的是SuperGrok Heavy超级订阅者。",
@@ -145,15 +182,26 @@
           "time_info": "00时46分"
         },
         {
-          "title": "康宁三季度业绩指引略逊预期 AI光通信业务增速放缓 股价盘中跌近20%",
-          "url": "https://www.cls.cn/detail/2439413",
-          "source": "财联社热门",
+          "title": "美股AI硬件板块暴跌 美光科技跌逾12%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1AI%E7%A1%AC%E4%BB%B6%E6%9D%BF%E5%9D%97%E6%9A%B4%E8%B7%8C+%E7%BE%8E%E5%85%89%E7%A7%91%E6%8A%80%E8%B7%8C%E9%80%BE12%25",
+          "source": "百度热搜",
           "ranks": [
             13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时20分"
+          "time_info": "04时21分"
+        },
+        {
+          "title": "黄仁勋重申支持开放权重AI模型",
+          "url": "https://flash.jin10.com/detail/20260729034255257800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时21分"
         },
         {
           "title": "英伟达CEO黄仁勋：呼吁支持开放权重的人工智能模型。开放权重模型对人工智能的安全和保障至关重要。",
@@ -162,7 +210,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时20分"
         },
@@ -173,7 +221,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时20分"
         },
@@ -184,7 +232,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时20分"
         },
@@ -236,8 +284,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时46分 ~ 02时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时46分 ~ 04时21分]"
         },
         {
           "title": "央媒调查：机票超售与高额退票费，是否触碰公平消费底线？",
@@ -258,8 +306,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时46分 ~ 02时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时46分 ~ 04时21分]"
         },
         {
           "title": "澎湃漫评｜“太懂法”反倒成了消费者的错？",
@@ -270,14 +318,14 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时46分 ~ 02时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时46分 ~ 04时21分]"
         }
       ]
     },
     {
       "keyword_group": "电影 影视 综艺",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "从《八仙！》上映说起，为何孙悟空在影视作品中总是正义的英雄，二郎神杨戬有时候当正派，有时候当反派？",
@@ -287,8 +335,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时46分 ~ 02时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时46分 ~ 04时21分]"
         },
         {
           "title": "电影痴迷后劲有多大",
@@ -296,11 +344,12 @@
           "source": "抖音",
           "ranks": [
             24,
-            19
+            19,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时46分 ~ 02时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时46分 ~ 04时21分]"
         },
         {
           "title": "电影八仙带火悬空寺",
@@ -308,11 +357,23 @@
           "source": "抖音",
           "ranks": [
             21,
-            23
+            23,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时46分 ~ 02时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时46分 ~ 04时21分]"
+        },
+        {
+          "title": "如何评价 7 月 29 日上映的电影《蜘蛛侠: 崭新之日》？",
+          "url": "https://www.zhihu.com/question/2065624050513208016",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时21分"
         }
       ]
     },
@@ -325,11 +386,12 @@
           "url": "https://s.weibo.com/weibo?q=%E5%BF%83%E7%90%86%E7%96%BE%E7%97%85%E5%92%8C%E7%B2%BE%E7%A5%9E%E7%96%BE%E7%97%85%E7%9A%84%E5%8C%BA%E5%88%AB&t=31&band_rank=24&Refer=top",
           "source": "微博",
           "ranks": [
-            24
+            24,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时46分 ~ 02时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时46分 ~ 04时21分]"
         },
         {
           "title": "布伦特原油期货跌幅超过3%，WTI原油期货刷新日低至80美元/桶整数位心理关口下方。",
@@ -345,6 +407,34 @@
       ]
     },
     {
+      "keyword_group": "年轻人 00后 35岁",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "考生连续自杀 印度年轻人怒了",
+          "url": "https://www.baidu.com/s?wd=%E8%80%83%E7%94%9F%E8%BF%9E%E7%BB%AD%E8%87%AA%E6%9D%80+%E5%8D%B0%E5%BA%A6%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%80%92%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时46分"
+        },
+        {
+          "title": "年轻人为何越来越早进入世界前沿",
+          "url": "https://www.toutiao.com/trending/7667426480149761579/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时21分"
+        }
+      ]
+    },
+    {
       "keyword_group": "经济 经济学",
       "match_count": 2,
       "titles": [
@@ -355,7 +445,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时20分"
         },
@@ -366,7 +456,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时20分"
         }
@@ -391,23 +481,6 @@
       ]
     },
     {
-      "keyword_group": "年轻人 00后 35岁",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "考生连续自杀 印度年轻人怒了",
-          "url": "https://www.baidu.com/s?wd=%E8%80%83%E7%94%9F%E8%BF%9E%E7%BB%AD%E8%87%AA%E6%9D%80+%E5%8D%B0%E5%BA%A6%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%80%92%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时46分"
-        }
-      ]
-    },
-    {
       "keyword_group": "考公 考研 上岸",
       "match_count": 1,
       "titles": [
@@ -418,7 +491,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时20分"
         }
@@ -433,11 +506,12 @@
           "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%8F%8B%E9%80%BC%E5%9D%A0%E6%A5%BC%E7%94%9F%E8%BF%98%E5%A5%B3%E5%AD%A9%E8%BF%94%E8%BF%98%E6%81%8B%E7%88%B1%E5%BC%80%E9%94%80%23&t=31&band_rank=2&Refer=top",
           "source": "微博",
           "ranks": [
-            2
+            2,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 04时21分]"
         }
       ]
     },
@@ -454,8 +528,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时46分 ~ 02时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时46分 ~ 04时21分]"
         }
       ]
     },
@@ -489,8 +563,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时46分 ~ 02时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时46分 ~ 04时21分]"
         }
       ]
     },
@@ -506,8 +580,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时46分 ~ 02时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时46分 ~ 04时21分]"
         }
       ]
     }
