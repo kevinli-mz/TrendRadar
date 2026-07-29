@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-30T03:26:44.863465+08:00",
-  "total_titles_processed": 408,
+  "generated_at": "2026-07-30T07:03:43.901998+08:00",
+  "total_titles_processed": 499,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
         {
           "title": "OpenAI针对学术研究员推出ChatGPT。",
@@ -26,8 +26,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时21分 ~ 03时26分]"
+          "appearance_count": 3,
+          "time_info": "[01时21分 ~ 07时03分]"
         },
         {
           "title": "KT宫斗实锤,Aiming被抬走",
@@ -37,8 +37,21 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时21分 ~ 03时26分]"
+          "appearance_count": 3,
+          "time_info": "[01时21分 ~ 07时03分]"
+        },
+        {
+          "title": "有说法称印度成首个被 AI 做空的国家，真的是这样吗？会对印度经济产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2065710393360479149",
+          "source": "知乎",
+          "ranks": [
+            15,
+            13,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时21分 ~ 07时03分]"
         },
         {
           "title": "【焦点复盘】双创指数现放量“深V”，游戏等AI应用端持续回暖，长鑫科技午后一度涨近15%",
@@ -49,20 +62,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时21分 ~ 03时26分]"
-        },
-        {
-          "title": "有说法称印度成首个被 AI 做空的国家，真的是这样吗？会对印度经济产生哪些影响？",
-          "url": "https://www.zhihu.com/question/2065710393360479149",
-          "source": "知乎",
-          "ranks": [
-            15,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时21分 ~ 03时26分]"
+          "appearance_count": 3,
+          "time_info": "[01时21分 ~ 07时03分]"
         },
         {
           "title": "法学何为｜张凌寒：法律如何回应人工智能时代的责任追问？",
@@ -70,11 +71,12 @@
           "source": "澎湃新闻",
           "ranks": [
             17,
-            15
+            15,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时21分 ~ 03时26分]"
+          "appearance_count": 3,
+          "time_info": "[01时21分 ~ 07时03分]"
         },
         {
           "title": "AI漫剧走红,国动流量狂跌",
@@ -84,8 +86,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时21分 ~ 03时26分]"
+          "appearance_count": 3,
+          "time_info": "[01时21分 ~ 07时03分]"
         },
         {
           "title": "赢学入脑,法国声称AI超中国",
@@ -95,8 +97,32 @@
             16
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时21分 ~ 07时03分]"
+        },
+        {
+          "title": "如何看待某历史学老师在期中考试的题目中加入白色隐藏文字，导致 35 位学生中的 32 位因使用 AI 成绩不及格？",
+          "url": "https://www.zhihu.com/question/2065158710427751418",
+          "source": "知乎",
+          "ranks": [
+            13,
+            15
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时21分 ~ 03时26分]"
+          "time_info": "[01时21分 ~ 07时03分]"
+        },
+        {
+          "title": "AI手机大战全面开打",
+          "url": "https://www.baidu.com/s?wd=AI%E6%89%8B%E6%9C%BA%E5%A4%A7%E6%88%98%E5%85%A8%E9%9D%A2%E5%BC%80%E6%89%93",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时21分 ~ 07时03分]"
         },
         {
           "title": "OpenAI首席执行官与美国立法者探讨下一代AI模型",
@@ -132,15 +158,15 @@
           "time_info": "01时21分"
         },
         {
-          "title": "如何看待某历史学老师在期中考试的题目中加入白色隐藏文字，导致 35 位学生中的 32 位因使用 AI 成绩不及格？",
-          "url": "https://www.zhihu.com/question/2065158710427751418",
-          "source": "知乎",
+          "title": "Analog Devices Inc.（ADI）：漏洞与OpenAI无关。",
+          "url": "https://wallstreetcn.com/livenews/3141939",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            14
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时21分"
+          "time_info": "07时03分"
         },
         {
           "title": "美联储主席沃什：高科技（企业的）资本开支激增的现象非常突出。 资本开支为未来的（美国经济）增长做铺垫。 资本开支对供给侧影响的时间点是难以预料的。 资本开支繁荣正推高AI基础设施的价格。",
@@ -149,20 +175,9 @@
           "ranks": [
             22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时26分"
-        },
-        {
-          "title": "AI手机大战全面开打",
-          "url": "https://www.baidu.com/s?wd=AI%E6%89%8B%E6%9C%BA%E5%A4%A7%E6%88%98%E5%85%A8%E9%9D%A2%E5%BC%80%E6%89%93",
-          "source": "百度热搜",
-          "ranks": [
-            24
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时21分"
+          "time_info": "03时26分"
         },
         {
           "title": "伊拉克真主党旅（Kataib Hezbollah）：将把沙特阿拉伯境内美国的“工具”（代理人/相关设施）作为打击目标。 对美国和沙特阿拉伯的联合袭击作出反击是不可避免的。 向伊拉克政府下最后通牒，要求在8月6日之前证明其能够捍卫伊拉克的主权。",
@@ -174,23 +189,46 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
+        },
+        {
+          "title": "扎克伯格在电话会上说，开源AI模型并没有前沿模型那么强大。Meta目前跌9.8%。 （但）开源模型在全世界有着“重要的地位”。 开放权重模型的成功并不会削弱API的机会，因为拥有运行模型推理的计算能力是商业优势的来源。",
+          "url": "https://wallstreetcn.com/livenews/3141925",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时03分"
+        },
+        {
+          "title": "微软(MSFT.O)首席财务官：第四季度合同积压在不包括OpenAI的情况下增加了25%。",
+          "url": "https://flash.jin10.com/detail/20260730055730100800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时03分"
         }
       ]
     },
     {
       "keyword_group": "年轻人 00后 35岁",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "重庆失联“00后”网格员龚宝冬确认遇难",
           "url": "https://m.thepaper.cn/newsDetail_forward_33682164",
           "source": "澎湃新闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时21分 ~ 03时26分]"
+          "appearance_count": 3,
+          "time_info": "[01时21分 ~ 07时03分]"
         },
         {
           "title": "下班了 年轻人赶着去做副业",
@@ -198,11 +236,12 @@
           "source": "百度热搜",
           "ranks": [
             14,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时21分 ~ 03时26分]"
+          "appearance_count": 3,
+          "time_info": "[01时21分 ~ 07时03分]"
         },
         {
           "title": "重庆失联00后网格员确认遇难",
@@ -212,8 +251,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时21分 ~ 03时26分]"
+          "appearance_count": 3,
+          "time_info": "[01时21分 ~ 07时03分]"
         },
         {
           "title": "山体崩塌失联00后网格员确认遇难",
@@ -224,14 +263,36 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时21分 ~ 03时26分]"
+          "appearance_count": 3,
+          "time_info": "[01时21分 ~ 07时03分]"
+        },
+        {
+          "title": "穷鬼年轻人被免费试吃坑麻了",
+          "url": "https://s.weibo.com/weibo?q=%E7%A9%B7%E9%AC%BC%E5%B9%B4%E8%BD%BB%E4%BA%BA%E8%A2%AB%E5%85%8D%E8%B4%B9%E8%AF%95%E5%90%83%E5%9D%91%E9%BA%BB%E4%BA%86&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时03分"
+        },
+        {
+          "title": "重庆失联00后网格员确认遇难",
+          "url": "https://search.bilibili.com/all?keyword=%E9%87%8D%E5%BA%86%E5%A4%B1%E8%81%9400%E5%90%8E%E7%BD%91%E6%A0%BC%E5%91%98%E7%A1%AE%E8%AE%A4%E9%81%87%E9%9A%BE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时03分"
         }
       ]
     },
     {
       "keyword_group": "经济 经济学",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "“十五五”开局我国经济运行稳中向好",
@@ -241,8 +302,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时21分 ~ 03时26分]"
+          "appearance_count": 3,
+          "time_info": "[01时21分 ~ 07时03分]"
+        },
+        {
+          "title": "阿波罗首席经济学家：美联储放弃前瞻指引，导致美债“溜溜球”式波动",
+          "url": "https://wallstreetcn.com/livenews/3141946",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时03分"
         },
         {
           "title": "美联储主席沃什：市场价格是政策影响经济的诸多方式之一。",
@@ -251,7 +323,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时26分"
         },
@@ -262,7 +334,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时26分"
         },
@@ -273,7 +345,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时26分"
         }
@@ -292,8 +364,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时21分 ~ 03时26分]"
+          "appearance_count": 3,
+          "time_info": "[01时21分 ~ 07时03分]"
         },
         {
           "title": "河北 860 元一晚酒店半夜关空调导致客人被热醒，酒店空调间断关停合法吗？消费者该怎样维权？",
@@ -304,8 +376,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时21分 ~ 03时26分]"
+          "appearance_count": 3,
+          "time_info": "[01时21分 ~ 07时03分]"
         },
         {
           "title": "美联储按兵不动，消费信贷市场料延续稳步复苏",
@@ -314,7 +386,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时26分"
         }
@@ -332,8 +404,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时21分 ~ 03时26分]"
+          "appearance_count": 3,
+          "time_info": "[01时21分 ~ 07时03分]"
         },
         {
           "title": "阿哲自制综艺六人大头杀来了",
@@ -354,7 +426,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时26分"
         }
@@ -371,7 +443,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时26分"
         },
@@ -382,9 +454,37 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "原生家庭 父母 亲子",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "父母心寒,听泉炒股亏光养老钱",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356602&amp;topic_name=%E7%88%B6%E6%AF%8D%E5%BF%83%E5%AF%92%2C%E5%90%AC%E6%B3%89%E7%82%92%E8%82%A1%E4%BA%8F%E5%85%89%E5%85%BB%E8%80%81%E9%92%B1",
+          "source": "贴吧",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时21分 ~ 07时03分]"
+        },
+        {
+          "title": "挑战同时亲父母看他们先看谁",
+          "url": "https://www.douyin.com/hot/2588944",
+          "source": "抖音",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时03分"
         }
       ]
     },
@@ -397,11 +497,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E8%9C%98%E8%9B%9B%E4%BE%A04%E4%BA%BA%E7%89%A9%E5%BF%83%E7%90%86%E5%8A%A8%E7%BA%BF%E5%88%86%E6%9E%90",
           "source": "bilibili 热搜",
           "ranks": [
-            27
+            27,
+            21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时21分"
+          "appearance_count": 2,
+          "time_info": "[01时21分 ~ 07时03分]"
         }
       ]
     },
@@ -418,8 +519,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时21分 ~ 03时26分]"
+          "appearance_count": 3,
+          "time_info": "[01时21分 ~ 07时03分]"
         }
       ]
     },
@@ -435,8 +536,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时21分 ~ 03时26分]"
+          "appearance_count": 3,
+          "time_info": "[01时21分 ~ 07时03分]"
         }
       ]
     },
@@ -452,8 +553,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时21分 ~ 03时26分]"
+          "appearance_count": 3,
+          "time_info": "[01时21分 ~ 07时03分]"
         }
       ]
     },
@@ -475,23 +576,6 @@
       ]
     },
     {
-      "keyword_group": "原生家庭 父母 亲子",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "父母心寒,听泉炒股亏光养老钱",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356602&amp;topic_name=%E7%88%B6%E6%AF%8D%E5%BF%83%E5%AF%92%2C%E5%90%AC%E6%B3%89%E7%82%92%E8%82%A1%E4%BA%8F%E5%85%89%E5%85%BB%E8%80%81%E9%92%B1",
-          "source": "贴吧",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时21分 ~ 03时26分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "教育 鸡娃 小镇做题家",
       "match_count": 1,
       "titles": [
@@ -504,8 +588,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时21分 ~ 03时26分]"
+          "appearance_count": 3,
+          "time_info": "[01时21分 ~ 07时03分]"
         }
       ]
     }
