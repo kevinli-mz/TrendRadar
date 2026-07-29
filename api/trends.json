@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-29T15:49:12.087325+08:00",
-  "total_titles_processed": 955,
+  "generated_at": "2026-07-29T18:46:07.361038+08:00",
+  "total_titles_processed": 1137,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型",
-      "match_count": 44,
+      "match_count": 51,
       "titles": [
         {
           "title": "AI泡沫的金丝雀，刚刚死去.....",
@@ -15,11 +15,12 @@
             6,
             5,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时46分 ~ 15时49分]"
+          "appearance_count": 10,
+          "time_info": "[00时46分 ~ 18时46分]"
         },
         {
           "title": "关键时刻惠誉也来泼冷水：AI市场回调正成为全球主要信用风险",
@@ -58,6 +59,18 @@
           "time_info": "[00时46分 ~ 06时12分]"
         },
         {
+          "title": "如何看待某历史学老师在期中考试的题目中加入白色隐藏文字，导致 35 位学生中的 32 位因使用 AI 成绩不及格？",
+          "url": "https://www.zhihu.com/question/2065158710427751418",
+          "source": "知乎",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时48分 ~ 18时46分]"
+        },
+        {
           "title": "黑色星期二！全球芯片股遭血洗，SK海力士重挫13%，AI回报成市场最大担心",
           "url": "https://wallstreetcn.com/articles/3778106",
           "source": "华尔街见闻",
@@ -93,15 +106,15 @@
           "time_info": "[15时48分 ~ 15时49分]"
         },
         {
-          "title": "如何看待某历史学老师在期中考试的题目中加入白色隐藏文字，导致 35 位学生中的 32 位因使用 AI 成绩不及格？",
-          "url": "https://www.zhihu.com/question/2065158710427751418",
-          "source": "知乎",
+          "title": "外交部批日本右翼用AI歪曲侵华历史",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E4%BA%A4%E9%83%A8%E6%89%B9%E6%97%A5%E6%9C%AC%E5%8F%B3%E7%BF%BC%E7%94%A8AI%E6%AD%AA%E6%9B%B2%E4%BE%B5%E5%8D%8E%E5%8E%86%E5%8F%B2",
+          "source": "bilibili 热搜",
           "ranks": [
-            4
+            5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时48分 ~ 15时49分]"
+          "time_info": "[18时45分 ~ 18时46分]"
         },
         {
           "title": "OpenAI越狱代理攻击范围扩大 再曝一公司客户账户遭入侵",
@@ -121,7 +134,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时49分"
         },
@@ -196,6 +209,32 @@
           "time_info": "12时17分"
         },
         {
+          "title": "股价仍跌超10%！SK海力士电话会：未见AI投资放缓迹象，HBM4已提前量产，长协不会导致供应过剩",
+          "url": "https://wallstreetcn.com/articles/3778177",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时17分 ~ 18时46分]"
+        },
+        {
+          "title": "费城半导体指数跌破11200点关键支撑，AI牛市悬了！",
+          "url": "https://wallstreetcn.com/articles/3778137",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时17分 ~ 18时46分]"
+        },
+        {
           "title": "康宁三季度业绩指引略逊预期 AI光通信业务增速放缓 股价盘中跌近20%",
           "url": "https://www.cls.cn/detail/2439413",
           "source": "财联社热门",
@@ -246,30 +285,6 @@
           "time_info": "[02时20分 ~ 06时12分]"
         },
         {
-          "title": "股价仍跌超10%！SK海力士电话会：未见AI投资放缓迹象，HBM4已提前量产，长协不会导致供应过剩",
-          "url": "https://wallstreetcn.com/articles/3778177",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时17分 ~ 15时49分]"
-        },
-        {
-          "title": "费城半导体指数跌破11200点关键支撑，AI牛市悬了！",
-          "url": "https://wallstreetcn.com/articles/3778137",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时17分 ~ 15时49分]"
-        },
-        {
           "title": "美股AI硬件板块暴跌 美光科技跌逾12%",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1AI%E7%A1%AC%E4%BB%B6%E6%9D%BF%E5%9D%97%E6%9A%B4%E8%B7%8C+%E7%BE%8E%E5%85%89%E7%A7%91%E6%8A%80%E8%B7%8C%E9%80%BE12%25",
           "source": "百度热搜",
@@ -294,6 +309,28 @@
           "time_info": "[00时46分 ~ 06时12分]"
         },
         {
+          "title": "AI存储需求炸裂，希捷上季营收超预期增近50%、毛利率大幅跃升突破50%，指引更强劲｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3778163",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时45分 ~ 18时46分]"
+        },
+        {
+          "title": "【焦点复盘】双创指数现放量“深V”，游戏等AI应用端持续回暖，长鑫科技午后一度涨近15%",
+          "url": "https://www.cls.cn/detail/2440260",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时45分 ~ 18时46分]"
+        },
+        {
           "title": "AI重现被困师生救援事件",
           "url": "https://search.bilibili.com/all?keyword=AI%E9%87%8D%E7%8E%B0%E8%A2%AB%E5%9B%B0%E5%B8%88%E7%94%9F%E6%95%91%E6%8F%B4%E4%BA%8B%E4%BB%B6",
           "source": "bilibili 热搜",
@@ -304,6 +341,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时46分 ~ 02时20分]"
+        },
+        {
+          "title": "赢学入脑,法国声称AI超中国",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356609&amp;topic_name=%E8%B5%A2%E5%AD%A6%E5%85%A5%E8%84%91%2C%E6%B3%95%E5%9B%BD%E5%A3%B0%E7%A7%B0AI%E8%B6%85%E4%B8%AD%E5%9B%BD",
+          "source": "贴吧",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时45分 ~ 18时46分]"
         },
         {
           "title": "券商晨会精华：AI驱动半导体产业资本开支上行，半导体设备开启新一轮成长周期",
@@ -317,6 +365,17 @@
           "time_info": "[15时48分 ~ 15时49分]"
         },
         {
+          "title": "明星为什么愿意把脸“卖”给AI",
+          "url": "https://www.baidu.com/s?wd=%E6%98%8E%E6%98%9F%E4%B8%BA%E4%BB%80%E4%B9%88%E6%84%BF%E6%84%8F%E6%8A%8A%E8%84%B8%E2%80%9C%E5%8D%96%E2%80%9D%E7%BB%99AI",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时45分 ~ 18时46分]"
+        },
+        {
           "title": "小米 MiMo-V2.5 升至全球大模型调用量第一，这背后反映了哪些趋势和挑战？",
           "url": "https://www.zhihu.com/question/2065097727604741240",
           "source": "知乎",
@@ -326,6 +385,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时11分 ~ 06时12分]"
+        },
+        {
+          "title": "野狗骨头AI彩蛋",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%8E%E7%8B%97%E9%AA%A8%E5%A4%B4AI%E5%BD%A9%E8%9B%8B%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时45分 ~ 18时46分]"
         },
         {
           "title": "SpaceXAI：GROK 4.5现已在GitHub Copilot上发布。",
@@ -345,7 +415,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时49分"
         },
@@ -400,7 +470,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时49分"
         },
@@ -455,7 +525,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时49分"
         },
@@ -480,6 +550,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时20分"
+        },
+        {
+          "title": "浙江：聚焦集成电路、智能物联、高端软件 推动人工智能与信息技术产业深度融合",
+          "url": "https://wallstreetcn.com/livenews/3141600",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时46分"
         },
         {
           "title": "xAI：推出Grok Build模式。Grok Build现已面向SuperGrok Heavy订阅用户推出早期测试版。",
@@ -518,7 +599,7 @@
     },
     {
       "keyword_group": "消费 存钱 攒钱",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "【每日收评】创业板指跌超7%创阶段新低，算力硬件股集体重挫，大消费、脑机接口概念逆势活跃",
@@ -580,6 +661,17 @@
           "time_info": "00时46分"
         },
         {
+          "title": "我国消费金融公司去年共发放个人消费贷款5.24万亿元",
+          "url": "https://wallstreetcn.com/livenews/3141632",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时46分"
+        },
+        {
           "title": "上海市消保委：修复消费信任，携程还需根治“杀熟”顽症",
           "url": "https://m.thepaper.cn/newsDetail_forward_33672335",
           "source": "澎湃新闻",
@@ -598,8 +690,19 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时48分 ~ 18时46分]"
+        },
+        {
+          "title": "【每日收评】三大指数探底回升全线收红，全市场超4200股上涨，大消费方向集体走强",
+          "url": "https://www.cls.cn/detail/2440204",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时48分 ~ 15时49分]"
+          "time_info": "[18时45分 ~ 18时46分]"
         },
         {
           "title": "7月29日午间收评：科创50半日跌超4%，大消费板块逆势走强",
@@ -619,15 +722,26 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时49分"
+        },
+        {
+          "title": "《上海市2026年消费品以旧换新自主品类补贴政策实施细则》发布",
+          "url": "https://wallstreetcn.com/livenews/3141592",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时46分"
         }
       ]
     },
     {
       "keyword_group": "电影 影视 综艺",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "电影痴迷后劲有多大",
@@ -642,6 +756,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时46分 ~ 06时12分]"
+        },
+        {
+          "title": "阿哲自制综艺六人大头杀来了",
+          "url": "https://www.douyin.com/hot/2589060",
+          "source": "抖音",
+          "ranks": [
+            23,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时48分 ~ 18时46分]"
         },
         {
           "title": "从《八仙！》上映说起，为何孙悟空在影视作品中总是正义的英雄，二郎神杨戬有时候当正派，有时候当反派？",
@@ -692,15 +818,15 @@
           "time_info": "[12时17分 ~ 15时49分]"
         },
         {
-          "title": "阿哲自制综艺六人大头杀来了",
-          "url": "https://www.douyin.com/hot/2589060",
+          "title": "电影悟空大圣宣布撤档",
+          "url": "https://www.douyin.com/hot/2588922",
           "source": "抖音",
           "ranks": [
-            23
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时48分 ~ 15时49分]"
+          "time_info": "[18时45分 ~ 18时46分]"
         },
         {
           "title": "为何多部电影撤出暑期档",
@@ -716,6 +842,90 @@
       ]
     },
     {
+      "keyword_group": "年轻人 00后 35岁",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "重庆失联00后网格员龚宝冬确认遇难",
+          "url": "https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E5%A4%B1%E8%81%9400%E5%90%8E%E7%BD%91%E6%A0%BC%E5%91%98%E9%BE%9A%E5%AE%9D%E5%86%AC%E7%A1%AE%E8%AE%A4%E9%81%87%E9%9A%BE",
+          "source": "百度热搜",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时48分 ~ 18时46分]"
+        },
+        {
+          "title": "重庆失联00后网格员确认遇难",
+          "url": "https://www.douyin.com/hot/2589456",
+          "source": "抖音",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时45分 ~ 18时46分]"
+        },
+        {
+          "title": "下班了 年轻人赶着去做副业",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%8B%E7%8F%AD%E4%BA%86+%E5%B9%B4%E8%BD%BB%E4%BA%BA%E8%B5%B6%E7%9D%80%E5%8E%BB%E5%81%9A%E5%89%AF%E4%B8%9A",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时45分 ~ 18时46分]"
+        },
+        {
+          "title": "重庆失联00后网格员确认遇难",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E5%A4%B1%E8%81%9400%E5%90%8E%E7%BD%91%E6%A0%BC%E5%91%98%E7%A1%AE%E8%AE%A4%E9%81%87%E9%9A%BE%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时45分 ~ 18时46分]"
+        },
+        {
+          "title": "考生连续自杀 印度年轻人怒了",
+          "url": "https://www.baidu.com/s?wd=%E8%80%83%E7%94%9F%E8%BF%9E%E7%BB%AD%E8%87%AA%E6%9D%80+%E5%8D%B0%E5%BA%A6%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%80%92%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时46分"
+        },
+        {
+          "title": "IMF总裁格奥尔基耶娃：人工智能可以促进增长和生产力，但也会改变工作。全球约有40%的工作受到影响，挑战在于帮助年轻人获得所需的技能和适应能力，以蓬勃发展。",
+          "url": "https://flash.jin10.com/detail/20260729113138250800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时17分"
+        },
+        {
+          "title": "年轻人为何越来越早进入世界前沿",
+          "url": "https://www.toutiao.com/trending/7667426480149761579/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时21分"
+        }
+      ]
+    },
+    {
       "keyword_group": "婚姻 结婚 离婚 彩礼",
       "match_count": 6,
       "titles": [
@@ -724,11 +934,12 @@
           "url": "https://news.ifeng.com/c/8v9PoYbh4AL",
           "source": "凤凰网",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时17分 ~ 15时49分]"
+          "appearance_count": 5,
+          "time_info": "[12时17分 ~ 18时46分]"
         },
         {
           "title": "如何看待房主任离婚选择净身出户后，现在申请独立户口遭拒一事及其在节目中的表现？",
@@ -789,58 +1000,8 @@
       ]
     },
     {
-      "keyword_group": "年轻人 00后 35岁",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "重庆失联00后网格员龚宝冬确认遇难",
-          "url": "https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E5%A4%B1%E8%81%9400%E5%90%8E%E7%BD%91%E6%A0%BC%E5%91%98%E9%BE%9A%E5%AE%9D%E5%86%AC%E7%A1%AE%E8%AE%A4%E9%81%87%E9%9A%BE",
-          "source": "百度热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时48分 ~ 15时49分]"
-        },
-        {
-          "title": "考生连续自杀 印度年轻人怒了",
-          "url": "https://www.baidu.com/s?wd=%E8%80%83%E7%94%9F%E8%BF%9E%E7%BB%AD%E8%87%AA%E6%9D%80+%E5%8D%B0%E5%BA%A6%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%80%92%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时46分"
-        },
-        {
-          "title": "IMF总裁格奥尔基耶娃：人工智能可以促进增长和生产力，但也会改变工作。全球约有40%的工作受到影响，挑战在于帮助年轻人获得所需的技能和适应能力，以蓬勃发展。",
-          "url": "https://flash.jin10.com/detail/20260729113138250800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时17分"
-        },
-        {
-          "title": "年轻人为何越来越早进入世界前沿",
-          "url": "https://www.toutiao.com/trending/7667426480149761579/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时21分"
-        }
-      ]
-    },
-    {
       "keyword_group": "经济 经济学",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "韩国央行行长：政策反应的时机和程度将取决于即将发布的数据和经济状况。",
@@ -863,6 +1024,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时20分"
+        },
+        {
+          "title": "文件显示，福特汽车(F.N)目前预计2026年下半年将收到约5亿美元与《国际紧急经济权力法》相关的退款。",
+          "url": "https://flash.jin10.com/detail/20260729180830115800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时46分"
         },
         {
           "title": "国家统计局：新动能日益成为经济稳定运行的关键支撑",
@@ -890,7 +1062,7 @@
     },
     {
       "keyword_group": "心理 心理学 心理咨询",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "心理疾病和精神疾病的区别",
@@ -904,6 +1076,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时46分 ~ 06时12分]"
+        },
+        {
+          "title": "蜘蛛侠4人物心理动线分析",
+          "url": "https://search.bilibili.com/all?keyword=%E8%9C%98%E8%9B%9B%E4%BE%A04%E4%BA%BA%E7%89%A9%E5%BF%83%E7%90%86%E5%8A%A8%E7%BA%BF%E5%88%86%E6%9E%90",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时45分 ~ 18时46分]"
         },
         {
           "title": "私募股权公司将心理健康连锁机构出售至市政债券市场",
@@ -926,6 +1109,58 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时46分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "社会 阶层 社会学",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "社会人士被举报冒充名校研究院副院长，涉事院长：学校未正式聘任",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33669088",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时17分 ~ 18时46分]"
+        },
+        {
+          "title": "全国社会物流总额181.1万亿",
+          "url": "https://www.douyin.com/hot/2589497",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时45分 ~ 18时46分]"
+        },
+        {
+          "title": "美国官员：伊朗在霍尔木兹海的要求过于苛刻，阿曼、美国及国际社会对此正当拒绝。",
+          "url": "https://flash.jin10.com/detail/20260729043825142800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时12分"
+        },
+        {
+          "title": "上海：上半年社会融资规模增加6914亿元 上半年本外币贷款增加5315亿元",
+          "url": "https://wallstreetcn.com/livenews/3141611",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时46分"
         }
       ]
     },
@@ -994,22 +1229,24 @@
           "source": "抖音",
           "ranks": [
             19,
-            24
+            24,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时17分 ~ 15时49分]"
+          "appearance_count": 5,
+          "time_info": "[12时17分 ~ 18时46分]"
         },
         {
           "title": "父母心寒,听泉炒股亏光养老钱",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356602&amp;topic_name=%E7%88%B6%E6%AF%8D%E5%BF%83%E5%AF%92%2C%E5%90%AC%E6%B3%89%E7%82%92%E8%82%A1%E4%BA%8F%E5%85%89%E5%85%BB%E8%80%81%E9%92%B1",
           "source": "贴吧",
           "ranks": [
-            9
+            9,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时48分 ~ 15时49分]"
+          "appearance_count": 4,
+          "time_info": "[15时48分 ~ 18时46分]"
         }
       ]
     },
@@ -1022,11 +1259,12 @@
           "url": "https://www.zhihu.com/question/2064984398307578588",
           "source": "知乎",
           "ranks": [
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时48分 ~ 15时49分]"
+          "appearance_count": 4,
+          "time_info": "[15时48分 ~ 18时46分]"
         },
         {
           "title": "官方通报中学老师教育不当行为",
@@ -1081,35 +1319,6 @@
       ]
     },
     {
-      "keyword_group": "社会 阶层 社会学",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "社会人士被举报冒充名校研究院副院长，涉事院长：学校未正式聘任",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33669088",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时17分 ~ 15时49分]"
-        },
-        {
-          "title": "美国官员：伊朗在霍尔木兹海的要求过于苛刻，阿曼、美国及国际社会对此正当拒绝。",
-          "url": "https://flash.jin10.com/detail/20260729043825142800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时12分"
-        }
-      ]
-    },
-    {
       "keyword_group": "焦虑 emo",
       "match_count": 1,
       "titles": [
@@ -1153,11 +1362,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356604&amp;topic_name=%E7%BD%91%E7%BA%A6%E8%BD%A6%E7%88%B6%E4%BA%B2%E5%90%90%E6%A7%BD%E6%9C%AC%E7%A7%91%E5%84%BF%E5%A5%B3%E8%BA%BA%E5%B9%B3",
           "source": "贴吧",
           "ranks": [
-            2
+            2,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时48分 ~ 15时49分]"
+          "appearance_count": 4,
+          "time_info": "[15时48分 ~ 18时46分]"
         }
       ]
     },
