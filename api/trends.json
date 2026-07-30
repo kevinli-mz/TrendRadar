@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-31T04:20:00.817083+08:00",
-  "total_titles_processed": 457,
+  "generated_at": "2026-07-31T06:12:46.583289+08:00",
+  "total_titles_processed": 531,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型",
-      "match_count": 19,
+      "match_count": 27,
       "titles": [
         {
           "title": "微软上季云+AI强劲答卷：Azure收入增超40%，资本支出低于预期，新增数据中心租约超1300亿｜财报见闻",
@@ -15,8 +15,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时41分 ~ 04时20分]"
+          "appearance_count": 6,
+          "time_info": "[00时41分 ~ 06时12分]"
+        },
+        {
+          "title": "OpenAI首席财务官“放暖风”：7月年化收入超过第二季！",
+          "url": "https://www.cls.cn/detail/2441076",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时41分 ~ 06时12分]"
         },
         {
           "title": "沃什：2%通胀目标不动摇，保持独立性，关注AI变革（附全文）",
@@ -31,15 +42,17 @@
           "time_info": "[00时41分 ~ 04时20分]"
         },
         {
-          "title": "OpenAI首席财务官“放暖风”：7月年化收入超过第二季！",
-          "url": "https://www.cls.cn/detail/2441076",
-          "source": "财联社热门",
+          "title": "SK 海力士跌超 17%，创最大跌幅纪录，AI 芯片投资热潮下，芯片巨头海力士股价为啥崩了？",
+          "url": "https://www.zhihu.com/question/2065810199877611641",
+          "source": "知乎",
           "ranks": [
-            5
+            16,
+            13,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时41分 ~ 04时20分]"
+          "appearance_count": 6,
+          "time_info": "[00时41分 ~ 06时12分]"
         },
         {
           "title": "硅谷烧书训AI,焚书坑儒2.0",
@@ -49,8 +62,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时41分 ~ 04时20分]"
+          "appearance_count": 6,
+          "time_info": "[00时41分 ~ 06时12分]"
         },
         {
           "title": "美国二季度GDP增速不及预期 但消费和AI投资释放积极信号",
@@ -61,20 +74,19 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时41分 ~ 04时20分]"
+          "appearance_count": 6,
+          "time_info": "[00时41分 ~ 06时12分]"
         },
         {
-          "title": "SK 海力士跌超 17%，创最大跌幅纪录，AI 芯片投资热潮下，芯片巨头海力士股价为啥崩了？",
-          "url": "https://www.zhihu.com/question/2065810199877611641",
-          "source": "知乎",
+          "title": "微软业绩提振AI信心，纳指100创年内第三大涨幅，芯片指数暴涨8%，美元跳水黄金夺回4100",
+          "url": "https://wallstreetcn.com/articles/3778287",
+          "source": "华尔街见闻",
           "ranks": [
-            16,
-            13
+            3
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时41分 ~ 04时20分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时12分"
         },
         {
           "title": "一份备忘录显示，高盛资产管理已经推出人工智能（AI）投资平台AlphaAI，Lou D’Ambrosio将负责领导AlphaAI。（路透）",
@@ -89,15 +101,59 @@
           "time_info": "[02时22分 ~ 04时20分]"
         },
         {
+          "title": "苹果(AAPL.O)CEO库克：对于希望重度使用新AI产品的用户，苹果将提供“升级选项”。",
+          "url": "https://flash.jin10.com/detail/20260731054211887800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时12分"
+        },
+        {
+          "title": "苹果高管：iPhone营收增长22%，主要得益于iPhone 17系列新品。 （注：苹果高管没有提到iPhone air。）",
+          "url": "https://wallstreetcn.com/livenews/3142662",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时12分"
+        },
+        {
+          "title": "微软电话会：2026年资本开支“变相”下降，Azure需求持续超越可用容量，AI变现进入加速轨道",
+          "url": "https://wallstreetcn.com/articles/3778268",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时12分"
+        },
+        {
           "title": "据美国保守派新闻Daily Wire：由于“需求极其旺盛”，美国国务院将再次发行25万本印有美国总统特朗普肖像的“爱国者护照”。",
           "url": "https://flash.jin10.com/detail/20260731032815618800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时20分"
+        },
+        {
+          "title": "亚马逊高管预计2026年资本开支2200亿美元，主要用于AI。 亚马逊美股盘后涨幅扩大至超过10%。",
+          "url": "https://wallstreetcn.com/livenews/3142660",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时12分"
         },
         {
           "title": "法官质疑美国政府封杀Anthropic AI的理由是否充分",
@@ -106,9 +162,31 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时20分"
+        },
+        {
+          "title": "白宫顾问哈塞特：人工智能（AI）并没有给美国造成通货膨胀。 如有必要，我们将继续降低油价。",
+          "url": "https://wallstreetcn.com/livenews/3142656",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时12分"
+        },
+        {
+          "title": "华尔街“AI股神”据传卷入强平风暴 老牌资本笑纳“带血筹码”",
+          "url": "https://www.cls.cn/detail/2441965",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时12分"
         },
         {
           "title": "报道：AI股受挫之际，城堡投资大举买入前OpenAI研究员旗下基金持仓",
@@ -150,7 +228,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时20分"
         },
@@ -194,7 +272,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时20分"
         },
@@ -219,12 +297,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时41分"
+        },
+        {
+          "title": "苹果(AAPL.O)首席财务官：越来越多公司选择Mac以利用设备端AI优势。",
+          "url": "https://flash.jin10.com/detail/20260731052605982800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时12分"
         }
       ]
     },
     {
       "keyword_group": "消费 存钱 攒钱",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "媒体称三大运营商将于 7 月 31 日前全面取消网络代理渠道，释放了哪些行业信号？对消费者有什么影响？",
@@ -232,11 +321,12 @@
           "source": "知乎",
           "ranks": [
             3,
-            4
+            4,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时41分 ~ 04时20分]"
+          "appearance_count": 6,
+          "time_info": "[00时41分 ~ 06时12分]"
         },
         {
           "title": "【每日收评】创业板指放量跌近4%，算力硬件权重集体重挫，大消费方向持续活跃",
@@ -247,8 +337,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时41分 ~ 04时20分]"
+          "appearance_count": 6,
+          "time_info": "[00时41分 ~ 06时12分]"
         },
         {
           "title": "大消费“反攻”：资金从高位科技撤退，涌向低位的“烟火气”",
@@ -256,11 +346,23 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时41分 ~ 04时20分]"
+          "appearance_count": 6,
+          "time_info": "[00时41分 ~ 06时12分]"
+        },
+        {
+          "title": "亚马逊(AMZN.O)CEO：公司正在追求自有的前沿模型，以控制成本并降低消费者支出。",
+          "url": "https://flash.jin10.com/detail/20260731054215668800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时12分"
         },
         {
           "title": "美股存储芯片指数初步收涨17%，半导体指数涨8%。 标普500指数初步收1.6%，科技板块飙涨5.6%，可选消费板块涨1.4%，日用消费品、电信板块跌超2%。 纳斯达克100指数初步收涨3.4%，成分股中，Nebius初步收涨27.2%，闪迪飙涨25.8%，CoreWeave涨21.3%，Astera Labs、拉姆研究、美光科技、微软、Lumentum、西部数据、应用材料至少涨15%，汤森路透跌7%，Meta跌7.9%，ALNY跌28.3%。",
@@ -269,7 +371,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时20分"
         },
@@ -294,6 +396,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时41分"
+        },
+        {
+          "title": "标普500指数的11个板块中，信息技术/科技板块收涨5.24%，可选消费板块涨1.57%，原材料板块涨1%，电信板块跌2.52%。",
+          "url": "https://wallstreetcn.com/livenews/3142642",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时12分"
         }
       ]
     },
@@ -309,8 +422,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时41分 ~ 04时20分]"
+          "appearance_count": 6,
+          "time_info": "[00时41分 ~ 06时12分]"
         },
         {
           "title": "中共中央政治局召开会议，决定召开二十届五中全会，分析研究当前经济形势和经济工作，中共中央总书记习近平主持会议",
@@ -318,11 +431,12 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时41分 ~ 04时20分]"
+          "appearance_count": 6,
+          "time_info": "[00时41分 ~ 06时12分]"
         },
         {
           "title": "政治局会议释放哪些重要经济信号",
@@ -330,11 +444,12 @@
           "source": "今日头条",
           "ranks": [
             17,
-            15
+            15,
+            26
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时41分 ~ 04时20分]"
+          "appearance_count": 6,
+          "time_info": "[00时41分 ~ 06时12分]"
         }
       ]
     },
@@ -350,8 +465,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时41分 ~ 04时20分]"
+          "appearance_count": 6,
+          "time_info": "[00时41分 ~ 06时12分]"
         }
       ]
     },
@@ -364,11 +479,12 @@
           "url": "https://wallstreetcn.com/articles/3778263",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时41分 ~ 04时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时41分 ~ 06时12分]"
         }
       ]
     },
@@ -390,6 +506,23 @@
       ]
     },
     {
+      "keyword_group": "就业 失业 裁员 应届生",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "媒体曝因 AI 裁员企业超半数承认决策失误，为啥这些企业光速反悔了？AI 裁员浪潮结束了吗？暴露出哪些问题？",
+          "url": "https://www.zhihu.com/question/2065915199089894895",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时12分"
+        }
+      ]
+    },
+    {
       "keyword_group": "考公 考研 上岸",
       "match_count": 1,
       "titles": [
@@ -398,11 +531,12 @@
           "url": "https://www.toutiao.com/trending/7667119441414897670/",
           "source": "今日头条",
           "ranks": [
-            23
+            23,
+            22
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时41分"
+          "appearance_count": 2,
+          "time_info": "[00时41分 ~ 06时12分]"
         }
       ]
     },
@@ -417,11 +551,12 @@
           "ranks": [
             12,
             8,
-            4
+            4,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时41分 ~ 04时20分]"
+          "appearance_count": 6,
+          "time_info": "[00时41分 ~ 06时12分]"
         }
       ]
     }
