@@ -1,459 +1,99 @@
 {
-  "generated_at": "2026-07-31T23:28:22.488478+08:00",
-  "total_titles_processed": 1459,
+  "generated_at": "2026-08-01T01:46:48.259644+08:00",
+  "total_titles_processed": 307,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型",
-      "match_count": 72,
+      "match_count": 15,
       "titles": [
         {
-          "title": "微软上季云+AI强劲答卷：Azure收入增超40%，资本支出低于预期，新增数据中心租约超1300亿｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3778264",
+          "title": "AI暴力反弹“昙花一现”，美股指转跌，存储股走低，亚马逊逆市涨超14%，日元走强重回159，油价涨超2%",
+          "url": "https://wallstreetcn.com/articles/3778379",
           "source": "华尔街见闻",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时41分 ~ 06时12分]"
-        },
-        {
-          "title": "OpenAI首席财务官“放暖风”：7月年化收入超过第二季！",
-          "url": "https://www.cls.cn/detail/2441076",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时41分 ~ 06时12分]"
-        },
-        {
-          "title": "硅谷烧书训AI,焚书坑儒2.0",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356640&amp;topic_name=%E7%A1%85%E8%B0%B7%E7%83%A7%E4%B9%A6%E8%AE%ADAI%2C%E7%84%9A%E4%B9%A6%E5%9D%91%E5%84%922.0",
-          "source": "贴吧",
-          "ranks": [
-            8,
-            16,
-            22,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时41分 ~ 18时47分]"
+          "appearance_count": 1,
+          "time_info": "01时46分"
         },
         {
           "title": "AI应用“易中天”来了！精品短剧涌现成强催化 哪些公司将受益？",
           "url": "https://www.cls.cn/detail/2442428",
           "source": "财联社热门",
           "ranks": [
-            2,
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时55分 ~ 23时28分]"
-        },
-        {
-          "title": "本轮牛市“最大神话”落幕！短短数周，“AI股神”被击溃，Citadel出手收购全部仓位",
-          "url": "https://wallstreetcn.com/articles/3778381",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时55分 ~ 23时28分]"
-        },
-        {
-          "title": "沃什：2%通胀目标不动摇，保持独立性，关注AI变革（附全文）",
-          "url": "https://wallstreetcn.com/articles/3778258",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时41分 ~ 04时20分]"
-        },
-        {
-          "title": "AI暴力反弹！美股盘前存储股持续走强，亚马逊涨超12%，美元跳水，日元走强重回159",
-          "url": "https://wallstreetcn.com/articles/3778379",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时46分 ~ 21时13分]"
-        },
-        {
-          "title": "SK 海力士跌超 17%，创最大跌幅纪录，AI 芯片投资热潮下，芯片巨头海力士股价为啥崩了？",
-          "url": "https://www.zhihu.com/question/2065810199877611641",
-          "source": "知乎",
-          "ranks": [
-            16,
-            13,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时41分 ~ 06时12分]"
-        },
-        {
-          "title": "一图看懂丨AI算力军备持续升温：美股四巨头开支指引再度上调",
-          "url": "https://www.cls.cn/detail/2442218",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时28分 ~ 18时47分]"
-        },
-        {
-          "title": "Aiming回应宫斗:对方先骂人",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356666&amp;topic_name=Aiming%E5%9B%9E%E5%BA%94%E5%AE%AB%E6%96%97%3A%E5%AF%B9%E6%96%B9%E5%85%88%E9%AA%82%E4%BA%BA",
-          "source": "贴吧",
-          "ranks": [
-            5,
-            11,
-            15,
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时28分 ~ 23时28分]"
-        },
-        {
-          "title": "“AI股神”崩了，“带血的筹码”出了，华尔街押注：AI见底了！",
-          "url": "https://wallstreetcn.com/articles/3778376",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时28分 ~ 23时28分]"
-        },
-        {
-          "title": "保时捷女销冠回应被AI合成不雅视频",
-          "url": "https://www.toutiao.com/trending/7668540826486865930/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时46分 ~ 18时47分]"
-        },
-        {
-          "title": "日本、韩国据传于昨夜干预汇市 美国再现“AI暴走”事件 | 环球市场",
-          "url": "https://www.cls.cn/detail/2442063",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时28分 ~ 15时55分]"
-        },
-        {
-          "title": "AI暴力反弹“昙花一现”，美股盘中存储股走低，闪迪转跌，亚马逊涨超13%，日元走强重回159，油价涨超2%",
-          "url": "https://wallstreetcn.com/articles/3778379",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时28分"
-        },
-        {
-          "title": "美国二季度GDP增速不及预期 但消费和AI投资释放积极信号",
-          "url": "https://www.cls.cn/detail/2441830",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时41分 ~ 06时12分]"
-        },
-        {
-          "title": "微软业绩提振AI信心，纳指100创年内第三大涨幅，芯片指数暴涨8%，美元跳水黄金夺回4100",
-          "url": "https://wallstreetcn.com/articles/3778287",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时12分"
-        },
-        {
-          "title": "AI生成的作品算艺术吗",
-          "url": "https://www.douyin.com/hot/2591797",
-          "source": "抖音",
-          "ranks": [
-            12,
-            6,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时55分 ~ 23时28分]"
-        },
-        {
-          "title": "港股午评：恒指收跌0.11% 存储及AI次新股飙升",
-          "url": "https://flash.jin10.com/detail/20260731121206481800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时28分"
-        },
-        {
-          "title": "OpenAI：通过Codex账户完成的工作，占每周输出Tokens总量的99.8%。",
-          "url": "https://flash.jin10.com/detail/20260731230749877800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时28分"
+          "time_info": "01时46分"
         },
         {
           "title": "美股财报季后的思考：科技巨头们，谁能更快将AI算力变成真金白银？",
           "url": "https://www.cls.cn/detail/2442818",
           "source": "财联社热门",
           "ranks": [
-            7,
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时13分 ~ 23时28分]"
+          "appearance_count": 1,
+          "time_info": "01时46分"
         },
         {
-          "title": "AI暴力反弹！三星、SK海力士飙升25%，韩股暴涨超14%，软银跳升15%，日股大涨",
-          "url": "https://wallstreetcn.com/articles/3778379",
+          "title": "本轮牛市“最大神话”落幕！短短数周，“AI股神”被击溃，Citadel出手收购全部仓位",
+          "url": "https://wallstreetcn.com/articles/3778381",
           "source": "华尔街见闻",
           "ranks": [
-            7,
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时28分 ~ 15时55分]"
+          "appearance_count": 1,
+          "time_info": "01时46分"
         },
         {
-          "title": "【每日收评】创业板指冲高回落涨3.06%，AI应用端全线爆发，存储芯片板块尾盘跳水",
-          "url": "https://www.cls.cn/detail/2442641",
-          "source": "财联社热门",
+          "title": "“AI股神”崩了，“带血的筹码”出了，华尔街押注：AI见底了！",
+          "url": "https://wallstreetcn.com/articles/3778376",
+          "source": "华尔街见闻",
           "ranks": [
-            7,
-            6,
-            9
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时46分 ~ 23时28分]"
+          "appearance_count": 1,
+          "time_info": "01时46分"
         },
         {
-          "title": "华尔街“AI股神”据传卷入强平风暴 老牌资本笑纳“带血筹码”",
-          "url": "https://www.cls.cn/detail/2441965",
-          "source": "财联社热门",
+          "title": "AI生成的作品算艺术吗",
+          "url": "https://www.douyin.com/hot/2591797",
+          "source": "抖音",
           "ranks": [
-            13,
-            2
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时12分 ~ 12时28分]"
-        },
-        {
-          "title": "一份备忘录显示，高盛资产管理已经推出人工智能（AI）投资平台AlphaAI，Lou D’Ambrosio将负责领导AlphaAI。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3142605",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时22分 ~ 04时20分]"
-        },
-        {
-          "title": "马斯克预言五年内 AI 将超越全人类、十年后金钱将失去意义，这一预测靠谱吗？AI 真会重塑经济体系吗？",
-          "url": "https://www.zhihu.com/question/2066440048212276843",
-          "source": "知乎",
-          "ranks": [
-            16,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时28分 ~ 18时47分]"
-        },
-        {
-          "title": "降幅高达80%！OpenAI大砍两款AI模型价格 “Token价格战”升温",
-          "url": "https://www.cls.cn/detail/2442077",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时28分 ~ 15时55分]"
+          "appearance_count": 1,
+          "time_info": "01时46分"
         },
         {
           "title": "“AI股神”是如何崩盘的？华尔街一线复盘爆仓全过程",
           "url": "https://wallstreetcn.com/articles/3778413",
           "source": "华尔街见闻",
           "ranks": [
-            10,
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时13分 ~ 23时28分]"
+          "appearance_count": 1,
+          "time_info": "01时46分"
         },
         {
-          "title": "AI助力虚拟电厂规模化加速 头部企业订单大增 交易收入占比已近60%|传真",
-          "url": "https://www.cls.cn/detail/2442116",
+          "title": "【每日收评】创业板指冲高回落涨3.06%，AI应用端全线爆发，存储芯片板块尾盘跳水",
+          "url": "https://www.cls.cn/detail/2442641",
           "source": "财联社热门",
           "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时28分 ~ 15时55分]"
-        },
-        {
-          "title": "如何看待 Claude 大规模封禁国内开发者账号，让依赖 AI 的程序员「功力尽失」，被调侃天才程序员陨落？",
-          "url": "https://www.zhihu.com/question/2065499504187371980",
-          "source": "知乎",
-          "ranks": [
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时13分 ~ 23时28分]"
-        },
-        {
-          "title": "联发科首席执行官：由英伟达(NVDA.O)联合开发芯片驱动的AI个人电脑将在今年假日季上市销售。",
-          "url": "https://flash.jin10.com/detail/20260731152957082800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时55分"
-        },
-        {
-          "title": "OpenAI：我们的模型现在覆盖超过两百万家企业。",
-          "url": "https://flash.jin10.com/detail/20260731230540746800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时28分"
-        },
-        {
-          "title": "OpenAI：我们的模型目前覆盖超过10亿活跃用户。 覆盖超过200万家企业。",
-          "url": "https://wallstreetcn.com/livenews/3143353",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时28分"
-        },
-        {
-          "title": "苹果(AAPL.O)CEO库克：对于希望重度使用新AI产品的用户，苹果将提供“升级选项”。",
-          "url": "https://flash.jin10.com/detail/20260731054211887800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时12分"
-        },
-        {
-          "title": "OpenAI：我们的模型现在拥有超过十亿活跃用户。",
-          "url": "https://flash.jin10.com/detail/20260731230518925800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时28分"
-        },
-        {
-          "title": "AI警报解除，亚太股指创4个月来最大涨幅",
-          "url": "https://flash.jin10.com/detail/20260731120614598800",
-          "source": "金十数据",
-          "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时28分"
-        },
-        {
-          "title": "苹果高管：iPhone营收增长22%，主要得益于iPhone 17系列新品。 （注：苹果高管没有提到iPhone air。）",
-          "url": "https://wallstreetcn.com/livenews/3142662",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时12分"
-        },
-        {
-          "title": "微软电话会：2026年资本开支“变相”下降，Azure需求持续超越可用容量，AI变现进入加速轨道",
-          "url": "https://wallstreetcn.com/articles/3778268",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时12分"
-        },
-        {
-          "title": "本轮牛市“最大神话”落幕！短短数周，“AI股神”被击溃，Citatdel出手收购全部仓位",
-          "url": "https://wallstreetcn.com/articles/3778381",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时28分"
+          "time_info": "01时46分"
         },
         {
           "title": "达利欧重大判断：教科书式AI资产泡沫，80年一次的“大周期”已进入尾声",
@@ -462,42 +102,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时28分"
+          "time_info": "01时46分"
         },
         {
-          "title": "据美国保守派新闻Daily Wire：由于“需求极其旺盛”，美国国务院将再次发行25万本印有美国总统特朗普肖像的“爱国者护照”。",
-          "url": "https://flash.jin10.com/detail/20260731032815618800",
-          "source": "金十数据",
+          "title": "亚马逊财报提振AI信心 美股期指走高 苹果盘前跌近8% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2442973",
+          "source": "财联社热门",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时20分"
-        },
-        {
-          "title": "欧盟宣布扩大实施《人工智能法》",
-          "url": "https://wallstreetcn.com/livenews/3143349",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时28分"
-        },
-        {
-          "title": "半夏投资创始人评“AI股神”爆仓",
-          "url": "https://www.toutiao.com/trending/7668212287854575657/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时13分"
+          "time_info": "01时46分"
         },
         {
           "title": "市场不相信“神话”：“AI股神”死于杠杆？",
@@ -506,653 +124,59 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时28分"
-        },
-        {
-          "title": "亚马逊财报提振AI信心 美股期指走高 苹果盘前跌近8% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2442973",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时28分"
-        },
-        {
-          "title": "亚马逊高管预计2026年资本开支2200亿美元，主要用于AI。 亚马逊美股盘后涨幅扩大至超过10%。",
-          "url": "https://wallstreetcn.com/livenews/3142660",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时12分"
+          "time_info": "01时46分"
         },
         {
-          "title": "法官质疑美国政府封杀Anthropic AI的理由是否充分",
-          "url": "https://wallstreetcn.com/livenews/3142626",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时20分"
-        },
-        {
-          "title": "白宫顾问哈塞特：人工智能（AI）并没有给美国造成通货膨胀。 如有必要，我们将继续降低油价。",
-          "url": "https://wallstreetcn.com/livenews/3142656",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时12分"
-        },
-        {
-          "title": "日本央行：需要关注外汇对经济和通胀的影响。 经济展望面临的风险包括中东局势及其对外汇和日本经济的影响。 需要特别关注中东局势发展。 全球AI需求有助于提振日本经济。 价格趋势正在接近2%的物价目标，将价格趋势稳定在2%附近至关重要。 将密切关注中东局势、AI及外汇以决定下一次加息时点。 中短期内实质利率一直处于负值状态。 日元贬值可能会推高物价，近期日元下跌是导致物价上涨的因素之一。",
-          "url": "https://wallstreetcn.com/livenews/3142897",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时28分"
-        },
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2026-07-31）",
-          "url": "https://flash.jin10.com/detail/20260731115746440800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时28分"
-        },
-        {
-          "title": "报道：AI股受挫之际，城堡投资大举买入前OpenAI研究员旗下基金持仓",
-          "url": "https://wallstreetcn.com/livenews/3142559",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时41分"
-        },
-        {
-          "title": "OpenAI宣布下调两款GPT-5.6模型的价格",
-          "url": "https://flash.jin10.com/detail/20260731013251868800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时22分"
-        },
-        {
-          "title": "白宫国家经济委员会主任哈塞特：（谈利率）认为我们可以维持现状。 根据现有数据，很难找到加息的理由。 预计AI生产率将有助于推动通胀回落。 10年期美国国债收益率的上升是暂时现象。 如有必要，将继续采取措施压低油价。",
-          "url": "https://wallstreetcn.com/livenews/3143262",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时13分"
-        },
-        {
-          "title": "OpenAI首席执行官奥尔特曼：我们希望在每个层级都提供最佳的价格与智能水平的平衡。",
-          "url": "https://flash.jin10.com/detail/20260731013129181800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时22分"
-        },
-        {
-          "title": "日本央行行长植田和男：人工智能支出本身推高了价格。",
-          "url": "https://flash.jin10.com/detail/20260731152600329800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时55分"
-        },
-        {
-          "title": "美国明尼阿波利斯联储主席卡什卡利：更倾向于逐步收紧政策。 渐进式加息将有助于管理通胀根深蒂固的风险。 货币政策可以应对连续的供给冲击。 一系列小幅加息将优于等待。 AI投资为通胀增加了新的需求因素。 小幅加息将使FOMC能够在通胀消退时暂停或放缓步伐。",
-          "url": "https://wallstreetcn.com/livenews/3143260",
-          "source": "华尔街见闻-快讯",
+          "title": "如何看待 Claude 大规模封禁国内开发者账号，让依赖 AI 的程序员「功力尽失」，被调侃天才程序员陨落？",
+          "url": "https://www.zhihu.com/question/2065499504187371980",
+          "source": "知乎",
           "ranks": [
             16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时13分"
+          "time_info": "01时46分"
         },
         {
-          "title": "Meta Platforms(META.O)报告称，已通过长期和短期协议，承诺在未来投入近7000亿美元，用于人工智能数据中心、云计算等领域。",
-          "url": "https://flash.jin10.com/detail/20260731025721940800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时20分"
-        },
-        {
-          "title": "OpenAI：将GPT-5.6Luna的价格下调80%",
-          "url": "https://wallstreetcn.com/livenews/3142590",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时22分"
-        },
-        {
-          "title": "国家发展改革委：上半年人工智能相关行业保持30%以上高增长",
-          "url": "https://wallstreetcn.com/livenews/3142887",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时28分"
-        },
-        {
-          "title": "Citadel接手Situational Awareness的大规模AI股票持仓",
-          "url": "https://flash.jin10.com/detail/20260730234636405800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时41分"
-        },
-        {
-          "title": "【谷歌发布Gemini机器人AI模型，旨在解决机器人“灵巧性”难题】Alphabet旗下的谷歌DeepMind发布了一款名为Gemini Robotics 2的新型机器人人工智能模型，该模型使类人机器能够协调全身运动。这一新系统使机器人能够在推理任务的同时进行行走、蹲下和操纵物体，并能自上而下地指挥整个类人机器人。谷歌DeepMind还发布了另外两款机器人AI模型——Gemini Robotics ER 2和On-Device 2。它们可以协同工作或独立运行，以规划多步骤任务并协调多个机器人。",
-          "url": "https://wallstreetcn.com/livenews/3142550",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时41分"
-        },
-        {
-          "title": "【Meta报告称未来支出承诺接近7000亿美元】Meta表示，已通过长期和短期协议，承诺了近7000亿美元的未来支出，涉及人工智能数据中心、云计算等领域。 Meta在周四的一份监管申报文件中表示，公司拥有3493亿美元的不可撤销合同承诺，主要涉及第三方云服务协议、服务器和网络基础设施。该公司还有3470亿美元尚未开始的租赁承诺，尚未反映在资产负债表中。其中仅7月份就新增了680亿美元，付款将从2027年和2028年开始。这些成本是在现有活跃租赁之外的，涵盖数据中心、托管设施及“部分网络基础设施”。",
-          "url": "https://wallstreetcn.com/livenews/3142615",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时20分"
-        },
-        {
-          "title": "日本央行行长植田和男：如果金融情况过于宽松，可能会加快升息步伐。 AI相关需求非常强劲。 AI相关支出在某种程度上看起来具有可持续性。",
-          "url": "https://wallstreetcn.com/livenews/3143015",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时55分"
-        },
-        {
-          "title": "据英国金融时报：因巨额亏损，由前OpenAI研究员Leopold Aschenbrenner创立、管理规模达240亿美元的对冲基金Situational Awareness已将其160亿美元公开股票持仓中的很大一部分快速出售给了Citadel。",
-          "url": "https://flash.jin10.com/detail/20260730234251331800",
-          "source": "金十数据",
+          "title": "Aiming回应宫斗:对方先骂人",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356666&amp;topic_name=Aiming%E5%9B%9E%E5%BA%94%E5%AE%AB%E6%96%97%3A%E5%AF%B9%E6%96%B9%E5%85%88%E9%AA%82%E4%BA%BA",
+          "source": "贴吧",
           "ranks": [
             22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时41分"
+          "time_info": "01时46分"
         },
         {
-          "title": "亚马逊(AMZN.O)：截至6月30日的6个月内，向OpenAI的C轮优先股投资了287亿美元，其中，二季度投资137亿美元。",
-          "url": "https://flash.jin10.com/detail/20260731180708153800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时47分"
-        },
-        {
-          "title": "加拿大帝国商业银行引入企业级代理AI工作区。",
-          "url": "https://flash.jin10.com/detail/20260731224512482800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时28分"
-        },
-        {
-          "title": "AI概念股受科技巨头业绩及资本支出计划提振而大涨",
-          "url": "https://wallstreetcn.com/livenews/3142542",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时41分"
-        },
-        {
-          "title": "受广泛回暖提振，美国消费者信心升至五个月高点，AI已成为消费者关注的一个“显著”因素",
-          "url": "https://wallstreetcn.com/livenews/3143326",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时28分"
-        },
-        {
-          "title": "苹果(AAPL.O)首席财务官：越来越多公司选择Mac以利用设备端AI优势。",
-          "url": "https://flash.jin10.com/detail/20260731052605982800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时12分"
-        },
-        {
-          "title": "AI应用方向持续走高，中文在线、蓝色光标20cm涨停，普联软件、福昕软件、易点天下、欢瑞世纪、用友网络等多股封板，昆仑万维、天龙集团、值得买等涨超15%。",
-          "url": "https://wallstreetcn.com/livenews/3142870",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时28分"
-        },
-        {
-          "title": "外交部部长助理刘彬集体会见签署世界人工智能合作组织协定的外方代表",
-          "url": "https://wallstreetcn.com/livenews/3143324",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时28分"
-        },
-        {
-          "title": "A股午评：创业板指涨超5% AI硬件板块集体反弹",
-          "url": "https://flash.jin10.com/detail/20260731114226607800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时28分"
-        },
-        {
-          "title": "欧盟8月2日起执行《人工智能法》相关规定 新增AI透明度要求",
-          "url": "https://wallstreetcn.com/livenews/3143245",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时13分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "经济 经济学",
-      "match_count": 15,
-      "titles": [
-        {
-          "title": "中共中央政治局召开会议，决定召开二十届五中全会，分析研究当前经济形势和经济工作，中共中央总书记习近平主持会议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33684854",
-          "source": "澎湃新闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时41分 ~ 12时28分]"
-        },
-        {
-          "title": "中共中央政治局召开会议，决定召开二十届五中全会，分析研究当前经济形势和经济工作，中共中央总书记习近平主持会议",
-          "url": "https://wallstreetcn.com/articles/3778301",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时41分 ~ 12时28分]"
-        },
-        {
-          "title": "政治局会议释放哪些重要经济信号",
-          "url": "https://www.toutiao.com/trending/7668295382706687507/",
-          "source": "今日头条",
-          "ranks": [
-            17,
-            15,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时41分 ~ 06时12分]"
-        },
-        {
-          "title": "下半年经济工作发力方向划重点",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%8B%E5%8D%8A%E5%B9%B4%E7%BB%8F%E6%B5%8E%E5%B7%A5%E4%BD%9C%E5%8F%91%E5%8A%9B%E6%96%B9%E5%90%91%E5%88%92%E9%87%8D%E7%82%B9",
+          "title": "AI公司批量抢购旧书",
+          "url": "https://www.baidu.com/s?wd=AI%E5%85%AC%E5%8F%B8%E6%89%B9%E9%87%8F%E6%8A%A2%E8%B4%AD%E6%97%A7%E4%B9%A6",
           "source": "百度热搜",
           "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时28分"
-        },
-        {
-          "title": "日本经济再生担当大臣木内康弘：政府将继续密切关注市场走势。 外汇政策由财务大臣片山负责。",
-          "url": "https://wallstreetcn.com/livenews/3142909",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时28分"
-        },
-        {
-          "title": "牛津经济研究院：通胀风险加剧，欧洲央行9月加息可能性增大",
-          "url": "https://flash.jin10.com/detail/20260731204220689800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时13分"
-        },
-        {
-          "title": "日本央行：将根据经济和物价情况持续加息。 通胀风险偏向上行。 经济风险整体平衡。 价格趋势存在偏离并高于目标的风险。 价格趋势在2026财年下半年至2027财年期间将与目标保持一致。 消费者物价指数（CPI）风险偏向上行。",
-          "url": "https://wallstreetcn.com/livenews/3142893",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时28分"
-        },
-        {
-          "title": "“美联储传声筒”Nick Timiraos：FOMC的政策声明以及凯文·沃什主席新闻发布会上的开场发言，就近期的经济发展提供了一些信息。沃什还简要概述了会议上讨论的重大问题，但并未提供像周五洛根、哈玛克、卡什卡利公布的异议声明中那样详细阐述的政策决定理由。",
-          "url": "https://flash.jin10.com/detail/20260731225440790800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时28分"
-        },
-        {
-          "title": "中国经济半年观察：向新向优成关键词",
-          "url": "https://www.toutiao.com/trending/7668381069606912046/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时55分"
-        },
-        {
-          "title": "发改委：将实施更加积极有为的宏观政策，增强经济发展和物价回升内生动力",
-          "url": "https://wallstreetcn.com/livenews/3142877",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时28分"
-        },
-        {
-          "title": "墨西哥总统辛鲍姆：与世界银行讨论与经济问题相关的“筹划墨西哥”（Plan Mexico）。",
-          "url": "https://wallstreetcn.com/livenews/3143328",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时28分"
-        },
-        {
-          "title": "英国央行首席经济学家Pill：没有看到第二轮效应迹象，但目前得出结论为时尚早。 整体通胀风险偏向上行。",
-          "url": "https://wallstreetcn.com/livenews/3143252",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时13分"
-        },
-        {
-          "title": "英国央行首席经济学家Pill：货币政策委员会并未逐步倾向于加息。 英国央行副行长Lombardelli已澄清，该决策并非势均力敌。",
-          "url": "https://wallstreetcn.com/livenews/3143250",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
             26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时13分"
+          "time_info": "01时46分"
         },
         {
-          "title": "日本央行经济活动与物价前景报告（全文翻译）",
-          "url": "https://flash.jin10.com/detail/20260731114038216800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时28分"
-        },
-        {
-          "title": "亚马逊(AMZN.O)：二季度，根据《国际经济紧急权力法》收到了约6.4亿美元的关税退款。",
-          "url": "https://flash.jin10.com/detail/20260731180527034800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时47分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "消费 存钱 攒钱",
-      "match_count": 12,
-      "titles": [
-        {
-          "title": "媒体称三大运营商将于 7 月 31 日前全面取消网络代理渠道，释放了哪些行业信号？对消费者有什么影响？",
-          "url": "https://www.zhihu.com/question/2065771256972932835",
-          "source": "知乎",
-          "ranks": [
-            3,
-            4,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时41分 ~ 06时12分]"
-        },
-        {
-          "title": "【每日收评】创业板指放量跌近4%，算力硬件权重集体重挫，大消费方向持续活跃",
-          "url": "https://www.cls.cn/detail/2441445",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时41分 ~ 06时12分]"
-        },
-        {
-          "title": "大消费“反攻”：资金从高位科技撤退，涌向低位的“烟火气”",
-          "url": "https://www.cls.cn/detail/2441464",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时41分 ~ 06时12分]"
-        },
-        {
-          "title": "澎湃漫评｜机票退改别总让消费者“挨宰”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33684912",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时55分 ~ 18时47分]"
-        },
-        {
-          "title": "亚马逊(AMZN.O)CEO：公司正在追求自有的前沿模型，以控制成本并降低消费者支出。",
-          "url": "https://flash.jin10.com/detail/20260731054215668800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时12分"
-        },
-        {
-          "title": "美股存储芯片指数初步收涨17%，半导体指数涨8%。 标普500指数初步收1.6%，科技板块飙涨5.6%，可选消费板块涨1.4%，日用消费品、电信板块跌超2%。 纳斯达克100指数初步收涨3.4%，成分股中，Nebius初步收涨27.2%，闪迪飙涨25.8%，CoreWeave涨21.3%，Astera Labs、拉姆研究、美光科技、微软、Lumentum、西部数据、应用材料至少涨15%，汤森路透跌7%，Meta跌7.9%，ALNY跌28.3%。",
-          "url": "https://wallstreetcn.com/livenews/3142630",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时20分"
-        },
-        {
-          "title": "高通CEO：更高的价格正在改变消费者的行为。",
-          "url": "https://wallstreetcn.com/livenews/3142563",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时41分"
-        },
-        {
-          "title": "国务院常务会议解读｜住房公积金将更好满足居民多样化住房消费需求",
-          "url": "https://wallstreetcn.com/livenews/3143342",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时28分"
-        },
-        {
-          "title": "高通(QCOM.O)CEO：内存芯片价格上涨非常夸张。更高的价格正在改变消费者行为。",
-          "url": "https://flash.jin10.com/detail/20260730234630449800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时41分"
-        },
-        {
-          "title": "建行公示个贷综合融资成本上限！房贷上限为LPR+0.5%、消费贷经营贷年化利率上限为6%",
-          "url": "https://wallstreetcn.com/livenews/3143255",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时13分"
-        },
-        {
-          "title": "标普500指数的11个板块中，信息技术/科技板块收涨5.24%，可选消费板块涨1.57%，原材料板块涨1%，电信板块跌2.52%。",
-          "url": "https://wallstreetcn.com/livenews/3142642",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时12分"
-        },
-        {
-          "title": "美国7月密歇根大学消费者现况指数终值 54.8，预期 54.6，初值 54.9。",
-          "url": "https://wallstreetcn.com/livenews/3143319",
-          "source": "华尔街见闻-快讯",
+          "title": "AI男主都能带货了",
+          "url": "https://www.baidu.com/s?wd=AI%E7%94%B7%E4%B8%BB%E9%83%BD%E8%83%BD%E5%B8%A6%E8%B4%A7%E4%BA%86",
+          "source": "百度热搜",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时28分"
+          "time_info": "01时46分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 7,
+      "match_count": 5,
       "titles": [
         {
           "title": "DeepSeek V4 flash 正式版发布，有哪些亮点值得关注？",
@@ -1162,444 +186,153 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时55分 ~ 23时28分]"
+          "appearance_count": 1,
+          "time_info": "01时46分"
         },
         {
           "title": "DeepSeek-V4-Flash 正式版API上线",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek-V4-Flash",
           "source": "bilibili 热搜",
           "ranks": [
-            1,
-            2
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时55分 ~ 21时13分]"
-        },
-        {
-          "title": "DeepSeekV4能力在GLM5.2和KimiK3之间",
-          "url": "https://s.weibo.com/weibo?q=DeepSeekV4%E8%83%BD%E5%8A%9B%E5%9C%A8GLM5.2%E5%92%8CKimiK3%E4%B9%8B%E9%97%B4&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10,
-            20,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时46分 ~ 23时28分]"
-        },
-        {
-          "title": "DeepSeek V4 Flash正式版强在哪",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Flash%E6%AD%A3%E5%BC%8F%E7%89%88%E5%BC%BA%E5%9C%A8%E5%93%AA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时46分 ~ 23时28分]"
-        },
-        {
-          "title": "DeepSeekV4Flash正式版上线",
-          "url": "https://s.weibo.com/weibo?q=%23DeepSeekV4Flash%E6%AD%A3%E5%BC%8F%E7%89%88%E4%B8%8A%E7%BA%BF%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时55分 ~ 18时47分]"
+          "appearance_count": 1,
+          "time_info": "01时46分"
         },
         {
           "title": "DeepSeek V4 正式版发布，使用体验如何？和降价后的 GPT5.6 luna 对比谁更有优势？",
           "url": "https://www.zhihu.com/question/2066526486505461299",
           "source": "知乎",
           "ranks": [
-            10,
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时13分 ~ 23时28分]"
+          "appearance_count": 1,
+          "time_info": "01时46分"
         },
         {
-          "title": "DeepSeek-V4-Flash正式版上线",
-          "url": "https://www.baidu.com/s?wd=DeepSeek-V4-Flash%E6%AD%A3%E5%BC%8F%E7%89%88%E4%B8%8A%E7%BA%BF",
-          "source": "百度热搜",
+          "title": "DeepSeek V4 Flash正式版强在哪",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Flash%E6%AD%A3%E5%BC%8F%E7%89%88%E5%BC%BA%E5%9C%A8%E5%93%AA",
+          "source": "bilibili 热搜",
           "ranks": [
-            20
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时46分 ~ 18时47分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "电影 影视 综艺",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "如何评价影视飓风发十周年激励金，在职年限越长奖励越高，最低发半个月工资？这种激励方式值得推广吗？",
-          "url": "https://www.zhihu.com/question/2066121761117004785",
-          "source": "知乎",
-          "ranks": [
-            12,
-            8,
-            4,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时41分 ~ 06时12分]"
+          "appearance_count": 1,
+          "time_info": "01时46分"
         },
         {
-          "title": "马特·达蒙中国宣传《奥德赛》，谈及电影《长城》直言「好莱坞让张艺谋失望了」，怎样理解这一说法？",
-          "url": "https://www.zhihu.com/question/2066461420372190170",
-          "source": "知乎",
-          "ranks": [
-            16,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时13分 ~ 23时28分]"
-        },
-        {
-          "title": "电影院不想再当冤大头了",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B5%E5%BD%B1%E9%99%A2%E4%B8%8D%E6%83%B3%E5%86%8D%E5%BD%93%E5%86%A4%E5%A4%A7%E5%A4%B4%E4%BA%86",
-          "source": "百度热搜",
+          "title": "DeepSeek拟在内蒙古建超算中心",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%8B%9F%E5%9C%A8%E5%86%85%E8%92%99%E5%8F%A4%E5%BB%BA%E8%B6%85%E7%AE%97%E4%B8%AD%E5%BF%83",
+          "source": "bilibili 热搜",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时28分"
-        },
-        {
-          "title": "电影功夫女足",
-          "url": "https://s.weibo.com/weibo?q=%E7%94%B5%E5%BD%B1%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时28分"
-        },
-        {
-          "title": "阿哲自制综艺蜥蜴头造型太炸裂了",
-          "url": "https://www.douyin.com/hot/2592514",
-          "source": "抖音",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时28分"
-        },
-        {
-          "title": "电影《Once》男主角车祸离世",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B5%E5%BD%B1%E3%80%8AOnce%E3%80%8B%E7%94%B7%E4%B8%BB%E8%A7%92%E8%BD%A6%E7%A5%B8%E7%A6%BB%E4%B8%96",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时28分"
+          "time_info": "01时46分"
         }
       ]
     },
     {
-      "keyword_group": "婚姻 结婚 离婚 彩礼",
-      "match_count": 5,
+      "keyword_group": "经济 经济学",
+      "match_count": 3,
       "titles": [
         {
-          "title": "出轨丈夫起诉离婚试图保住婚外胚胎",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%87%BA%E8%BD%A8%E4%B8%88%E5%A4%AB%E8%B5%B7%E8%AF%89%E7%A6%BB%E5%A9%9A%E8%AF%95%E5%9B%BE%E4%BF%9D%E4%BD%8F%E5%A9%9A%E5%A4%96%E8%83%9A%E8%83%8E%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
+          "title": "下半年经济工作发力方向划重点",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%8B%E5%8D%8A%E5%B9%B4%E7%BB%8F%E6%B5%8E%E5%B7%A5%E4%BD%9C%E5%8F%91%E5%8A%9B%E6%96%B9%E5%90%91%E5%88%92%E9%87%8D%E7%82%B9",
+          "source": "百度热搜",
           "ranks": [
-            2
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时28分"
+          "time_info": "01时46分"
         },
         {
-          "title": "新人结婚将高铁作婚车排面拉满",
-          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E4%BA%BA%E7%BB%93%E5%A9%9A%E5%B0%86%E9%AB%98%E9%93%81%E4%BD%9C%E5%A9%9A%E8%BD%A6%E6%8E%92%E9%9D%A2%E6%8B%89%E6%BB%A1",
-          "source": "百度热搜",
-          "ranks": [
-            7,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时46分 ~ 21时13分]"
-        },
-        {
-          "title": "姐姐否认C罗将结婚",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A7%90%E5%A7%90%E5%90%A6%E8%AE%A4C%E7%BD%97%E5%B0%86%E7%BB%93%E5%A9%9A%23&t=31&band_rank=12&Refer=top",
-          "source": "微博",
+          "title": "美联储巴尔金：价格上涨在经济中不均匀地传播。",
+          "url": "https://flash.jin10.com/detail/20260801005504418800",
+          "source": "金十数据",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时13分"
+          "time_info": "01时46分"
         },
         {
-          "title": "男子与第三者涉嫌伪造结婚证建档辅助生殖并培育婚外胚胎，医院审核有哪些漏洞？男子行为算涉嫌重婚罪吗？",
-          "url": "https://www.zhihu.com/question/2066062901211657020",
-          "source": "知乎",
+          "title": "美联储巴尔金：不知道自己是否会（像那三位异议成员一样在7月份FOMC货币政策会议上）投票支持加息。 并没有感觉到美国存在一个紧俏的劳动力市场。 价格上涨在美国经济中不均衡地传导。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3143402",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时13分"
-        },
-        {
-          "title": "丈夫与第三者伪造结婚证做试管婴儿",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%88%E5%A4%AB%E4%B8%8E%E7%AC%AC%E4%B8%89%E8%80%85%E4%BC%AA%E9%80%A0%E7%BB%93%E5%A9%9A%E8%AF%81%E5%81%9A%E8%AF%95%E7%AE%A1%E5%A9%B4%E5%84%BF",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时55分"
+          "time_info": "01时46分"
         }
       ]
     },
     {
-      "keyword_group": "就业 失业 裁员 应届生",
-      "match_count": 4,
+      "keyword_group": "电影 影视 综艺",
+      "match_count": 2,
       "titles": [
         {
-          "title": "媒体曝因 AI 裁员企业超半数承认决策失误，是真的吗？为啥这些企业光速反悔了？AI 裁员浪潮结束了吗？",
-          "url": "https://www.zhihu.com/question/2065915199089894895",
+          "title": "马特·达蒙中国宣传《奥德赛》，谈及电影《长城》直言「好莱坞让张艺谋失望了」，怎样理解这一说法？",
+          "url": "https://www.zhihu.com/question/2066461420372190170",
           "source": "知乎",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时28分"
+          "time_info": "01时46分"
         },
         {
-          "title": "媒体曝因 AI 裁员企业超半数承认决策失误，为啥这些企业光速反悔了？AI 裁员浪潮结束了吗？暴露出哪些问题？",
-          "url": "https://www.zhihu.com/question/2065915199089894895",
-          "source": "知乎",
+          "title": "阿哲自制综艺蜥蜴头造型太炸裂了",
+          "url": "https://www.douyin.com/hot/2592514",
+          "source": "抖音",
           "ranks": [
-            14
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时12分"
-        },
-        {
-          "title": "美国第二季度劳工就业福利季率 1%，前值1.2%。",
-          "url": "https://flash.jin10.com/detail/20260731203004541800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时13分"
-        },
-        {
-          "title": "美国第二季度劳工就业工资季率 0.9%，前值0.8%。",
-          "url": "https://flash.jin10.com/detail/20260731203004517800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时13分"
+          "time_info": "01时46分"
         }
       ]
     },
     {
-      "keyword_group": "心理 心理学 心理咨询",
-      "match_count": 2,
+      "keyword_group": "就业 失业 裁员 应届生",
+      "match_count": 1,
       "titles": [
         {
-          "title": "压力大!Bin疑似看心理医生",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356645&amp;topic_name=%E5%8E%8B%E5%8A%9B%E5%A4%A7%21Bin%E7%96%91%E4%BC%BC%E7%9C%8B%E5%BF%83%E7%90%86%E5%8C%BB%E7%94%9F",
-          "source": "贴吧",
-          "ranks": [
-            1,
-            11,
-            17,
-            22,
-            26,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时41分 ~ 23时28分]"
-        },
-        {
-          "title": "湖北仙桃干河街道办：电梯冲突双方已签调解协议，妇联将开展心理关怀",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33685200",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时55分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "年轻人 00后 35岁",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "00后姑娘在高考结束后剃了光头",
-          "url": "https://www.baidu.com/s?wd=00%E5%90%8E%E5%A7%91%E5%A8%98%E5%9C%A8%E9%AB%98%E8%80%83%E7%BB%93%E6%9D%9F%E5%90%8E%E5%89%83%E4%BA%86%E5%85%89%E5%A4%B4",
-          "source": "百度热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时55分"
-        },
-        {
-          "title": "英国央行行长：年轻人承受了“低招聘、低解雇”经济的主要冲击",
-          "url": "https://wallstreetcn.com/livenews/3142555",
+          "title": "据知情人士透露，美国加州州长Newsom对当地公诉人起诉派拉蒙天舞（Paramount SkyDance）一事感到忧心忡忡。 州长担心，阻挠派拉蒙与华纳兄弟探索公司（WBD）合并交易的举动会影响到当地就业。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3143409",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时41分"
+          "time_info": "01时46分"
         }
       ]
     },
     {
-      "keyword_group": "性别 男女 女性",
-      "match_count": 2,
+      "keyword_group": "恋爱 相亲 婚恋 脱单",
+      "match_count": 1,
       "titles": [
         {
-          "title": "炒股健身姐弟恋 37岁女性重建自我",
-          "url": "https://www.baidu.com/s?wd=%E7%82%92%E8%82%A1%E5%81%A5%E8%BA%AB%E5%A7%90%E5%BC%9F%E6%81%8B+37%E5%B2%81%E5%A5%B3%E6%80%A7%E9%87%8D%E5%BB%BA%E8%87%AA%E6%88%91",
+          "title": "女子通过婚介所相亲 连遇2名已婚男",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%80%9A%E8%BF%87%E5%A9%9A%E4%BB%8B%E6%89%80%E7%9B%B8%E4%BA%B2+%E8%BF%9E%E9%81%872%E5%90%8D%E5%B7%B2%E5%A9%9A%E7%94%B7",
           "source": "百度热搜",
           "ranks": [
-            18
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时55分"
-        },
-        {
-          "title": "医生称多囊卵巢综合征名字害惨女性",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E7%A7%B0%E5%A4%9A%E5%9B%8A%E5%8D%B5%E5%B7%A2%E7%BB%BC%E5%90%88%E5%BE%81%E5%90%8D%E5%AD%97%E5%AE%B3%E6%83%A8%E5%A5%B3%E6%80%A7%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "焦虑 emo",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "Meta大跌！营收超预期难掩AI投入焦虑，Q3指引逊色、自由现金流创四年新低｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3778263",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时41分 ~ 06时12分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "考公 考研 上岸",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "蛇叼着青蛙游过小溪飞速上岸",
-          "url": "https://www.toutiao.com/trending/7667119441414897670/",
-          "source": "今日头条",
-          "ranks": [
-            23,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 06时12分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "原生家庭 父母 亲子",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "父母遇撞船6天后母亲遗体现沙滩",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%88%B6%E6%AF%8D%E9%81%87%E6%92%9E%E8%88%B96%E5%A4%A9%E5%90%8E%E6%AF%8D%E4%BA%B2%E9%81%97%E4%BD%93%E7%8E%B0%E6%B2%99%E6%BB%A9%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "房价 买房",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "8月房价会迎来实质性反转吗",
-          "url": "https://www.toutiao.com/trending/7668496284222754367/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时55分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "教育 鸡娃 小镇做题家",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "印度教育集团放弃在日本建校",
-          "url": "https://www.toutiao.com/trending/7667736909518651430/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时55分"
+          "time_info": "01时46分"
         }
       ]
     }
