@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-31T18:47:12.184250+08:00",
-  "total_titles_processed": 1148,
+  "generated_at": "2026-07-31T21:13:59.394657+08:00",
+  "total_titles_processed": 1299,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型",
-      "match_count": 53,
+      "match_count": 60,
       "titles": [
         {
           "title": "微软上季云+AI强劲答卷：Azure收入增超40%，资本支出低于预期，新增数据中心租约超1300亿｜财报见闻",
@@ -60,11 +60,12 @@
           "url": "https://www.cls.cn/detail/2442428",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时55分 ~ 18时47分]"
+          "appearance_count": 4,
+          "time_info": "[15时55分 ~ 21时13分]"
         },
         {
           "title": "本轮牛市“最大神话”落幕！短短数周，“AI股神”被击溃，Citadel出手收购全部仓位",
@@ -74,8 +75,19 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时55分 ~ 21时13分]"
+        },
+        {
+          "title": "AI暴力反弹！美股盘前存储股持续走强，亚马逊涨超12%，美元跳水，日元走强重回159",
+          "url": "https://wallstreetcn.com/articles/3778379",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[15时55分 ~ 18时47分]"
+          "time_info": "[18时46分 ~ 21时13分]"
         },
         {
           "title": "SK 海力士跌超 17%，创最大跌幅纪录，AI 芯片投资热潮下，芯片巨头海力士股价为啥崩了？",
@@ -115,17 +127,6 @@
           "time_info": "[18时46分 ~ 18时47分]"
         },
         {
-          "title": "AI暴力反弹！美股盘前存储股持续走强，亚马逊涨超12%，美元跳水，日元走强重回159",
-          "url": "https://wallstreetcn.com/articles/3778379",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时46分 ~ 18时47分]"
-        },
-        {
           "title": "日本、韩国据传于昨夜干预汇市 美国再现“AI暴走”事件 | 环球市场",
           "url": "https://www.cls.cn/detail/2442063",
           "source": "财联社热门",
@@ -135,6 +136,20 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时28分 ~ 15时55分]"
+        },
+        {
+          "title": "Aiming回应宫斗:对方先骂人",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356666&amp;topic_name=Aiming%E5%9B%9E%E5%BA%94%E5%AE%AB%E6%96%97%3A%E5%AF%B9%E6%96%B9%E5%85%88%E9%AA%82%E4%BA%BA",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            11,
+            15,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时28分 ~ 21时13分]"
         },
         {
           "title": "美国二季度GDP增速不及预期 但消费和AI投资释放积极信号",
@@ -160,17 +175,16 @@
           "time_info": "06时12分"
         },
         {
-          "title": "Aiming回应宫斗:对方先骂人",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356666&amp;topic_name=Aiming%E5%9B%9E%E5%BA%94%E5%AE%AB%E6%96%97%3A%E5%AF%B9%E6%96%B9%E5%85%88%E9%AA%82%E4%BA%BA",
-          "source": "贴吧",
+          "title": "“AI股神”崩了，“带血的筹码”出了，华尔街押注：AI见底了！",
+          "url": "https://wallstreetcn.com/articles/3778376",
+          "source": "华尔街见闻",
           "ranks": [
-            5,
-            11,
-            15
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时28分 ~ 18时47分]"
+          "appearance_count": 5,
+          "time_info": "[12时28分 ~ 21时13分]"
         },
         {
           "title": "港股午评：恒指收跌0.11% 存储及AI次新股飙升",
@@ -182,18 +196,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时28分"
-        },
-        {
-          "title": "“AI股神”崩了，“带血的筹码”出了，华尔街押注：AI见底了！",
-          "url": "https://wallstreetcn.com/articles/3778376",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时28分 ~ 18时47分]"
         },
         {
           "title": "AI暴力反弹！三星、SK海力士飙升25%，韩股暴涨超14%，软银跳升15%，日股大涨",
@@ -232,6 +234,19 @@
           "time_info": "[02时22分 ~ 04时20分]"
         },
         {
+          "title": "AI生成的作品算艺术吗",
+          "url": "https://www.douyin.com/hot/2591797",
+          "source": "抖音",
+          "ranks": [
+            12,
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时55分 ~ 21时13分]"
+        },
+        {
           "title": "马斯克预言五年内 AI 将超越全人类、十年后金钱将失去意义，这一预测靠谱吗？AI 真会重塑经济体系吗？",
           "url": "https://www.zhihu.com/question/2066440048212276843",
           "source": "知乎",
@@ -244,27 +259,16 @@
           "time_info": "[12时28分 ~ 18时47分]"
         },
         {
-          "title": "AI生成的作品算艺术吗",
-          "url": "https://www.douyin.com/hot/2591797",
-          "source": "抖音",
-          "ranks": [
-            12,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时55分 ~ 18时47分]"
-        },
-        {
           "title": "【每日收评】创业板指冲高回落涨3.06%，AI应用端全线爆发，存储芯片板块尾盘跳水",
           "url": "https://www.cls.cn/detail/2442641",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时46分 ~ 18时47分]"
+          "appearance_count": 3,
+          "time_info": "[18时46分 ~ 21时13分]"
         },
         {
           "title": "降幅高达80%！OpenAI大砍两款AI模型价格 “Token价格战”升温",
@@ -300,6 +304,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时55分"
+        },
+        {
+          "title": "美股财报季后的思考：科技巨头们，谁能更快将AI算力变成真金白银？",
+          "url": "https://www.cls.cn/detail/2442818",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时13分"
         },
         {
           "title": "苹果(AAPL.O)CEO库克：对于希望重度使用新AI产品的用户，苹果将提供“升级选项”。",
@@ -366,6 +381,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时20分"
+        },
+        {
+          "title": "半夏投资创始人评“AI股神”爆仓",
+          "url": "https://www.toutiao.com/trending/7668212287854575657/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时13分"
+        },
+        {
+          "title": "“AI股神”是如何崩盘的？华尔街一线复盘爆仓全过程",
+          "url": "https://wallstreetcn.com/articles/3778413",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时13分"
         },
         {
           "title": "亚马逊高管预计2026年资本开支2200亿美元，主要用于AI。 亚马逊美股盘后涨幅扩大至超过10%。",
@@ -445,6 +482,17 @@
           "time_info": "02时22分"
         },
         {
+          "title": "白宫国家经济委员会主任哈塞特：（谈利率）认为我们可以维持现状。 根据现有数据，很难找到加息的理由。 预计AI生产率将有助于推动通胀回落。 10年期美国国债收益率的上升是暂时现象。 如有必要，将继续采取措施压低油价。",
+          "url": "https://wallstreetcn.com/livenews/3143262",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时13分"
+        },
+        {
           "title": "OpenAI首席执行官奥尔特曼：我们希望在每个层级都提供最佳的价格与智能水平的平衡。",
           "url": "https://flash.jin10.com/detail/20260731013129181800",
           "source": "金十数据",
@@ -465,6 +513,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时55分"
+        },
+        {
+          "title": "美国明尼阿波利斯联储主席卡什卡利：更倾向于逐步收紧政策。 渐进式加息将有助于管理通胀根深蒂固的风险。 货币政策可以应对连续的供给冲击。 一系列小幅加息将优于等待。 AI投资为通胀增加了新的需求因素。 小幅加息将使FOMC能够在通胀消退时暂停或放缓步伐。",
+          "url": "https://wallstreetcn.com/livenews/3143260",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时13分"
         },
         {
           "title": "Meta Platforms(META.O)报告称，已通过长期和短期协议，承诺在未来投入近7000亿美元，用于人工智能数据中心、云计算等领域。",
@@ -522,6 +581,17 @@
           "time_info": "00时41分"
         },
         {
+          "title": "如何看待 Claude 大规模封禁国内开发者账号，让依赖 AI 的程序员「功力尽失」，被调侃天才程序员陨落？",
+          "url": "https://www.zhihu.com/question/2065499504187371980",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时13分"
+        },
+        {
           "title": "【Meta报告称未来支出承诺接近7000亿美元】Meta表示，已通过长期和短期协议，承诺了近7000亿美元的未来支出，涉及人工智能数据中心、云计算等领域。 Meta在周四的一份监管申报文件中表示，公司拥有3493亿美元的不可撤销合同承诺，主要涉及第三方云服务协议、服务器和网络基础设施。该公司还有3470亿美元尚未开始的租赁承诺，尚未反映在资产负债表中。其中仅7月份就新增了680亿美元，付款将从2027年和2028年开始。这些成本是在现有活跃租赁之外的，涵盖数据中心、托管设施及“部分网络基础设施”。",
           "url": "https://wallstreetcn.com/livenews/3142615",
           "source": "华尔街见闻-快讯",
@@ -561,7 +631,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时47分"
         },
@@ -608,12 +678,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时28分"
+        },
+        {
+          "title": "欧盟8月2日起执行《人工智能法》相关规定 新增AI透明度要求",
+          "url": "https://wallstreetcn.com/livenews/3143245",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时13分"
         }
       ]
     },
     {
       "keyword_group": "经济 经济学",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "中共中央政治局召开会议，决定召开二十届五中全会，分析研究当前经济形势和经济工作，中共中央总书记习近平主持会议",
@@ -664,6 +745,17 @@
           "time_info": "12时28分"
         },
         {
+          "title": "牛津经济研究院：通胀风险加剧，欧洲央行9月加息可能性增大",
+          "url": "https://flash.jin10.com/detail/20260731204220689800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时13分"
+        },
+        {
           "title": "日本央行：将根据经济和物价情况持续加息。 通胀风险偏向上行。 经济风险整体平衡。 价格趋势存在偏离并高于目标的风险。 价格趋势在2026财年下半年至2027财年期间将与目标保持一致。 消费者物价指数（CPI）风险偏向上行。",
           "url": "https://wallstreetcn.com/livenews/3142893",
           "source": "华尔街见闻-快讯",
@@ -697,6 +789,28 @@
           "time_info": "12时28分"
         },
         {
+          "title": "英国央行首席经济学家Pill：没有看到第二轮效应迹象，但目前得出结论为时尚早。 整体通胀风险偏向上行。",
+          "url": "https://wallstreetcn.com/livenews/3143252",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时13分"
+        },
+        {
+          "title": "英国央行首席经济学家Pill：货币政策委员会并未逐步倾向于加息。 英国央行副行长Lombardelli已澄清，该决策并非势均力敌。",
+          "url": "https://wallstreetcn.com/livenews/3143250",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时13分"
+        },
+        {
           "title": "日本央行经济活动与物价前景报告（全文翻译）",
           "url": "https://flash.jin10.com/detail/20260731114038216800",
           "source": "金十数据",
@@ -714,7 +828,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时47分"
         }
@@ -722,7 +836,7 @@
     },
     {
       "keyword_group": "消费 存钱 攒钱",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "媒体称三大运营商将于 7 月 31 日前全面取消网络代理渠道，释放了哪些行业信号？对消费者有什么影响？",
@@ -819,6 +933,17 @@
           "time_info": "00时41分"
         },
         {
+          "title": "建行公示个贷综合融资成本上限！房贷上限为LPR+0.5%、消费贷经营贷年化利率上限为6%",
+          "url": "https://wallstreetcn.com/livenews/3143255",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时13分"
+        },
+        {
           "title": "标普500指数的11个板块中，信息技术/科技板块收涨5.24%，可选消费板块涨1.57%，原材料板块涨1%，电信板块跌2.52%。",
           "url": "https://wallstreetcn.com/livenews/3142642",
           "source": "华尔街见闻-快讯",
@@ -833,7 +958,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "DeepSeek V4 flash 正式版发布，有哪些亮点值得关注？",
@@ -843,8 +968,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时55分 ~ 18时47分]"
+          "appearance_count": 4,
+          "time_info": "[15时55分 ~ 21时13分]"
         },
         {
           "title": "DeepSeek-V4-Flash 正式版API上线",
@@ -855,8 +980,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时55分 ~ 18时47分]"
+          "appearance_count": 4,
+          "time_info": "[15时55分 ~ 21时13分]"
         },
         {
           "title": "DeepSeekV4Flash正式版上线",
@@ -871,22 +996,23 @@
           "time_info": "[15时55分 ~ 18时47分]"
         },
         {
+          "title": "DeepSeekV4能力在GLM5.2和KimiK3之间",
+          "url": "https://s.weibo.com/weibo?q=DeepSeekV4%E8%83%BD%E5%8A%9B%E5%9C%A8GLM5.2%E5%92%8CKimiK3%E4%B9%8B%E9%97%B4&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时46分 ~ 21时13分]"
+        },
+        {
           "title": "DeepSeek V4 Flash正式版强在哪",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Flash%E6%AD%A3%E5%BC%8F%E7%89%88%E5%BC%BA%E5%9C%A8%E5%93%AA",
           "source": "bilibili 热搜",
           "ranks": [
             9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时46分 ~ 18时47分]"
-        },
-        {
-          "title": "DeepSeekV4能力在GLM5.2和KimiK3之间",
-          "url": "https://s.weibo.com/weibo?q=DeepSeekV4%E8%83%BD%E5%8A%9B%E5%9C%A8GLM5.2%E5%92%8CKimiK3%E4%B9%8B%E9%97%B4&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -902,12 +1028,85 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时46分 ~ 18时47分]"
+        },
+        {
+          "title": "DeepSeek V4 正式版发布，使用体验如何？和降价后的 GPT5.6 luna 对比谁更有优势？",
+          "url": "https://www.zhihu.com/question/2066526486505461299",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "婚姻 结婚 离婚 彩礼",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "出轨丈夫起诉离婚试图保住婚外胚胎",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%87%BA%E8%BD%A8%E4%B8%88%E5%A4%AB%E8%B5%B7%E8%AF%89%E7%A6%BB%E5%A9%9A%E8%AF%95%E5%9B%BE%E4%BF%9D%E4%BD%8F%E5%A9%9A%E5%A4%96%E8%83%9A%E8%83%8E%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时28分"
+        },
+        {
+          "title": "新人结婚将高铁作婚车排面拉满",
+          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E4%BA%BA%E7%BB%93%E5%A9%9A%E5%B0%86%E9%AB%98%E9%93%81%E4%BD%9C%E5%A9%9A%E8%BD%A6%E6%8E%92%E9%9D%A2%E6%8B%89%E6%BB%A1",
+          "source": "百度热搜",
+          "ranks": [
+            7,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时46分 ~ 21时13分]"
+        },
+        {
+          "title": "姐姐否认C罗将结婚",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A7%90%E5%A7%90%E5%90%A6%E8%AE%A4C%E7%BD%97%E5%B0%86%E7%BB%93%E5%A9%9A%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时13分"
+        },
+        {
+          "title": "男子与第三者涉嫌伪造结婚证建档辅助生殖并培育婚外胚胎，医院审核有哪些漏洞？男子行为算涉嫌重婚罪吗？",
+          "url": "https://www.zhihu.com/question/2066062901211657020",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时13分"
+        },
+        {
+          "title": "丈夫与第三者伪造结婚证做试管婴儿",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%88%E5%A4%AB%E4%B8%8E%E7%AC%AC%E4%B8%89%E8%80%85%E4%BC%AA%E9%80%A0%E7%BB%93%E5%A9%9A%E8%AF%81%E5%81%9A%E8%AF%95%E7%AE%A1%E5%A9%B4%E5%84%BF",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时55分"
         }
       ]
     },
     {
       "keyword_group": "电影 影视 综艺",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "如何评价影视飓风发十周年激励金，在职年限越长奖励越高，最低发半个月工资？这种激励方式值得推广吗？",
@@ -946,6 +1145,17 @@
           "time_info": "12时28分"
         },
         {
+          "title": "马特·达蒙中国宣传《奥德赛》，谈及电影《长城》直言「好莱坞让张艺谋失望了」，怎样理解这一说法？",
+          "url": "https://www.zhihu.com/question/2066461420372190170",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时13分"
+        },
+        {
           "title": "电影《Once》男主角车祸离世",
           "url": "https://www.baidu.com/s?wd=%E7%94%B5%E5%BD%B1%E3%80%8AOnce%E3%80%8B%E7%94%B7%E4%B8%BB%E8%A7%92%E8%BD%A6%E7%A5%B8%E7%A6%BB%E4%B8%96",
           "source": "百度热搜",
@@ -959,41 +1169,52 @@
       ]
     },
     {
-      "keyword_group": "婚姻 结婚 离婚 彩礼",
-      "match_count": 3,
+      "keyword_group": "就业 失业 裁员 应届生",
+      "match_count": 4,
       "titles": [
         {
-          "title": "出轨丈夫起诉离婚试图保住婚外胚胎",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%87%BA%E8%BD%A8%E4%B8%88%E5%A4%AB%E8%B5%B7%E8%AF%89%E7%A6%BB%E5%A9%9A%E8%AF%95%E5%9B%BE%E4%BF%9D%E4%BD%8F%E5%A9%9A%E5%A4%96%E8%83%9A%E8%83%8E%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
+          "title": "媒体曝因 AI 裁员企业超半数承认决策失误，是真的吗？为啥这些企业光速反悔了？AI 裁员浪潮结束了吗？",
+          "url": "https://www.zhihu.com/question/2065915199089894895",
+          "source": "知乎",
           "ranks": [
-            2
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时28分"
         },
         {
-          "title": "新人结婚将高铁作婚车排面拉满",
-          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E4%BA%BA%E7%BB%93%E5%A9%9A%E5%B0%86%E9%AB%98%E9%93%81%E4%BD%9C%E5%A9%9A%E8%BD%A6%E6%8E%92%E9%9D%A2%E6%8B%89%E6%BB%A1",
-          "source": "百度热搜",
+          "title": "媒体曝因 AI 裁员企业超半数承认决策失误，为啥这些企业光速反悔了？AI 裁员浪潮结束了吗？暴露出哪些问题？",
+          "url": "https://www.zhihu.com/question/2065915199089894895",
+          "source": "知乎",
           "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时46分 ~ 18时47分]"
-        },
-        {
-          "title": "丈夫与第三者伪造结婚证做试管婴儿",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%88%E5%A4%AB%E4%B8%8E%E7%AC%AC%E4%B8%89%E8%80%85%E4%BC%AA%E9%80%A0%E7%BB%93%E5%A9%9A%E8%AF%81%E5%81%9A%E8%AF%95%E7%AE%A1%E5%A9%B4%E5%84%BF",
-          "source": "百度热搜",
-          "ranks": [
-            21
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时55分"
+          "time_info": "06时12分"
+        },
+        {
+          "title": "美国第二季度劳工就业福利季率 1%，前值1.2%。",
+          "url": "https://flash.jin10.com/detail/20260731203004541800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时13分"
+        },
+        {
+          "title": "美国第二季度劳工就业工资季率 0.9%，前值0.8%。",
+          "url": "https://flash.jin10.com/detail/20260731203004517800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时13分"
         }
       ]
     },
@@ -1009,11 +1230,12 @@
             1,
             11,
             17,
-            22
+            22,
+            26
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时41分 ~ 18时47分]"
+          "appearance_count": 11,
+          "time_info": "[00时41分 ~ 21时13分]"
         },
         {
           "title": "湖北仙桃干河街道办：电梯冲突双方已签调解协议，妇联将开展心理关怀",
@@ -1053,34 +1275,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时41分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "就业 失业 裁员 应届生",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "媒体曝因 AI 裁员企业超半数承认决策失误，是真的吗？为啥这些企业光速反悔了？AI 裁员浪潮结束了吗？",
-          "url": "https://www.zhihu.com/question/2065915199089894895",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时28分"
-        },
-        {
-          "title": "媒体曝因 AI 裁员企业超半数承认决策失误，为啥这些企业光速反悔了？AI 裁员浪潮结束了吗？暴露出哪些问题？",
-          "url": "https://www.zhihu.com/question/2065915199089894895",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时12分"
         }
       ]
     },
