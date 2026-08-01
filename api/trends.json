@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-02T05:01:55.611688+08:00",
-  "total_titles_processed": 389,
+  "generated_at": "2026-08-02T06:07:24.179945+08:00",
+  "total_titles_processed": 409,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "AI盈利兑现主导交易，亚马逊涨15%力撑纳指收涨，苹果重挫7%，30年美债收益率涨破5.27%",
@@ -15,8 +15,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时07分 ~ 05时01分]"
+          "appearance_count": 4,
+          "time_info": "[01时07分 ~ 06时07分]"
+        },
+        {
+          "title": "拯救AI交易？Citadel接盘“AI股神”持仓，投行策略师“终于搞明白大跌原因，现在可以往前看了”",
+          "url": "https://wallstreetcn.com/articles/3778475",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时07分 ~ 06时07分]"
         },
         {
           "title": "摩根士丹利邢自强：AI投资“半场休息”，下半场逻辑已变",
@@ -26,20 +39,21 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时07分 ~ 05时01分]"
+          "appearance_count": 4,
+          "time_info": "[01时07分 ~ 06时07分]"
         },
         {
-          "title": "拯救AI交易？Citadel接盘“AI股神”持仓，投行策略师“终于搞明白大跌原因，现在可以往前看了”",
-          "url": "https://wallstreetcn.com/articles/3778475",
+          "title": "“AI股神”致信投资者：遭遇“银行挤兑”，再也不加杠杆了，今年仍涨80%，我们能东山再起",
+          "url": "https://wallstreetcn.com/articles/3778476",
           "source": "华尔街见闻",
           "ranks": [
+            5,
             4,
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时07分 ~ 05时01分]"
+          "appearance_count": 4,
+          "time_info": "[01时07分 ~ 06时07分]"
         },
         {
           "title": "神了,OpenAI攻克十年数学难题",
@@ -49,20 +63,21 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时07分 ~ 05时01分]"
+          "appearance_count": 4,
+          "time_info": "[01时07分 ~ 06时07分]"
         },
         {
-          "title": "“AI股神”致信投资者：遭遇“银行挤兑”，再也不加杠杆了，今年仍涨80%，我们能东山再起",
-          "url": "https://wallstreetcn.com/articles/3778476",
+          "title": "“黑色7月”以“两连涨”收尾，“AI交易”见底了吗？",
+          "url": "https://wallstreetcn.com/articles/3778474",
           "source": "华尔街见闻",
           "ranks": [
-            5,
+            7,
+            6,
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时07分 ~ 05时01分]"
+          "appearance_count": 4,
+          "time_info": "[01时07分 ~ 06时07分]"
         },
         {
           "title": "美股财报季AI赛道赢家显现：云计算三巨头本周市值暴增10万亿",
@@ -72,20 +87,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时07分 ~ 05时01分]"
-        },
-        {
-          "title": "“黑色7月”以“两连涨”收尾，“AI交易”见底了吗？",
-          "url": "https://wallstreetcn.com/articles/3778474",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时07分 ~ 05时01分]"
+          "appearance_count": 4,
+          "time_info": "[01时07分 ~ 06时07分]"
         },
         {
           "title": "“AI股神”最新表态：再也不碰杠杆了",
@@ -95,8 +98,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时07分 ~ 05时01分]"
+          "appearance_count": 4,
+          "time_info": "[01时07分 ~ 06时07分]"
         },
         {
           "title": "AI生成的作品算艺术吗",
@@ -104,11 +107,12 @@
           "source": "抖音",
           "ranks": [
             10,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时07分 ~ 05时01分]"
+          "appearance_count": 4,
+          "time_info": "[01时07分 ~ 06时07分]"
         },
         {
           "title": "人工智能助力直肠癌个性化化疗",
@@ -118,8 +122,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时07分 ~ 05时01分]"
+          "appearance_count": 4,
+          "time_info": "[01时07分 ~ 06时07分]"
         },
         {
           "title": "美两家AI巨头承认自家大模型“失控”",
@@ -132,6 +136,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时18分 ~ 05时01分]"
+        },
+        {
+          "title": "开源崛起、降价80%，大模型真的还能赚到钱吗？",
+          "url": "https://wallstreetcn.com/articles/3778491",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时07分"
         },
         {
           "title": "科技巨头绩后股价冰火两重天，表明市场开始“惩罚”乱花钱的AI公司",
@@ -160,8 +175,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时07分 ~ 05时01分]"
+          "appearance_count": 4,
+          "time_info": "[01时07分 ~ 06时07分]"
         },
         {
           "title": "电影痴迷观影后遗症",
@@ -169,11 +184,12 @@
           "source": "抖音",
           "ranks": [
             21,
-            14
+            14,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时07分 ~ 05时01分]"
+          "appearance_count": 4,
+          "time_info": "[01时07分 ~ 06时07分]"
         },
         {
           "title": "2026暑期档电影票房破70亿，《八仙！》破10亿",
@@ -183,8 +199,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时07分 ~ 05时01分]"
+          "appearance_count": 4,
+          "time_info": "[01时07分 ~ 06时07分]"
         },
         {
           "title": "广州一村子把周星驰电影画进现实",
@@ -211,8 +227,20 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时07分 ~ 06时07分]"
+        },
+        {
+          "title": "阿里董事会主席蔡崇信宣布离婚 对旗下资产有何影响？",
+          "url": "https://www.cls.cn/detail/2443267",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[01时07分 ~ 05时01分]"
+          "time_info": "[03时18分 ~ 06时07分]"
         },
         {
           "title": "林心如晒照纪念结婚十周年",
@@ -221,17 +249,6 @@
           "ranks": [
             13,
             23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时18分 ~ 05时01分]"
-        },
-        {
-          "title": "阿里董事会主席蔡崇信宣布离婚 对旗下资产有何影响？",
-          "url": "https://www.cls.cn/detail/2443267",
-          "source": "财联社热门",
-          "ranks": [
-            13
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -249,11 +266,25 @@
           "source": "知乎",
           "ranks": [
             1,
-            12
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时07分 ~ 06时07分]"
+        },
+        {
+          "title": "被称作「国产萨莉亚」的魏家凉皮大范围涨价，多款产品涨幅达 20%，如何看待该商业策略？你还愿意消费吗？",
+          "url": "https://www.zhihu.com/question/2066181294938232007",
+          "source": "知乎",
+          "ranks": [
+            20,
+            6,
+            4
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[01时07分 ~ 05时01分]"
+          "time_info": "[03时18分 ~ 06时07分]"
         },
         {
           "title": "海南将增设7家岛内居民日用消费品免税店，2家今日开业",
@@ -263,20 +294,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时07分 ~ 05时01分]"
-        },
-        {
-          "title": "被称作「国产萨莉亚」的魏家凉皮大范围涨价，多款产品涨幅达 20%，如何看待该商业策略？你还愿意消费吗？",
-          "url": "https://www.zhihu.com/question/2066181294938232007",
-          "source": "知乎",
-          "ranks": [
-            20,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时18分 ~ 05时01分]"
+          "appearance_count": 4,
+          "time_info": "[01时07分 ~ 06时07分]"
         }
       ]
     },
@@ -292,8 +311,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时07分 ~ 05时01分]"
+          "appearance_count": 4,
+          "time_info": "[01时07分 ~ 06时07分]"
         },
         {
           "title": "性别和情绪，房主任的两种舞台语法为什么在现实中失灵了？",
@@ -305,8 +324,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时07分 ~ 05时01分]"
+          "appearance_count": 4,
+          "time_info": "[01时07分 ~ 06时07分]"
         }
       ]
     },
@@ -322,19 +341,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时07分 ~ 05时01分]"
+          "appearance_count": 4,
+          "time_info": "[01时07分 ~ 06时07分]"
         },
         {
           "title": "伊朗外交部声明： 在美国继续违背6月28日停战协议的情况下，持续对伊朗的港口和商业航运实施海上封锁，针对全国各地进行野蛮攻击，加大经济压力和非法威胁，实施对伊朗的侵略行为，我国武装力量的防御打击将全力以赴继续进行。",
           "url": "https://flash.jin10.com/detail/20260802031423982800",
           "source": "金十数据",
           "ranks": [
-            11
+            11,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时01分 ~ 06时07分]"
         }
       ]
     },
@@ -366,9 +386,9 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时01分 ~ 06时07分]"
         }
       ]
     },
@@ -384,8 +404,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时07分 ~ 05时01分]"
+          "appearance_count": 4,
+          "time_info": "[01时07分 ~ 06时07分]"
         }
       ]
     },
@@ -401,8 +421,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时07分 ~ 05时01分]"
+          "appearance_count": 4,
+          "time_info": "[01时07分 ~ 06时07分]"
         }
       ]
     },
@@ -420,8 +440,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时07分 ~ 05时01分]"
+          "appearance_count": 4,
+          "time_info": "[01时07分 ~ 06时07分]"
         }
       ]
     }
