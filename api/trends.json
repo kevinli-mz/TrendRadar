@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-02T12:28:12.716069+08:00",
-  "total_titles_processed": 655,
+  "generated_at": "2026-08-02T15:36:13.078751+08:00",
+  "total_titles_processed": 796,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型",
-      "match_count": 18,
+      "match_count": 22,
       "titles": [
         {
           "title": "摩根士丹利邢自强：AI投资“半场休息”，下半场逻辑已变",
@@ -18,6 +18,19 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时07分 ~ 12时28分]"
+        },
+        {
+          "title": "神了,OpenAI攻克十年数学难题",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356711&amp;topic_name=%E7%A5%9E%E4%BA%86%2COpenAI%E6%94%BB%E5%85%8B%E5%8D%81%E5%B9%B4%E6%95%B0%E5%AD%A6%E9%9A%BE%E9%A2%98",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            6,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时07分 ~ 15时36分]"
         },
         {
           "title": "拯救AI交易？Citadel接盘“AI股神”持仓，投行策略师“终于搞明白大跌原因，现在可以往前看了”",
@@ -34,16 +47,16 @@
           "time_info": "[01时07分 ~ 08时03分]"
         },
         {
-          "title": "神了,OpenAI攻克十年数学难题",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356711&amp;topic_name=%E7%A5%9E%E4%BA%86%2COpenAI%E6%94%BB%E5%85%8B%E5%8D%81%E5%B9%B4%E6%95%B0%E5%AD%A6%E9%9A%BE%E9%A2%98",
-          "source": "贴吧",
+          "title": "美股财报季AI赛道赢家显现：云计算三巨头本周市值暴增10万亿",
+          "url": "https://www.cls.cn/detail/2443270",
+          "source": "财联社热门",
           "ranks": [
-            4,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时07分 ~ 12时28分]"
+          "appearance_count": 10,
+          "time_info": "[01时07分 ~ 15时36分]"
         },
         {
           "title": "“AI股神”致信投资者：遭遇“银行挤兑”，再也不加杠杆了，今年仍涨80%，我们能东山再起",
@@ -60,6 +73,19 @@
           "time_info": "[01时07分 ~ 08时03分]"
         },
         {
+          "title": "“AI股神”最新表态：再也不碰杠杆了",
+          "url": "https://www.cls.cn/detail/2443109",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时07分 ~ 15时36分]"
+        },
+        {
           "title": "AI盈利兑现主导交易，亚马逊涨15%力撑纳指收涨，苹果重挫7%，30年美债收益率涨破5.27%",
           "url": "https://wallstreetcn.com/articles/3778379",
           "source": "华尔街见闻",
@@ -71,29 +97,16 @@
           "time_info": "[01时07分 ~ 06时07分]"
         },
         {
-          "title": "美股财报季AI赛道赢家显现：云计算三巨头本周市值暴增10万亿",
-          "url": "https://www.cls.cn/detail/2443270",
-          "source": "财联社热门",
+          "title": "OpenAI确认下一代模型Astra存在，以2000美元算力成本破解十项数学未解难题，正向监管层展示",
+          "url": "https://wallstreetcn.com/articles/3778497",
+          "source": "华尔街见闻",
           "ranks": [
             6,
-            7
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时07分 ~ 12时28分]"
-        },
-        {
-          "title": "“AI股神”最新表态：再也不碰杠杆了",
-          "url": "https://www.cls.cn/detail/2443109",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时07分 ~ 12时28分]"
+          "appearance_count": 6,
+          "time_info": "[08时02分 ~ 15时36分]"
         },
         {
           "title": "“黑色7月”以“两连涨”收尾，“AI交易”见底了吗？",
@@ -109,28 +122,17 @@
           "time_info": "[01时07分 ~ 08时03分]"
         },
         {
-          "title": "OpenAI确认下一代模型Astra存在，以2000美元算力成本破解十项数学未解难题，正向监管层展示",
-          "url": "https://wallstreetcn.com/articles/3778497",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时02分 ~ 12时28分]"
-        },
-        {
           "title": "这届AI进化到开始玩心眼了",
           "url": "https://www.douyin.com/hot/2592773",
           "source": "抖音",
           "ranks": [
             5,
-            19
+            19,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时02分 ~ 12时28分]"
+          "appearance_count": 6,
+          "time_info": "[08时02分 ~ 15时36分]"
         },
         {
           "title": "开源崛起、降价80%，大模型真的还能赚到钱吗？",
@@ -156,6 +158,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时07分 ~ 08时03分]"
+        },
+        {
+          "title": "从韩国到美国：多亏了AI，蓝领越来越吃香了",
+          "url": "https://wallstreetcn.com/articles/3778495",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时27分 ~ 15时36分]"
         },
         {
           "title": "AI生成的作品算艺术吗",
@@ -184,15 +198,26 @@
           "time_info": "[03时18分 ~ 08时03分]"
         },
         {
-          "title": "从韩国到美国：多亏了AI，蓝领越来越吃香了",
-          "url": "https://wallstreetcn.com/articles/3778495",
+          "title": "天才女友 AI片头",
+          "url": "https://s.weibo.com/weibo?q=%E5%A4%A9%E6%89%8D%E5%A5%B3%E5%8F%8B%20AI%E7%89%87%E5%A4%B4&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时35分 ~ 15时36分]"
+        },
+        {
+          "title": "怎么看待AI大回调，大摩120页研报深度解读",
+          "url": "https://wallstreetcn.com/articles/3778502",
           "source": "华尔街见闻",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时27分 ~ 12时28分]"
+          "time_info": "[15时35分 ~ 15时36分]"
         },
         {
           "title": "怎么看 GCC 正式拒绝所有 AI 代码，基于 AI 代码人改的都不行？",
@@ -204,6 +229,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时27分 ~ 12时28分]"
+        },
+        {
+          "title": "深度参与算电协同 AI与虚拟电厂双向赋能|虚拟电厂风口前夜①",
+          "url": "https://www.cls.cn/detail/2443437",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时35分 ~ 15时36分]"
+        },
+        {
+          "title": "别让虚假AI广告收割信任",
+          "url": "https://www.toutiao.com/trending/7668996991562399763/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时35分 ~ 15时36分]"
         },
         {
           "title": "科技巨头绩后股价冰火两重天，表明市场开始“惩罚”乱花钱的AI公司",
@@ -223,9 +270,84 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "经济 经济学",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "这四个字读懂上半年中国经济",
+          "url": "https://www.baidu.com/s?wd=%E8%BF%99%E5%9B%9B%E4%B8%AA%E5%AD%97%E8%AF%BB%E6%87%82%E4%B8%8A%E5%8D%8A%E5%B9%B4%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时07分 ~ 08时03分]"
+        },
+        {
+          "title": "伊朗外交部声明： 在美国继续违背6月28日停战协议的情况下，持续对伊朗的港口和商业航运实施海上封锁，针对全国各地进行野蛮攻击，加大经济压力和非法威胁，实施对伊朗的侵略行为，我国武装力量的防御打击将全力以赴继续进行。",
+          "url": "https://flash.jin10.com/detail/20260802031423982800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            15,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时01分 ~ 08时03分]"
+        },
+        {
+          "title": "日本经济财政大臣城内实：日本将加强与市场的双向对话。 保持信息一致是赢得市场信任的关键。（NHK）",
+          "url": "https://wallstreetcn.com/livenews/3143643",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时28分 ~ 15时36分]"
+        },
+        {
+          "title": "日本经济产业大臣赤泽亮正：后续即使按保守估计、仅维持往年同期75%的采购水平，通过动用国家储备，也足以保障石油供应至2028年3月底。",
+          "url": "https://flash.jin10.com/detail/20260802144834289800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时36分"
+        },
+        {
+          "title": "日本经济产业大臣赤泽亮正：8月份原油有望实现相当于往年同期约100%的采购量，“日本整体所需的数量”已得到确保。",
+          "url": "https://flash.jin10.com/detail/20260802144819119800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时36分"
+        },
+        {
+          "title": "陈茂波：香港将上调全年经济增长预测",
+          "url": "https://wallstreetcn.com/livenews/3143654",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时36分"
         }
       ]
     },
@@ -261,11 +383,24 @@
           "url": "https://s.weibo.com/weibo?q=%23C%E7%BD%97%E7%BB%93%E5%A9%9A%E9%85%92%E5%BA%97%E5%BD%93%E5%A4%A9%E4%BB%8D%E5%8F%AF%E9%A2%84%E8%AE%A2%23&t=31&band_rank=11&Refer=top",
           "source": "微博",
           "ranks": [
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时27分 ~ 12时28分]"
+          "appearance_count": 4,
+          "time_info": "[12时27分 ~ 15时36分]"
+        },
+        {
+          "title": "阿里巴巴集团主席蔡崇信离婚：无出售阿里股份计划，职务不受影响",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33693478",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时27分 ~ 15时36分]"
         },
         {
           "title": "林心如晒照纪念结婚十周年",
@@ -278,23 +413,12 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时18分 ~ 05时01分]"
-        },
-        {
-          "title": "阿里巴巴集团主席蔡崇信离婚：无出售阿里股份计划，职务不受影响",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33693478",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时27分 ~ 12时28分]"
         }
       ]
     },
     {
       "keyword_group": "电影 影视 综艺",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "如何评价董润年导演，张若昀、白客主演的喜剧电影《年会不能停！2》？",
@@ -316,11 +440,12 @@
           "source": "澎湃新闻",
           "ranks": [
             20,
-            17
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时07分 ~ 12时28分]"
+          "appearance_count": 8,
+          "time_info": "[01时07分 ~ 15时36分]"
         },
         {
           "title": "电影痴迷观影后遗症",
@@ -346,47 +471,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时07分 ~ 08时03分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "经济 经济学",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "这四个字读懂上半年中国经济",
-          "url": "https://www.baidu.com/s?wd=%E8%BF%99%E5%9B%9B%E4%B8%AA%E5%AD%97%E8%AF%BB%E6%87%82%E4%B8%8A%E5%8D%8A%E5%B9%B4%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E",
-          "source": "百度热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时07分 ~ 08时03分]"
         },
         {
-          "title": "伊朗外交部声明： 在美国继续违背6月28日停战协议的情况下，持续对伊朗的港口和商业航运实施海上封锁，针对全国各地进行野蛮攻击，加大经济压力和非法威胁，实施对伊朗的侵略行为，我国武装力量的防御打击将全力以赴继续进行。",
-          "url": "https://flash.jin10.com/detail/20260802031423982800",
-          "source": "金十数据",
+          "title": "为什么董宇辉能坚持看 500 多遍《大话西游》？真有人能同一部电影看 500 遍吗？",
+          "url": "https://www.zhihu.com/question/2066466013324088063",
+          "source": "知乎",
           "ranks": [
-            11,
-            15,
-            19
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时01分 ~ 08时03分]"
-        },
-        {
-          "title": "日本经济财政大臣城内实：日本将加强与市场的双向对话。 保持信息一致是赢得市场信任的关键。（NHK）",
-          "url": "https://wallstreetcn.com/livenews/3143643",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时28分"
+          "appearance_count": 2,
+          "time_info": "[15时35分 ~ 15时36分]"
         }
       ]
     },
@@ -449,11 +544,12 @@
             17,
             16,
             13,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时07分 ~ 12时28分]"
+          "appearance_count": 10,
+          "time_info": "[01时07分 ~ 15时36分]"
         },
         {
           "title": "针对综艺节目中情绪失控，脱口秀演员「房主任」发布视频道歉，你如何看待？",
@@ -503,6 +599,18 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "如何看待房主任在二女儿生日宴诉苦被指愧疚式教育？大女儿说其当年坚持说是为了女儿，实则为自己，你怎么看？",
+          "url": "https://www.zhihu.com/question/2067018457934197978",
+          "source": "知乎",
+          "ranks": [
+            6,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时27分 ~ 15时36分]"
+        },
+        {
           "title": "女儿说房主任愧疚式教育",
           "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%84%BF%E8%AF%B4%E6%88%BF%E4%B8%BB%E4%BB%BB%E6%84%A7%E7%96%9A%E5%BC%8F%E6%95%99%E8%82%B2%23&t=31&band_rank=22&Refer=top",
           "source": "微博",
@@ -513,17 +621,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[08时02分 ~ 12时28分]"
-        },
-        {
-          "title": "如何看待房主任在二女儿生日宴诉苦被指愧疚式教育？大女儿说其当年坚持说是为了女儿，实则为自己，你怎么看？",
-          "url": "https://www.zhihu.com/question/2067018457934197978",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时27分 ~ 12时28分]"
         }
       ]
     },
@@ -562,6 +659,23 @@
       ]
     },
     {
+      "keyword_group": "年轻人 00后 35岁",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "00后运20女飞：离地三尺不分男女",
+          "url": "https://www.toutiao.com/trending/7669241153266437670/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时35分 ~ 15时36分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "就业 失业 裁员 应届生",
       "match_count": 1,
       "titles": [
@@ -572,7 +686,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时28分"
         }
@@ -587,11 +701,12 @@
           "url": "https://www.zhihu.com/question/2065166119082766374",
           "source": "知乎",
           "ranks": [
-            8
+            8,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时27分 ~ 12时28分]"
+          "appearance_count": 4,
+          "time_info": "[12时27分 ~ 15时36分]"
         }
       ]
     },
@@ -608,8 +723,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[05时01分 ~ 12时28分]"
+          "appearance_count": 8,
+          "time_info": "[05时01分 ~ 15时36分]"
         }
       ]
     },
