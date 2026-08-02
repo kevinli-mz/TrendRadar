@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-02T20:08:20.824997+08:00",
-  "total_titles_processed": 1037,
+  "generated_at": "2026-08-02T22:40:32.173006+08:00",
+  "total_titles_processed": 1163,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型",
-      "match_count": 30,
+      "match_count": 33,
       "titles": [
         {
           "title": "摩根士丹利邢自强：AI投资“半场休息”，下半场逻辑已变",
@@ -28,11 +28,12 @@
             6,
             11,
             14,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时07分 ~ 20时08分]"
+          "appearance_count": 13,
+          "time_info": "[01时07分 ~ 22时40分]"
         },
         {
           "title": "拯救AI交易？Citadel接盘“AI股神”持仓，投行策略师“终于搞明白大跌原因，现在可以往前看了”",
@@ -85,8 +86,23 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时07分 ~ 20时08分]"
+          "appearance_count": 13,
+          "time_info": "[01时07分 ~ 22时40分]"
+        },
+        {
+          "title": "这届AI进化到开始玩心眼了",
+          "url": "https://www.douyin.com/hot/2592773",
+          "source": "抖音",
+          "ranks": [
+            5,
+            19,
+            6,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[08时02分 ~ 22时40分]"
         },
         {
           "title": "“AI股神”最新表态：再也不碰杠杆了",
@@ -102,21 +118,6 @@
           "time_info": "[01时07分 ~ 15时36分]"
         },
         {
-          "title": "这届AI进化到开始玩心眼了",
-          "url": "https://www.douyin.com/hot/2592773",
-          "source": "抖音",
-          "ranks": [
-            5,
-            19,
-            6,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时02分 ~ 20时08分]"
-        },
-        {
           "title": "AI盈利兑现主导交易，亚马逊涨15%力撑纳指收涨，苹果重挫7%，30年美债收益率涨破5.27%",
           "url": "https://wallstreetcn.com/articles/3778379",
           "source": "华尔街见闻",
@@ -126,6 +127,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时07分 ~ 06时07分]"
+        },
+        {
+          "title": "怎么看待AI大回调，大摩120页研报深度解读",
+          "url": "https://wallstreetcn.com/articles/3778502",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时35分 ~ 22时40分]"
         },
         {
           "title": "“黑色7月”以“两连涨”收尾，“AI交易”见底了吗？",
@@ -152,27 +166,15 @@
           "time_info": "[18时03分 ~ 20时08分]"
         },
         {
-          "title": "怎么看待AI大回调，大摩120页研报深度解读",
-          "url": "https://wallstreetcn.com/articles/3778502",
-          "source": "华尔街见闻",
+          "title": "国产大模型调用量全球领先",
+          "url": "https://www.douyin.com/hot/2594706",
+          "source": "抖音",
           "ranks": [
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时35分 ~ 20时08分]"
-        },
-        {
-          "title": "中信建投：8月有望开启修复行情，重点关注AI算力等行业",
-          "url": "https://wallstreetcn.com/livenews/3143681",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时08分"
+          "time_info": "22时40分"
         },
         {
           "title": "开源崛起、降价80%，大模型真的还能赚到钱吗？",
@@ -188,6 +190,19 @@
           "time_info": "[06时07分 ~ 12时28分]"
         },
         {
+          "title": "深度参与算电协同 AI与虚拟电厂双向赋能|虚拟电厂风口前夜①",
+          "url": "https://www.cls.cn/detail/2443437",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时35分 ~ 22时40分]"
+        },
+        {
           "title": "人工智能助力直肠癌个性化化疗",
           "url": "https://wallstreetcn.com/livenews/3143612",
           "source": "华尔街见闻-快讯",
@@ -198,6 +213,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时07分 ~ 08时03分]"
+        },
+        {
+          "title": "中信建投：8月有望开启修复行情，重点关注AI算力等行业",
+          "url": "https://wallstreetcn.com/livenews/3143681",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时08分 ~ 22时40分]"
         },
         {
           "title": "印度韩国突然宣称有媲美DeepSeek大模型",
@@ -237,18 +264,6 @@
           "time_info": "[01时07分 ~ 06时07分]"
         },
         {
-          "title": "深度参与算电协同 AI与虚拟电厂双向赋能|虚拟电厂风口前夜①",
-          "url": "https://www.cls.cn/detail/2443437",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时35分 ~ 20时08分]"
-        },
-        {
           "title": "美两家AI巨头承认自家大模型“失控”",
           "url": "https://www.toutiao.com/trending/7668948314036899378/",
           "source": "今日头条",
@@ -260,6 +275,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时18分 ~ 08时03分]"
+        },
+        {
+          "title": "重生之“AI股神”：大婚前夜，他爆仓了！",
+          "url": "https://wallstreetcn.com/articles/3778505",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时03分 ~ 22时40分]"
         },
         {
           "title": "中金：AI回调高度类似2000年四轮回撤，本轮企稳需三大压力缓解",
@@ -285,18 +313,6 @@
           "time_info": "[15时35分 ~ 15时36分]"
         },
         {
-          "title": "重生之“AI股神”：大婚前夜，他爆仓了！",
-          "url": "https://wallstreetcn.com/articles/3778505",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时03分 ~ 20时08分]"
-        },
-        {
           "title": "怎么看 GCC 正式拒绝所有 AI 代码，基于 AI 代码人改的都不行？",
           "url": "https://www.zhihu.com/question/2066611104294482895",
           "source": "知乎",
@@ -319,13 +335,24 @@
           "time_info": "[15时35分 ~ 15时36分]"
         },
         {
+          "title": "AI能否回本？科技巨头本周的股价走势，市场给出了答案",
+          "url": "https://wallstreetcn.com/articles/3778516",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时40分"
+        },
+        {
           "title": "广发策略：AI资产在7月份的快速回撤之后 后续大概率有较可观的修正空间",
           "url": "https://flash.jin10.com/detail/20260802182750759800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时08分"
         },
@@ -358,9 +385,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时08分"
+        },
+        {
+          "title": "澎湃新闻发布AI底座战略，打造智媒时代“信任引擎”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33696805",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时40分"
         },
         {
           "title": "AI股神爆仓有哪些启示",
@@ -377,7 +415,7 @@
     },
     {
       "keyword_group": "电影 影视 综艺",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "如何评价董润年导演，张若昀、白客主演的喜剧电影《年会不能停！2》？",
@@ -414,11 +452,35 @@
           "ranks": [
             12,
             10,
-            3
+            3,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时35分 ~ 20时08分]"
+          "appearance_count": 5,
+          "time_info": "[15时35分 ~ 22时40分]"
+        },
+        {
+          "title": "2026暑期档电影票房破71亿",
+          "url": "https://www.baidu.com/s?wd=2026%E6%9A%91%E6%9C%9F%E6%A1%A3%E7%94%B5%E5%BD%B1%E7%A5%A8%E6%88%BF%E7%A0%B471%E4%BA%BF",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时40分"
+        },
+        {
+          "title": "如何看待张继科跨界参加健身跑赛事，遭解说员调侃「不如回家上综艺」，赛事组委会及解说员公开道歉？",
+          "url": "https://www.zhihu.com/question/2067249773761880647",
+          "source": "知乎",
+          "ranks": [
+            7,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时08分 ~ 22时40分]"
         },
         {
           "title": "2026年度电影总票房突破230亿",
@@ -426,11 +488,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            10
+            10,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时03分 ~ 20时08分]"
+          "appearance_count": 3,
+          "time_info": "[18时03分 ~ 22时40分]"
         },
         {
           "title": "电影痴迷观影后遗症",
@@ -446,6 +509,17 @@
           "time_info": "[01时07分 ~ 06时07分]"
         },
         {
+          "title": "为什么影视剧的审讯环节里经常有犯人问警察要烟抽，警察给了烟后他们就交代案情的桥段？",
+          "url": "https://www.zhihu.com/question/2014369505015538447",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时03分 ~ 22时40分]"
+        },
+        {
           "title": "广州一村子把周星驰电影画进现实",
           "url": "https://www.toutiao.com/trending/7667917496282873862/",
           "source": "今日头条",
@@ -456,28 +530,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时07分 ~ 08时03分]"
-        },
-        {
-          "title": "为什么影视剧的审讯环节里经常有犯人问警察要烟抽，警察给了烟后他们就交代案情的桥段？",
-          "url": "https://www.zhihu.com/question/2014369505015538447",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时03分 ~ 20时08分]"
-        },
-        {
-          "title": "如何看待张继科跨界参加健身跑赛事，遭解说员调侃「不如回家上综艺」，赛事组委会及解说员公开道歉？",
-          "url": "https://www.zhihu.com/question/2067249773761880647",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时08分"
         },
         {
           "title": "2026年度电影总票房突破230亿，暑期档连续23天票房过亿",
@@ -497,9 +549,110 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时08分"
+        },
+        {
+          "title": "电影去你的岛后劲太大了",
+          "url": "https://www.douyin.com/hot/2595016",
+          "source": "抖音",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时40分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "经济 经济学",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "这四个字读懂上半年中国经济",
+          "url": "https://www.baidu.com/s?wd=%E8%BF%99%E5%9B%9B%E4%B8%AA%E5%AD%97%E8%AF%BB%E6%87%82%E4%B8%8A%E5%8D%8A%E5%B9%B4%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时07分 ~ 08时03分]"
+        },
+        {
+          "title": "多重优势支撑中国经济向新向优",
+          "url": "https://www.toutiao.com/trending/7668842811780845062/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时40分"
+        },
+        {
+          "title": "日本经济财政大臣城内实：日本将加强与市场的双向对话。 保持信息一致是赢得市场信任的关键。（NHK）",
+          "url": "https://wallstreetcn.com/livenews/3143643",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            20,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时28分 ~ 18时03分]"
+        },
+        {
+          "title": "陈茂波：香港将上调全年经济增长预测",
+          "url": "https://wallstreetcn.com/livenews/3143654",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            14,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时36分 ~ 20时08分]"
+        },
+        {
+          "title": "伊朗外交部声明： 在美国继续违背6月28日停战协议的情况下，持续对伊朗的港口和商业航运实施海上封锁，针对全国各地进行野蛮攻击，加大经济压力和非法威胁，实施对伊朗的侵略行为，我国武装力量的防御打击将全力以赴继续进行。",
+          "url": "https://flash.jin10.com/detail/20260802031423982800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            15,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时01分 ~ 08时03分]"
+        },
+        {
+          "title": "日本经济产业大臣赤泽亮正：后续即使按保守估计、仅维持往年同期75%的采购水平，通过动用国家储备，也足以保障石油供应至2028年3月底。",
+          "url": "https://flash.jin10.com/detail/20260802144834289800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时36分 ~ 18时03分]"
+        },
+        {
+          "title": "日本经济产业大臣赤泽亮正：8月份原油有望实现相当于往年同期约100%的采购量，“日本整体所需的数量”已得到确保。",
+          "url": "https://flash.jin10.com/detail/20260802144819119800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时36分"
         }
       ]
     },
@@ -576,85 +729,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时03分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "经济 经济学",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "这四个字读懂上半年中国经济",
-          "url": "https://www.baidu.com/s?wd=%E8%BF%99%E5%9B%9B%E4%B8%AA%E5%AD%97%E8%AF%BB%E6%87%82%E4%B8%8A%E5%8D%8A%E5%B9%B4%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E",
-          "source": "百度热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时07分 ~ 08时03分]"
-        },
-        {
-          "title": "日本经济财政大臣城内实：日本将加强与市场的双向对话。 保持信息一致是赢得市场信任的关键。（NHK）",
-          "url": "https://wallstreetcn.com/livenews/3143643",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            20,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时28分 ~ 18时03分]"
-        },
-        {
-          "title": "陈茂波：香港将上调全年经济增长预测",
-          "url": "https://wallstreetcn.com/livenews/3143654",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            14,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时36分 ~ 20时08分]"
-        },
-        {
-          "title": "伊朗外交部声明： 在美国继续违背6月28日停战协议的情况下，持续对伊朗的港口和商业航运实施海上封锁，针对全国各地进行野蛮攻击，加大经济压力和非法威胁，实施对伊朗的侵略行为，我国武装力量的防御打击将全力以赴继续进行。",
-          "url": "https://flash.jin10.com/detail/20260802031423982800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            15,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时01分 ~ 08时03分]"
-        },
-        {
-          "title": "日本经济产业大臣赤泽亮正：后续即使按保守估计、仅维持往年同期75%的采购水平，通过动用国家储备，也足以保障石油供应至2028年3月底。",
-          "url": "https://flash.jin10.com/detail/20260802144834289800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时36分 ~ 18时03分]"
-        },
-        {
-          "title": "日本经济产业大臣赤泽亮正：8月份原油有望实现相当于往年同期约100%的采购量，“日本整体所需的数量”已得到确保。",
-          "url": "https://flash.jin10.com/detail/20260802144819119800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时36分"
         }
       ]
     },
@@ -761,11 +835,12 @@
           "ranks": [
             6,
             15,
-            9
+            9,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时35分 ~ 20时08分]"
+          "appearance_count": 5,
+          "time_info": "[15时35分 ~ 22时40分]"
         },
         {
           "title": "年轻人新副业：代画杯贴最高卖50元",
@@ -802,7 +877,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时08分"
         }
@@ -834,6 +909,36 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时02分 ~ 08时03分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "房价 买房",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "房价还能重新上涨吗",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%88%BF%E4%BB%B7%E8%BF%98%E8%83%BD%E9%87%8D%E6%96%B0%E4%B8%8A%E6%B6%A8%E5%90%97%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11,
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时07分 ~ 08时03分]"
+        },
+        {
+          "title": "上海新房价格涨幅领跑全国，1至7月深圳商务公寓网签销售量增超60%",
+          "url": "https://flash.jin10.com/detail/20260802222324586800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时40分"
         }
       ]
     },
@@ -971,25 +1076,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时02分 ~ 08时03分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "房价 买房",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "房价还能重新上涨吗",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%88%BF%E4%BB%B7%E8%BF%98%E8%83%BD%E9%87%8D%E6%96%B0%E4%B8%8A%E6%B6%A8%E5%90%97%23&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11,
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时07分 ~ 08时03分]"
         }
       ]
     }
