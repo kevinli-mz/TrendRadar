@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-08-04T07:10:13.309470+08:00",
-  "total_titles_processed": 534,
+  "generated_at": "2026-08-04T11:18:08.577114+08:00",
+  "total_titles_processed": 751,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型",
-      "match_count": 21,
+      "match_count": 28,
       "titles": [
+        {
+          "title": "为什么大家都说 DeepSeek 已经成为大模型的「斩杀线」？",
+          "url": "https://www.zhihu.com/question/2067545767003120313",
+          "source": "知乎",
+          "ranks": [
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[03时46分 ~ 11时18分]"
+        },
         {
           "title": "如何看待 7 月末至 8 月初有多家韩国公司发布 AI 称性能强于 DeepSeek？",
           "url": "https://www.zhihu.com/question/2067512422555029717",
@@ -20,16 +33,41 @@
           "time_info": "[01时13分 ~ 07时10分]"
         },
         {
-          "title": "为什么大家都说 DeepSeek 已经成为大模型的「斩杀线」？",
-          "url": "https://www.zhihu.com/question/2067545767003120313",
-          "source": "知乎",
+          "title": "OpenAI降价,老日高喊中国万岁",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356750&amp;topic_name=OpenAI%E9%99%8D%E4%BB%B7%2C%E8%80%81%E6%97%A5%E9%AB%98%E5%96%8A%E4%B8%AD%E5%9B%BD%E4%B8%87%E5%B2%81",
+          "source": "贴吧",
           "ranks": [
-            5,
-            3
+            8,
+            9,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时46分 ~ 07时10分]"
+          "appearance_count": 7,
+          "time_info": "[01时13分 ~ 11时18分]"
+        },
+        {
+          "title": "UP主自制AI短片 洪流之上",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%87%AA%E5%88%B6AI%E7%9F%AD%E7%89%87%20%E6%B4%AA%E6%B5%81%E4%B9%8B%E4%B8%8A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时13分 ~ 11时18分]"
+        },
+        {
+          "title": "北美“四朵云”联袂上涨！AI行情从“卖铲人”切换到“用铲人” 有哪些逻辑支撑？",
+          "url": "https://www.cls.cn/detail/2444783",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时17分 ~ 11时18分]"
         },
         {
           "title": "【焦点复盘】创业板指弱势震荡再失年线，AI软硬件持续分化，电网产业链卷土重来",
@@ -66,31 +104,6 @@
           "time_info": "01时13分"
         },
         {
-          "title": "OpenAI降价,老日高喊中国万岁",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356750&amp;topic_name=OpenAI%E9%99%8D%E4%BB%B7%2C%E8%80%81%E6%97%A5%E9%AB%98%E5%96%8A%E4%B8%AD%E5%9B%BD%E4%B8%87%E5%B2%81",
-          "source": "贴吧",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时13分 ~ 07时10分]"
-        },
-        {
-          "title": "UP主自制AI短片 洪流之上",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%87%AA%E5%88%B6AI%E7%9F%AD%E7%89%87%20%E6%B4%AA%E6%B5%81%E4%B9%8B%E4%B8%8A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            17,
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时13分 ~ 07时10分]"
-        },
-        {
           "title": "OpenAI的CEO Altman被要求就AI安全事故向美国众议院介绍情况。",
           "url": "https://wallstreetcn.com/livenews/3144359",
           "source": "华尔街见闻-快讯",
@@ -101,6 +114,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时11分 ~ 07时10分]"
+        },
+        {
+          "title": "“InP短缺将比内存更严峻”！Lumentum、SemiAnalysis警告：光互联成AI新瓶颈",
+          "url": "https://wallstreetcn.com/articles/3778565",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时09分 ~ 11时18分]"
         },
         {
           "title": "我用AI创造虚拟世界 弹幕即神谕",
@@ -138,15 +163,70 @@
           "time_info": "[01时13分 ~ 05时11分]"
         },
         {
-          "title": "“InP短缺将比内存更严峻”！Lumentum、SemiAnalysis警告：光互联成AI新瓶颈",
-          "url": "https://wallstreetcn.com/articles/3778565",
-          "source": "华尔街见闻",
+          "title": "如何看待 24 岁华尔街 AI 天才掌管 450 亿美元、以 4 倍杠杆极致梭哈 AI 硬件，最终遭华尔街「围猎」爆仓？",
+          "url": "https://www.zhihu.com/question/2066578072997049748",
+          "source": "知乎",
           "ranks": [
-            10
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时09分 ~ 07时10分]"
+          "time_info": "[11时17分 ~ 11时18分]"
+        },
+        {
+          "title": "AI在数学领域发展如何",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%9C%A8%E6%95%B0%E5%AD%A6%E9%A2%86%E5%9F%9F%E5%8F%91%E5%B1%95%E5%A6%82%E4%BD%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时17分 ~ 11时18分]"
+        },
+        {
+          "title": "上半年 AI 短剧全网上线超二十万部，但播放破亿作品仅有千部，爆款率为啥这么低？大家都不爱看吗？",
+          "url": "https://www.zhihu.com/question/2067564276433401082",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时17分 ~ 11时18分]"
+        },
+        {
+          "title": "李在明访美签下 9500 亿大单，并发布「旧金山讲话」，如何看韩国的 AI 野望，其芯片爆单的核心是什么？",
+          "url": "https://www.zhihu.com/question/2064994444571571618",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时17分 ~ 11时18分]"
+        },
+        {
+          "title": "电脑手机小电驴全线涨价，「打工人三件套」同步抬价，如何看待普通人被迫缴纳 AI 税？",
+          "url": "https://www.zhihu.com/question/2067576901791638083",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时17分 ~ 11时18分]"
+        },
+        {
+          "title": "OpenAI等巨头大幅降价对标DeepSeek",
+          "url": "https://www.baidu.com/s?wd=OpenAI%E7%AD%89%E5%B7%A8%E5%A4%B4%E5%A4%A7%E5%B9%85%E9%99%8D%E4%BB%B7%E5%AF%B9%E6%A0%87DeepSeek",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时17分 ~ 11时18分]"
         },
         {
           "title": "声明显示：美国众议院网络安全小组要求OpenAI首席执行官奥尔特曼就Hugging Face入侵事件进行情况通报。",
@@ -155,7 +235,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时10分"
         },
@@ -232,7 +312,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时10分"
         },
@@ -250,8 +330,102 @@
       ]
     },
     {
+      "keyword_group": "经济 经济学",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "日本经济财政大臣城内实：密切关注汇率走势和经济政策的影响。",
+          "url": "https://wallstreetcn.com/livenews/3144479",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时18分"
+        },
+        {
+          "title": "英国新首相将如何重塑经济",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E5%9B%BD%E6%96%B0%E9%A6%96%E7%9B%B8%E5%B0%86%E5%A6%82%E4%BD%95%E9%87%8D%E5%A1%91%E7%BB%8F%E6%B5%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时17分 ~ 11时18分]"
+        },
+        {
+          "title": "乌克兰经济真要崩了吗",
+          "url": "https://www.toutiao.com/trending/7669966131091738131/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时17分 ~ 11时18分]"
+        },
+        {
+          "title": "日本经济大臣淡化通胀压力，称成本传导仍有限",
+          "url": "https://flash.jin10.com/detail/20260804104417181800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时18分"
+        },
+        {
+          "title": "日本经济财政大臣城内实：不会对具体的外汇水平发表评论，但会密切关注外汇波动对经济和价格的影响。",
+          "url": "https://flash.jin10.com/detail/20260804102500879800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时18分"
+        },
+        {
+          "title": "日本经济财政大臣城内实：希望日本央行与政府在政策指引上保持密切沟通。",
+          "url": "https://flash.jin10.com/detail/20260804102359276800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时18分"
+        },
+        {
+          "title": "日本经济财政大臣城内实：希望日本央行适当实施货币政策，稳定、可持续地实现2%的通胀目标。",
+          "url": "https://flash.jin10.com/detail/20260804102215780800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时18分"
+        },
+        {
+          "title": "日本经济财政大臣城内实：政府与日本央行分享的预测显示，今年下半年消费者通胀将加速，随后将放缓。",
+          "url": "https://flash.jin10.com/detail/20260804102210564800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时18分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "DeepSeek 斩杀线",
@@ -317,6 +491,17 @@
           "time_info": "[01时13分 ~ 07时10分]"
         },
         {
+          "title": "DeepSeek斩杀线",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E6%96%A9%E6%9D%80%E7%BA%BF&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时17分 ~ 11时18分]"
+        },
+        {
           "title": "华为半导体首席科学家大赞梁文锋",
           "url": "https://www.toutiao.com/trending/7669025220200546330/",
           "source": "今日头条",
@@ -331,7 +516,7 @@
     },
     {
       "keyword_group": "消费 存钱 攒钱",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "消费者因银鹭抽奖码被提前核销维权，获赔后却被备注「敲诈」，企业后称财务失误，这个回应站得住脚吗？",
@@ -353,9 +538,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时10分"
+        },
+        {
+          "title": "如何看待单亲妈妈扛沙养家，孩子给同学买榴莲还训斥妈妈？面对孩子的超支消费家长该怎么沟通才能避免冲突？",
+          "url": "https://www.zhihu.com/question/2067653827646289644",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时17分 ~ 11时18分]"
         },
         {
           "title": "标普500指数的11个板块中，电信服务板块收涨4.3%——成分股Meta、谷歌A领跑，可选消费板块涨2.68%，信息技术/科技板块涨1.62%，能源板块则收跌1.23%。",
@@ -433,8 +629,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时09分 ~ 07时10分]"
+          "appearance_count": 4,
+          "time_info": "[07时09分 ~ 11时18分]"
         }
       ]
     },
@@ -450,11 +646,12 @@
             20,
             5,
             7,
-            10
+            10,
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时13分 ~ 07时10分]"
+          "appearance_count": 7,
+          "time_info": "[01时13分 ~ 11时18分]"
         },
         {
           "title": "电影去你的岛提档",
@@ -469,6 +666,23 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时13分 ~ 07时10分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "社会 阶层 社会学",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "韩国年轻人正进入无恋爱社会",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%AD%A3%E8%BF%9B%E5%85%A5%E6%97%A0%E6%81%8B%E7%88%B1%E7%A4%BE%E4%BC%9A%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时17分 ~ 11时18分]"
         }
       ]
     },
@@ -508,6 +722,23 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时13分 ~ 07时10分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "教育 鸡娃 小镇做题家",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "男孩不吃早饭偷吃魔芋爽，妈妈发现后罚他一次性吃完 30 袋，这样做是否太过极端？能有效教育孩子吗？",
+          "url": "https://www.zhihu.com/question/2067560345724523004",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时17分 ~ 11时18分]"
         }
       ]
     }
