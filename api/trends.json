@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-05T16:45:44.427329+08:00",
-  "total_titles_processed": 1068,
+  "generated_at": "2026-08-05T19:26:18.667209+08:00",
+  "total_titles_processed": 1237,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型",
-      "match_count": 42,
+      "match_count": 43,
       "titles": [
         {
           "title": "AI做题吊打日本名校状元",
@@ -15,11 +15,12 @@
             9,
             12,
             15,
-            24
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时55分 ~ 16时45分]"
+          "appearance_count": 9,
+          "time_info": "[01时55分 ~ 19时26分]"
         },
         {
           "title": "SpaceX上市后首份财报营收增92%大超预期，星链独撑利润，AI亏损收窄但支出高于预期｜财报见闻",
@@ -29,8 +30,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时57分 ~ 16时45分]"
+          "appearance_count": 4,
+          "time_info": "[10时57分 ~ 19时26分]"
+        },
+        {
+          "title": "AI做的动物尺度太大了",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E5%81%9A%E7%9A%84%E5%8A%A8%E7%89%A9%E5%B0%BA%E5%BA%A6%E5%A4%AA%E5%A4%A7%E4%BA%86%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时45分 ~ 19时26分]"
         },
         {
           "title": "AI投资的逻辑变了：云厂进入收租时代，基础设施产业链承压",
@@ -146,17 +159,6 @@
           "time_info": "03时45分"
         },
         {
-          "title": "AI做的动物尺度太大了",
-          "url": "https://s.weibo.com/weibo?q=%23AI%E5%81%9A%E7%9A%84%E5%8A%A8%E7%89%A9%E5%B0%BA%E5%BA%A6%E5%A4%AA%E5%A4%A7%E4%BA%86%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时45分"
-        },
-        {
           "title": "【每日收评】创业板指高开高走涨超5%，AI应用持续活跃，算力硬件卷土重来",
           "url": "https://www.cls.cn/detail/2445244",
           "source": "财联社热门",
@@ -205,6 +207,29 @@
           "time_info": "[01时55分 ~ 05时18分]"
         },
         {
+          "title": "闪迪和西部数据即将发布财报 业绩能否重新点燃AI存储牛市信心？",
+          "url": "https://www.cls.cn/detail/2446218",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时45分 ~ 19时26分]"
+        },
+        {
+          "title": "梁文锋会不会成为中国AI里程碑人物？",
+          "url": "https://www.zhihu.com/question/10315979917",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时45分 ~ 19时26分]"
+        },
+        {
           "title": "苹果状告OpenAI，反遭嘲讽：律师连邮件都发不对",
           "url": "https://news.ifeng.com/c/8vKzM4B96pz",
           "source": "凤凰网",
@@ -250,26 +275,15 @@
           "time_info": "[07时08分 ~ 07时09分]"
         },
         {
-          "title": "闪迪和西部数据即将发布财报 业绩能否重新点燃AI存储牛市信心？",
-          "url": "https://www.cls.cn/detail/2446218",
+          "title": "【焦点复盘】AI硬件端持续回暖，科创50指数连续2日涨逾4%，光模块龙头5日内2度刷新历史天量",
+          "url": "https://www.cls.cn/detail/2446407",
           "source": "财联社热门",
           "ranks": [
-            7
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时45分"
-        },
-        {
-          "title": "梁文锋会不会成为中国AI里程碑人物？",
-          "url": "https://www.zhihu.com/question/10315979917",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时45分"
+          "time_info": "19时26分"
         },
         {
           "title": "Booking的CEO：目前，人工智能引流对我们整体业务的贡献仍然相对较小。",
@@ -289,7 +303,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时45分"
         },
@@ -377,7 +391,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时45分"
         },
@@ -432,7 +446,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时45分"
         },
@@ -465,7 +479,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时45分"
         },
@@ -484,7 +498,7 @@
     },
     {
       "keyword_group": "电影 影视 综艺",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "恐怖电影《痴迷》中国内地票房突破 1 亿，已成影史最赚钱的电影之一，如何评价这一成绩？",
@@ -513,6 +527,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时55分 ~ 13时53分]"
+        },
+        {
+          "title": "2026年度电影总票房突破235亿！暑期档热度持续走高",
+          "url": "https://flash.jin10.com/detail/20260805191107418800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时26分"
         },
         {
           "title": "影视寒冬最不愁找工作的人",
@@ -565,7 +590,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时45分"
         },
@@ -579,13 +604,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时57分"
+        },
+        {
+          "title": "电影欢迎来龙餐馆官宣定档",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B5%E5%BD%B1%E6%AC%A2%E8%BF%8E%E6%9D%A5%E9%BE%99%E9%A4%90%E9%A6%86%E5%AE%98%E5%AE%A3%E5%AE%9A%E6%A1%A3%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时26分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "DeepSeek干完活自己写了个游戏",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B9%B2%E5%AE%8C%E6%B4%BB%E8%87%AA%E5%B7%B1%E5%86%99%E4%BA%86%E4%B8%AA%E6%B8%B8%E6%88%8F&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时26分"
+        },
         {
           "title": "疑似梁文锋早期微博被扒",
           "url": "https://www.baidu.com/s?wd=%E7%96%91%E4%BC%BC%E6%A2%81%E6%96%87%E9%94%8B%E6%97%A9%E6%9C%9F%E5%BE%AE%E5%8D%9A%E8%A2%AB%E6%89%92",
@@ -743,6 +790,68 @@
       ]
     },
     {
+      "keyword_group": "年轻人 00后 35岁",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "35岁女子1天5瓶可乐喝成60岁脸",
+          "url": "https://www.baidu.com/s?wd=35%E5%B2%81%E5%A5%B3%E5%AD%901%E5%A4%A95%E7%93%B6%E5%8F%AF%E4%B9%90%E5%96%9D%E6%88%9060%E5%B2%81%E8%84%B8",
+          "source": "百度热搜",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时55分 ~ 07时09分]"
+        },
+        {
+          "title": "陀思妥耶夫斯基为什么会成为当下年轻人的精神解药？",
+          "url": "https://www.zhihu.com/topic/2067666399908947484/hot",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时57分 ~ 13时53分]"
+        },
+        {
+          "title": "00后考研真实现状如何",
+          "url": "https://search.bilibili.com/all?keyword=00%E5%90%8E%E8%80%83%E7%A0%94%E7%9C%9F%E5%AE%9E%E7%8E%B0%E7%8A%B6%E5%A6%82%E4%BD%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时26分"
+        },
+        {
+          "title": "00后吐槽前老板一股老人味被起诉",
+          "url": "https://www.toutiao.com/trending/7670175990992928777/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时57分"
+        },
+        {
+          "title": "00后吐槽前老板一股老人味被起诉",
+          "url": "https://www.baidu.com/s?wd=00%E5%90%8E%E5%90%90%E6%A7%BD%E5%89%8D%E8%80%81%E6%9D%BF%E4%B8%80%E8%82%A1%E8%80%81%E4%BA%BA%E5%91%B3%E8%A2%AB%E8%B5%B7%E8%AF%89",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时57分"
+        }
+      ]
+    },
+    {
       "keyword_group": "就业 失业 裁员 应届生",
       "match_count": 5,
       "titles": [
@@ -797,60 +906,9 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时45分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "年轻人 00后 35岁",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "35岁女子1天5瓶可乐喝成60岁脸",
-          "url": "https://www.baidu.com/s?wd=35%E5%B2%81%E5%A5%B3%E5%AD%901%E5%A4%A95%E7%93%B6%E5%8F%AF%E4%B9%90%E5%96%9D%E6%88%9060%E5%B2%81%E8%84%B8",
-          "source": "百度热搜",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时55分 ~ 07时09分]"
-        },
-        {
-          "title": "陀思妥耶夫斯基为什么会成为当下年轻人的精神解药？",
-          "url": "https://www.zhihu.com/topic/2067666399908947484/hot",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时57分 ~ 13时53分]"
-        },
-        {
-          "title": "00后吐槽前老板一股老人味被起诉",
-          "url": "https://www.toutiao.com/trending/7670175990992928777/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时57分"
-        },
-        {
-          "title": "00后吐槽前老板一股老人味被起诉",
-          "url": "https://www.baidu.com/s?wd=00%E5%90%8E%E5%90%90%E6%A7%BD%E5%89%8D%E8%80%81%E6%9D%BF%E4%B8%80%E8%82%A1%E8%80%81%E4%BA%BA%E5%91%B3%E8%A2%AB%E8%B5%B7%E8%AF%89",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时57分"
         }
       ]
     },
@@ -922,8 +980,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时57分 ~ 16时45分]"
+          "appearance_count": 4,
+          "time_info": "[10时57分 ~ 19时26分]"
+        },
+        {
+          "title": "教育部规定义务教育阶段每名学生每学期至少完成 1 项科学探究任务，这将带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2068031793542984696",
+          "source": "知乎",
+          "ranks": [
+            8,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时45分 ~ 19时26分]"
         },
         {
           "title": "教育局回应笔试第一被传话劝弃考",
@@ -935,17 +1005,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时57分"
-        },
-        {
-          "title": "教育部规定义务教育阶段每名学生每学期至少完成 1 项科学探究任务，这将带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2068031793542984696",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时45分"
         }
       ]
     },
@@ -958,11 +1017,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33714415",
           "source": "澎湃新闻",
           "ranks": [
-            18
+            18,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时45分 ~ 19时26分]"
         },
         {
           "title": "反内卷？建行员工午休暂停柜面服务",
@@ -1008,7 +1068,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时45分"
         }
@@ -1025,7 +1085,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时45分"
         }
