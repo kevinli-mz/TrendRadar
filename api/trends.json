@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-05T13:53:27.196252+08:00",
-  "total_titles_processed": 891,
+  "generated_at": "2026-08-05T16:45:44.427329+08:00",
+  "total_titles_processed": 1068,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型",
-      "match_count": 35,
+      "match_count": 42,
       "titles": [
         {
           "title": "AI做题吊打日本名校状元",
@@ -14,11 +14,12 @@
           "ranks": [
             9,
             12,
-            15
+            15,
+            24
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时55分 ~ 13时53分]"
+          "appearance_count": 8,
+          "time_info": "[01时55分 ~ 16时45分]"
         },
         {
           "title": "SpaceX上市后首份财报营收增92%大超预期，星链独撑利润，AI亏损收窄但支出高于预期｜财报见闻",
@@ -28,8 +29,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时57分 ~ 13时53分]"
+          "appearance_count": 3,
+          "time_info": "[10时57分 ~ 16时45分]"
         },
         {
           "title": "AI投资的逻辑变了：云厂进入收租时代，基础设施产业链承压",
@@ -118,7 +119,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
         },
@@ -143,6 +144,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时45分"
+        },
+        {
+          "title": "AI做的动物尺度太大了",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E5%81%9A%E7%9A%84%E5%8A%A8%E7%89%A9%E5%B0%BA%E5%BA%A6%E5%A4%AA%E5%A4%A7%E4%BA%86%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时45分"
         },
         {
           "title": "【每日收评】创业板指高开高走涨超5%，AI应用持续活跃，算力硬件卷土重来",
@@ -193,6 +205,17 @@
           "time_info": "[01时55分 ~ 05时18分]"
         },
         {
+          "title": "苹果状告OpenAI，反遭嘲讽：律师连邮件都发不对",
+          "url": "https://news.ifeng.com/c/8vKzM4B96pz",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时53分 ~ 16时45分]"
+        },
+        {
           "title": "京东外卖推出 AI 头盔，能语音接单、规划路线、解析备注，对骑手安全和效率有提升吗？会成为外卖标配吗？",
           "url": "https://www.zhihu.com/question/2067572483331291076",
           "source": "知乎",
@@ -227,15 +250,26 @@
           "time_info": "[07时08分 ~ 07时09分]"
         },
         {
-          "title": "苹果状告OpenAI，反遭嘲讽：律师连邮件都发不对",
-          "url": "https://news.ifeng.com/c/8vKzM4B96pz",
-          "source": "凤凰网",
+          "title": "闪迪和西部数据即将发布财报 业绩能否重新点燃AI存储牛市信心？",
+          "url": "https://www.cls.cn/detail/2446218",
+          "source": "财联社热门",
           "ranks": [
-            9
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时53分"
+          "time_info": "16时45分"
+        },
+        {
+          "title": "梁文锋会不会成为中国AI里程碑人物？",
+          "url": "https://www.zhihu.com/question/10315979917",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时45分"
         },
         {
           "title": "Booking的CEO：目前，人工智能引流对我们整体业务的贡献仍然相对较小。",
@@ -247,6 +281,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时18分"
+        },
+        {
+          "title": "别光盯着芯片股！富国银行：AI投资红利正传导至“旧经济”板块",
+          "url": "https://www.cls.cn/detail/2446071",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时45分"
         },
         {
           "title": "马斯克：SpaceX预计到2026年年底将形成超过2 GW的算力。 预计首批Starmind AI卫星将于明年开始发射升空。",
@@ -321,9 +366,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
+        },
+        {
+          "title": "当ai闯进中式赛博赛道",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BD%93ai%E9%97%AF%E8%BF%9B%E4%B8%AD%E5%BC%8F%E8%B5%9B%E5%8D%9A%E8%B5%9B%E9%81%93%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时45分"
         },
         {
           "title": "美媒：白宫不计划公开先进AI模型评估框架细节",
@@ -370,6 +426,17 @@
           "time_info": "05时18分"
         },
         {
+          "title": "黄仁勋：AI竞争赢家是马斯克",
+          "url": "https://www.toutiao.com/trending/7670423560791264787/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时45分"
+        },
+        {
           "title": "据Axios：白宫不打算公开发布其用于评估先进人工智能模型的新框架。",
           "url": "https://flash.jin10.com/detail/20260805022825767800",
           "source": "金十数据",
@@ -387,9 +454,20 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
+        },
+        {
+          "title": "鸿海：7月销售额9,465.1亿元台币，首次突破9,000亿新台币，同比增长54.2％。 展望第三季度，AI机架出货量预计将保持增长。 整体运营前景预计将实现环比和同比双增长。 仍有必要监测全球政经局势动荡所带来的影响。",
+          "url": "https://wallstreetcn.com/livenews/3145241",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时45分"
         },
         {
           "title": "苹果公司请求法官即刻禁止OpenAI使用其商业秘密",
@@ -401,6 +479,106 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时55分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "电影 影视 综艺",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "恐怖电影《痴迷》中国内地票房突破 1 亿，已成影史最赚钱的电影之一，如何评价这一成绩？",
+          "url": "https://www.zhihu.com/question/2067544727931417556",
+          "source": "知乎",
+          "ranks": [
+            3,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时55分 ~ 10时57分]"
+        },
+        {
+          "title": "电影痴迷二刷全是细节",
+          "url": "https://www.douyin.com/hot/2596782",
+          "source": "抖音",
+          "ranks": [
+            29,
+            25,
+            24,
+            26,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时55分 ~ 13时53分]"
+        },
+        {
+          "title": "影视寒冬最不愁找工作的人",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BD%B1%E8%A7%86%E5%AF%92%E5%86%AC%E6%9C%80%E4%B8%8D%E6%84%81%E6%89%BE%E5%B7%A5%E4%BD%9C%E7%9A%84%E4%BA%BA%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时08分 ~ 07时09分]"
+        },
+        {
+          "title": "从电影《奥德赛》的成绩来看，荷马史诗是有市场的，为什么当年的《特洛伊》票房不达预期？",
+          "url": "https://www.zhihu.com/question/2067389212429641045",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时53分"
+        },
+        {
+          "title": "电影《年会不能停！2》再次诠释「职场发疯文学」，它反映了哪些职场现状？",
+          "url": "https://www.zhihu.com/question/2066176823650678209",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时57分"
+        },
+        {
+          "title": "电影《给阿嬷的情书》在泰国首映",
+          "url": "https://www.toutiao.com/trending/7669961085902995510/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时55分"
+        },
+        {
+          "title": "电影八仙世界观解读",
+          "url": "https://search.bilibili.com/all?keyword=%E7%94%B5%E5%BD%B1%E5%85%AB%E4%BB%99%E4%B8%96%E7%95%8C%E8%A7%82%E8%A7%A3%E8%AF%BB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时45分"
+        },
+        {
+          "title": "“爸王龙”才是电影的隐藏主角",
+          "url": "https://www.douyin.com/hot/2597833",
+          "source": "抖音",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时57分"
         }
       ]
     },
@@ -485,98 +663,9 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "电影 影视 综艺",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "恐怖电影《痴迷》中国内地票房突破 1 亿，已成影史最赚钱的电影之一，如何评价这一成绩？",
-          "url": "https://www.zhihu.com/question/2067544727931417556",
-          "source": "知乎",
-          "ranks": [
-            3,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时55分 ~ 10时57分]"
-        },
-        {
-          "title": "电影痴迷二刷全是细节",
-          "url": "https://www.douyin.com/hot/2596782",
-          "source": "抖音",
-          "ranks": [
-            29,
-            25,
-            24,
-            26,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时55分 ~ 13时53分]"
-        },
-        {
-          "title": "影视寒冬最不愁找工作的人",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%BD%B1%E8%A7%86%E5%AF%92%E5%86%AC%E6%9C%80%E4%B8%8D%E6%84%81%E6%89%BE%E5%B7%A5%E4%BD%9C%E7%9A%84%E4%BA%BA%23&t=31&band_rank=15&Refer=top",
-          "source": "微博",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时08分 ~ 07时09分]"
-        },
-        {
-          "title": "从电影《奥德赛》的成绩来看，荷马史诗是有市场的，为什么当年的《特洛伊》票房不达预期？",
-          "url": "https://www.zhihu.com/question/2067389212429641045",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时53分"
-        },
-        {
-          "title": "电影《年会不能停！2》再次诠释「职场发疯文学」，它反映了哪些职场现状？",
-          "url": "https://www.zhihu.com/question/2066176823650678209",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时57分"
-        },
-        {
-          "title": "电影《给阿嬷的情书》在泰国首映",
-          "url": "https://www.toutiao.com/trending/7669961085902995510/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时55分"
-        },
-        {
-          "title": "“爸王龙”才是电影的隐藏主角",
-          "url": "https://www.douyin.com/hot/2597833",
-          "source": "抖音",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时57分"
         }
       ]
     },
@@ -625,7 +714,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
         },
@@ -650,6 +739,67 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时57分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "就业 失业 裁员 应届生",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "新西兰失业率创最近十一年新高，能源冲击拖累招聘",
+          "url": "https://wallstreetcn.com/livenews/3144995",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时09分"
+        },
+        {
+          "title": "新西兰第二季度就业参与率 70.7%，预期70.3%，前值70.40%。",
+          "url": "https://flash.jin10.com/detail/20260805064503128800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时09分"
+        },
+        {
+          "title": "新西兰第二季度就业人数季率 0.5%，预期0.2%，前值由0.20%修正为0.10%。",
+          "url": "https://flash.jin10.com/detail/20260805064502871800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时09分"
+        },
+        {
+          "title": "新西兰第二季度失业率 5.6%，预期5.40%，前值5.30%。",
+          "url": "https://flash.jin10.com/detail/20260805064502841800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时09分"
+        },
+        {
+          "title": "微软将在美国华盛顿州雷德蒙德园区裁员605人，裁员自2026年9月4日起生效。",
+          "url": "https://wallstreetcn.com/livenews/3145240",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时45分"
         }
       ]
     },
@@ -701,56 +851,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时57分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "就业 失业 裁员 应届生",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "新西兰失业率创最近十一年新高，能源冲击拖累招聘",
-          "url": "https://wallstreetcn.com/livenews/3144995",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时09分"
-        },
-        {
-          "title": "新西兰第二季度就业参与率 70.7%，预期70.3%，前值70.40%。",
-          "url": "https://flash.jin10.com/detail/20260805064503128800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时09分"
-        },
-        {
-          "title": "新西兰第二季度就业人数季率 0.5%，预期0.2%，前值由0.20%修正为0.10%。",
-          "url": "https://flash.jin10.com/detail/20260805064502871800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时09分"
-        },
-        {
-          "title": "新西兰第二季度失业率 5.6%，预期5.40%，前值5.30%。",
-          "url": "https://flash.jin10.com/detail/20260805064502841800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时09分"
         }
       ]
     },
@@ -810,7 +910,7 @@
     },
     {
       "keyword_group": "教育 鸡娃 小镇做题家",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "广东一事业单位笔试第一考生被第二名花钱劝弃考，教育局已开展核查，反映了哪些教育管理问题？",
@@ -818,11 +918,12 @@
           "source": "知乎",
           "ranks": [
             4,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时57分 ~ 13时53分]"
+          "appearance_count": 3,
+          "time_info": "[10时57分 ~ 16时45分]"
         },
         {
           "title": "教育局回应笔试第一被传话劝弃考",
@@ -834,6 +935,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时57分"
+        },
+        {
+          "title": "教育部规定义务教育阶段每名学生每学期至少完成 1 项科学探究任务，这将带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2068031793542984696",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时45分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "内卷",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "清理“攀比内卷不愿休”的职场环境，天津发文推进带薪休假落地",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33714415",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时45分"
+        },
+        {
+          "title": "反内卷？建行员工午休暂停柜面服务",
+          "url": "https://www.toutiao.com/trending/7668998862102970387/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时18分"
         }
       ]
     },
@@ -858,19 +998,36 @@
       ]
     },
     {
-      "keyword_group": "内卷",
+      "keyword_group": "社会 阶层 社会学",
       "match_count": 1,
       "titles": [
         {
-          "title": "反内卷？建行员工午休暂停柜面服务",
-          "url": "https://www.toutiao.com/trending/7668998862102970387/",
-          "source": "今日头条",
+          "title": "单位该不该介入公职人员社会纠纷",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%95%E4%BD%8D%E8%AF%A5%E4%B8%8D%E8%AF%A5%E4%BB%8B%E5%85%A5%E5%85%AC%E8%81%8C%E4%BA%BA%E5%91%98%E7%A4%BE%E4%BC%9A%E7%BA%A0%E7%BA%B7",
+          "source": "百度热搜",
           "ranks": [
-            29
+            12
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时18分"
+          "time_info": "16时45分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "消费 存钱 攒钱",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "日本财务大臣片山皋月：内阁批准食品消费税降低两年。 美国财长贝森特认为日本的财政纪律有所改善。",
+          "url": "https://wallstreetcn.com/livenews/3145283",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时45分"
         }
       ]
     }
