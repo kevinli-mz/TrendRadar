@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-06T08:05:23.582566+08:00",
-  "total_titles_processed": 665,
+  "generated_at": "2026-08-06T12:18:55.980083+08:00",
+  "total_titles_processed": 867,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型",
-      "match_count": 26,
+      "match_count": 33,
       "titles": [
         {
           "title": "SpaceX上市后首份财报营收增92%大超预期，星链独撑利润，AI亏损收窄但支出高于预期｜财报见闻",
@@ -88,6 +88,17 @@
           "time_info": "[00时46分 ~ 08时05分]"
         },
         {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-08-06）",
+          "url": "https://flash.jin10.com/detail/20260806120147370800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时18分"
+        },
+        {
           "title": "华夏出版社标注「书籍内容禁用于 AI 训练」，这种标注实际约束力有多大？能作为维权依据吗？",
           "url": "https://www.zhihu.com/question/2068056227817284742",
           "source": "知乎",
@@ -125,13 +136,36 @@
           "time_info": "[00时46分 ~ 06时17分]"
         },
         {
+          "title": "“存储ETF”创纪录爆火后，幕后推手再押AI光通信赛道",
+          "url": "https://www.cls.cn/detail/2446788",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时05分 ~ 12时18分]"
+        },
+        {
+          "title": "大模型竞争白热化，张一鸣喊话：字节跳动“拒绝蒸馏”，不用别人输出换榜单排名",
+          "url": "https://flash.jin10.com/detail/20260806115805950800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时18分"
+        },
+        {
           "title": "亚洲多策略对冲基金7月出现大幅回撤，因AI概念股遭遇猛烈抛售",
           "url": "https://wallstreetcn.com/livenews/3145658",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时05分"
         },
@@ -145,6 +179,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时46分"
+        },
+        {
+          "title": "AI需求力挺闪迪上季营收超预期增近四倍，拟豪掷140亿回购，但本季指引逊色 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3778788",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时18分"
         },
         {
           "title": "谷歌(GOOG.O)首席科学家在任27年后离职，将创办自己的人工智能公司。",
@@ -180,15 +225,15 @@
           "time_info": "04时36分"
         },
         {
-          "title": "“存储ETF”创纪录爆火后，幕后推手再押AI光通信赛道",
-          "url": "https://www.cls.cn/detail/2446788",
+          "title": "码农摇身一变成FDE？美股龙头引领AI落地新模式 机构：计算机板块或迎来重估",
+          "url": "https://www.cls.cn/detail/2446947",
           "source": "财联社热门",
           "ranks": [
-            12
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时05分"
+          "time_info": "12时18分"
         },
         {
           "title": "外资机构密集发声，AI资本开支拐点隐现",
@@ -197,7 +242,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时05分"
         },
@@ -213,6 +258,17 @@
           "time_info": "06时17分"
         },
         {
+          "title": "星展银行首席执行官：中国台湾科技、媒体、电信行业及半导体生态系统被视为推动股市的因素。关注印度可再生能源增长和人工智能基础设施增长的机会。",
+          "url": "https://flash.jin10.com/detail/20260806114306480800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时18分"
+        },
+        {
           "title": "私募资本涌入新兴市场，竞相为AI基础设施建设提供资金",
           "url": "https://wallstreetcn.com/livenews/3145609",
           "source": "华尔街见闻-快讯",
@@ -222,6 +278,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
+        },
+        {
+          "title": "国瓷材料：针对AI服务器及车规级MLCC粉体 已完成部分高端产线的扩产工作",
+          "url": "https://wallstreetcn.com/livenews/3145772",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时18分"
         },
         {
           "title": "AI股抛售冲击对冲基金，Balyasny和Verition上月双双亏损",
@@ -241,7 +308,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时05分"
         },
@@ -257,13 +324,24 @@
           "time_info": "06时17分"
         },
         {
+          "title": "又一美联储官员警告通胀失控风险，沃什却在押注AI拯救降息空间？",
+          "url": "https://flash.jin10.com/detail/20260806112303640800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时18分"
+        },
+        {
           "title": "Meta旗下AI入侵一公司系统",
           "url": "https://flash.jin10.com/detail/20260806062228967800",
           "source": "金十数据",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时05分"
         },
@@ -285,7 +363,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时05分"
         },
@@ -317,8 +395,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时46分 ~ 08时05分]"
+          "appearance_count": 6,
+          "time_info": "[00时46分 ~ 12时18分]"
         },
         {
           "title": "Etsy裁员12%。",
@@ -365,6 +443,120 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时36分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "消费 存钱 攒钱",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "兰州拉面纷纷改名青海拉面，背后有哪些商业博弈？会影响你的消费选择吗？",
+          "url": "https://www.zhihu.com/question/2068309576659595271",
+          "source": "知乎",
+          "ranks": [
+            9,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时46分 ~ 08时05分]"
+        },
+        {
+          "title": "美联储理事库克：消费者信心低迷与多种因素有关，包括高通胀。",
+          "url": "https://flash.jin10.com/detail/20260806040814464800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时36分"
+        },
+        {
+          "title": "日本首相高市早苗：两年后将食品消费税恢复至8%并不属于加税。 为获得市场信任，食品消费税有必要恢复至8%。 新税收抵免制度的效益将超过减税。",
+          "url": "https://wallstreetcn.com/livenews/3145764",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时18分"
+        },
+        {
+          "title": "住房消费跻身大宗消费首位 多个热点城市正研究出台住房消费提振举措",
+          "url": "https://wallstreetcn.com/livenews/3145757",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时18分"
+        },
+        {
+          "title": "中国黄金协会：2026年上半年我国黄金产量同比下降14.62%，黄金消费量同比增长1.23%",
+          "url": "https://wallstreetcn.com/livenews/3145752",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "DeepSeek拟上调API服务定价",
+          "url": "https://www.douyin.com/hot/2599312",
+          "source": "抖音",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时18分"
+        },
+        {
+          "title": "DeepSeek API即将大幅涨价",
+          "url": "https://www.baidu.com/s?wd=DeepSeek+API%E5%8D%B3%E5%B0%86%E5%A4%A7%E5%B9%85%E6%B6%A8%E4%BB%B7",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时18分"
+        },
+        {
+          "title": "如何看待 DeepSeek 8 月 6 日公告称即将大幅度涨价？",
+          "url": "https://www.zhihu.com/question/2068628771687625392",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时18分"
+        },
+        {
+          "title": "DeepSeek计划大幅涨价",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E8%AE%A1%E5%88%92%E5%A4%A7%E5%B9%85%E6%B6%A8%E4%BB%B7%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时18分"
         }
       ]
     },
@@ -419,20 +611,48 @@
       ]
     },
     {
-      "keyword_group": "焦虑 emo",
-      "match_count": 2,
+      "keyword_group": "原生家庭 父母 亲子",
+      "match_count": 3,
       "titles": [
         {
-          "title": "一个中国新税号引发美国大焦虑",
-          "url": "https://news.ifeng.com/c/8vLlrf9pAIA",
-          "source": "凤凰网",
+          "title": "被梅姨拐卖者称已被养父母删除",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%A2%AB%E6%A2%85%E5%A7%A8%E6%8B%90%E5%8D%96%E8%80%85%E7%A7%B0%E5%B7%B2%E8%A2%AB%E5%85%BB%E7%88%B6%E6%AF%8D%E5%88%A0%E9%99%A4%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
           "ranks": [
-            5
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时05分"
+          "time_info": "12时18分"
         },
+        {
+          "title": "董路致歉：泰国10岁黑人父母是伪造的",
+          "url": "https://www.baidu.com/s?wd=%E8%91%A3%E8%B7%AF%E8%87%B4%E6%AD%89%EF%BC%9A%E6%B3%B0%E5%9B%BD10%E5%B2%81%E9%BB%91%E4%BA%BA%E7%88%B6%E6%AF%8D%E6%98%AF%E4%BC%AA%E9%80%A0%E7%9A%84",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时18分"
+        },
+        {
+          "title": "走失老人在父母墓地被找到：想看爸妈",
+          "url": "https://www.baidu.com/s?wd=%E8%B5%B0%E5%A4%B1%E8%80%81%E4%BA%BA%E5%9C%A8%E7%88%B6%E6%AF%8D%E5%A2%93%E5%9C%B0%E8%A2%AB%E6%89%BE%E5%88%B0%EF%BC%9A%E6%83%B3%E7%9C%8B%E7%88%B8%E5%A6%88",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "焦虑 emo",
+      "match_count": 2,
+      "titles": [
         {
           "title": "一个中国新税号引发美国大焦虑",
           "url": "https://www.baidu.com/s?wd=%E4%B8%80%E4%B8%AA%E4%B8%AD%E5%9B%BD%E6%96%B0%E7%A8%8E%E5%8F%B7%E5%BC%95%E5%8F%91%E7%BE%8E%E5%9B%BD%E5%A4%A7%E7%84%A6%E8%99%91",
@@ -447,37 +667,97 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时46分 ~ 08时05分]"
+        },
+        {
+          "title": "一个中国新税号引发美国大焦虑",
+          "url": "https://news.ifeng.com/c/8vLlrf9pAIA",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时05分 ~ 12时18分]"
         }
       ]
     },
     {
-      "keyword_group": "消费 存钱 攒钱",
+      "keyword_group": "年轻人 00后 35岁",
       "match_count": 2,
       "titles": [
         {
-          "title": "兰州拉面纷纷改名青海拉面，背后有哪些商业博弈？会影响你的消费选择吗？",
-          "url": "https://www.zhihu.com/question/2068309576659595271",
-          "source": "知乎",
+          "title": "为什么年轻人更容易疲惫",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%9B%B4%E5%AE%B9%E6%98%93%E7%96%B2%E6%83%AB&t=31&band_rank=13&Refer=top",
+          "source": "微博",
           "ranks": [
-            9,
-            5,
-            4,
-            3
+            13
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时46分 ~ 08时05分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时18分"
         },
         {
-          "title": "美联储理事库克：消费者信心低迷与多种因素有关，包括高通胀。",
-          "url": "https://flash.jin10.com/detail/20260806040814464800",
+          "title": "转角遇到“红”丨上海苏州河畔这个“最不像党群中心的党群中心”，被年轻人挤爆了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33719864",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "情绪 情绪价值 内耗 精神内耗",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "现货黄金今日早盘一度突破4300美元/盎司，美联储两名官员“放鹰”，现货黄金转为空头占优，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20260806112916206800",
           "source": "金十数据",
           "ranks": [
-            9
+            22
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时36分"
+          "time_info": "12时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "社会 阶层 社会学",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "韩国“超高龄社会”切面：40℃国家灾难状态下，2400名首尔老人还在巷子里收废纸",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33720253",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "内卷",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "银行反内卷,员工午休1.5小时",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356812&amp;topic_name=%E9%93%B6%E8%A1%8C%E5%8F%8D%E5%86%85%E5%8D%B7%2C%E5%91%98%E5%B7%A5%E5%8D%88%E4%BC%911.5%E5%B0%8F%E6%97%B6",
+          "source": "贴吧",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时18分"
         }
       ]
     },
@@ -490,11 +770,46 @@
           "url": "https://www.zhihu.com/question/2068288018167882727",
           "source": "知乎",
           "ranks": [
-            12
+            12,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时05分 ~ 12时18分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "婚姻 结婚 离婚 彩礼",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "卓晴cp都快结婚了",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%93%E6%99%B4cp%E9%83%BD%E5%BF%AB%E7%BB%93%E5%A9%9A%E4%BA%86%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时05分"
+          "time_info": "12时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "ChatGPT openai Sora",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Chatgpt你在自己搜什么呢",
+          "url": "https://s.weibo.com/weibo?q=Chatgpt%E4%BD%A0%E5%9C%A8%E8%87%AA%E5%B7%B1%E6%90%9C%E4%BB%80%E4%B9%88%E5%91%A2&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时18分"
         }
       ]
     },
