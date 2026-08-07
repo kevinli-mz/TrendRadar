@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-07T18:59:44.309092+08:00",
-  "total_titles_processed": 1103,
+  "generated_at": "2026-08-07T19:53:08.803186+08:00",
+  "total_titles_processed": 1215,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型",
-      "match_count": 39,
+      "match_count": 42,
       "titles": [
         {
           "title": "“存储三巨头”2027产能已售罄？消息人士：一些AI公司已在“跪求芯片”",
@@ -15,11 +15,40 @@
             8,
             7,
             2,
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时45分 ~ 18时59分]"
+          "appearance_count": 7,
+          "time_info": "[13时45分 ~ 19时53分]"
+        },
+        {
+          "title": "如何评价 GPT-5.6Luna 免费不限量，后续基础大模型都会走向免费吗？",
+          "url": "https://www.zhihu.com/question/2068986574256312589",
+          "source": "知乎",
+          "ranks": [
+            13,
+            12,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时25分 ~ 19时53分]"
+        },
+        {
+          "title": "中国AI偶像能飞",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BDAI%E5%81%B6%E5%83%8F%E8%83%BD%E9%A3%9E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17,
+            13,
+            23,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时25分 ~ 19时53分]"
         },
         {
           "title": "眼镜店老板副业做的AI视频火到海外",
@@ -70,6 +99,18 @@
           "time_info": "[13时45分 ~ 17时07分]"
         },
         {
+          "title": "印度要搞自主AI：模型靠中国，芯片靠美国",
+          "url": "https://news.ifeng.com/c/8vOieX1f4iR",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时59分 ~ 19时53分]"
+        },
+        {
           "title": "沪指冲高回落涨0.6%，煤炭掀涨停潮，贵金属集体大涨，半导体材料再拉升，恒科指跌超2%，AI大模型双雄逆势拉升",
           "url": "https://wallstreetcn.com/articles/3778805",
           "source": "华尔街见闻",
@@ -106,30 +147,53 @@
           "time_info": "[15时25分 ~ 18时59分]"
         },
         {
-          "title": "如何评价 GPT-5.6Luna 免费不限量，后续基础大模型都会走向免费吗？",
-          "url": "https://www.zhihu.com/question/2068986574256312589",
-          "source": "知乎",
-          "ranks": [
-            13,
-            12,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时25分 ~ 18时59分]"
-        },
-        {
-          "title": "中国AI偶像能飞",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BDAI%E5%81%B6%E5%83%8F%E8%83%BD%E9%A3%9E",
+          "title": "中国人能飞AI版vs实拍版",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%83%BD%E9%A3%9EAI%E7%89%88vs%E5%AE%9E%E6%8B%8D%E7%89%88",
           "source": "bilibili 热搜",
           "ranks": [
-            17,
-            13,
-            23
+            9,
+            14,
+            13
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[15时25分 ~ 18时59分]"
+          "time_info": "[17时07分 ~ 19时53分]"
+        },
+        {
+          "title": "备战年底“九合一”选举，国民党推出AI发言人“郑小文”",
+          "url": "https://news.ifeng.com/c/8vOWIhxIp5b",
+          "source": "凤凰网",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时07分 ~ 19时53分]"
+        },
+        {
+          "title": "【焦点复盘】创业板指终结周线6连阴，AI硬件端持续回暖，4600亿CXO龙头创近4年新高",
+          "url": "https://www.cls.cn/detail/2448537",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时59分 ~ 19时53分]"
+        },
+        {
+          "title": "福兮祸兮？美国科学家首次用AI设计出新型病毒……",
+          "url": "https://www.cls.cn/detail/2448228",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时59分 ~ 19时53分]"
         },
         {
           "title": "ai漫剧男主唯一塌房方式被找到了",
@@ -167,27 +231,15 @@
           "time_info": "[11时54分 ~ 13时45分]"
         },
         {
-          "title": "中国人能飞AI版vs实拍版",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%83%BD%E9%A3%9EAI%E7%89%88vs%E5%AE%9E%E6%8B%8D%E7%89%88",
-          "source": "bilibili 热搜",
+          "title": "美光管理层传递强势信号：存储的系统价值超过50%，CPU端AI代理需求处于“季前热身”",
+          "url": "https://wallstreetcn.com/articles/3778904",
+          "source": "华尔街见闻",
           "ranks": [
-            9,
-            14
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时07分 ~ 18时59分]"
-        },
-        {
-          "title": "备战年底“九合一”选举，国民党推出AI发言人“郑小文”",
-          "url": "https://news.ifeng.com/c/8vOWIhxIp5b",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时07分 ~ 18时59分]"
+          "time_info": "[19时52分 ~ 19时53分]"
         },
         {
           "title": "有AI之后反而更累了",
@@ -199,6 +251,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时25分 ~ 15时26分]"
+        },
+        {
+          "title": "非洲开发者更愿用中国AI模型说明啥",
+          "url": "https://www.toutiao.com/trending/7671214313847131702/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时52分 ~ 19时53分]"
         },
         {
           "title": "戚薇用AI解锁末世",
@@ -213,24 +276,13 @@
           "time_info": "[08时08分 ~ 11时54分]"
         },
         {
-          "title": "印度要搞自主AI：模型靠中国，芯片靠美国",
-          "url": "https://news.ifeng.com/c/8vOieX1f4iR",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时59分"
-        },
-        {
           "title": "金山办公CEO章庆元：大模型会平权，办公软件真正的护城河是上下文",
           "url": "https://flash.jin10.com/detail/20260807184254925800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时59分"
         },
@@ -268,17 +320,6 @@
           "time_info": "17时07分"
         },
         {
-          "title": "【焦点复盘】创业板指终结周线6连阴，AI硬件端持续回暖，4600亿CXO龙头创近4年新高",
-          "url": "https://www.cls.cn/detail/2448537",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时59分"
-        },
-        {
           "title": "美银抛出激进预测：美联储将连续加息三次 AI支出周期不会脱轨",
           "url": "https://www.cls.cn/detail/2447404",
           "source": "财联社热门",
@@ -310,17 +351,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时54分"
-        },
-        {
-          "title": "福兮祸兮？美国科学家首次用AI设计出新型病毒……",
-          "url": "https://www.cls.cn/detail/2448228",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时59分"
         },
         {
           "title": "美科学家用AI设计出病毒意味着什么",
@@ -400,6 +430,17 @@
           "time_info": "11时54分"
         },
         {
+          "title": "金山办公CEO章庆元：大模型会平权，办公软件真正的护城河是上下文",
+          "url": "https://wallstreetcn.com/livenews/3146668",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时53分"
+        },
+        {
           "title": "戚薇 授权AI",
           "url": "https://s.weibo.com/weibo?q=%E6%88%9A%E8%96%87%20%E6%8E%88%E6%9D%83AI&t=31&band_rank=22&Refer=top",
           "source": "微博",
@@ -450,7 +491,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时59分"
         }
@@ -458,7 +499,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "宇树科技IPO定价150.8元，DeepSeek、腾讯等获战略配售",
@@ -468,8 +509,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时08分 ~ 18时59分]"
+          "appearance_count": 9,
+          "time_info": "[08时08分 ~ 19时53分]"
         },
         {
           "title": "如何看待梁文锋旗下幻方量化多只产品收益转负，单月跌幅超 20%？",
@@ -492,11 +533,12 @@
             18,
             23,
             25,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时08分 ~ 18时59分]"
+          "appearance_count": 9,
+          "time_info": "[08时08分 ~ 19时53分]"
         },
         {
           "title": "DeepSeek终于打算激进扩张了",
@@ -508,6 +550,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时08分"
+        },
+        {
+          "title": "王兴兴回应DeepSeek参与宇树科技IPO战略配售",
+          "url": "https://wallstreetcn.com/livenews/3146694",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时53分"
         },
         {
           "title": "梁文锋旗下幻方量化多只产品收益转负，单月跌幅超 20%，你怎么看？",
@@ -532,6 +585,17 @@
           "time_info": "08时08分"
         },
         {
+          "title": "怎么看 OpenCode 创始人说「DeepSeek 涨价不是因为亏钱，而是为了劝退用户」？",
+          "url": "https://www.zhihu.com/question/2069015264461579129",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时07分 ~ 19时53分]"
+        },
+        {
           "title": "DeepSeek官宣涨价，且“幅度较大”！",
           "url": "https://wallstreetcn.com/articles/3778814",
           "source": "华尔街见闻",
@@ -542,17 +606,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时08分 ~ 11时54分]"
-        },
-        {
-          "title": "怎么看 OpenCode 创始人说「DeepSeek 涨价不是因为亏钱，而是为了劝退用户」？",
-          "url": "https://www.zhihu.com/question/2069015264461579129",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时07分 ~ 18时59分]"
         },
         {
           "title": "DeepSeek、腾讯等获宇树科技战略配售",
@@ -600,11 +653,12 @@
           "ranks": [
             6,
             5,
-            14
+            14,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时54分 ~ 18时59分]"
+          "appearance_count": 8,
+          "time_info": "[11时54分 ~ 19时53分]"
         },
         {
           "title": "电影去你的岛今日上映",
@@ -613,11 +667,12 @@
           "ranks": [
             16,
             18,
-            24
+            24,
+            20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时54分 ~ 18时59分]"
+          "appearance_count": 8,
+          "time_info": "[11时54分 ~ 19时53分]"
         },
         {
           "title": "阿哲综艺运气游戏太费老弟了",
@@ -650,7 +705,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时59分"
         },
@@ -712,11 +767,38 @@
             8,
             7,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时45分 ~ 18时59分]"
+          "appearance_count": 7,
+          "time_info": "[13时45分 ~ 19时53分]"
+        },
+        {
+          "title": "专家建议落实双休、增加假期，称「剪头发看电影等消费需要时间」，如何看待此建议？增加假期能带动消费吗？",
+          "url": "https://www.zhihu.com/question/2068732573711329057",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时54分 ~ 19时53分]"
+        },
+        {
+          "title": "泸溪河发布「桃酥出现金属牙冠」调查结论，排除生产带入可能性，消费者已澄清视频情况不属实，如何看待此事？",
+          "url": "https://www.zhihu.com/question/2069020073851983605",
+          "source": "知乎",
+          "ranks": [
+            8,
+            7,
+            6,
+            10,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时45分 ~ 19时53分]"
         },
         {
           "title": "泸溪河牙冠事件消费者已致歉",
@@ -730,31 +812,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时54分 ~ 17时07分]"
-        },
-        {
-          "title": "专家建议落实双休、增加假期，称「剪头发看电影等消费需要时间」，如何看待此建议？增加假期能带动消费吗？",
-          "url": "https://www.zhihu.com/question/2068732573711329057",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时54分 ~ 18时59分]"
-        },
-        {
-          "title": "泸溪河发布「桃酥出现金属牙冠」调查结论，排除生产带入可能性，消费者已澄清视频情况不属实，如何看待此事？",
-          "url": "https://www.zhihu.com/question/2069020073851983605",
-          "source": "知乎",
-          "ranks": [
-            8,
-            7,
-            6,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时45分 ~ 18时59分]"
         },
         {
           "title": "日本家庭支出连降七月 通胀持续压制消费信心",
@@ -804,7 +861,7 @@
     },
     {
       "keyword_group": "就业 失业 裁员 应届生",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "法国二季度ILO失业率 8.3%，预期 8.2%，前值 8.1%。",
@@ -841,6 +898,28 @@
           "time_info": "13时45分"
         },
         {
+          "title": "20:30非农：新增就业预期8万，失业率料为4.2%",
+          "url": "https://flash.jin10.com/detail/20260807191615854800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时53分"
+        },
+        {
+          "title": "华尔街前瞻今晚失业率：4.2%和4.3%预期各占一半",
+          "url": "https://flash.jin10.com/detail/20260807190849463800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时53分"
+        },
+        {
           "title": "法国第二季度ILO失业率将于十分钟后公布。",
           "url": "https://flash.jin10.com/detail/20260807132000000800",
           "source": "金十数据",
@@ -861,6 +940,142 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "教育 鸡娃 小镇做题家",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "佛山一中学教师招聘笔试前13名被淘汰、后5名进体检名单？市教育局通报",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33736773",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时07分 ~ 19时53分]"
+        },
+        {
+          "title": "深交所：本周对近期股价严重异常波动的“传智教育”“高争民爆”进行重点监控",
+          "url": "https://flash.jin10.com/detail/20260807184623570800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时59分"
+        },
+        {
+          "title": "这个暑假「预制娃」火了，家长提前填鸭，学校二次加热，如何看待这种抢跑式教育？大脑发育经得起「预制」吗？",
+          "url": "https://www.zhihu.com/question/2068724870267891996",
+          "source": "知乎",
+          "ranks": [
+            9,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时54分 ~ 13时45分]"
+        },
+        {
+          "title": "美媒：特朗普拟投入逾1.8亿美元 推动采矿行业教育发展",
+          "url": "https://flash.jin10.com/detail/20260807190915827800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时53分"
+        },
+        {
+          "title": "深交所：本周对近期股价严重异常波动的“传智教育”“高争民爆”进行重点监控",
+          "url": "https://wallstreetcn.com/livenews/3146671",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时53分"
+        },
+        {
+          "title": "据CBS新闻：特朗普计划于周五宣布拨款超过1.8亿美元，用于加强采矿业的教育和贸易项目，这是提高关键矿产产量的举措之一。",
+          "url": "https://flash.jin10.com/detail/20260807190238913800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时53分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "经济 经济学",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "服务实体经济 财政金融打出组合拳",
+          "url": "https://www.toutiao.com/trending/7671066943114002441/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时54分 ~ 15时26分]"
+        },
+        {
+          "title": "广东省国资委召开省属企业上半年经济形势分析会议",
+          "url": "https://flash.jin10.com/detail/20260807183641782800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时59分"
+        },
+        {
+          "title": "大兴机场临空经济区中欧班列服务中心正式启用",
+          "url": "https://wallstreetcn.com/livenews/3146432",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时45分"
+        },
+        {
+          "title": "促投资稳工业扩外贸，地方经济“下半场”划重点",
+          "url": "https://wallstreetcn.com/livenews/3146286",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时08分"
+        },
+        {
+          "title": "广东省国资委召开省属企业上半年经济形势分析会议",
+          "url": "https://wallstreetcn.com/livenews/3146658",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时53分"
         }
       ]
     },
@@ -887,8 +1102,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时07分 ~ 18时59分]"
+          "appearance_count": 4,
+          "time_info": "[17时07分 ~ 19时53分]"
         },
         {
           "title": "结婚8年3娃非亲生司法鉴定已出",
@@ -911,97 +1126,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时54分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "经济 经济学",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "服务实体经济 财政金融打出组合拳",
-          "url": "https://www.toutiao.com/trending/7671066943114002441/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时54分 ~ 15时26分]"
-        },
-        {
-          "title": "广东省国资委召开省属企业上半年经济形势分析会议",
-          "url": "https://flash.jin10.com/detail/20260807183641782800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时59分"
-        },
-        {
-          "title": "大兴机场临空经济区中欧班列服务中心正式启用",
-          "url": "https://wallstreetcn.com/livenews/3146432",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时45分"
-        },
-        {
-          "title": "促投资稳工业扩外贸，地方经济“下半场”划重点",
-          "url": "https://wallstreetcn.com/livenews/3146286",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时08分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "教育 鸡娃 小镇做题家",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "深交所：本周对近期股价严重异常波动的“传智教育”“高争民爆”进行重点监控",
-          "url": "https://flash.jin10.com/detail/20260807184623570800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时59分"
-        },
-        {
-          "title": "佛山一中学教师招聘笔试前13名被淘汰、后5名进体检名单？市教育局通报",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33736773",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时07分 ~ 18时59分]"
-        },
-        {
-          "title": "这个暑假「预制娃」火了，家长提前填鸭，学校二次加热，如何看待这种抢跑式教育？大脑发育经得起「预制」吗？",
-          "url": "https://www.zhihu.com/question/2068724870267891996",
-          "source": "知乎",
-          "ranks": [
-            9,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时54分 ~ 13时45分]"
         }
       ]
     },
@@ -1038,6 +1162,18 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "“特朗普想缓和对华关系，美国年轻人也不想陷入新冷战”",
+          "url": "https://news.ifeng.com/c/8vOTWxkXcxc",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时25分 ~ 19时53分]"
+        },
+        {
           "title": "为何年轻人不愿学医了",
           "url": "https://www.baidu.com/s?wd=%E4%B8%BA%E4%BD%95%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%8D%E6%84%BF%E5%AD%A6%E5%8C%BB%E4%BA%86",
           "source": "百度热搜",
@@ -1050,18 +1186,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[11时54分 ~ 18时59分]"
-        },
-        {
-          "title": "“特朗普想缓和对华关系，美国年轻人也不想陷入新冷战”",
-          "url": "https://news.ifeng.com/c/8vOTWxkXcxc",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时25分 ~ 18时59分]"
         }
       ]
     },
@@ -1154,11 +1278,12 @@
           "ranks": [
             2,
             3,
-            8
+            8,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时45分 ~ 17时07分]"
+          "appearance_count": 6,
+          "time_info": "[13时45分 ~ 19时53分]"
         }
       ]
     },
@@ -1171,11 +1296,12 @@
           "url": "https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E8%BF%99%E5%B0%B1%E6%98%AF%E6%8A%91%E9%83%81%E8%BA%AF%E4%BD%93%E5%8C%96&t=31&band_rank=23&Refer=top",
           "source": "微博",
           "ranks": [
-            23
+            23,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时07分 ~ 18时59分]"
+          "appearance_count": 4,
+          "time_info": "[17时07分 ~ 19时53分]"
         }
       ]
     },
@@ -1193,11 +1319,12 @@
             13,
             16,
             18,
-            20
+            20,
+            21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时08分 ~ 18时59分]"
+          "appearance_count": 9,
+          "time_info": "[08时08分 ~ 19时53分]"
         }
       ]
     },
