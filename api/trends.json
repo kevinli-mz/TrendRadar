@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T01:53:20.727882+08:00",
-  "total_titles_processed": 414,
+  "generated_at": "2026-08-08T03:05:55.325929+08:00",
+  "total_titles_processed": 462,
   "failed_sources": [],
   "trends": [
     {
@@ -16,20 +16,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时04分 ~ 01时53分]"
-        },
-        {
-          "title": "如何评价 GPT-5.6Luna 免费不限量，后续基础大模型都会走向免费吗？",
-          "url": "https://www.zhihu.com/question/2068986574256312589",
-          "source": "知乎",
-          "ranks": [
-            6,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时04分 ~ 01时53分]"
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 03时05分]"
         },
         {
           "title": "印度要搞自主AI：模型靠中国，芯片靠美国",
@@ -39,8 +27,21 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时04分 ~ 01时53分]"
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 03时05分]"
+        },
+        {
+          "title": "如何评价 GPT-5.6Luna 免费不限量，后续基础大模型都会走向免费吗？",
+          "url": "https://www.zhihu.com/question/2068986574256312589",
+          "source": "知乎",
+          "ranks": [
+            6,
+            11,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 03时05分]"
         },
         {
           "title": "中国人能飞AI版vs实拍版",
@@ -48,11 +49,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             18,
-            9
+            9,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时04分 ~ 01时53分]"
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 03时05分]"
         },
         {
           "title": "大厂“集中兵力”抢入口 AI办公赛道突然“挤”了起来",
@@ -62,8 +64,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时04分 ~ 01时53分]"
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 03时05分]"
         },
         {
           "title": "国民党推出AI发言人“郑小文”迎战民进党",
@@ -73,8 +75,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时04分 ~ 01时53分]"
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 03时05分]"
         },
         {
           "title": "释疑｜建多少数据中心才够？美国AI基建热潮撞上“社区保卫战”",
@@ -82,11 +84,36 @@
           "source": "澎湃新闻",
           "ranks": [
             14,
-            15
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 03时05分]"
+        },
+        {
+          "title": "法务AI公司Harvey洽谈按155亿美元估值融资至少5亿美元，该公司当前年化收入超过3.5亿美元。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3146852",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时04分 ~ 01时53分]"
+          "time_info": "[01时53分 ~ 03时05分]"
+        },
+        {
+          "title": "OpenAI：Astra是一款尚未发布的模型，无法排除Astra模型具备关键网络攻击能力",
+          "url": "https://wallstreetcn.com/livenews/3146841",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时53分 ~ 03时05分]"
         },
         {
           "title": "AI大模型迈向分时定价",
@@ -100,24 +127,13 @@
           "time_info": "00时04分"
         },
         {
-          "title": "法务AI公司Harvey洽谈按155亿美元估值融资至少5亿美元，该公司当前年化收入超过3.5亿美元。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3146852",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时53分"
-        },
-        {
           "title": "据The Information：法律AI初创公司Harvey正洽谈融资，估值达155亿美元。",
           "url": "https://flash.jin10.com/detail/20260808005548495800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时53分"
         },
@@ -133,24 +149,13 @@
           "time_info": "00时04分"
         },
         {
-          "title": "OpenAI：Astra是一款尚未发布的模型，无法排除Astra模型具备关键网络攻击能力",
-          "url": "https://wallstreetcn.com/livenews/3146841",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时53分"
-        },
-        {
           "title": "为什么现在的 ai 都在卷编程？",
           "url": "https://www.zhihu.com/question/2068569618449430292",
           "source": "知乎",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时53分"
         },
@@ -179,6 +184,100 @@
       ]
     },
     {
+      "keyword_group": "经济 经济学",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "哈塞特称特朗普与沃什经常讨论经济问题",
+          "url": "https://flash.jin10.com/detail/20260808011630958800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时53分"
+        },
+        {
+          "title": "美国参议院确认Brett Matsumoto担任劳工统计局局长。 确认Phelan担任经济顾问委员会主。 联邦劳工纠纷委员会的若干提名人也获得确认。 确认David Cummins出任运输安全管理局局长。（彭博法律Blaw）",
+          "url": "https://wallstreetcn.com/livenews/3146866",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时05分"
+        },
+        {
+          "title": "美国财长贝森特：经济已经做好加速的准备。",
+          "url": "https://wallstreetcn.com/livenews/3146861",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时05分"
+        },
+        {
+          "title": "美国财政部制裁伊朗所使用的两家大型数字资产交易所。 美国财长贝森特声称：“伊朗政权对数字资产与影子银行网络的依赖，进一步证明经济制裁正在奏效。我们将继续加大经济施压力度。无论是美元、里亚尔还是加密货币，财政部都将追查并瓦解维系该政权运转的非法金融网络。”",
+          "url": "https://wallstreetcn.com/livenews/3146860",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时05分"
+        },
+        {
+          "title": "美国财长贝森特：伊朗的影子银行体系正在“经济狂怒”行动下陷入困境，该政权可用于转移资金的渠道正在耗尽。美国财政部将继续曝光这些网络，并切断它们与美国金融体系的联系。",
+          "url": "https://flash.jin10.com/detail/20260808021957528800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时05分"
+        },
+        {
+          "title": "美国参议院投票确认戴维·卡明斯（David Cummins）出任美国运输安全管理局局长，确认菲兰（Phelan）担任经济顾问委员会主席。",
+          "url": "https://flash.jin10.com/detail/20260808021447066800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时05分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基： 我已携团队抵达塞尔维亚。 今明两日我们安排了重要会晤， 我们将探讨扩大两国经济联系、对欧盟关系、其他惠及两国人民的议题以及安全相关事务。",
+          "url": "https://wallstreetcn.com/livenews/3146837",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时53分"
+        },
+        {
+          "title": "白宫经济顾问哈塞特：我们留意到汽油价格偏高。",
+          "url": "https://wallstreetcn.com/livenews/3146791",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时04分"
+        }
+      ]
+    },
+    {
       "keyword_group": "就业 失业 裁员 应届生",
       "match_count": 6,
       "titles": [
@@ -190,8 +289,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时04分 ~ 01时53分]"
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 03时05分]"
         },
         {
           "title": "美国就业市场意外“熄火”：7月非农负增长 劳动参与率跌至5年来新低",
@@ -202,8 +301,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时04分 ~ 01时53分]"
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 03时05分]"
         },
         {
           "title": "美联储：美国7月短期通胀预期降温，消费者对就业变得更加乐观",
@@ -261,11 +360,12 @@
           "source": "微博",
           "ranks": [
             27,
-            25
+            25,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时04分 ~ 01时53分]"
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 03时05分]"
         },
         {
           "title": "荷兰弟影视飓风惊喜联动",
@@ -276,8 +376,20 @@
             26
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 03时05分]"
+        },
+        {
+          "title": "挑战看电影去你的岛不哭",
+          "url": "https://www.douyin.com/hot/2600927",
+          "source": "抖音",
+          "ranks": [
+            22,
+            18
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时04分 ~ 01时53分]"
+          "time_info": "[01时53分 ~ 03时05分]"
         },
         {
           "title": "电影去你的岛今日上映",
@@ -285,56 +397,6 @@
           "source": "抖音",
           "ranks": [
             15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时04分"
-        },
-        {
-          "title": "挑战看电影去你的岛不哭",
-          "url": "https://www.douyin.com/hot/2600927",
-          "source": "抖音",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "经济 经济学",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "哈塞特称特朗普与沃什经常讨论经济问题",
-          "url": "https://flash.jin10.com/detail/20260808011630958800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时53分"
-        },
-        {
-          "title": "乌克兰总统泽连斯基： 我已携团队抵达塞尔维亚。 今明两日我们安排了重要会晤， 我们将探讨扩大两国经济联系、对欧盟关系、其他惠及两国人民的议题以及安全相关事务。",
-          "url": "https://wallstreetcn.com/livenews/3146837",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时53分"
-        },
-        {
-          "title": "白宫经济顾问哈塞特：我们留意到汽油价格偏高。",
-          "url": "https://wallstreetcn.com/livenews/3146791",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -354,8 +416,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时04分 ~ 01时53分]"
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 03时05分]"
         },
         {
           "title": "泸溪河发布「桃酥出现金属牙冠」调查结论，排除生产带入可能性，消费者已澄清视频情况不属实，如何看待此事？",
@@ -375,7 +437,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时53分"
         }
@@ -391,11 +453,12 @@
           "source": "百度热搜",
           "ranks": [
             10,
-            12
+            12,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时04分 ~ 01时53分]"
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 03时05分]"
         },
         {
           "title": "怎么看 OpenCode 创始人说「DeepSeek 涨价不是因为亏钱，而是为了劝退用户」？",
@@ -405,8 +468,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时04分 ~ 01时53分]"
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 03时05分]"
         }
       ]
     },
@@ -441,8 +504,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时04分 ~ 01时53分]"
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 03时05分]"
         }
       ]
     },
@@ -458,8 +521,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时04分 ~ 01时53分]"
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 03时05分]"
         }
       ]
     },
@@ -489,11 +552,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33736773",
           "source": "澎湃新闻",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时04分 ~ 01时53分]"
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 03时05分]"
         }
       ]
     }
