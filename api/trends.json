@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T18:40:29.528304+08:00",
-  "total_titles_processed": 1220,
+  "generated_at": "2026-08-08T19:34:58.358915+08:00",
+  "total_titles_processed": 1287,
   "failed_sources": [],
   "trends": [
     {
@@ -21,6 +21,20 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时04分 ~ 13时04分]"
+        },
+        {
+          "title": "李开复：AI时代，人的优势在“右脑”，做出数据不能预测的事情",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33740664",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时41分 ~ 19时34分]"
         },
         {
           "title": "中国人能飞AI版vs实拍版",
@@ -52,8 +66,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时04分 ~ 18时40分]"
+          "appearance_count": 18,
+          "time_info": "[00时04分 ~ 19时34分]"
         },
         {
           "title": "AI算力浪潮驱动元器件业务增长：松下机电订单排队产能紧张，预计下半年原材料新一轮涨价",
@@ -66,22 +80,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[04时49分 ~ 18时40分]"
-        },
-        {
-          "title": "李开复：AI时代，人的优势在“右脑”，做出数据不能预测的事情",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33740664",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时41分 ~ 18时40分]"
+          "appearance_count": 16,
+          "time_info": "[04时49分 ~ 19时34分]"
         },
         {
           "title": "爆仓之后，资本反而扑向\"AI股神\"",
@@ -92,8 +92,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时02分 ~ 18时40分]"
+          "appearance_count": 7,
+          "time_info": "[15时02分 ~ 19时34分]"
         },
         {
           "title": "印度要搞自主AI：模型靠中国，芯片靠美国",
@@ -172,6 +172,30 @@
           "time_info": "[00时04分 ~ 05时46分]"
         },
         {
+          "title": "为什么体制内至今仍不鼓励用人工智能？",
+          "url": "https://www.zhihu.com/question/2042649810709239000",
+          "source": "知乎",
+          "ranks": [
+            18,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时44分 ~ 19时34分]"
+        },
+        {
+          "title": "AI快问快答,D老师语出惊人",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356965&amp;topic_name=AI%E5%BF%AB%E9%97%AE%E5%BF%AB%E7%AD%94%2CD%E8%80%81%E5%B8%88%E8%AF%AD%E5%87%BA%E6%83%8A%E4%BA%BA",
+          "source": "贴吧",
+          "ranks": [
+            28,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时40分 ~ 19时34分]"
+        },
+        {
           "title": "美国AI开始攻击真人了",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BDAI%E5%BC%80%E5%A7%8B%E6%94%BB%E5%87%BB%E7%9C%9F%E4%BA%BA%E4%BA%86",
           "source": "百度热搜",
@@ -197,18 +221,6 @@
           "time_info": "[16时50分 ~ 18时40分]"
         },
         {
-          "title": "为什么体制内至今仍不鼓励用人工智能？",
-          "url": "https://www.zhihu.com/question/2042649810709239000",
-          "source": "知乎",
-          "ranks": [
-            18,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时44分 ~ 18时40分]"
-        },
-        {
           "title": "美光管理层传递强势信号：存储的系统价值超过50%，CPU端AI代理需求处于“季前热身”",
           "url": "https://wallstreetcn.com/articles/3778904",
           "source": "华尔街见闻",
@@ -232,6 +244,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时04分 ~ 03时05分]"
+        },
+        {
+          "title": "字节讨论训练国内最大模型，参数规模将超过阿里 Qwen 3.8-Max 和 Kimi K3，如何看待此事？",
+          "url": "https://www.zhihu.com/question/2069009991709857177",
+          "source": "知乎",
+          "ranks": [
+            20,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时44分 ~ 19时34分]"
         },
         {
           "title": "用AI造出新病毒意味着什么",
@@ -282,15 +306,15 @@
           "time_info": "[01时53分 ~ 03时05分]"
         },
         {
-          "title": "字节讨论训练国内最大模型，参数规模将超过阿里 Qwen 3.8-Max 和 Kimi K3，如何看待此事？",
-          "url": "https://www.zhihu.com/question/2069009991709857177",
-          "source": "知乎",
+          "title": "苹果AI",
+          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9CAI",
+          "source": "百度热搜",
           "ranks": [
-            20
+            21
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时44分 ~ 17时45分]"
+          "time_info": "[18时40分 ~ 19时34分]"
         },
         {
           "title": "朋友圈可AI帮写、点评？腾讯客服：AI相关功能逐步开放中",
@@ -303,6 +327,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时50分 ~ 17时45分]"
+        },
+        {
+          "title": "美国AI开始攻击真人了",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BDAI%E5%BC%80%E5%A7%8B%E6%94%BB%E5%87%BB%E7%9C%9F%E4%BA%BA%E4%BA%86%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时40分 ~ 19时34分]"
         },
         {
           "title": "AI大模型迈向分时定价",
@@ -360,17 +395,6 @@
           "time_info": "00时04分"
         },
         {
-          "title": "苹果AI",
-          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9CAI",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时40分"
-        },
-        {
           "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850591&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/08/jwXasxMKTX0anRNXTKMOK.jpg/lite\" height=\"120\"/></a>",
           "url": "https://flash.jin10.com/detail/20260807230423204800",
           "source": "金十数据",
@@ -380,34 +404,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时04分"
-        },
-        {
-          "title": "AI快问快答,D老师语出惊人",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356965&amp;topic_name=AI%E5%BF%AB%E9%97%AE%E5%BF%AB%E7%AD%94%2CD%E8%80%81%E5%B8%88%E8%AF%AD%E5%87%BA%E6%83%8A%E4%BA%BA",
-          "source": "贴吧",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时40分"
-        },
-        {
-          "title": "美国AI开始攻击真人了",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BDAI%E5%BC%80%E5%A7%8B%E6%94%BB%E5%87%BB%E7%9C%9F%E4%BA%BA%E4%BA%86%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时40分"
         }
       ]
     },
     {
       "keyword_group": "电影 影视 综艺",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "从《牧马人》到《送你一朵小红花》，刘浩存致敬中国电影初心",
@@ -420,8 +422,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时01分 ~ 18时40分]"
+          "appearance_count": 11,
+          "time_info": "[10时01分 ~ 19时34分]"
         },
         {
           "title": "荷兰弟影视飓风惊喜联动",
@@ -461,11 +463,12 @@
             15,
             5,
             6,
-            18
+            18,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时02分 ~ 18时40分]"
+          "appearance_count": 7,
+          "time_info": "[15时02分 ~ 19时34分]"
         },
         {
           "title": "火影综艺飞舞吧忍者最终章",
@@ -475,22 +478,35 @@
             15,
             20,
             19,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时02分 ~ 18时40分]"
+          "appearance_count": 7,
+          "time_info": "[15时02分 ~ 19时34分]"
         },
         {
           "title": "如何评价 2026 年 8 月 8 日开启超前点映的文牧野执导、沈腾领衔主演的电影《欢迎来龙餐馆》？",
           "url": "https://www.zhihu.com/question/2068425373046544035",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时40分 ~ 19时34分]"
+        },
+        {
+          "title": "2026年度电影总票房突破240亿",
+          "url": "https://flash.jin10.com/detail/20260808185112446800",
+          "source": "金十数据",
+          "ranks": [
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时40分"
+          "time_info": "19时34分"
         },
         {
           "title": "电影去你的岛细思极哭",
@@ -542,6 +558,29 @@
           "time_info": "[16时50分 ~ 17时45分]"
         },
         {
+          "title": "电影欢迎来龙餐馆口碑",
+          "url": "https://s.weibo.com/weibo?q=%E7%94%B5%E5%BD%B1%E6%AC%A2%E8%BF%8E%E6%9D%A5%E9%BE%99%E9%A4%90%E9%A6%86%E5%8F%A3%E7%A2%91&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时40分 ~ 19时34分]"
+        },
+        {
+          "title": "在电影院要小心自己的喝的",
+          "url": "https://s.weibo.com/weibo?q=%E5%9C%A8%E7%94%B5%E5%BD%B1%E9%99%A2%E8%A6%81%E5%B0%8F%E5%BF%83%E8%87%AA%E5%B7%B1%E7%9A%84%E5%96%9D%E7%9A%84&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时34分"
+        },
+        {
           "title": "电影去你的岛今日上映",
           "url": "https://www.douyin.com/hot/2600507",
           "source": "抖音",
@@ -551,17 +590,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时04分"
-        },
-        {
-          "title": "电影欢迎来龙餐馆口碑",
-          "url": "https://s.weibo.com/weibo?q=%E7%94%B5%E5%BD%B1%E6%AC%A2%E8%BF%8E%E6%9D%A5%E9%BE%99%E9%A4%90%E9%A6%86%E5%8F%A3%E7%A2%91&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时40分"
         }
       ]
     },
@@ -577,8 +605,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时04分 ~ 18时40分]"
+          "appearance_count": 19,
+          "time_info": "[00时04分 ~ 19时34分]"
         },
         {
           "title": "美国就业市场意外“熄火”：7月非农负增长 劳动参与率跌至5年来新低",
@@ -590,8 +618,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时04分 ~ 18时40分]"
+          "appearance_count": 19,
+          "time_info": "[00时04分 ~ 19时34分]"
         },
         {
           "title": "文件显示，赛富时将在旧金山总部裁员74人。",
@@ -898,18 +926,19 @@
     },
     {
       "keyword_group": "婚姻 结婚 离婚 彩礼",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "胚胎案原配申请终止离婚",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356961&amp;topic_name=%E8%83%9A%E8%83%8E%E6%A1%88%E5%8E%9F%E9%85%8D%E7%94%B3%E8%AF%B7%E7%BB%88%E6%AD%A2%E7%A6%BB%E5%A9%9A",
           "source": "贴吧",
           "ranks": [
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时02分 ~ 18时40分]"
+          "appearance_count": 7,
+          "time_info": "[15时02分 ~ 19时34分]"
         },
         {
           "title": "男子结婚 8 年发现 3 娃非亲生，要求离婚、返还抚育开支并赔偿精神抚慰金，如何从法律角度解读？",
@@ -928,11 +957,12 @@
           "source": "微博",
           "ranks": [
             26,
-            14
+            14,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时50分 ~ 18时40分]"
+          "appearance_count": 3,
+          "time_info": "[16时50分 ~ 19时34分]"
         },
         {
           "title": "胚胎案妻子称如胚胎销毁定要离婚",
@@ -955,6 +985,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时39分"
+        },
+        {
+          "title": "朋友称佟丽娅与陈思诚是新型离婚关系",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%8B%E5%8F%8B%E7%A7%B0%E4%BD%9F%E4%B8%BD%E5%A8%85%E4%B8%8E%E9%99%88%E6%80%9D%E8%AF%9A%E6%98%AF%E6%96%B0%E5%9E%8B%E7%A6%BB%E5%A9%9A%E5%85%B3%E7%B3%BB",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时34分"
         }
       ]
     },
@@ -973,8 +1014,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时01分 ~ 18时40分]"
+          "appearance_count": 11,
+          "time_info": "[10时01分 ~ 19时34分]"
         },
         {
           "title": "业绩如何支撑高估值？与DeepSeek如何合作？如何看待股价炒作？王兴兴回应多个热点",
@@ -988,8 +1029,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[04时49分 ~ 18时40分]"
+          "appearance_count": 16,
+          "time_info": "[04时49分 ~ 19时34分]"
         },
         {
           "title": "梁文锋 只想用座机",
@@ -1089,8 +1130,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时01分 ~ 18时40分]"
+          "appearance_count": 11,
+          "time_info": "[10时01分 ~ 19时34分]"
         },
         {
           "title": "佛山一中学教师招聘笔试前13名被淘汰、后5名进体检名单？市教育局通报",
@@ -1195,11 +1236,12 @@
           "source": "百度热搜",
           "ranks": [
             24,
-            23
+            23,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时44分 ~ 18时40分]"
+          "appearance_count": 4,
+          "time_info": "[17时44分 ~ 19时34分]"
         }
       ]
     },
@@ -1234,8 +1276,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时50分 ~ 18时40分]"
+          "appearance_count": 5,
+          "time_info": "[16时50分 ~ 19时34分]"
         }
       ]
     },
@@ -1252,11 +1294,12 @@
             3,
             5,
             15,
-            20
+            20,
+            29
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时04分 ~ 18时40分]"
+          "appearance_count": 8,
+          "time_info": "[13时04分 ~ 19时34分]"
         }
       ]
     }
