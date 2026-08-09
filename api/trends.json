@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T16:52:41.037969+08:00",
-  "total_titles_processed": 950,
+  "generated_at": "2026-08-09T17:47:21.223547+08:00",
+  "total_titles_processed": 993,
   "failed_sources": [],
   "trends": [
     {
@@ -43,21 +43,6 @@
           "time_info": "[00时41分 ~ 07时35分]"
         },
         {
-          "title": "AI快问快答,D老师语出惊人",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356965&amp;topic_name=AI%E5%BF%AB%E9%97%AE%E5%BF%AB%E7%AD%94%2CD%E8%80%81%E5%B8%88%E8%AF%AD%E5%87%BA%E6%83%8A%E4%BA%BA",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            5,
-            10,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时41分 ~ 16时52分]"
-        },
-        {
           "title": "英伟达盯上OpenAI“星际之门”背后的电力商，30亿美元直接入股",
           "url": "https://wallstreetcn.com/articles/3778988",
           "source": "华尔街见闻",
@@ -84,8 +69,24 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时41分 ~ 16时52分]"
+          "appearance_count": 17,
+          "time_info": "[00时41分 ~ 17时47分]"
+        },
+        {
+          "title": "AI快问快答,D老师语出惊人",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356965&amp;topic_name=AI%E5%BF%AB%E9%97%AE%E5%BF%AB%E7%AD%94%2CD%E8%80%81%E5%B8%88%E8%AF%AD%E5%87%BA%E6%83%8A%E4%BA%BA",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            5,
+            10,
+            11,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[00时41分 ~ 17时47分]"
         },
         {
           "title": "马上评｜AI演员带货，真人演员授权：AI时代如何重构信任关系",
@@ -143,8 +144,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时09分 ~ 16时52分]"
+          "appearance_count": 5,
+          "time_info": "[10时09分 ~ 17时47分]"
         },
         {
           "title": "国家统计局：人工智能推动消费电子产品迭代升级，相关产品需求增加、价格上涨，平板电脑、计算机和移动电话机价格分别环比上涨11.3%、5.5%和1.0%，合计影响CPI环比上涨约0.03个百分点。",
@@ -157,8 +158,19 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时09分 ~ 16时52分]"
+          "appearance_count": 5,
+          "time_info": "[10时09分 ~ 17时47分]"
+        },
+        {
+          "title": "首个全国产10万卡AI超集群投用",
+          "url": "https://www.baidu.com/s?wd=%E9%A6%96%E4%B8%AA%E5%85%A8%E5%9B%BD%E4%BA%A710%E4%B8%87%E5%8D%A1AI%E8%B6%85%E9%9B%86%E7%BE%A4%E6%8A%95%E7%94%A8",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时52分 ~ 17时47分]"
         },
         {
           "title": "Apollo首席经济学家：AI烧钱速度创历史之最，警惕“次贷危机式”逆转冲击",
@@ -172,17 +184,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[04时37分 ~ 07时35分]"
-        },
-        {
-          "title": "首个全国产10万卡AI超集群投用",
-          "url": "https://www.baidu.com/s?wd=%E9%A6%96%E4%B8%AA%E5%85%A8%E5%9B%BD%E4%BA%A710%E4%B8%87%E5%8D%A1AI%E8%B6%85%E9%9B%86%E7%BE%A4%E6%8A%95%E7%94%A8",
-          "source": "百度热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时52分"
         },
         {
           "title": "大爷听AI洒农药 150亩苗一夜枯萎",
@@ -214,11 +215,12 @@
           "url": "https://wallstreetcn.com/articles/3778997",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时05分 ~ 16时52分]"
+          "appearance_count": 3,
+          "time_info": "[15时05分 ~ 17时47分]"
         },
         {
           "title": "AI帮你开发以前要花钱的功能",
@@ -323,7 +325,7 @@
     },
     {
       "keyword_group": "电影 影视 综艺",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "如何评价超前点映中，由文牧野执导、沈腾领衔主演的电影《欢迎来龙餐馆》？",
@@ -354,6 +356,19 @@
           "time_info": "[00时41分 ~ 05时37分]"
         },
         {
+          "title": "你会去电影院看沈腾的主旋律喜剧大片《欢迎来龙餐馆》吗？票房能破 50 亿吗?",
+          "url": "https://www.zhihu.com/question/2068398077522793536",
+          "source": "知乎",
+          "ranks": [
+            9,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时05分 ~ 17时47分]"
+        },
+        {
           "title": "火影综艺飞舞吧忍者最终章",
           "url": "https://search.bilibili.com/all?keyword=%E7%81%AB%E5%BD%B1%E7%BB%BC%E8%89%BA%E9%A3%9E%E8%88%9E%E5%90%A7%E5%BF%8D%E8%80%85%E6%9C%80%E7%BB%88%E7%AB%A0",
           "source": "bilibili 热搜",
@@ -368,27 +383,16 @@
           "time_info": "[00时41分 ~ 07时35分]"
         },
         {
-          "title": "你会去电影院看沈腾的主旋律喜剧大片《欢迎来龙餐馆》吗？票房能破 50 亿吗?",
-          "url": "https://www.zhihu.com/question/2068398077522793536",
-          "source": "知乎",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时05分 ~ 16时52分]"
-        },
-        {
           "title": "如何看待 2026 年 8 月 8 日，史诗级电影《奥德赛》的点映上座率高达 57.3% 左右？",
           "url": "https://www.zhihu.com/question/2069512576657105120",
           "source": "知乎",
           "ranks": [
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时05分 ~ 16时52分]"
+          "appearance_count": 3,
+          "time_info": "[15时05分 ~ 17时47分]"
         },
         {
           "title": "《八仙 ！》《年会不能停！2》 等电影片名中频繁出现感叹号，为什么会出现这一现象？这算是符号滥用吗？",
@@ -401,6 +405,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时41分 ~ 01时37分]"
+        },
+        {
+          "title": "电影人为什么仍相信电影",
+          "url": "https://www.toutiao.com/trending/7671918044280717354/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时47分"
         },
         {
           "title": "你会去电影院看沈腾的主旋律喜剧大片《欢迎来龙餐馆》吗? 票房能破 50 亿吗?",
@@ -433,8 +448,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时41分 ~ 16时52分]"
+          "appearance_count": 13,
+          "time_info": "[00时41分 ~ 17时47分]"
         },
         {
           "title": "IMF驻华首席代表：中国服务消费增长强劲，且“后劲十足”",
@@ -462,8 +477,19 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时09分 ~ 16时52分]"
+          "appearance_count": 5,
+          "time_info": "[10时09分 ~ 17时47分]"
+        },
+        {
+          "title": "消费者称被“弹窗投保”续费超千元：元保保险称过程合规，已退款",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33743326",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时52分 ~ 17时47分]"
         },
         {
           "title": "2026年7月份居民消费价格同比上涨0.5%",
@@ -476,17 +502,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时09分 ~ 12时23分]"
-        },
-        {
-          "title": "消费者称被“弹窗投保”续费超千元：元保保险称过程合规，已退款",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33743326",
-          "source": "澎湃新闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时52分"
         }
       ]
     },
@@ -517,9 +532,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时52分 ~ 17时47分]"
         },
         {
           "title": "经济学家普遍预期美国通胀年率将略有放缓",
@@ -577,11 +592,12 @@
             2,
             9,
             10,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时41分 ~ 16时52分]"
+          "appearance_count": 17,
+          "time_info": "[00时41分 ~ 17时47分]"
         },
         {
           "title": "男子出轨离婚后留给妻子千万债务",
@@ -589,6 +605,34 @@
           "source": "微博",
           "ranks": [
             24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "性别 男女 女性",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "复旦网红美籍留学生被曝玩弄女性，胡锡进发声",
+          "url": "https://news.ifeng.com/c/8vS5QujjAL8",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时47分"
+        },
+        {
+          "title": "孙颖莎入选中国女性品牌榜",
+          "url": "https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E5%85%A5%E9%80%89%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%80%A7%E5%93%81%E7%89%8C%E6%A6%9C&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -682,23 +726,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时41分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "性别 男女 女性",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "孙颖莎入选中国女性品牌榜",
-          "url": "https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E5%85%A5%E9%80%89%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%80%A7%E5%93%81%E7%89%8C%E6%A6%9C&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时23分"
         }
       ]
     },
