@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-09T19:41:22.484793+08:00",
-  "total_titles_processed": 1129,
+  "generated_at": "2026-08-09T21:03:21.512775+08:00",
+  "total_titles_processed": 1224,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型",
-      "match_count": 25,
+      "match_count": 27,
       "titles": [
         {
           "title": "爆仓之后，资本反而扑向\"AI股神\"",
@@ -69,8 +69,22 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时41分 ~ 19时41分]"
+          "appearance_count": 20,
+          "time_info": "[00时41分 ~ 21时03分]"
+        },
+        {
+          "title": "中国7月CPI同比涨幅收窄至0.5%，PPI同比上涨3.5%，AI驱动平板电脑价格环比上涨11.3%",
+          "url": "https://wallstreetcn.com/articles/3778996",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时09分 ~ 21时03分]"
         },
         {
           "title": "AI快问快答,D老师语出惊人",
@@ -84,25 +98,12 @@
             12,
             13,
             14,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时41分 ~ 19时41分]"
-        },
-        {
-          "title": "中国7月CPI同比涨幅收窄至0.5%，PPI同比上涨3.5%，AI驱动平板电脑价格环比上涨11.3%",
-          "url": "https://wallstreetcn.com/articles/3778996",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时09分 ~ 19时41分]"
+          "appearance_count": 20,
+          "time_info": "[00时41分 ~ 21时03分]"
         },
         {
           "title": "马上评｜AI演员带货，真人演员授权：AI时代如何重构信任关系",
@@ -135,6 +136,17 @@
           "time_info": "[01时37分 ~ 07时35分]"
         },
         {
+          "title": "首个全国产10万卡AI超集群投用",
+          "url": "https://www.baidu.com/s?wd=%E9%A6%96%E4%B8%AA%E5%85%A8%E5%9B%BD%E4%BA%A710%E4%B8%87%E5%8D%A1AI%E8%B6%85%E9%9B%86%E7%BE%A4%E6%8A%95%E7%94%A8",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时52分 ~ 21时03分]"
+        },
+        {
           "title": "为什么体制内至今仍不鼓励用人工智能？",
           "url": "https://www.zhihu.com/question/2042649810709239000",
           "source": "知乎",
@@ -164,17 +176,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[10时09分 ~ 19时41分]"
-        },
-        {
-          "title": "首个全国产10万卡AI超集群投用",
-          "url": "https://www.baidu.com/s?wd=%E9%A6%96%E4%B8%AA%E5%85%A8%E5%9B%BD%E4%BA%A710%E4%B8%87%E5%8D%A1AI%E8%B6%85%E9%9B%86%E7%BE%A4%E6%8A%95%E7%94%A8",
-          "source": "百度热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时52分 ~ 19时41分]"
         },
         {
           "title": "Apollo首席经济学家：AI烧钱速度创历史之最，警惕“次贷危机式”逆转冲击",
@@ -236,6 +237,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时35分 ~ 10时09分]"
+        },
+        {
+          "title": "哈马斯高级官员Basem Naim：预计调停人和美国将“施压以色列总理内塔尼亚胡和他的政府”遵守（加沙和平）路线图。 我们仍然尊重十天前同调停方、和平委员会在埃及开罗达成的路线图共识。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3147083",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
         },
         {
           "title": "“AI应用龙头”归来！Palantir创2024年以来“最强单周表现”",
@@ -315,6 +327,17 @@
           "time_info": "00时41分"
         },
         {
+          "title": "2026中国AI盛典",
+          "url": "https://s.weibo.com/weibo?q=2026%E4%B8%AD%E5%9B%BDAI%E7%9B%9B%E5%85%B8&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
+        },
+        {
           "title": "苹果与阿里巴巴合作，千问AI功能上线Mac",
           "url": "https://flash.jin10.com/detail/20260808204416510800",
           "source": "金十数据",
@@ -329,7 +352,7 @@
     },
     {
       "keyword_group": "电影 影视 综艺",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "如何评价超前点映中，由文牧野执导、沈腾领衔主演的电影《欢迎来龙餐馆》？",
@@ -380,11 +403,23 @@
           "ranks": [
             12,
             14,
-            15
+            15,
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时05分 ~ 19时41分]"
+          "appearance_count": 6,
+          "time_info": "[15时05分 ~ 21时03分]"
+        },
+        {
+          "title": "你会去电影院看沈腾主演的新电影《欢迎来龙餐馆》吗？票房能破 50 亿吗?",
+          "url": "https://www.zhihu.com/question/2068398077522793536",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
         },
         {
           "title": "暑期档哪部电影值得看",
@@ -395,8 +430,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时41分 ~ 19时41分]"
+          "appearance_count": 3,
+          "time_info": "[18时41分 ~ 21时03分]"
         },
         {
           "title": "火影综艺飞舞吧忍者最终章",
@@ -450,7 +485,7 @@
     },
     {
       "keyword_group": "消费 存钱 攒钱",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "钟睒睒：感性消费被线上购物平台扼杀，必须限制平台能力",
@@ -506,11 +541,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33743326",
           "source": "澎湃新闻",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时52分 ~ 19时41分]"
+          "appearance_count": 5,
+          "time_info": "[16时52分 ~ 21时03分]"
         },
         {
           "title": "2026年7月份居民消费价格同比上涨0.5%",
@@ -523,51 +559,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时09分 ~ 12时23分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "性别 男女 女性",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "复旦网红美籍留学生被曝玩弄女性，胡锡进发声",
-          "url": "https://news.ifeng.com/c/8vS5QujjAL8",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时47分 ~ 18时41分]"
         },
         {
-          "title": "复旦美籍留学生被曝玩弄多名女性，胡锡进发声",
-          "url": "https://news.ifeng.com/c/8vS5QujjAL8",
-          "source": "凤凰网",
+          "title": "离境退税“2.0版”政策落地满月，广州入境消费持续升温",
+          "url": "https://wallstreetcn.com/livenews/3147078",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时41分"
-        },
-        {
-          "title": "孙颖莎入选中国女性品牌榜",
-          "url": "https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E5%85%A5%E9%80%89%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%80%A7%E5%93%81%E7%89%8C%E6%A6%9C&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时23分"
+          "time_info": "21时03分"
         }
       ]
     },
     {
       "keyword_group": "经济 经济学",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "国际货币基金组织(IMF)驻华首席代表马歇尔·米尔斯谈及地方行动，对天津的探索表示赞赏。 他分享道，其父20世纪90年代曾在天津参与一家合资企业的运营，助力当地工业化，如今很高兴看到天津正拥抱更加多元化的经济新篇章。 米尔斯说，天津的转变正是中国经济加速再平衡的缩影。（中新网）",
@@ -606,6 +614,102 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时05分"
+        },
+        {
+          "title": "经济日报：规范航班超售不可错开药方",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33747514",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "婚姻 结婚 离婚 彩礼",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "胚胎案原配申请终止离婚",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356961&amp;topic_name=%E8%83%9A%E8%83%8E%E6%A1%88%E5%8E%9F%E9%85%8D%E7%94%B3%E8%AF%B7%E7%BB%88%E6%AD%A2%E7%A6%BB%E5%A9%9A",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            9,
+            10,
+            11,
+            12,
+            13,
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 20,
+          "time_info": "[00时41分 ~ 21时03分]"
+        },
+        {
+          "title": "程晓玥谈离婚",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%A8%8B%E6%99%93%E7%8E%A5%E8%B0%88%E7%A6%BB%E5%A9%9A%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
+        },
+        {
+          "title": "男子出轨离婚后留给妻子千万债务",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%87%BA%E8%BD%A8%E7%A6%BB%E5%A9%9A%E5%90%8E%E7%95%99%E7%BB%99%E5%A6%BB%E5%AD%90%E5%8D%83%E4%B8%87%E5%80%BA%E5%8A%A1%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "性别 男女 女性",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "复旦网红美籍留学生被曝玩弄女性，胡锡进发声",
+          "url": "https://news.ifeng.com/c/8vS5QujjAL8",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时47分 ~ 18时41分]"
+        },
+        {
+          "title": "复旦美籍留学生被曝玩弄多名女性，胡锡进发声",
+          "url": "https://news.ifeng.com/c/8vS5QujjAL8",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时41分"
+        },
+        {
+          "title": "孙颖莎入选中国女性品牌榜",
+          "url": "https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E5%85%A5%E9%80%89%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%80%A7%E5%93%81%E7%89%8C%E6%A6%9C&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时23分"
         }
       ]
     },
@@ -637,40 +741,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时41分 ~ 07时35分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "婚姻 结婚 离婚 彩礼",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "胚胎案原配申请终止离婚",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356961&amp;topic_name=%E8%83%9A%E8%83%8E%E6%A1%88%E5%8E%9F%E9%85%8D%E7%94%B3%E8%AF%B7%E7%BB%88%E6%AD%A2%E7%A6%BB%E5%A9%9A",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            9,
-            10,
-            11,
-            12,
-            13,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时41分 ~ 19时41分]"
-        },
-        {
-          "title": "男子出轨离婚后留给妻子千万债务",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%87%BA%E8%BD%A8%E7%A6%BB%E5%A9%9A%E5%90%8E%E7%95%99%E7%BB%99%E5%A6%BB%E5%AD%90%E5%8D%83%E4%B8%87%E5%80%BA%E5%8A%A1%23&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时23分"
         }
       ]
     },
