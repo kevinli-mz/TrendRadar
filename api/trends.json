@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T17:47:21.223547+08:00",
-  "total_titles_processed": 993,
+  "generated_at": "2026-08-09T18:41:41.472204+08:00",
+  "total_titles_processed": 1063,
   "failed_sources": [],
   "trends": [
     {
@@ -69,8 +69,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时41分 ~ 17时47分]"
+          "appearance_count": 18,
+          "time_info": "[00时41分 ~ 18时41分]"
         },
         {
           "title": "AI快问快答,D老师语出惊人",
@@ -82,11 +82,12 @@
             10,
             11,
             12,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时41分 ~ 17时47分]"
+          "appearance_count": 18,
+          "time_info": "[00时41分 ~ 18时41分]"
         },
         {
           "title": "马上评｜AI演员带货，真人演员授权：AI时代如何重构信任关系",
@@ -119,6 +120,20 @@
           "time_info": "[01时37分 ~ 07时35分]"
         },
         {
+          "title": "中国7月CPI同比涨幅收窄至0.5%，PPI同比上涨3.5%，AI驱动平板电脑价格环比上涨11.3%",
+          "url": "https://wallstreetcn.com/articles/3778996",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时09分 ~ 18时41分]"
+        },
+        {
           "title": "为什么体制内至今仍不鼓励用人工智能？",
           "url": "https://www.zhihu.com/question/2042649810709239000",
           "source": "知乎",
@@ -134,20 +149,6 @@
           "time_info": "[00时41分 ~ 07时35分]"
         },
         {
-          "title": "中国7月CPI同比涨幅收窄至0.5%，PPI同比上涨3.5%，AI驱动平板电脑价格环比上涨11.3%",
-          "url": "https://wallstreetcn.com/articles/3778996",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时09分 ~ 17时47分]"
-        },
-        {
           "title": "国家统计局：人工智能推动消费电子产品迭代升级，相关产品需求增加、价格上涨，平板电脑、计算机和移动电话机价格分别环比上涨11.3%、5.5%和1.0%，合计影响CPI环比上涨约0.03个百分点。",
           "url": "https://wallstreetcn.com/livenews/3147043",
           "source": "华尔街见闻-快讯",
@@ -155,11 +156,12 @@
             1,
             3,
             7,
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时09分 ~ 17时47分]"
+          "appearance_count": 6,
+          "time_info": "[10时09分 ~ 18时41分]"
         },
         {
           "title": "首个全国产10万卡AI超集群投用",
@@ -169,8 +171,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时52分 ~ 17时47分]"
+          "appearance_count": 3,
+          "time_info": "[16时52分 ~ 18时41分]"
         },
         {
           "title": "Apollo首席经济学家：AI烧钱速度创历史之最，警惕“次贷危机式”逆转冲击",
@@ -325,7 +327,7 @@
     },
     {
       "keyword_group": "电影 影视 综艺",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "如何评价超前点映中，由文牧野执导、沈腾领衔主演的电影《欢迎来龙餐馆》？",
@@ -356,17 +358,42 @@
           "time_info": "[00时41分 ~ 05时37分]"
         },
         {
+          "title": "暑期档哪部电影值得看",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9A%91%E6%9C%9F%E6%A1%A3%E5%93%AA%E9%83%A8%E7%94%B5%E5%BD%B1%E5%80%BC%E5%BE%97%E7%9C%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
+        },
+        {
           "title": "你会去电影院看沈腾的主旋律喜剧大片《欢迎来龙餐馆》吗？票房能破 50 亿吗?",
           "url": "https://www.zhihu.com/question/2068398077522793536",
           "source": "知乎",
           "ranks": [
             9,
             6,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时05分 ~ 17时47分]"
+          "appearance_count": 4,
+          "time_info": "[15时05分 ~ 18时41分]"
+        },
+        {
+          "title": "如何看待 2026 年 8 月 8 日，史诗级电影《奥德赛》的点映上座率高达 57.3% 左右？",
+          "url": "https://www.zhihu.com/question/2069512576657105120",
+          "source": "知乎",
+          "ranks": [
+            12,
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时05分 ~ 18时41分]"
         },
         {
           "title": "火影综艺飞舞吧忍者最终章",
@@ -381,18 +408,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时41分 ~ 07时35分]"
-        },
-        {
-          "title": "如何看待 2026 年 8 月 8 日，史诗级电影《奥德赛》的点映上座率高达 57.3% 左右？",
-          "url": "https://www.zhihu.com/question/2069512576657105120",
-          "source": "知乎",
-          "ranks": [
-            12,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时05分 ~ 17时47分]"
         },
         {
           "title": "《八仙 ！》《年会不能停！2》 等电影片名中频繁出现感叹号，为什么会出现这一现象？这算是符号滥用吗？",
@@ -413,7 +428,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时47分"
         },
@@ -445,11 +460,12 @@
             12,
             14,
             18,
-            24
+            24,
+            27
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 17时47分]"
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 18时41分]"
         },
         {
           "title": "IMF驻华首席代表：中国服务消费增长强劲，且“后劲十足”",
@@ -474,11 +490,12 @@
             4,
             6,
             10,
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时09分 ~ 17时47分]"
+          "appearance_count": 6,
+          "time_info": "[10时09分 ~ 18时41分]"
         },
         {
           "title": "消费者称被“弹窗投保”续费超千元：元保保险称过程合规，已退款",
@@ -488,8 +505,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时52分 ~ 17时47分]"
+          "appearance_count": 3,
+          "time_info": "[16时52分 ~ 18时41分]"
         },
         {
           "title": "2026年7月份居民消费价格同比上涨0.5%",
@@ -533,8 +550,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时52分 ~ 17时47分]"
+          "appearance_count": 3,
+          "time_info": "[16时52分 ~ 18时41分]"
         },
         {
           "title": "经济学家普遍预期美国通胀年率将略有放缓",
@@ -593,11 +610,12 @@
             9,
             10,
             11,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时41分 ~ 17时47分]"
+          "appearance_count": 18,
+          "time_info": "[00时41分 ~ 18时41分]"
         },
         {
           "title": "男子出轨离婚后留给妻子千万债务",
@@ -623,9 +641,9 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时47分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时47分 ~ 18时41分]"
         },
         {
           "title": "孙颖莎入选中国女性品牌榜",
