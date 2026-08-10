@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-10T14:15:38.083038+08:00",
-  "total_titles_processed": 991,
+  "generated_at": "2026-08-10T16:45:24.243724+08:00",
+  "total_titles_processed": 1159,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型",
-      "match_count": 16,
+      "match_count": 21,
       "titles": [
         {
           "title": "中国7月CPI同比涨幅收窄至0.5%，PPI同比上涨3.5%，AI驱动平板电脑价格环比上涨11.3%",
@@ -48,11 +48,12 @@
           "source": "贴吧",
           "ranks": [
             20,
-            25
+            25,
+            30
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时42分 ~ 14时15分]"
+          "appearance_count": 15,
+          "time_info": "[00时42分 ~ 16时45分]"
         },
         {
           "title": "美国科学家首次用 AI 设计出病毒，意味着什么？生物安全防线该如何应对？",
@@ -97,6 +98,17 @@
           "time_info": "[00时42分 ~ 07时38分]"
         },
         {
+          "title": "孙女用AI把奶奶P进《西游记》",
+          "url": "https://www.toutiao.com/trending/7672253690623508506/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时45分"
+        },
+        {
           "title": "为什么程序员大多都拥抱 AI，而音乐人却抗拒并隔离 AI 音乐池？",
           "url": "https://www.zhihu.com/question/2063944037544023265",
           "source": "知乎",
@@ -110,16 +122,40 @@
           "time_info": "[10时13分 ~ 14时15分]"
         },
         {
+          "title": "摩根大通上调标普500目标至8000点！AI行情将进入新阶段？",
+          "url": "https://flash.jin10.com/detail/20260810163412248800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时45分"
+        },
+        {
+          "title": "高盛：中国AI板块不存在整体泡沫 三大细分领域最具投资价值",
+          "url": "https://www.cls.cn/detail/2449732",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时15分 ~ 16时45分]"
+        },
+        {
           "title": "67 岁农户听信 AI 喷农药致 150 亩地一夜枯萎，老人听 AI 翻车的事层出不穷，有啥办法能帮助他们辨别吗？",
           "url": "https://www.zhihu.com/question/2069770698055050765",
           "source": "知乎",
           "ranks": [
             9,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时44分 ~ 14时15分]"
+          "appearance_count": 3,
+          "time_info": "[12时44分 ~ 16时45分]"
         },
         {
           "title": "OpenAI曝光GPT-6！传10万亿参数，8月强行发布",
@@ -127,22 +163,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时44分 ~ 14时15分]"
-        },
-        {
-          "title": "高盛：中国AI板块不存在整体泡沫 三大细分领域最具投资价值",
-          "url": "https://www.cls.cn/detail/2449732",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时15分"
+          "appearance_count": 3,
+          "time_info": "[12时44分 ~ 16时45分]"
         },
         {
           "title": "AI网络攻击风险升温 日本拟借助尖端模型强化“主动防御”",
@@ -162,9 +188,31 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时15分"
+        },
+        {
+          "title": "券商晨会精华：AI制药大有可为，产业链有望持续受益",
+          "url": "https://www.cls.cn/detail/2449501",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时45分"
+        },
+        {
+          "title": "AI挤占短剧业,真人演员遭偷家",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357005&amp;topic_name=AI%E6%8C%A4%E5%8D%A0%E7%9F%AD%E5%89%A7%E4%B8%9A%2C%E7%9C%9F%E4%BA%BA%E6%BC%94%E5%91%98%E9%81%AD%E5%81%B7%E5%AE%B6",
+          "source": "贴吧",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时45分"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2026-08-10）",
@@ -189,6 +237,17 @@
           "time_info": "12时44分"
         },
         {
+          "title": "第一批用AI租房的受益者出现了",
+          "url": "https://s.weibo.com/weibo?q=%E7%AC%AC%E4%B8%80%E6%89%B9%E7%94%A8AI%E7%A7%9F%E6%88%BF%E7%9A%84%E5%8F%97%E7%9B%8A%E8%80%85%E5%87%BA%E7%8E%B0%E4%BA%86&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时45分"
+        },
+        {
           "title": "摩根士丹利：看好阿里巴巴，因其覆盖全产业链的AI能力、算力方面的优势，以及多年的云增长和完整的利润扩张。",
           "url": "https://wallstreetcn.com/livenews/3147178",
           "source": "华尔街见闻-快讯",
@@ -198,6 +257,139 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "电影 影视 综艺",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "你会去电影院看沈腾主演的新电影《欢迎来龙餐馆》吗？票房能破 50 亿吗?",
+          "url": "https://www.zhihu.com/question/2068398077522793536",
+          "source": "知乎",
+          "ranks": [
+            4,
+            13,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时42分 ~ 07时38分]"
+        },
+        {
+          "title": "暑期档哪部电影值得看",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9A%91%E6%9C%9F%E6%A1%A3%E5%93%AA%E9%83%A8%E7%94%B5%E5%BD%B1%E5%80%BC%E5%BE%97%E7%9C%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21,
+            20,
+            23,
+            16,
+            25,
+            15,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时42分 ~ 16时45分]"
+        },
+        {
+          "title": "如何看待 2026 年 8 月 8 日，史诗级电影《奥德赛》的点映上座率高达 57.3% 左右？",
+          "url": "https://www.zhihu.com/question/2069512576657105120",
+          "source": "知乎",
+          "ranks": [
+            10,
+            11,
+            19,
+            18,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时42分 ~ 07时38分]"
+        },
+        {
+          "title": "还有哪些类似《奥德赛》一样史诗题材的电影值得一看？",
+          "url": "https://www.zhihu.com/question/2068418251516633276",
+          "source": "知乎",
+          "ranks": [
+            14,
+            10,
+            12,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时42分 ~ 05时39分]"
+        },
+        {
+          "title": "沈腾主演电影票房已破415亿",
+          "url": "https://www.baidu.com/s?wd=%E6%B2%88%E8%85%BE%E4%B8%BB%E6%BC%94%E7%94%B5%E5%BD%B1%E7%A5%A8%E6%88%BF%E5%B7%B2%E7%A0%B4415%E4%BA%BF",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时15分 ~ 16时45分]"
+        },
+        {
+          "title": "暑期档电影再次迎来“神仙打架”",
+          "url": "https://www.baidu.com/s?wd=%E6%9A%91%E6%9C%9F%E6%A1%A3%E7%94%B5%E5%BD%B1%E5%86%8D%E6%AC%A1%E8%BF%8E%E6%9D%A5%E2%80%9C%E7%A5%9E%E4%BB%99%E6%89%93%E6%9E%B6%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时15分"
+        },
+        {
+          "title": "A股影视股午后再度拉升，儒意电影快速涨停，北京文化此前封板，华智数媒涨超15%，幸福蓝海、中国电影、金逸影视涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3147294",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时15分"
+        },
+        {
+          "title": "A股影视股早盘高开，北京文化竞价涨停，华智数媒接近涨停，儒意电影、幸福蓝海、博纳影业、中国电影等纷纷高开。",
+          "url": "https://wallstreetcn.com/livenews/3147188",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时13分"
+        },
+        {
+          "title": "如何看待上映前两日沈腾主演电影《欢迎来龙餐馆》预售票房已破亿？",
+          "url": "https://www.zhihu.com/question/2069880692499014160",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时45分"
+        },
+        {
+          "title": "电影惊蛰无声",
+          "url": "https://s.weibo.com/weibo?q=%E7%94%B5%E5%BD%B1%E6%83%8A%E8%9B%B0%E6%97%A0%E5%A3%B0&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时45分"
         }
       ]
     },
@@ -275,11 +467,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时44分 ~ 14时15分]"
+          "appearance_count": 3,
+          "time_info": "[12时44分 ~ 16时45分]"
         },
         {
           "title": "美国以经济施压替代对伊军事行动",
@@ -317,112 +510,101 @@
       ]
     },
     {
-      "keyword_group": "电影 影视 综艺",
+      "keyword_group": "消费 存钱 攒钱",
       "match_count": 8,
       "titles": [
         {
-          "title": "你会去电影院看沈腾主演的新电影《欢迎来龙餐馆》吗？票房能破 50 亿吗?",
-          "url": "https://www.zhihu.com/question/2068398077522793536",
-          "source": "知乎",
+          "title": "消费者称被“弹窗投保”续费超千元：元保保险称过程合规，已退款",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33743326",
+          "source": "澎湃新闻",
           "ranks": [
             4,
-            13,
-            12,
-            11
+            5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时42分 ~ 07时38分]"
+          "appearance_count": 12,
+          "time_info": "[00时42分 ~ 10时13分]"
         },
         {
-          "title": "暑期档哪部电影值得看",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9A%91%E6%9C%9F%E6%A1%A3%E5%93%AA%E9%83%A8%E7%94%B5%E5%BD%B1%E5%80%BC%E5%BE%97%E7%9C%8B",
-          "source": "bilibili 热搜",
+          "title": "4.2平卫生间补漏注胶花1.55万，消费者称陷“天价注胶补漏”套路",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33748209",
+          "source": "澎湃新闻",
           "ranks": [
-            21,
-            20,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时42分 ~ 16时45分]"
+        },
+        {
+          "title": "五粮液：公司持续关注低度酒、轻饮酒类的市场消费趋势",
+          "url": "https://wallstreetcn.com/livenews/3147094",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
             23,
-            16,
-            25,
-            15,
-            19
+            25
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时42分 ~ 14时15分]"
+          "appearance_count": 6,
+          "time_info": "[00时43分 ~ 05时39分]"
         },
         {
-          "title": "如何看待 2026 年 8 月 8 日，史诗级电影《奥德赛》的点映上座率高达 57.3% 左右？",
-          "url": "https://www.zhihu.com/question/2069512576657105120",
-          "source": "知乎",
-          "ranks": [
-            10,
-            11,
-            19,
-            18,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时42分 ~ 07时38分]"
-        },
-        {
-          "title": "还有哪些类似《奥德赛》一样史诗题材的电影值得一看？",
-          "url": "https://www.zhihu.com/question/2068418251516633276",
-          "source": "知乎",
-          "ranks": [
-            14,
-            10,
-            12,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时42分 ~ 05时39分]"
-        },
-        {
-          "title": "暑期档电影再次迎来“神仙打架”",
-          "url": "https://www.baidu.com/s?wd=%E6%9A%91%E6%9C%9F%E6%A1%A3%E7%94%B5%E5%BD%B1%E5%86%8D%E6%AC%A1%E8%BF%8E%E6%9D%A5%E2%80%9C%E7%A5%9E%E4%BB%99%E6%89%93%E6%9E%B6%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时15分"
-        },
-        {
-          "title": "A股影视股午后再度拉升，儒意电影快速涨停，北京文化此前封板，华智数媒涨超15%，幸福蓝海、中国电影、金逸影视涨幅居前。",
-          "url": "https://wallstreetcn.com/livenews/3147294",
+          "title": "食品、白酒等消费股震荡上扬，一鸣食品、香飘飘双双涨停，金达威此前封板，品渥食品涨超10%，东鹏饮料涨超7%，迎驾贡酒、立高食品、会稽山等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3147228",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时15分"
-        },
-        {
-          "title": "A股影视股早盘高开，北京文化竞价涨停，华智数媒接近涨停，儒意电影、幸福蓝海、博纳影业、中国电影等纷纷高开。",
-          "url": "https://wallstreetcn.com/livenews/3147188",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
         },
         {
-          "title": "沈腾主演电影票房已破415亿",
-          "url": "https://www.baidu.com/s?wd=%E6%B2%88%E8%85%BE%E4%B8%BB%E6%BC%94%E7%94%B5%E5%BD%B1%E7%A5%A8%E6%88%BF%E5%B7%B2%E7%A0%B4415%E4%BA%BF",
-          "source": "百度热搜",
+          "title": "8月10日午间收评：创业板指半日跌超2%，医药、消费股逆势走强",
+          "url": "https://wallstreetcn.com/livenews/3147267",
+          "source": "华尔街见闻-快讯",
           "ranks": [
+            9,
             27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时44分 ~ 14时15分]"
+        },
+        {
+          "title": "创业板触底回升跌0.7%，医药、消费大涨，芯片算力集体下挫、寒武纪跌超6%，港股老铺黄金大涨12%",
+          "url": "https://wallstreetcn.com/articles/3779046",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时15分"
+          "time_info": "16时45分"
+        },
+        {
+          "title": "影院变身消费综合体",
+          "url": "https://www.toutiao.com/trending/7671861365849489462/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时44分"
+        },
+        {
+          "title": "五粮液：公司持续关注低度酒、轻饮酒类的市场消费趋势",
+          "url": "https://flash.jin10.com/detail/20260809210319951800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时43分"
         }
       ]
     },
@@ -436,11 +618,12 @@
           "source": "贴吧",
           "ranks": [
             19,
-            24
+            24,
+            29
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时42分 ~ 14时15分]"
+          "appearance_count": 15,
+          "time_info": "[00时42分 ~ 16时45分]"
         },
         {
           "title": "程晓玥谈离婚",
@@ -496,7 +679,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时15分"
         },
@@ -510,93 +693,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "消费 存钱 攒钱",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "消费者称被“弹窗投保”续费超千元：元保保险称过程合规，已退款",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33743326",
-          "source": "澎湃新闻",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时42分 ~ 10时13分]"
-        },
-        {
-          "title": "4.2平卫生间补漏注胶花1.55万，消费者称陷“天价注胶补漏”套路",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33748209",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时42分 ~ 14时15分]"
-        },
-        {
-          "title": "五粮液：公司持续关注低度酒、轻饮酒类的市场消费趋势",
-          "url": "https://wallstreetcn.com/livenews/3147094",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时43分 ~ 05时39分]"
-        },
-        {
-          "title": "食品、白酒等消费股震荡上扬，一鸣食品、香飘飘双双涨停，金达威此前封板，品渥食品涨超10%，东鹏饮料涨超7%，迎驾贡酒、立高食品、会稽山等跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3147228",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时13分"
-        },
-        {
-          "title": "8月10日午间收评：创业板指半日跌超2%，医药、消费股逆势走强",
-          "url": "https://wallstreetcn.com/livenews/3147267",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时44分 ~ 14时15分]"
-        },
-        {
-          "title": "影院变身消费综合体",
-          "url": "https://www.toutiao.com/trending/7671861365849489462/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时44分"
-        },
-        {
-          "title": "五粮液：公司持续关注低度酒、轻饮酒类的市场消费趋势",
-          "url": "https://flash.jin10.com/detail/20260809210319951800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
         }
       ]
     },
@@ -622,11 +718,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356999&amp;topic_name=%E5%8D%B0%E5%BA%A6%E4%BE%A8%E6%B0%91%E8%A6%81%E6%B1%82%E5%8E%8B%E5%88%B6%E5%8E%8C%E5%8D%B0%E6%83%85%E7%BB%AA",
           "source": "贴吧",
           "ranks": [
-            4
+            4,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时44分 ~ 14时15分]"
+          "appearance_count": 3,
+          "time_info": "[12时44分 ~ 16时45分]"
         },
         {
           "title": "母亲看自闭症孩子独自玩耍情绪失控",
@@ -647,11 +744,12 @@
           "url": "https://www.toutiao.com/trending/7671503335576535091/",
           "source": "今日头条",
           "ranks": [
-            10
+            10,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时15分 ~ 16时45分]"
         },
         {
           "title": "母亲看自闭症孩子独自玩耍情绪失控",
@@ -765,8 +863,25 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时44分 ~ 14时15分]"
+          "appearance_count": 3,
+          "time_info": "[12时44分 ~ 16时45分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "生育 催生 不婚",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "国际油企巨头二季度赚翻！美伊战火催生480亿美元天量利润",
+          "url": "https://flash.jin10.com/detail/20260810163143598800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时45分"
         }
       ]
     },
@@ -798,7 +913,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时15分"
         }
