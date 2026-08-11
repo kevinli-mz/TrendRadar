@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-12T05:56:14.577822+08:00",
-  "total_titles_processed": 390,
+  "generated_at": "2026-08-12T06:51:49.338953+08:00",
+  "total_titles_processed": 433,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型",
-      "match_count": 16,
+      "match_count": 20,
       "titles": [
         {
           "title": "AI担忧惹的祸？ 韩国股市7月外资“大撤退” 亚洲股市连续“失血”九个月",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时10分 ~ 05时56分]"
+          "appearance_count": 5,
+          "time_info": "[03时10分 ~ 06时51分]"
         },
         {
           "title": "每36秒上新一部！AI短剧狂飙，短剧江湖正在换主角",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时10分 ~ 05时56分]"
+          "appearance_count": 5,
+          "time_info": "[03时10分 ~ 06时51分]"
         },
         {
           "title": "回应“5000亿美元融资质疑”！黄仁勋：英伟达“AI工厂”正成为“投资级资产”，需求真实存在，绝非“循环融资”",
@@ -38,8 +38,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时10分 ~ 05时56分]"
+          "appearance_count": 5,
+          "time_info": "[03时10分 ~ 06时51分]"
         },
         {
           "title": "AI打开了我童年记忆的百宝箱",
@@ -50,8 +50,21 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时10分 ~ 05时56分]"
+          "appearance_count": 5,
+          "time_info": "[03时10分 ~ 06时51分]"
+        },
+        {
+          "title": "如何评价起点官方被曝禁止新人作者使用 AI 润色？否则不允许上架？",
+          "url": "https://www.zhihu.com/question/2068955233896640772",
+          "source": "知乎",
+          "ranks": [
+            15,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时10分 ~ 06时51分]"
         },
         {
           "title": "英伟达联手华尔街六大巨头，筹5000亿美元押注AI基础设施，信用违约互换创两周最大涨幅",
@@ -72,8 +85,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时10分 ~ 05时56分]"
+          "appearance_count": 5,
+          "time_info": "[03时10分 ~ 06时51分]"
         },
         {
           "title": "给AI时代一点手搓实拍的小震撼",
@@ -84,20 +97,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时10分 ~ 05时56分]"
+          "appearance_count": 5,
+          "time_info": "[03时10分 ~ 06时51分]"
         },
         {
-          "title": "如何评价起点官方被曝禁止新人作者使用 AI 润色？否则不允许上架？",
-          "url": "https://www.zhihu.com/question/2068955233896640772",
-          "source": "知乎",
+          "title": "中东僵局再撑油价，AI泡沫隐忧打压美科技股，纳指跌0.6%，黄金回落",
+          "url": "https://wallstreetcn.com/articles/3779161",
+          "source": "华尔街见闻",
           "ranks": [
-            15,
-            6
+            4
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时10分 ~ 05时56分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时51分"
         },
         {
           "title": "中东局势峰回路转 AI撑起美股罕见业绩增速 | 今夜看点",
@@ -107,8 +119,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时10分 ~ 05时56分]"
+          "appearance_count": 5,
+          "time_info": "[03时10分 ~ 06时51分]"
         },
         {
           "title": "AI存储繁荣还能持续多久？华尔街：涨价潮或降温，但供应紧张料持续",
@@ -118,19 +130,32 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时10分 ~ 05时56分]"
+          "appearance_count": 5,
+          "time_info": "[03时10分 ~ 06时51分]"
         },
         {
           "title": "干湿之困：AI制药如何打通“最后一公里”",
           "url": "https://m.thepaper.cn/newsDetail_forward_33753718",
           "source": "澎湃新闻",
           "ranks": [
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时10分 ~ 05时56分]"
+          "appearance_count": 5,
+          "time_info": "[03时10分 ~ 06时51分]"
+        },
+        {
+          "title": "Accel Partners LP.融资35亿美元，从而投资（那些）新兴的全球AI初创公司。",
+          "url": "https://wallstreetcn.com/livenews/3148254",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时56分 ~ 06时51分]"
         },
         {
           "title": "怎么看AI突破黎曼猜想下界",
@@ -144,6 +169,28 @@
           "time_info": "[03时10分 ~ 03时11分]"
         },
         {
+          "title": "亚马逊云服务(AWS)：OpenAI的Daybreak Red和Daybreak Blue现已面向Amazon Bedrock上的符合条件的客户开放。",
+          "url": "https://flash.jin10.com/detail/20260812055132698800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时51分"
+        },
+        {
+          "title": "险资二季度持仓净增1.83亿股，近期积极调研AI算力、医药与硬科技",
+          "url": "https://wallstreetcn.com/livenews/3148270",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时51分"
+        },
+        {
           "title": "苹果再迎高层更替，支付和钱包服务负责人Bailey将退休",
           "url": "https://wallstreetcn.com/livenews/3148201",
           "source": "华尔街见闻-快讯",
@@ -155,15 +202,15 @@
           "time_info": "03时11分"
         },
         {
-          "title": "Accel Partners LP.融资35亿美元，从而投资（那些）新兴的全球AI初创公司。",
-          "url": "https://wallstreetcn.com/livenews/3148254",
+          "title": "OpenAI向亚马逊Redrock开放Daybreak权限。",
+          "url": "https://wallstreetcn.com/livenews/3148266",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时56分"
+          "time_info": "06时51分"
         },
         {
           "title": "美国参议院Sanders发函，要求OpenAI、Anthropic、Meta等众多AI公司暂停开发。（纽约时报）",
@@ -172,7 +219,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时56分"
         },
@@ -201,8 +248,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时10分 ~ 05时56分]"
+          "appearance_count": 5,
+          "time_info": "[03时10分 ~ 06时51分]"
         },
         {
           "title": "激活中国经济增长潜力",
@@ -212,8 +259,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时10分 ~ 05时56分]"
+          "appearance_count": 5,
+          "time_info": "[03时10分 ~ 06时51分]"
         },
         {
           "title": "法国央行预计第三季度经济保持增长势头",
@@ -234,8 +281,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时10分 ~ 05时56分]"
+          "appearance_count": 5,
+          "time_info": "[03时10分 ~ 06时51分]"
         },
         {
           "title": "加拿大总理卡尼：我们需要快速、大规模地建造经济适用房。这就是我们发起“建造加拿大房屋”项目的原因。",
@@ -282,22 +329,24 @@
           "source": "微博",
           "ranks": [
             25,
-            29
+            29,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时10分 ~ 05时56分]"
+          "appearance_count": 5,
+          "time_info": "[03时10分 ~ 06时51分]"
         },
         {
           "title": "结婚40年都AA制丈夫认为公平合理",
           "url": "https://s.weibo.com/weibo?q=%23%E7%BB%93%E5%A9%9A40%E5%B9%B4%E9%83%BDAA%E5%88%B6%E4%B8%88%E5%A4%AB%E8%AE%A4%E4%B8%BA%E5%85%AC%E5%B9%B3%E5%90%88%E7%90%86%23&t=31&band_rank=25&Refer=top",
           "source": "微博",
           "ranks": [
-            25
+            25,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时55分 ~ 05时56分]"
+          "appearance_count": 3,
+          "time_info": "[05时55分 ~ 06时51分]"
         }
       ]
     },
@@ -311,22 +360,54 @@
           "source": "知乎",
           "ranks": [
             13,
-            11
+            11,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时10分 ~ 05时56分]"
+          "appearance_count": 5,
+          "time_info": "[03时10分 ~ 06时51分]"
         },
         {
           "title": "美国总统特朗普：医疗补助将不再为未成年人提供性别转换手术和激素治疗的资金。",
           "url": "https://flash.jin10.com/detail/20260812052220258800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时56分 ~ 06时51分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "怎么看 DeepSeek 注册 Harness 公众号并选用黑鲸鱼 logo ？",
+          "url": "https://www.zhihu.com/question/2070437867311174069",
+          "source": "知乎",
+          "ranks": [
+            18,
+            14,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时10分 ~ 06时51分]"
+        },
+        {
+          "title": "梁文锋跻身全球最富有50人之列",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%A2%81%E6%96%87%E9%94%8B%E8%B7%BB%E8%BA%AB%E5%85%A8%E7%90%83%E6%9C%80%E5%AF%8C%E6%9C%8950%E4%BA%BA%E4%B9%8B%E5%88%97%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时56分"
+          "time_info": "06时51分"
         }
       ]
     },
@@ -340,11 +421,12 @@
           "source": "今日头条",
           "ranks": [
             15,
-            25
+            25,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时10分 ~ 05时56分]"
+          "appearance_count": 5,
+          "time_info": "[03时10分 ~ 06时51分]"
         }
       ]
     },
@@ -357,11 +439,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E6%8A%8A%E6%81%90%E9%BE%99%E6%8A%95%E6%94%BE%E5%88%B0%E7%8E%B0%E4%BB%A3%E7%A4%BE%E4%BC%9A%E5%AE%83%E8%83%BD%E6%B4%BB%E5%A4%9A%E4%B9%85",
           "source": "bilibili 热搜",
           "ranks": [
-            27
+            27,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时10分 ~ 03时11分]"
+          "appearance_count": 3,
+          "time_info": "[03时10分 ~ 06时51分]"
         }
       ]
     },
@@ -377,8 +460,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时10分 ~ 05时56分]"
+          "appearance_count": 5,
+          "time_info": "[03时10分 ~ 06时51分]"
         }
       ]
     },
@@ -395,8 +478,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时10分 ~ 05时56分]"
+          "appearance_count": 5,
+          "time_info": "[03时10分 ~ 06时51分]"
         }
       ]
     },
@@ -413,26 +496,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时10分 ~ 05时56分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "怎么看 DeepSeek 注册 Harness 公众号并选用黑鲸鱼 logo ？",
-          "url": "https://www.zhihu.com/question/2070437867311174069",
-          "source": "知乎",
-          "ranks": [
-            18,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时10分 ~ 05时56分]"
+          "appearance_count": 5,
+          "time_info": "[03时10分 ~ 06时51分]"
         }
       ]
     },
@@ -464,7 +529,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时56分"
         }
