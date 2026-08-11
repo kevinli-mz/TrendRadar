@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-11T10:07:58.152854+08:00",
-  "total_titles_processed": 797,
+  "generated_at": "2026-08-11T12:25:47.267824+08:00",
+  "total_titles_processed": 958,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型",
-      "match_count": 48,
+      "match_count": 51,
       "titles": [
         {
           "title": "MLCC供应告急引发抢货潮！国巨：越来越多AI客户抢签长协锁定产能",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时59分 ~ 10时07分]"
+          "appearance_count": 9,
+          "time_info": "[00时59分 ~ 12时25分]"
         },
         {
           "title": "Meta发布小型AI模型，一块显卡即可本地运行，扎克伯格喊话美国政府：降低对开源AI的准入门槛",
@@ -26,11 +26,12 @@
           "ranks": [
             5,
             4,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时59分 ~ 10时07分]"
+          "appearance_count": 9,
+          "time_info": "[00时59分 ~ 12时25分]"
         },
         {
           "title": "AI挤占短剧业,真人演员遭偷家",
@@ -38,11 +39,12 @@
           "source": "贴吧",
           "ranks": [
             21,
-            22
+            22,
+            26
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时59分 ~ 10时07分]"
+          "appearance_count": 9,
+          "time_info": "[00时59分 ~ 12时25分]"
         },
         {
           "title": "OpenAI曝光GPT-6！传10万亿参数，8月强行发布",
@@ -73,11 +75,12 @@
           "url": "https://search.bilibili.com/all?keyword=AI%E5%9C%A8%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E4%B8%8A%E5%81%9A%E5%87%BA%E4%BA%86%E4%BB%80%E4%B9%88%E7%AA%81%E7%A0%B4",
           "source": "bilibili 热搜",
           "ranks": [
-            3
+            3,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时07分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时07分 ~ 12时25分]"
         },
         {
           "title": "OpenAI：新的高级席位（Premium Seat）使用额度相比标准版提升5倍，无5小时使用限制，并提供可预测的每周使用额度重置。",
@@ -176,6 +179,18 @@
           "time_info": "[00时59分 ~ 01时58分]"
         },
         {
+          "title": "英伟达联手华尔街六大巨头，筹5000亿美元押注AI基础设施，信用违约互换创两周最大涨幅",
+          "url": "https://wallstreetcn.com/articles/3779115",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时07分 ~ 12时25分]"
+        },
+        {
           "title": "英伟达(NVDA.O)：本公司及合作伙伴将为人工智能基础设施客户创建专用资金池。",
           "url": "https://flash.jin10.com/detail/20260811040700664800",
           "source": "金十数据",
@@ -198,6 +213,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时58分 ~ 03时09分]"
+        },
+        {
+          "title": "城市竞争进入AI答案时代",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33753662",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时07分 ~ 12时25分]"
+        },
+        {
+          "title": "用AI重返那年相遇的青涩夏天",
+          "url": "https://www.douyin.com/hot/2605104",
+          "source": "抖音",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时07分 ~ 12时25分]"
         },
         {
           "title": "报道：英伟达与多家公司围绕5000亿美元AI融资协议合作",
@@ -283,15 +321,15 @@
           "time_info": "[04时51分 ~ 07时41分]"
         },
         {
-          "title": "英伟达联手华尔街六大巨头，筹5000亿美元押注AI基础设施，信用违约互换创两周最大涨幅",
-          "url": "https://wallstreetcn.com/articles/3779115",
-          "source": "华尔街见闻",
+          "title": "爱芯元智下一代大算力AI芯片完成流片，支持多芯级联实现边缘侧满血大模型推理",
+          "url": "https://flash.jin10.com/detail/20260811115612569800",
+          "source": "金十数据",
           "ranks": [
-            7
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时07分"
+          "time_info": "12时25分"
         },
         {
           "title": "英伟达(NVDA.O)CEO黄仁勋：人工智能实验室和人工智能初创公司需要计算能力。",
@@ -303,6 +341,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时49分"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-08-11）",
+          "url": "https://flash.jin10.com/detail/20260811115144518800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时25分"
         },
         {
           "title": "英伟达(NVDA.O)CEO黄仁勋：没有人拒绝新的人工智能融资计划。",
@@ -325,17 +374,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时51分"
-        },
-        {
-          "title": "用AI重返那年相遇的青涩夏天",
-          "url": "https://www.douyin.com/hot/2605104",
-          "source": "抖音",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时07分"
         },
         {
           "title": "OpenAI推出GPT-5.6-Cyber 面向安全人员开放更强AI能力",
@@ -404,17 +442,6 @@
           "time_info": "05时49分"
         },
         {
-          "title": "城市竞争进入AI答案时代",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33753662",
-          "source": "澎湃新闻",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时07分"
-        },
-        {
           "title": "取消涨价50%计划：Anthropic永久锁定Sonnet 5低价，AI代理成本趋稳",
           "url": "https://wallstreetcn.com/livenews/3147724",
           "source": "华尔街见闻-快讯",
@@ -432,7 +459,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时07分"
         },
@@ -556,12 +583,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时09分"
+        },
+        {
+          "title": "千问开放AI眼镜生态 支持自建导游、教练、巡检等多种skill",
+          "url": "https://flash.jin10.com/detail/20260811111212869800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时25分"
         }
       ]
     },
     {
       "keyword_group": "电影 影视 综艺",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "易烊千玺、卫诗雅分封影帝、影后，如何评价第 38 届大众电影百花奖获奖名单？",
@@ -603,22 +641,12 @@
           "source": "抖音",
           "ranks": [
             22,
-            27
+            27,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时59分 ~ 01时58分]"
-        },
-        {
-          "title": "如何看待《哪吒之魔童闹海》斩获第 38 届大众电影百花奖最佳影片，成为百花奖历史上首部动画最佳影片？",
-          "url": "https://www.zhihu.com/question/2070263777988289579",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时07分"
+          "appearance_count": 4,
+          "time_info": "[00时59分 ~ 12时25分]"
         },
         {
           "title": "如何评价《欢迎来龙餐馆》这部电影？",
@@ -627,9 +655,43 @@
           "ranks": [
             8
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时07分 ~ 12时25分]"
+        },
+        {
+          "title": "如何看待《哪吒之魔童闹海》斩获第 38 届大众电影百花奖最佳影片，成为百花奖历史上首部动画最佳影片？",
+          "url": "https://www.zhihu.com/question/2070263777988289579",
+          "source": "知乎",
+          "ranks": [
+            7,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时07分 ~ 12时25分]"
+        },
+        {
+          "title": "易烊千玺、卫诗雅分封影帝、影后，《哪吒 2》获最佳影片，如何评价第 38 届大众电影百花奖获奖名单？",
+          "url": "https://www.zhihu.com/question/2070241074514224234",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时07分"
+          "time_info": "12时25分"
+        },
+        {
+          "title": "创业板指涨超1%，沪指跌0.3%，深成指涨0.27%，医药医疗、MLCC、油气、影视等方向涨幅居前，沪深京三市上涨个股近1800只。",
+          "url": "https://wallstreetcn.com/livenews/3147812",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时25分"
         },
         {
           "title": "影视板块继续活跃 北京文化2连板",
@@ -638,7 +700,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时07分"
         }
@@ -646,7 +708,7 @@
     },
     {
       "keyword_group": "经济 经济学",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "印度为何突然在经济上对华开绿灯",
@@ -676,6 +738,17 @@
           "time_info": "03时09分"
         },
         {
+          "title": "一组数据看7月经济活力",
+          "url": "https://www.douyin.com/hot/2605301",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时25分"
+        },
+        {
           "title": "货币政策分析公司（Monetary Policy Analytics）经济学家Derek Tang：（相比1998年、2011年）2026年这一次美国与日本联手干预日元汇率时，美联储”并未出资”参与美方的干预行动。 官方数据可能要到今年晚些时候才会公布以证实这一点。 其干预能力理论上仅受限于其意愿。",
           "url": "https://wallstreetcn.com/livenews/3147693",
           "source": "华尔街见闻-快讯",
@@ -702,7 +775,7 @@
     },
     {
       "keyword_group": "就业 失业 裁员 应届生",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "外交部：百余名菲律宾公民因非法就业、非法居留被依法处理",
@@ -716,8 +789,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时58分 ~ 10时07分]"
+          "appearance_count": 7,
+          "time_info": "[01时58分 ~ 12时25分]"
+        },
+        {
+          "title": "推动高质量充分就业取得新进展",
+          "url": "https://www.toutiao.com/trending/7672336501028470811/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时25分"
         },
         {
           "title": "美联储哈玛克：就业市场仍未出现任何问题迹象。",
@@ -744,92 +828,8 @@
       ]
     },
     {
-      "keyword_group": "性别 男女 女性",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "王骁萨日娜百花奖最佳男女配",
-          "url": "https://www.douyin.com/hot/2604972",
-          "source": "抖音",
-          "ranks": [
-            19,
-            18,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时59分 ~ 10时07分]"
-        },
-        {
-          "title": "晚年独居女性如何面对老去的寂寞",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%99%9A%E5%B9%B4%E7%8B%AC%E5%B1%85%E5%A5%B3%E6%80%A7%E5%A6%82%E4%BD%95%E9%9D%A2%E5%AF%B9%E8%80%81%E5%8E%BB%E7%9A%84%E5%AF%82%E5%AF%9E%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19,
-            18,
-            16,
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时58分 ~ 07时41分]"
-        },
-        {
-          "title": "百花奖男女明星怼脸镜头",
-          "url": "https://www.douyin.com/hot/2605120",
-          "source": "抖音",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时07分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "原生家庭 父母 亲子",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "男子瞒着妻子5年给父母转账50万",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%9E%92%E7%9D%80%E5%A6%BB%E5%AD%905%E5%B9%B4%E7%BB%99%E7%88%B6%E6%AF%8D%E8%BD%AC%E8%B4%A650%E4%B8%87",
-          "source": "百度热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时07分"
-        },
-        {
-          "title": "丈夫瞒妻子5年给父母转账50万",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%88%E5%A4%AB%E7%9E%92%E5%A6%BB%E5%AD%905%E5%B9%B4%E7%BB%99%E7%88%B6%E6%AF%8D%E8%BD%AC%E8%B4%A650%E4%B8%87%23&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时07分"
-        },
-        {
-          "title": "凶手父母多次热情招待溺亡女孩父母",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%87%B6%E6%89%8B%E7%88%B6%E6%AF%8D%E5%A4%9A%E6%AC%A1%E7%83%AD%E6%83%85%E6%8B%9B%E5%BE%85%E6%BA%BA%E4%BA%A1%E5%A5%B3%E5%AD%A9%E7%88%B6%E6%AF%8D%23&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时07分"
-        }
-      ]
-    },
-    {
       "keyword_group": "消费 存钱 攒钱",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "创业板触底回升跌0.7%，医药、消费大涨，芯片算力集体下挫、寒武纪跌超6%，港股老铺黄金大涨12%",
@@ -841,8 +841,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时59分 ~ 10时07分]"
+          "appearance_count": 9,
+          "time_info": "[00时59分 ~ 12时25分]"
         },
         {
           "title": "【每日收评】沪指录得5连阳，全市场超4000股飘红，大消费、有色板块集体走强",
@@ -866,6 +866,132 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时41分"
+        },
+        {
+          "title": "从一笔账单看60万亿消费KPI的底气",
+          "url": "https://www.baidu.com/s?wd=%E4%BB%8E%E4%B8%80%E7%AC%94%E8%B4%A6%E5%8D%95%E7%9C%8B60%E4%B8%87%E4%BA%BF%E6%B6%88%E8%B4%B9KPI%E7%9A%84%E5%BA%95%E6%B0%94",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "性别 男女 女性",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "王骁萨日娜百花奖最佳男女配",
+          "url": "https://www.douyin.com/hot/2604972",
+          "source": "抖音",
+          "ranks": [
+            19,
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时59分 ~ 12时25分]"
+        },
+        {
+          "title": "晚年独居女性如何面对老去的寂寞",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%99%9A%E5%B9%B4%E7%8B%AC%E5%B1%85%E5%A5%B3%E6%80%A7%E5%A6%82%E4%BD%95%E9%9D%A2%E5%AF%B9%E8%80%81%E5%8E%BB%E7%9A%84%E5%AF%82%E5%AF%9E%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19,
+            18,
+            16,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时58分 ~ 07时41分]"
+        },
+        {
+          "title": "百花奖男女明星怼脸镜头",
+          "url": "https://www.douyin.com/hot/2605120",
+          "source": "抖音",
+          "ranks": [
+            15,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时07分 ~ 12时25分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "原生家庭 父母 亲子",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "男子瞒着妻子5年给父母转账50万",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%9E%92%E7%9D%80%E5%A6%BB%E5%AD%905%E5%B9%B4%E7%BB%99%E7%88%B6%E6%AF%8D%E8%BD%AC%E8%B4%A650%E4%B8%87",
+          "source": "百度热搜",
+          "ranks": [
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时07分 ~ 12时25分]"
+        },
+        {
+          "title": "凶手父母多次热情招待溺亡女孩父母",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%87%B6%E6%89%8B%E7%88%B6%E6%AF%8D%E5%A4%9A%E6%AC%A1%E7%83%AD%E6%83%85%E6%8B%9B%E5%BE%85%E6%BA%BA%E4%BA%A1%E5%A5%B3%E5%AD%A9%E7%88%B6%E6%AF%8D%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时07分 ~ 12时25分]"
+        },
+        {
+          "title": "丈夫瞒妻子5年给父母转账50万",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%88%E5%A4%AB%E7%9E%92%E5%A6%BB%E5%AD%905%E5%B9%B4%E7%BB%99%E7%88%B6%E6%AF%8D%E8%BD%AC%E8%B4%A650%E4%B8%87%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时07分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "房价 买房",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "因为给我买车买房没提前跟我弟说，我弟把我全家都拉黑了快 7 年了，父子都不愿低头，怎么破冰？",
+          "url": "https://www.zhihu.com/question/2068757535138566295",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时07分 ~ 12时25分]"
+        },
+        {
+          "title": "借名买房兄弟反目弟弟称母亲有责任",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%80%9F%E5%90%8D%E4%B9%B0%E6%88%BF%E5%85%84%E5%BC%9F%E5%8F%8D%E7%9B%AE%E5%BC%9F%E5%BC%9F%E7%A7%B0%E6%AF%8D%E4%BA%B2%E6%9C%89%E8%B4%A3%E4%BB%BB%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时25分"
         }
       ]
     },
@@ -878,11 +1004,12 @@
           "url": "https://www.zhihu.com/question/2070152087481083737",
           "source": "知乎",
           "ranks": [
-            9
+            9,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时07分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时07分 ~ 12时25分]"
         },
         {
           "title": "教育局回应拉架教师被降岗处分",
@@ -907,11 +1034,12 @@
           "source": "贴吧",
           "ranks": [
             15,
-            16
+            16,
+            20
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时59分 ~ 10时07分]"
+          "appearance_count": 9,
+          "time_info": "[00时59分 ~ 12时25分]"
         }
       ]
     },
@@ -924,11 +1052,12 @@
           "url": "https://www.zhihu.com/question/2025229966229485529",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时07分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时07分 ~ 12时25分]"
         }
       ]
     },
@@ -941,11 +1070,12 @@
           "url": "https://s.weibo.com/weibo?q=%23%E5%B0%91%E5%B9%B4%E5%BC%BA%E6%8A%B1%E5%A5%B3%E5%8F%8B%E8%B7%B3%E6%B2%B3%E8%87%AA%E5%B7%B1%E4%B8%8A%E5%B2%B8%E5%A5%B3%E5%8F%8B%E6%BA%BA%E4%BA%A1%23&t=31&band_rank=13&Refer=top",
           "source": "微博",
           "ranks": [
-            13
+            13,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时07分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时07分 ~ 12时25分]"
         }
       ]
     },
@@ -958,28 +1088,29 @@
           "url": "https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E7%BB%93%E5%A9%9A40%E5%B9%B4%E9%83%BDAA%E5%88%B6+%E4%B8%88%E5%A4%AB%E5%9C%A8%E5%AE%B6%E8%A3%85%E7%9B%91%E6%8E%A7",
           "source": "百度热搜",
           "ranks": [
-            27
+            27,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时07分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时07分 ~ 12时25分]"
         }
       ]
     },
     {
-      "keyword_group": "房价 买房",
+      "keyword_group": "生育 催生 不婚",
       "match_count": 1,
       "titles": [
         {
-          "title": "因为给我买车买房没提前跟我弟说，我弟把我全家都拉黑了快 7 年了，父子都不愿低头，怎么破冰？",
-          "url": "https://www.zhihu.com/question/2068757535138566295",
-          "source": "知乎",
+          "title": "库尔斯克战役两周年：战事催生了一个独立兵种",
+          "url": "https://news.ifeng.com/c/8vUvXI92gyE",
+          "source": "凤凰网",
           "ranks": [
-            11
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时07分"
+          "time_info": "12时25分"
         }
       ]
     }
