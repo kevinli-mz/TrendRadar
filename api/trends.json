@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-11T15:20:00.169783+08:00",
-  "total_titles_processed": 1189,
+  "generated_at": "2026-08-11T17:06:16.808476+08:00",
+  "total_titles_processed": 1334,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型",
-      "match_count": 62,
+      "match_count": 66,
       "titles": [
         {
           "title": "MLCC供应告急引发抢货潮！国巨：越来越多AI客户抢签长协锁定产能",
@@ -31,8 +31,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时59分 ~ 15时20分]"
+          "appearance_count": 13,
+          "time_info": "[00时59分 ~ 17时06分]"
         },
         {
           "title": "AI挤占短剧业,真人演员遭偷家",
@@ -86,15 +86,41 @@
           "time_info": "[00时59分 ~ 07时41分]"
         },
         {
-          "title": "怎么看AI突破黎曼猜想下界",
-          "url": "https://search.bilibili.com/all?keyword=%E6%80%8E%E4%B9%88%E7%9C%8BAI%E7%AA%81%E7%A0%B4%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E4%B8%8B%E7%95%8C",
-          "source": "bilibili 热搜",
+          "title": "英伟达联手华尔街六大巨头，筹5000亿美元押注AI基础设施，信用违约互换创两周最大涨幅",
+          "url": "https://wallstreetcn.com/articles/3779115",
+          "source": "华尔街见闻",
           "ranks": [
-            1
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时19分 ~ 15时20分]"
+          "appearance_count": 6,
+          "time_info": "[10时07分 ~ 17时06分]"
+        },
+        {
+          "title": "城市竞争进入AI答案时代",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33753662",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时07分 ~ 17时06分]"
+        },
+        {
+          "title": "用AI重返那年相遇的青涩夏天",
+          "url": "https://www.douyin.com/hot/2605104",
+          "source": "抖音",
+          "ranks": [
+            9,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时07分 ~ 17时06分]"
         },
         {
           "title": "印度央行行长：敦促各银行对所有人工智能模型进行盘点，并制定经董事会批准的人工智能治理政策。",
@@ -108,28 +134,29 @@
           "time_info": "13时57分"
         },
         {
-          "title": "英伟达联手华尔街六大巨头，筹5000亿美元押注AI基础设施，信用违约互换创两周最大涨幅",
-          "url": "https://wallstreetcn.com/articles/3779115",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时07分 ~ 15时20分]"
-        },
-        {
           "title": "给AI时代一点手搓实拍的小震撼",
           "url": "https://www.douyin.com/hot/2605459",
           "source": "抖音",
           "ranks": [
             8,
-            5
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时57分 ~ 17时06分]"
+        },
+        {
+          "title": "怎么看AI突破黎曼猜想下界",
+          "url": "https://search.bilibili.com/all?keyword=%E6%80%8E%E4%B9%88%E7%9C%8BAI%E7%AA%81%E7%A0%B4%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E4%B8%8B%E7%95%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            18
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[13时57分 ~ 15时20分]"
+          "time_info": "[15时19分 ~ 17时06分]"
         },
         {
           "title": "TaiLung被永久禁赛有何内幕",
@@ -141,30 +168,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时57分"
-        },
-        {
-          "title": "城市竞争进入AI答案时代",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33753662",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时07分 ~ 15时20分]"
-        },
-        {
-          "title": "用AI重返那年相遇的青涩夏天",
-          "url": "https://www.douyin.com/hot/2605104",
-          "source": "抖音",
-          "ranks": [
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时07分 ~ 15时20分]"
         },
         {
           "title": "OpenAI：新的高级席位（Premium Seat）使用额度相比标准版提升5倍，无5小时使用限制，并提供可预测的每周使用额度重置。",
@@ -239,6 +242,18 @@
           "time_info": "[01时00分 ~ 01时58分]"
         },
         {
+          "title": "回应“5000亿美元融资质疑”！黄仁勋：英伟达“AI工厂”正成为“投资级资产”，需求真实存在，绝非“循环融资”",
+          "url": "https://wallstreetcn.com/articles/3779130",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时57分 ~ 17时06分]"
+        },
+        {
           "title": "英伟达(NVDA.O)：全新融资平台将英伟达计算和全栈人工智能基础设施转变为全球资本可投资的资产类别。",
           "url": "https://flash.jin10.com/detail/20260811040810116800",
           "source": "金十数据",
@@ -251,16 +266,51 @@
           "time_info": "[04时51分 ~ 05时49分]"
         },
         {
-          "title": "回应“5000亿美元融资质疑”！黄仁勋：英伟达“AI工厂”正成为“投资级资产”，需求真实存在，绝非“循环融资”",
-          "url": "https://wallstreetcn.com/articles/3779130",
-          "source": "华尔街见闻",
+          "title": "黄仁勋深度解读5000亿美元融资计划：AI算力是“投资级资产”",
+          "url": "https://www.cls.cn/detail/2450953",
+          "source": "财联社热门",
           "ranks": [
-            10,
+            13,
             8
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[13时57分 ~ 15时20分]"
+          "time_info": "[15时19分 ~ 17时06分]"
+        },
+        {
+          "title": "AI打开了我童年记忆的百宝箱",
+          "url": "https://www.douyin.com/hot/2605425",
+          "source": "抖音",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时19分 ~ 17时06分]"
+        },
+        {
+          "title": "每36秒上新一部！AI短剧狂飙，短剧江湖正在换主角",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33710549",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时19分 ~ 17时06分]"
+        },
+        {
+          "title": "干湿之困：AI制药如何打通“最后一公里”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33753718",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时19分 ~ 17时06分]"
         },
         {
           "title": "JeffDean 称「AI agent 编写代码，品味成稀缺技能」，你如何理解「品味」？",
@@ -299,17 +349,6 @@
           "time_info": "[01时58分 ~ 03时09分]"
         },
         {
-          "title": "AI打开了我童年记忆的百宝箱",
-          "url": "https://www.douyin.com/hot/2605425",
-          "source": "抖音",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时19分 ~ 15时20分]"
-        },
-        {
           "title": "报道：英伟达与多家公司围绕5000亿美元AI融资协议合作",
           "url": "https://wallstreetcn.com/livenews/3147615",
           "source": "华尔街见闻-快讯",
@@ -344,39 +383,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时51分 ~ 05时49分]"
-        },
-        {
-          "title": "每36秒上新一部！AI短剧狂飙，短剧江湖正在换主角",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33710549",
-          "source": "澎湃新闻",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时19分 ~ 15时20分]"
-        },
-        {
-          "title": "干湿之困：AI制药如何打通“最后一公里”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33753718",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时19分 ~ 15时20分]"
-        },
-        {
-          "title": "黄仁勋深度解读5000亿美元融资计划：AI算力是“投资级资产”",
-          "url": "https://www.cls.cn/detail/2450953",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时19分 ~ 15时20分]"
         },
         {
           "title": "OpenAI：推出ChatGPT企业版高级席位，月租至少100美元",
@@ -435,6 +441,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时25分"
+        },
+        {
+          "title": "腾讯启动2027校招，增加多个AI原生岗位",
+          "url": "https://wallstreetcn.com/livenews/3147962",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时06分"
         },
         {
           "title": "英伟达(NVDA.O)CEO黄仁勋：人工智能实验室和人工智能初创公司需要计算能力。",
@@ -531,9 +548,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
+        },
+        {
+          "title": "拐点已至！高盛：AI开始真正改写SaaS业绩，赢家与输家名单浮现",
+          "url": "https://wallstreetcn.com/articles/3779070",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时06分"
         },
         {
           "title": "据悉OpenAI回购70亿美元员工股份",
@@ -564,7 +592,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
         },
@@ -589,6 +617,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时07分"
+        },
+        {
+          "title": "小米启动2027届校招 AI岗位需求增长50%",
+          "url": "https://wallstreetcn.com/livenews/3147954",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时06分"
         },
         {
           "title": "英伟达(NVDA.O)CEO黄仁勋：（谈5000亿美元AI基建融资计划）相关交易将支持人工智能的广泛应用。资金全部来自第三方资本。",
@@ -633,6 +672,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时09分"
+        },
+        {
+          "title": "当老板意识到AI比人工贵",
+          "url": "https://s.weibo.com/weibo?q=%E5%BD%93%E8%80%81%E6%9D%BF%E6%84%8F%E8%AF%86%E5%88%B0AI%E6%AF%94%E4%BA%BA%E5%B7%A5%E8%B4%B5&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时06分"
         },
         {
           "title": "OpenAI：自2026年9月1日起，要求Daybreak中的所有个人账户启用硬件安全密钥。",
@@ -725,6 +775,183 @@
       ]
     },
     {
+      "keyword_group": "经济 经济学",
+      "match_count": 15,
+      "titles": [
+        {
+          "title": "一组数据看7月经济活力",
+          "url": "https://www.douyin.com/hot/2605301",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时25分 ~ 15时20分]"
+        },
+        {
+          "title": "印度为何突然在经济上对华开绿灯",
+          "url": "https://www.toutiao.com/trending/7672344182060486190/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            14,
+            7,
+            5,
+            10,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时59分 ~ 07时41分]"
+        },
+        {
+          "title": "美国克利夫兰联储主席哈马克（Hammack）：可能需要加息“几次”。 不希望预判加息次数和我们最终的利率水平。 是我们采取行动的时候了。 当前利率并未对美国经济造成实质性限制。",
+          "url": "https://wallstreetcn.com/livenews/3147651",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时09分"
+        },
+        {
+          "title": "瑞典国家经济研究院(NIER)：预计（瑞典）2026年GDP增长2.4%，高于6月预测的2.2%。",
+          "url": "https://wallstreetcn.com/livenews/3147914",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时20分"
+        },
+        {
+          "title": "货币政策分析公司（Monetary Policy Analytics）经济学家Derek Tang：（相比1998年、2011年）2026年这一次美国与日本联手干预日元汇率时，美联储”并未出资”参与美方的干预行动。 官方数据可能要到今年晚些时候才会公布以证实这一点。 其干预能力理论上仅受限于其意愿。",
+          "url": "https://wallstreetcn.com/livenews/3147693",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时51分 ~ 05时49分]"
+        },
+        {
+          "title": "美联储哈玛克：目前的利率并未对经济造成实质性限制。现在是我们采取行动的时候了。",
+          "url": "https://flash.jin10.com/detail/20260811024908190800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时09分"
+        },
+        {
+          "title": "澳洲联储主席Bullock：澳洲联储希望放缓经济，认为通胀存在上行风险。 预计需要一段经济低增长来降低通胀。 如有必要，将再次加息。 不排除进一步加息的可能，但需要更多信息。",
+          "url": "https://wallstreetcn.com/livenews/3147869",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时57分"
+        },
+        {
+          "title": "欧洲股债市场吸引全球资金加码 因经济增长与通胀形成理想组合",
+          "url": "https://wallstreetcn.com/livenews/3147958",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时06分"
+        },
+        {
+          "title": "惠誉：美伊冲突仍存在残余风险，但预计不会对印度经济成长前景构成持久威胁。",
+          "url": "https://flash.jin10.com/detail/20260811164003864800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时06分"
+        },
+        {
+          "title": "惠誉：尽管能源冲击带来阻力，印度经济仍维持强劲。",
+          "url": "https://flash.jin10.com/detail/20260811163833972800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时06分"
+        },
+        {
+          "title": "惠誉：印度评级反映其强劲的经济成长前景及稳健的外部融资基本面。",
+          "url": "https://flash.jin10.com/detail/20260811163648907800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时06分"
+        },
+        {
+          "title": "澳洲联储主席布洛克：预计需要一段时间的经济增长放缓才能降低通胀。",
+          "url": "https://flash.jin10.com/detail/20260811133228402800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时57分"
+        },
+        {
+          "title": "澳洲联储主席布洛克：委员会希望放缓经济增长，认为通胀存在上行风险。",
+          "url": "https://flash.jin10.com/detail/20260811133129300800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时57分"
+        },
+        {
+          "title": "澳洲联储声明：中东冲突仍具不确定性，存在通胀高于预期且经济活动低于预期的情境。 预计通胀要到2027年晚些时候才能重回目标区间的长远中点附近，且该预测存在上行风险。 自今年年初以来三次提高现金利率目标后，目前的金融环境较此前更为紧缩，经济似乎正如预期般放缓。",
+          "url": "https://wallstreetcn.com/livenews/3147856",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时57分"
+        },
+        {
+          "title": "澳洲联储：今日的政策决定一致通过。 尽管中东冲突对通胀的影响目前来看低于预期，但整体通胀率依然过高。 委员会将密切关注数据以及对前景和风险的动态评估，以此指导未来决策。 2025年下半年通胀显著回升，今年初以来的信息证实，部分涨幅反映了更大的产能压力。 委员会仍然专注于确保高通胀不会根深蒂固。 委员会将继续采取其认为必要的措施，以使通胀可持续地回到目标水平；如果上行风险成为现实，将进一步提高现金利率目标。 通胀依然过高。短期通胀预期指标有所缓解，但仍高于今年早些时候。 截尾均值通胀率也依然保持高位，且与一季度相比变化不大。 劳动力市场领先指标显示短期内只会出现有限的缓和。 鉴于货币政策被认为具有一定限制性，委员会决定在评估经济演变情况的同时，维持现金利率目标不变。",
+          "url": "https://wallstreetcn.com/livenews/3147855",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时57分"
+        }
+      ]
+    },
+    {
       "keyword_group": "电影 影视 综艺",
       "match_count": 12,
       "titles": [
@@ -752,6 +979,20 @@
           "time_info": "[00时59分 ~ 10时07分]"
         },
         {
+          "title": "如何评价《欢迎来龙餐馆》这部电影？",
+          "url": "https://www.zhihu.com/question/2070182701299152586",
+          "source": "知乎",
+          "ranks": [
+            8,
+            7,
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时07分 ~ 17时06分]"
+        },
+        {
           "title": "沈腾主演电影票房已破415亿",
           "url": "https://www.baidu.com/s?wd=%E6%B2%88%E8%85%BE%E4%B8%BB%E6%BC%94%E7%94%B5%E5%BD%B1%E7%A5%A8%E6%88%BF%E5%B7%B2%E7%A0%B4415%E4%BA%BF",
           "source": "百度热搜",
@@ -769,22 +1010,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
-        },
-        {
-          "title": "如何评价《欢迎来龙餐馆》这部电影？",
-          "url": "https://www.zhihu.com/question/2070182701299152586",
-          "source": "知乎",
-          "ranks": [
-            8,
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时07分 ~ 15时20分]"
         },
         {
           "title": "A股收盘：沪指缩量调整跌0.82%，医药、影视股逆势走强",
@@ -793,7 +1021,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
         },
@@ -870,141 +1098,8 @@
       ]
     },
     {
-      "keyword_group": "经济 经济学",
-      "match_count": 11,
-      "titles": [
-        {
-          "title": "一组数据看7月经济活力",
-          "url": "https://www.douyin.com/hot/2605301",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时25分 ~ 15时20分]"
-        },
-        {
-          "title": "印度为何突然在经济上对华开绿灯",
-          "url": "https://www.toutiao.com/trending/7672344182060486190/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            14,
-            7,
-            5,
-            10,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时59分 ~ 07时41分]"
-        },
-        {
-          "title": "美国克利夫兰联储主席哈马克（Hammack）：可能需要加息“几次”。 不希望预判加息次数和我们最终的利率水平。 是我们采取行动的时候了。 当前利率并未对美国经济造成实质性限制。",
-          "url": "https://wallstreetcn.com/livenews/3147651",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时09分"
-        },
-        {
-          "title": "瑞典国家经济研究院(NIER)：预计（瑞典）2026年GDP增长2.4%，高于6月预测的2.2%。",
-          "url": "https://wallstreetcn.com/livenews/3147914",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时20分"
-        },
-        {
-          "title": "货币政策分析公司（Monetary Policy Analytics）经济学家Derek Tang：（相比1998年、2011年）2026年这一次美国与日本联手干预日元汇率时，美联储”并未出资”参与美方的干预行动。 官方数据可能要到今年晚些时候才会公布以证实这一点。 其干预能力理论上仅受限于其意愿。",
-          "url": "https://wallstreetcn.com/livenews/3147693",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时51分 ~ 05时49分]"
-        },
-        {
-          "title": "美联储哈玛克：目前的利率并未对经济造成实质性限制。现在是我们采取行动的时候了。",
-          "url": "https://flash.jin10.com/detail/20260811024908190800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时09分"
-        },
-        {
-          "title": "澳洲联储主席Bullock：澳洲联储希望放缓经济，认为通胀存在上行风险。 预计需要一段经济低增长来降低通胀。 如有必要，将再次加息。 不排除进一步加息的可能，但需要更多信息。",
-          "url": "https://wallstreetcn.com/livenews/3147869",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时57分"
-        },
-        {
-          "title": "澳洲联储主席布洛克：预计需要一段时间的经济增长放缓才能降低通胀。",
-          "url": "https://flash.jin10.com/detail/20260811133228402800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时57分"
-        },
-        {
-          "title": "澳洲联储主席布洛克：委员会希望放缓经济增长，认为通胀存在上行风险。",
-          "url": "https://flash.jin10.com/detail/20260811133129300800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时57分"
-        },
-        {
-          "title": "澳洲联储声明：中东冲突仍具不确定性，存在通胀高于预期且经济活动低于预期的情境。 预计通胀要到2027年晚些时候才能重回目标区间的长远中点附近，且该预测存在上行风险。 自今年年初以来三次提高现金利率目标后，目前的金融环境较此前更为紧缩，经济似乎正如预期般放缓。",
-          "url": "https://wallstreetcn.com/livenews/3147856",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时57分"
-        },
-        {
-          "title": "澳洲联储：今日的政策决定一致通过。 尽管中东冲突对通胀的影响目前来看低于预期，但整体通胀率依然过高。 委员会将密切关注数据以及对前景和风险的动态评估，以此指导未来决策。 2025年下半年通胀显著回升，今年初以来的信息证实，部分涨幅反映了更大的产能压力。 委员会仍然专注于确保高通胀不会根深蒂固。 委员会将继续采取其认为必要的措施，以使通胀可持续地回到目标水平；如果上行风险成为现实，将进一步提高现金利率目标。 通胀依然过高。短期通胀预期指标有所缓解，但仍高于今年早些时候。 截尾均值通胀率也依然保持高位，且与一季度相比变化不大。 劳动力市场领先指标显示短期内只会出现有限的缓和。 鉴于货币政策被认为具有一定限制性，委员会决定在评估经济演变情况的同时，维持现金利率目标不变。",
-          "url": "https://wallstreetcn.com/livenews/3147855",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时57分"
-        }
-      ]
-    },
-    {
       "keyword_group": "就业 失业 裁员 应届生",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "外交部：百余名菲律宾公民因非法就业、非法居留被依法处理",
@@ -1018,8 +1113,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时58分 ~ 15时20分]"
+          "appearance_count": 11,
+          "time_info": "[01时58分 ~ 17时06分]"
         },
         {
           "title": "推动高质量充分就业取得新进展",
@@ -1039,7 +1134,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
         },
@@ -1055,13 +1150,24 @@
           "time_info": "03时09分"
         },
         {
+          "title": "英国国家统计局：将于2027年7月决定，转型后的劳动力调查能否在2027年11月过渡为主要的就业市场指标。",
+          "url": "https://flash.jin10.com/detail/20260811163238277800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时06分"
+        },
+        {
           "title": "澳洲联储主席Bullock：不希望失业率升至非加速通胀失业率（NAIRU）水平之上。 我们需要经济增长放缓，劳动市场的紧俏程度也需要降低。 我们很有可能还需要再次升息。 房市下滑不会对金融稳定构成重大风险。 委员会所有成员至少都对通胀有些担忧。",
           "url": "https://wallstreetcn.com/livenews/3147884",
           "source": "华尔街见闻-快讯",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
         },
@@ -1097,6 +1203,18 @@
         },
         {
           "title": "凶手父母多次热情招待溺亡女孩父母",
+          "url": "https://www.baidu.com/s?wd=%E5%87%B6%E6%89%8B%E7%88%B6%E6%AF%8D%E5%A4%9A%E6%AC%A1%E7%83%AD%E6%83%85%E6%8B%9B%E5%BE%85%E6%BA%BA%E4%BA%A1%E5%A5%B3%E5%AD%A9%E7%88%B6%E6%AF%8D",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时57分 ~ 17时06分]"
+        },
+        {
+          "title": "凶手父母多次热情招待溺亡女孩父母",
           "url": "https://s.weibo.com/weibo?q=%23%E5%87%B6%E6%89%8B%E7%88%B6%E6%AF%8D%E5%A4%9A%E6%AC%A1%E7%83%AD%E6%83%85%E6%8B%9B%E5%BE%85%E6%BA%BA%E4%BA%A1%E5%A5%B3%E5%AD%A9%E7%88%B6%E6%AF%8D%23&t=31&band_rank=22&Refer=top",
           "source": "微博",
           "ranks": [
@@ -1107,18 +1225,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时07分 ~ 13时57分]"
-        },
-        {
-          "title": "凶手父母多次热情招待溺亡女孩父母",
-          "url": "https://www.baidu.com/s?wd=%E5%87%B6%E6%89%8B%E7%88%B6%E6%AF%8D%E5%A4%9A%E6%AC%A1%E7%83%AD%E6%83%85%E6%8B%9B%E5%BE%85%E6%BA%BA%E4%BA%A1%E5%A5%B3%E5%AD%A9%E7%88%B6%E6%AF%8D",
-          "source": "百度热搜",
-          "ranks": [
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时57分 ~ 15时20分]"
         },
         {
           "title": "丈夫瞒妻子5年给父母转账50万",
@@ -1138,6 +1244,17 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "因为给我买车买房没提前跟我弟说，我弟把我全家都拉黑了快 7 年了，父子都不愿低头，怎么破冰？",
+          "url": "https://www.zhihu.com/question/2068757535138566295",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时07分 ~ 17时06分]"
+        },
+        {
           "title": "澳洲联储主席Bullock：尽管房价已有所回落，但那不是我们的主要关注点。 会议上讨论了加息的可能性。 会议上并未讨论降息，只讨论了加息或维持不变。",
           "url": "https://wallstreetcn.com/livenews/3147873",
           "source": "华尔街见闻-快讯",
@@ -1147,17 +1264,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时57分"
-        },
-        {
-          "title": "因为给我买车买房没提前跟我弟说，我弟把我全家都拉黑了快 7 年了，父子都不愿低头，怎么破冰？",
-          "url": "https://www.zhihu.com/question/2068757535138566295",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时07分 ~ 15时20分]"
         },
         {
           "title": "澳洲联储主席布洛克：尽管房价已出现回落，但这并非我们的主要关注点。",
@@ -1237,6 +1343,87 @@
       ]
     },
     {
+      "keyword_group": "婚姻 结婚 离婚 彩礼",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "夫妻结婚40年都AA制 丈夫在家装监控",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E7%BB%93%E5%A9%9A40%E5%B9%B4%E9%83%BDAA%E5%88%B6+%E4%B8%88%E5%A4%AB%E5%9C%A8%E5%AE%B6%E8%A3%85%E7%9B%91%E6%8E%A7",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            10,
+            24,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时07分 ~ 17时06分]"
+        },
+        {
+          "title": "巴旦木公主晒结婚证",
+          "url": "https://s.weibo.com/weibo?q=%E5%B7%B4%E6%97%A6%E6%9C%A8%E5%85%AC%E4%B8%BB%E6%99%92%E7%BB%93%E5%A9%9A%E8%AF%81&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时06分"
+        },
+        {
+          "title": "网红巴旦木公主宣布领证结婚",
+          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E5%B7%B4%E6%97%A6%E6%9C%A8%E5%85%AC%E4%B8%BB%E5%AE%A3%E5%B8%83%E9%A2%86%E8%AF%81%E7%BB%93%E5%A9%9A",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时06分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "生育 催生 不婚",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "库尔斯克战役两周年：战事催生了一个独立兵种",
+          "url": "https://news.ifeng.com/c/8vUvXI92gyE",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时25分 ~ 17时06分]"
+        },
+        {
+          "title": "韩国股市大起大落催生“炒股综艺”：明星艺人镜头前晒盈亏",
+          "url": "https://wallstreetcn.com/livenews/3147939",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时06分"
+        },
+        {
+          "title": "无人机如何催生了俄罗斯坦克的变革",
+          "url": "https://www.toutiao.com/trending/7672597288291700260/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时06分"
+        }
+      ]
+    },
+    {
       "keyword_group": "性别 男女 女性",
       "match_count": 3,
       "titles": [
@@ -1251,8 +1438,22 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时59分 ~ 15时20分]"
+          "appearance_count": 13,
+          "time_info": "[00时59分 ~ 17时06分]"
+        },
+        {
+          "title": "百花奖男女明星怼脸镜头",
+          "url": "https://www.douyin.com/hot/2605120",
+          "source": "抖音",
+          "ranks": [
+            15,
+            18,
+            20,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时07分 ~ 17时06分]"
         },
         {
           "title": "晚年独居女性如何面对老去的寂寞",
@@ -1268,20 +1469,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时58分 ~ 07时41分]"
-        },
-        {
-          "title": "百花奖男女明星怼脸镜头",
-          "url": "https://www.douyin.com/hot/2605120",
-          "source": "抖音",
-          "ranks": [
-            15,
-            18,
-            20,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时07分 ~ 15时20分]"
         }
       ]
     },
@@ -1324,11 +1511,12 @@
           "source": "知乎",
           "ranks": [
             9,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时07分 ~ 15时20分]"
+          "appearance_count": 6,
+          "time_info": "[10时07分 ~ 17时06分]"
         },
         {
           "title": "教育局回应拉架教师被降岗处分",
@@ -1355,11 +1543,12 @@
             15,
             16,
             20,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时59分 ~ 15时20分]"
+          "appearance_count": 13,
+          "time_info": "[00时59分 ~ 17时06分]"
         }
       ]
     },
@@ -1382,38 +1571,19 @@
       ]
     },
     {
-      "keyword_group": "婚姻 结婚 离婚 彩礼",
+      "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
         {
-          "title": "夫妻结婚40年都AA制 丈夫在家装监控",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E7%BB%93%E5%A9%9A40%E5%B9%B4%E9%83%BDAA%E5%88%B6+%E4%B8%88%E5%A4%AB%E5%9C%A8%E5%AE%B6%E8%A3%85%E7%9B%91%E6%8E%A7",
+          "title": "DeepSeek会偷偷给人取外号",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E4%BC%9A%E5%81%B7%E5%81%B7%E7%BB%99%E4%BA%BA%E5%8F%96%E5%A4%96%E5%8F%B7",
           "source": "百度热搜",
           "ranks": [
-            27,
-            10,
-            24
+            27
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时07分 ~ 15时20分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "生育 催生 不婚",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "库尔斯克战役两周年：战事催生了一个独立兵种",
-          "url": "https://news.ifeng.com/c/8vUvXI92gyE",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时25分 ~ 15时20分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时06分"
         }
       ]
     }
