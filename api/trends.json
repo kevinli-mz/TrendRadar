@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-12T12:54:13.367837+08:00",
-  "total_titles_processed": 831,
+  "generated_at": "2026-08-12T14:19:58.233701+08:00",
+  "total_titles_processed": 953,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型",
-      "match_count": 36,
+      "match_count": 38,
       "titles": [
         {
           "title": "每36秒上新一部！AI短剧狂飙，短剧江湖正在换主角",
@@ -33,6 +33,18 @@
           "time_info": "[03时10分 ~ 12时54分]"
         },
         {
+          "title": "中东僵局再撑油价，AI泡沫隐忧打压美科技股，纳指跌0.6%，黄金回落",
+          "url": "https://wallstreetcn.com/articles/3779161",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[06时51分 ~ 14时19分]"
+        },
+        {
           "title": "AI担忧惹的祸？ 韩国股市7月外资“大撤退” 亚洲股市连续“失血”九个月",
           "url": "https://www.cls.cn/detail/2451347",
           "source": "财联社热门",
@@ -45,18 +57,6 @@
           "time_info": "[03时10分 ~ 07时50分]"
         },
         {
-          "title": "中东僵局再撑油价，AI泡沫隐忧打压美科技股，纳指跌0.6%，黄金回落",
-          "url": "https://wallstreetcn.com/articles/3779161",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时51分 ~ 12时54分]"
-        },
-        {
           "title": "给AI时代一点手搓实拍的小震撼",
           "url": "https://www.douyin.com/hot/2605459",
           "source": "抖音",
@@ -67,8 +67,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[03时10分 ~ 12时54分]"
+          "appearance_count": 10,
+          "time_info": "[03时10分 ~ 14时19分]"
         },
         {
           "title": "回应“5000亿美元融资质疑”！黄仁勋：英伟达“AI工厂”正成为“投资级资产”，需求真实存在，绝非“循环融资”",
@@ -82,6 +82,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[03时10分 ~ 07时50分]"
+        },
+        {
+          "title": "AI光通信需求强劲，Lumentum上季营收翻倍，本季指引更超预期，债务重组致超70亿巨亏｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3779219",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时25分 ~ 14时19分]"
         },
         {
           "title": "如何评价起点官方被曝禁止新人作者使用 AI 润色？否则不允许上架？",
@@ -98,27 +110,27 @@
           "time_info": "[03时10分 ~ 10时25分]"
         },
         {
-          "title": "AI光通信需求强劲，Lumentum上季营收翻倍，本季指引更超预期，债务重组致超70亿巨亏｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3779219",
-          "source": "华尔街见闻",
+          "title": "光速关服,AI虚拟歌姬停运",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357199&amp;topic_name=%E5%85%89%E9%80%9F%E5%85%B3%E6%9C%8D%2CAI%E8%99%9A%E6%8B%9F%E6%AD%8C%E5%A7%AC%E5%81%9C%E8%BF%90",
+          "source": "贴吧",
           "ranks": [
-            5,
-            4
+            2
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时25分 ~ 12时54分]"
+          "time_info": "[12时53分 ~ 14时19分]"
         },
         {
           "title": "AI产业给韩国人带来什么",
           "url": "https://search.bilibili.com/all?keyword=AI%E4%BA%A7%E4%B8%9A%E7%BB%99%E9%9F%A9%E5%9B%BD%E4%BA%BA%E5%B8%A6%E6%9D%A5%E4%BB%80%E4%B9%88",
           "source": "bilibili 热搜",
           "ranks": [
-            1
+            1,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时53分 ~ 12时54分]"
+          "appearance_count": 3,
+          "time_info": "[12时53分 ~ 14时19分]"
         },
         {
           "title": "中东局势峰回路转 AI撑起美股罕见业绩增速 | 今夜看点",
@@ -131,17 +143,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[03时10分 ~ 10时25分]"
-        },
-        {
-          "title": "光速关服,AI虚拟歌姬停运",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357199&amp;topic_name=%E5%85%89%E9%80%9F%E5%85%B3%E6%9C%8D%2CAI%E8%99%9A%E6%8B%9F%E6%AD%8C%E5%A7%AC%E5%81%9C%E8%BF%90",
-          "source": "贴吧",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时53分 ~ 12时54分]"
         },
         {
           "title": "城市竞争进入AI答案时代",
@@ -166,13 +167,25 @@
           "time_info": "[03时10分 ~ 03时11分]"
         },
         {
+          "title": "但斌回应质疑：没有恐慌割肉、没有大幅减仓，对AI从未动摇，依旧满仓坚守",
+          "url": "https://www.cls.cn/detail/2451840",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时25分 ~ 14时19分]"
+        },
+        {
           "title": "Omdia：AI需求激增2026年半导体市场增幅上调至94.1%",
           "url": "https://flash.jin10.com/detail/20260812124218633800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时54分"
         },
@@ -212,18 +225,6 @@
           "time_info": "10时25分"
         },
         {
-          "title": "但斌回应质疑：没有恐慌割肉、没有大幅减仓，对AI从未动摇，依旧满仓坚守",
-          "url": "https://www.cls.cn/detail/2451840",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时25分 ~ 12时54分]"
-        },
-        {
           "title": "国行苹果AI支持机型",
           "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%A1%8C%E8%8B%B9%E6%9E%9CAI%E6%94%AF%E6%8C%81%E6%9C%BA%E5%9E%8B%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -234,6 +235,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时25分 ~ 12时54分]"
+        },
+        {
+          "title": "易中天用AI解读庄子",
+          "url": "https://www.toutiao.com/trending/7672540891936522281/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时53分 ~ 14时19分]"
         },
         {
           "title": "亚马逊云服务(AWS)：OpenAI的Daybreak Red和Daybreak Blue现已面向Amazon Bedrock上的符合条件的客户开放。",
@@ -295,17 +308,6 @@
           "time_info": "[12时53分 ~ 12时54分]"
         },
         {
-          "title": "易中天用AI解读庄子",
-          "url": "https://www.toutiao.com/trending/7672540891936522281/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时53分 ~ 12时54分]"
-        },
-        {
           "title": "怎么看AI突破黎曼猜想下界",
           "url": "https://search.bilibili.com/all?keyword=%E6%80%8E%E4%B9%88%E7%9C%8BAI%E7%AA%81%E7%A0%B4%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E4%B8%8B%E7%95%8C",
           "source": "bilibili 热搜",
@@ -334,7 +336,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时54分"
         },
@@ -383,13 +385,24 @@
           "time_info": "03时11分"
         },
         {
+          "title": "AI科创润童心 网络安全伴成长",
+          "url": "https://www.toutiao.com/trending/7672213418782588964/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时19分"
+        },
+        {
           "title": "曝小红书打造全新“AI导购”功能，官方暂无回应",
           "url": "https://wallstreetcn.com/livenews/3148389",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时54分"
         },
@@ -400,7 +413,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时54分"
         },
@@ -425,12 +438,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时11分"
+        },
+        {
+          "title": "机构：AI需求激增 2026年半导体市场增幅上调至94.1%",
+          "url": "https://wallstreetcn.com/livenews/3148411",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时19分"
         }
       ]
     },
     {
       "keyword_group": "婚姻 结婚 离婚 彩礼",
-      "match_count": 9,
+      "match_count": 14,
       "titles": [
         {
           "title": "C罗宣布结婚",
@@ -440,8 +464,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时25分 ~ 12时54分]"
+          "appearance_count": 4,
+          "time_info": "[10时25分 ~ 14时19分]"
         },
         {
           "title": "C罗结婚,十年恋情终圆满",
@@ -451,19 +475,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时25分 ~ 12时54分]"
+          "appearance_count": 4,
+          "time_info": "[10时25分 ~ 14时19分]"
         },
         {
           "title": "陈俊生离婚后为什么对平儿不好",
           "url": "https://s.weibo.com/weibo?q=%E9%99%88%E4%BF%8A%E7%94%9F%E7%A6%BB%E5%A9%9A%E5%90%8E%E4%B8%BA%E4%BB%80%E4%B9%88%E5%AF%B9%E5%B9%B3%E5%84%BF%E4%B8%8D%E5%A5%BD&t=31&band_rank=2&Refer=top",
           "source": "微博",
           "ranks": [
-            2
+            2,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时53分 ~ 12时54分]"
+          "appearance_count": 3,
+          "time_info": "[12时53分 ~ 14时19分]"
         },
         {
           "title": "C罗宣布结婚",
@@ -474,8 +499,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时25分 ~ 12时54分]"
+          "appearance_count": 4,
+          "time_info": "[10时25分 ~ 14时19分]"
+        },
+        {
+          "title": "上半年结婚登记327.5万对",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%8A%E5%8D%8A%E5%B9%B4%E7%BB%93%E5%A9%9A%E7%99%BB%E8%AE%B0327.5%E4%B8%87%E5%AF%B9",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时19分"
         },
         {
           "title": "女子因丈夫私自给公婆转50万怒提离婚",
@@ -491,6 +527,30 @@
           "time_info": "[03时10分 ~ 06时51分]"
         },
         {
+          "title": "C罗结婚5个孩子出席婚礼",
+          "url": "https://www.baidu.com/s?wd=C%E7%BD%97%E7%BB%93%E5%A9%9A5%E4%B8%AA%E5%AD%A9%E5%AD%90%E5%87%BA%E5%B8%AD%E5%A9%9A%E7%A4%BC",
+          "source": "百度热搜",
+          "ranks": [
+            9,
+            7,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时25分 ~ 14时19分]"
+        },
+        {
+          "title": "C罗宣布结婚(图)",
+          "url": "https://sports.ifeng.com/c/8vWSYwsKRLl",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时25分 ~ 14时19分]"
+        },
+        {
           "title": "结婚40年都AA制丈夫认为公平合理",
           "url": "https://s.weibo.com/weibo?q=%23%E7%BB%93%E5%A9%9A40%E5%B9%B4%E9%83%BDAA%E5%88%B6%E4%B8%88%E5%A4%AB%E8%AE%A4%E4%B8%BA%E5%85%AC%E5%B9%B3%E5%90%88%E7%90%86%23&t=31&band_rank=25&Refer=top",
           "source": "微博",
@@ -502,18 +562,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时55分 ~ 07时50分]"
-        },
-        {
-          "title": "C罗结婚5个孩子出席婚礼",
-          "url": "https://www.baidu.com/s?wd=C%E7%BD%97%E7%BB%93%E5%A9%9A5%E4%B8%AA%E5%AD%A9%E5%AD%90%E5%87%BA%E5%B8%AD%E5%A9%9A%E7%A4%BC",
-          "source": "百度热搜",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时25分 ~ 12时54分]"
         },
         {
           "title": "夫妻结婚40余年一直实行AA制",
@@ -528,21 +576,54 @@
           "time_info": "[10时25分 ~ 12时54分]"
         },
         {
-          "title": "C罗宣布结婚(图)",
-          "url": "https://sports.ifeng.com/c/8vWSYwsKRLl",
-          "source": "凤凰网",
+          "title": "C罗宣布结婚5小时收获1400万赞",
+          "url": "https://www.baidu.com/s?wd=C%E7%BD%97%E5%AE%A3%E5%B8%83%E7%BB%93%E5%A9%9A5%E5%B0%8F%E6%97%B6%E6%94%B6%E8%8E%B71400%E4%B8%87%E8%B5%9E",
+          "source": "百度热搜",
           "ranks": [
-            12
+            8
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时25分 ~ 12时54分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时19分"
+        },
+        {
+          "title": "“结婚八年三女儿均非亲生”离婚案将于8月17日开庭",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33765987",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时19分"
+        },
+        {
+          "title": "C罗宣布结婚5小时收获1400万赞",
+          "url": "https://www.douyin.com/hot/2606578",
+          "source": "抖音",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时19分"
+        },
+        {
+          "title": "婚外胚胎案丈夫想用最低成本离婚",
+          "url": "https://s.weibo.com/weibo?q=%E5%A9%9A%E5%A4%96%E8%83%9A%E8%83%8E%E6%A1%88%E4%B8%88%E5%A4%AB%E6%83%B3%E7%94%A8%E6%9C%80%E4%BD%8E%E6%88%90%E6%9C%AC%E7%A6%BB%E5%A9%9A&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时19分"
         }
       ]
     },
     {
       "keyword_group": "经济 经济学",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "激活中国经济增长潜力",
@@ -600,6 +681,17 @@
           "time_info": "03时11分"
         },
         {
+          "title": "广西海洋经济发展“十五五”规划：建设平陆运河经济带",
+          "url": "https://wallstreetcn.com/livenews/3148439",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时19分"
+        },
+        {
           "title": "哥伦比亚财政部：哥伦比亚将在地震后宣布经济紧急状态。",
           "url": "https://wallstreetcn.com/livenews/3148197",
           "source": "华尔街见闻-快讯",
@@ -628,7 +720,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时54分"
         }
@@ -636,7 +728,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "怎么看 DeepSeek 注册 Harness 公众号并选用黑鲸鱼 logo ？",
@@ -647,11 +739,12 @@
             14,
             9,
             2,
-            5
+            5,
+            19
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[03时10分 ~ 12时54分]"
+          "appearance_count": 10,
+          "time_info": "[03时10分 ~ 14时19分]"
         },
         {
           "title": "DeepSeek智能体要来了？公众号已完成注册认证",
@@ -660,7 +753,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时54分"
         },
@@ -677,6 +770,28 @@
           "time_info": "[06时51分 ~ 07时50分]"
         },
         {
+          "title": "135家私募打新宇树科技获配：头部量化扎堆入围 ，梁文锋旗下幻方、九章拿下私募最大份额",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33764096",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时19分"
+        },
+        {
+          "title": "Chatgpt把Deepseek当宿敌了",
+          "url": "https://s.weibo.com/weibo?q=Chatgpt%E6%8A%8ADeepseek%E5%BD%93%E5%AE%BF%E6%95%8C%E4%BA%86&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时19分"
+        },
+        {
           "title": "梁文锋跻身全球最富有50人之列",
           "url": "https://www.baidu.com/s?wd=%E6%A2%81%E6%96%87%E9%94%8B%E8%B7%BB%E8%BA%AB%E5%85%A8%E7%90%83%E6%9C%80%E5%AF%8C%E6%9C%8950%E4%BA%BA%E4%B9%8B%E5%88%97",
           "source": "百度热搜",
@@ -690,47 +805,8 @@
       ]
     },
     {
-      "keyword_group": "消费 存钱 攒钱",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "体验“上新”点亮文旅消费新空间",
-          "url": "https://www.toutiao.com/trending/7672734346339663914/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时53分 ~ 12时54分]"
-        },
-        {
-          "title": "新业态激活日常消费市场",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%96%B0%E4%B8%9A%E6%80%81%E6%BF%80%E6%B4%BB%E6%97%A5%E5%B8%B8%E6%B6%88%E8%B4%B9%E5%B8%82%E5%9C%BA%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时53分 ~ 12时54分]"
-        },
-        {
-          "title": "周二（8月11日），美股行业ETF涨跌各异，网络股指数ETF收跌0.96%，可选消费ETF跌0.36%，科技行业ETF跌0.12%，半导体ETF涨0.62%，全球航空业ETF涨0.83%，能源业ETF涨1.25%。 标普500指数的11个板块中，电信板块收跌2.12%，房地产板块跌0.86%，信息技术/科技板块跌0.26%，能源板块涨1.06%。",
-          "url": "https://wallstreetcn.com/livenews/3148243",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时56分"
-        }
-      ]
-    },
-    {
       "keyword_group": "电影 影视 综艺",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "如何看待 8 月 10 日沈腾主演电影《欢迎来龙餐馆》总票房预测值大幅提升至 35.4 亿人民币？",
@@ -755,6 +831,17 @@
           "time_info": "10时25分"
         },
         {
+          "title": "A股影视院线板块短线拉升，儒意电影涨停，北京文化此前封板走出三连板，中国电影、金逸影视、中广天择、幸福蓝海、横店影视跟涨。",
+          "url": "https://flash.jin10.com/detail/20260812135905668800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时19分"
+        },
+        {
           "title": "大众电影百花奖：拥抱电影新生态",
           "url": "https://www.toutiao.com/trending/7672908743398522890/",
           "source": "今日头条",
@@ -764,6 +851,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "消费 存钱 攒钱",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "体验“上新”点亮文旅消费新空间",
+          "url": "https://www.toutiao.com/trending/7672734346339663914/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时53分 ~ 14时19分]"
+        },
+        {
+          "title": "新业态激活日常消费市场",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%96%B0%E4%B8%9A%E6%80%81%E6%BF%80%E6%B4%BB%E6%97%A5%E5%B8%B8%E6%B6%88%E8%B4%B9%E5%B8%82%E5%9C%BA%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时53分 ~ 12时54分]"
+        },
+        {
+          "title": "周二（8月11日），美股行业ETF涨跌各异，网络股指数ETF收跌0.96%，可选消费ETF跌0.36%，科技行业ETF跌0.12%，半导体ETF涨0.62%，全球航空业ETF涨0.83%，能源业ETF涨1.25%。 标普500指数的11个板块中，电信板块收跌2.12%，房地产板块跌0.86%，信息技术/科技板块跌0.26%，能源板块涨1.06%。",
+          "url": "https://wallstreetcn.com/livenews/3148243",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时56分"
         }
       ]
     },
@@ -807,7 +933,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时54分"
         },
@@ -929,6 +1055,23 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[03时10分 ~ 10时25分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "原生家庭 父母 亲子",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "家属不知女儿遇害与凶手父母同床睡",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%B6%E5%B1%9E%E4%B8%8D%E7%9F%A5%E5%A5%B3%E5%84%BF%E9%81%87%E5%AE%B3%E4%B8%8E%E5%87%B6%E6%89%8B%E7%88%B6%E6%AF%8D%E5%90%8C%E5%BA%8A%E7%9D%A1%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时19分"
         }
       ]
     },
