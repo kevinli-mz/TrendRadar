@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-14T05:53:44.365308+08:00",
-  "total_titles_processed": 399,
+  "generated_at": "2026-08-14T06:52:07.215623+08:00",
+  "total_titles_processed": 449,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "AI给假网,吧友中招银狐病毒",
@@ -15,19 +15,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时10分 ~ 05时53分]"
+          "appearance_count": 4,
+          "time_info": "[03时10分 ~ 06时52分]"
         },
         {
-          "title": "OpenAI 上市前年化营收突破 400 亿美元",
-          "url": "https://wallstreetcn.com/livenews/3149336",
+          "title": "AI驱动半导体景气度高涨，两大晶圆厂第二季度收入均创新高",
+          "url": "https://wallstreetcn.com/livenews/3149345",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时53分"
+          "time_info": "06时52分"
         },
         {
           "title": "苹果在休斯顿开设先进制造中心，宣布将在今年开始在休斯顿生产Mac Mini。 苹果在休斯顿投资数亿美元，首批先进AI服务器已发货。",
@@ -41,15 +41,41 @@
           "time_info": "03时10分"
         },
         {
+          "title": "OpenAI 上市前年化营收突破 400 亿美元",
+          "url": "https://wallstreetcn.com/livenews/3149336",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时53分 ~ 06时52分]"
+        },
+        {
+          "title": "用AI给小时候的自己做头像",
+          "url": "https://www.douyin.com/hot/2608882",
+          "source": "抖音",
+          "ranks": [
+            10,
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时10分 ~ 06时52分]"
+        },
+        {
           "title": "市场消息：OpenAI年化营收在IPO前已突破400亿美元。",
           "url": "https://flash.jin10.com/detail/20260814053819730800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时53分 ~ 06时52分]"
         },
         {
           "title": "AI服务器订单爆发！联想Q1财季营收同比增43%，经调整净利润增176%，股价大涨创新高 | 财报见闻",
@@ -60,8 +86,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时10分 ~ 05时53分]"
+          "appearance_count": 4,
+          "time_info": "[03时10分 ~ 06时52分]"
         },
         {
           "title": "受益AI需求外溢，中芯国际Q2营收突破30亿美元，净利暴增近4倍，Q3收入环比预增2%至4%｜财报见闻",
@@ -72,20 +98,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时10分 ~ 05时53分]"
-        },
-        {
-          "title": "用AI给小时候的自己做头像",
-          "url": "https://www.douyin.com/hot/2608882",
-          "source": "抖音",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时10分 ~ 05时53分]"
+          "appearance_count": 4,
+          "time_info": "[03时10分 ~ 06时52分]"
         },
         {
           "title": "AI拍出中国版怪奇物语",
@@ -93,11 +107,12 @@
           "source": "抖音",
           "ranks": [
             22,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时10分 ~ 05时53分]"
+          "appearance_count": 4,
+          "time_info": "[03时10分 ~ 06时52分]"
         },
         {
           "title": "用AI给朋友做个专属小游戏",
@@ -105,11 +120,12 @@
           "source": "抖音",
           "ranks": [
             21,
-            19
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时10分 ~ 05时53分]"
+          "appearance_count": 4,
+          "time_info": "[03时10分 ~ 06时52分]"
         },
         {
           "title": "光速关服,AI虚拟歌姬停运",
@@ -119,8 +135,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时10分 ~ 05时53分]"
+          "appearance_count": 4,
+          "time_info": "[03时10分 ~ 06时52分]"
         },
         {
           "title": "苹果(AAPL.O)在休斯顿投资数亿美元，首批先进AI服务器已发货。",
@@ -132,6 +148,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时10分"
+        },
+        {
+          "title": "据悉OpenAI年化营收突破400亿美元",
+          "url": "https://flash.jin10.com/detail/20260814055506381800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时52分"
         },
         {
           "title": "OpenAI：GPT-5.6 Sol超高速模式（UltraFast Mode）已向部分客户群体开放有限预览。",
@@ -169,8 +196,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时10分 ~ 05时53分]"
+          "appearance_count": 4,
+          "time_info": "[03时10分 ~ 06时52分]"
         },
         {
           "title": "如何评价在 8 月 13 日发布的 DeepSeek Harness？",
@@ -180,20 +207,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时10分 ~ 05时53分]"
-        },
-        {
-          "title": "DeepSeek API确认涨价",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20API%E7%A1%AE%E8%AE%A4%E6%B6%A8%E4%BB%B7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时10分 ~ 05时53分]"
+          "appearance_count": 4,
+          "time_info": "[03时10分 ~ 06时52分]"
         },
         {
           "title": "俱往矣!DeepSeek大幅涨价",
@@ -203,8 +218,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时10分 ~ 05时53分]"
+          "appearance_count": 4,
+          "time_info": "[03时10分 ~ 06时52分]"
         },
         {
           "title": "DeepSeek宣布API涨价，8月17日起峰值价格最高涨至27元，新版V4 Pro正式上线",
@@ -212,23 +227,38 @@
           "source": "华尔街见闻",
           "ranks": [
             3,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时10分 ~ 05时53分]"
+          "appearance_count": 4,
+          "time_info": "[03时10分 ~ 06时52分]"
         },
         {
-          "title": "DeepSeek Harness发布",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness%E5%8F%91%E5%B8%83",
+          "title": "DeepSeek API确认涨价",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20API%E7%A1%AE%E8%AE%A4%E6%B6%A8%E4%BB%B7",
           "source": "bilibili 热搜",
           "ranks": [
-            9,
-            6
+            4,
+            2,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时10分 ~ 05时53分]"
+          "appearance_count": 4,
+          "time_info": "[03时10分 ~ 06时52分]"
+        },
+        {
+          "title": "DeepSeek官方Agent发布",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%AE%98%E6%96%B9Agent%E5%8F%91%E5%B8%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23,
+            14,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时10分 ~ 06时52分]"
         },
         {
           "title": "DeepSeek智能体曝光！人人用得起的Agent？",
@@ -239,8 +269,21 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时10分 ~ 05时53分]"
+          "appearance_count": 4,
+          "time_info": "[03时10分 ~ 06时52分]"
+        },
+        {
+          "title": "DeepSeek Harness发布",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness%E5%8F%91%E5%B8%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            6,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时10分 ~ 06时52分]"
         },
         {
           "title": "怎么看 DeepSeek Harness 正式开源，采用一切皆插件的架构？",
@@ -248,11 +291,25 @@
           "source": "知乎",
           "ranks": [
             8,
-            13
+            13,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时10分 ~ 05时53分]"
+          "appearance_count": 4,
+          "time_info": "[03时10分 ~ 06时52分]"
+        },
+        {
+          "title": "梁文锋打新宇树科技 1.8 亿获配 120 万股，账面浮盈或超 7.04 亿元，怎样解读他的这一布局？",
+          "url": "https://www.zhihu.com/question/2071189146777773055",
+          "source": "知乎",
+          "ranks": [
+            13,
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时10分 ~ 06时52分]"
         },
         {
           "title": "如何看待 Deepseek Harness 发布？",
@@ -265,102 +322,46 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时10分 ~ 05时53分]"
-        },
-        {
-          "title": "梁文锋打新宇树科技 1.8 亿获配 120 万股，账面浮盈或超 7.04 亿元，怎样解读他的这一布局？",
-          "url": "https://www.zhihu.com/question/2071189146777773055",
-          "source": "知乎",
-          "ranks": [
-            13,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时10分 ~ 05时53分]"
-        },
-        {
-          "title": "DeepSeek官方Agent发布",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%AE%98%E6%96%B9Agent%E5%8F%91%E5%B8%83",
-          "source": "bilibili 热搜",
-          "ranks": [
-            23,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时10分 ~ 05时53分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "婚姻 结婚 离婚 彩礼",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "男子补办结婚证发现有两个妻子",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%A1%A5%E5%8A%9E%E7%BB%93%E5%A9%9A%E8%AF%81%E5%8F%91%E7%8E%B0%E6%9C%89%E4%B8%A4%E4%B8%AA%E5%A6%BB%E5%AD%90",
-          "source": "百度热搜",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时10分 ~ 05时53分]"
-        },
-        {
-          "title": "婚外胚胎案男方已撤销离婚，撤销离婚是否意味此事就此结束？还存在哪些疑点吗？",
-          "url": "https://www.zhihu.com/question/2071327029220172908",
-          "source": "知乎",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时10分 ~ 05时53分]"
-        },
-        {
-          "title": "银行能办结婚证了",
-          "url": "https://www.toutiao.com/trending/7673168461392445446/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时10分 ~ 05时53分]"
-        },
-        {
-          "title": "结婚登记好像也没多大意义",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BB%93%E5%A9%9A%E7%99%BB%E8%AE%B0%E5%A5%BD%E5%83%8F%E4%B9%9F%E6%B2%A1%E5%A4%9A%E5%A4%A7%E6%84%8F%E4%B9%89%23&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时10分 ~ 05时53分]"
-        },
-        {
-          "title": "男子健身房指导女友被要求看结婚证",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%81%A5%E8%BA%AB%E6%88%BF%E6%8C%87%E5%AF%BC%E5%A5%B3%E5%8F%8B%E8%A2%AB%E8%A6%81%E6%B1%82%E7%9C%8B%E7%BB%93%E5%A9%9A%E8%AF%81%23&t=31&band_rank=13&Refer=top",
-          "source": "微博",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时10分 ~ 05时53分]"
         }
       ]
     },
     {
       "keyword_group": "经济 经济学",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "美国能源部长赖特：美国知道每天有多少艘船只进出霍尔木兹海峡。 每天有800万至900万桶石油经由霍尔木兹海峡运输。 伊朗正试图以全球经济为要挟。 美国护送和运送货物的能力正在增强。 霍尔木兹海峡石油运输量将继续增加。",
+          "url": "https://wallstreetcn.com/livenews/3149346",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时52分"
+        },
+        {
+          "title": "美联储古尔斯比：美国经济保持稳定。",
+          "url": "https://flash.jin10.com/detail/20260814061426852800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时52分"
+        },
+        {
+          "title": "美国芝加哥联储主席Goolsbee（2027年FOMC票委）：最新通胀数据“略有改善”。 用一个词来形容美国的经济，那就是“稳定”。",
+          "url": "https://wallstreetcn.com/livenews/3149342",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时52分"
+        },
         {
           "title": "一图世界｜快被烤干的莱茵河？历史性低水位冲击欧洲经济",
           "url": "https://m.thepaper.cn/newsDetail_forward_33776256",
@@ -370,8 +371,20 @@
             14
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时10分 ~ 06时52分]"
+        },
+        {
+          "title": "惠誉：美国的评级得益于庞大的经济、高人均收入、活跃的商业环境和卓越的融资灵活性。预计美国2026-2027年经济增长将保持相对韧性，达到1.9%，但低于2025年的2.8%。2026年美国劳动力需求减弱，职位创造显著下降。",
+          "url": "https://wallstreetcn.com/livenews/3149321",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            24
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时10分 ~ 05时53分]"
+          "time_info": "[05时53分 ~ 06时52分]"
         },
         {
           "title": "博主：日本经济深陷无解死局",
@@ -384,17 +397,113 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时10分 ~ 05时53分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "婚姻 结婚 离婚 彩礼",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "婚外胚胎案男方已撤销离婚，撤销离婚是否意味此事就此结束？还存在哪些疑点吗？",
+          "url": "https://www.zhihu.com/question/2071327029220172908",
+          "source": "知乎",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时10分 ~ 06时52分]"
         },
         {
-          "title": "惠誉：美国的评级得益于庞大的经济、高人均收入、活跃的商业环境和卓越的融资灵活性。预计美国2026-2027年经济增长将保持相对韧性，达到1.9%，但低于2025年的2.8%。2026年美国劳动力需求减弱，职位创造显著下降。",
-          "url": "https://wallstreetcn.com/livenews/3149321",
-          "source": "华尔街见闻-快讯",
+          "title": "银行能办结婚证了",
+          "url": "https://www.toutiao.com/trending/7673168461392445446/",
+          "source": "今日头条",
           "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时10分 ~ 06时52分]"
+        },
+        {
+          "title": "男子补办结婚证发现有两个妻子",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%A1%A5%E5%8A%9E%E7%BB%93%E5%A9%9A%E8%AF%81%E5%8F%91%E7%8E%B0%E6%9C%89%E4%B8%A4%E4%B8%AA%E5%A6%BB%E5%AD%90",
+          "source": "百度热搜",
+          "ranks": [
+            7,
+            6,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时10分 ~ 06时52分]"
+        },
+        {
+          "title": "结婚登记好像也没多大意义",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BB%93%E5%A9%9A%E7%99%BB%E8%AE%B0%E5%A5%BD%E5%83%8F%E4%B9%9F%E6%B2%A1%E5%A4%9A%E5%A4%A7%E6%84%8F%E4%B9%89%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时10分 ~ 06时52分]"
+        },
+        {
+          "title": "男子健身房指导女友被要求看结婚证",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%81%A5%E8%BA%AB%E6%88%BF%E6%8C%87%E5%AF%BC%E5%A5%B3%E5%8F%8B%E8%A2%AB%E8%A6%81%E6%B1%82%E7%9C%8B%E7%BB%93%E5%A9%9A%E8%AF%81%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时10分 ~ 06时52分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "房价 买房",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "哭晕,博士高杠杆买房亏惨",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357348&amp;topic_name=%E5%93%AD%E6%99%95%2C%E5%8D%9A%E5%A3%AB%E9%AB%98%E6%9D%A0%E6%9D%86%E4%B9%B0%E6%88%BF%E4%BA%8F%E6%83%A8",
+          "source": "贴吧",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时10分 ~ 06时52分]"
+        },
+        {
+          "title": "深圳女生一天1500专门劝人别买房",
+          "url": "https://s.weibo.com/weibo?q=%E6%B7%B1%E5%9C%B3%E5%A5%B3%E7%94%9F%E4%B8%80%E5%A4%A91500%E4%B8%93%E9%97%A8%E5%8A%9D%E4%BA%BA%E5%88%AB%E4%B9%B0%E6%88%BF&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8,
+            17,
             15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时10分 ~ 06时52分]"
+        },
+        {
+          "title": "新西兰联储：金融政策委员会考虑了房价发展、近期抵押贷款的风险状况以及借款人的财务压力。",
+          "url": "https://flash.jin10.com/detail/20260814060455667800",
+          "source": "金十数据",
+          "ranks": [
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时53分"
+          "time_info": "06时52分"
         }
       ]
     },
@@ -410,8 +519,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时10分 ~ 05时53分]"
+          "appearance_count": 4,
+          "time_info": "[03时10分 ~ 06时52分]"
         },
         {
           "title": "如何看待 4 月 4 日清明出生、高考 444 分的考生被殡葬专业录取引发热议？殡葬专业真实就业前景如何？",
@@ -419,40 +528,12 @@
           "source": "知乎",
           "ranks": [
             19,
-            17
+            17,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时10分 ~ 05时53分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "房价 买房",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "哭晕,博士高杠杆买房亏惨",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357348&amp;topic_name=%E5%93%AD%E6%99%95%2C%E5%8D%9A%E5%A3%AB%E9%AB%98%E6%9D%A0%E6%9D%86%E4%B9%B0%E6%88%BF%E4%BA%8F%E6%83%A8",
-          "source": "贴吧",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时10分 ~ 05时53分]"
-        },
-        {
-          "title": "深圳女生一天1500专门劝人别买房",
-          "url": "https://s.weibo.com/weibo?q=%E6%B7%B1%E5%9C%B3%E5%A5%B3%E7%94%9F%E4%B8%80%E5%A4%A91500%E4%B8%93%E9%97%A8%E5%8A%9D%E4%BA%BA%E5%88%AB%E4%B9%B0%E6%88%BF&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时10分 ~ 05时53分]"
+          "appearance_count": 4,
+          "time_info": "[03时10分 ~ 06时52分]"
         }
       ]
     },
@@ -465,11 +546,12 @@
           "url": "https://wallstreetcn.com/livenews/3149320",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            16,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时53分 ~ 06时52分]"
         },
         {
           "title": "周四（8月13日），美股行业ETF普遍收涨，房地产ETF涨1.42%，日常消费ETF涨1.07%，半导体ETF涨0.76%，金融精选ETF涨0.56%，太阳能ETF、可选消费ETF、地区银行、公用事业ETF涨0.42%-0.48%不等。医疗保健ETF则微跌0.04%。",
@@ -478,7 +560,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时53分"
         }
@@ -496,8 +578,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时10分 ~ 05时53分]"
+          "appearance_count": 4,
+          "time_info": "[03时10分 ~ 06时52分]"
         },
         {
           "title": "《欢迎来龙餐馆》电影里为什么要安排把赛夫一只眼睛炸坏的情节?",
@@ -522,11 +604,12 @@
           "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%99%90%E5%BE%85%E4%BA%B2%E7%94%9F%E5%A5%B3%E5%84%BF%E8%87%B4%E6%AD%BB%E5%90%8E%E6%82%A3%E9%87%8D%E5%BA%A6%E6%8A%91%E9%83%81%23&t=31&band_rank=23&Refer=top",
           "source": "微博",
           "ranks": [
-            23
+            23,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时53分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时53分 ~ 06时52分]"
         }
       ]
     },
@@ -539,11 +622,12 @@
           "url": "https://wallstreetcn.com/livenews/3149323",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            13,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时53分 ~ 06时52分]"
         }
       ]
     },
@@ -560,8 +644,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时10分 ~ 05时53分]"
+          "appearance_count": 4,
+          "time_info": "[03时10分 ~ 06时52分]"
         }
       ]
     },
@@ -577,8 +661,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时10分 ~ 05时53分]"
+          "appearance_count": 4,
+          "time_info": "[03时10分 ~ 06时52分]"
         }
       ]
     }
