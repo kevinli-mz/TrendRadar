@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-14T07:50:15.176318+08:00",
-  "total_titles_processed": 525,
+  "generated_at": "2026-08-14T10:25:52.146891+08:00",
+  "total_titles_processed": 701,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型",
-      "match_count": 16,
+      "match_count": 21,
       "titles": [
         {
           "title": "AI给假网,吧友中招银狐病毒",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时10分 ~ 07时50分]"
+          "appearance_count": 7,
+          "time_info": "[03时10分 ~ 10时25分]"
         },
         {
           "title": "受益AI需求外溢，中芯国际Q2营收突破30亿美元，净利暴增近4倍，Q3收入环比预增2%至4%｜财报见闻",
@@ -25,11 +25,12 @@
           "ranks": [
             10,
             9,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时10分 ~ 07时50分]"
+          "appearance_count": 7,
+          "time_info": "[03时10分 ~ 10时25分]"
         },
         {
           "title": "用AI给小时候的自己做头像",
@@ -41,8 +42,47 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时10分 ~ 07时50分]"
+          "appearance_count": 7,
+          "time_info": "[03时10分 ~ 10时25分]"
+        },
+        {
+          "title": "AI拍出中国版怪奇物语",
+          "url": "https://www.douyin.com/hot/2608564",
+          "source": "抖音",
+          "ranks": [
+            22,
+            17,
+            19,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[03时10分 ~ 10时25分]"
+        },
+        {
+          "title": "用AI给朋友做个专属小游戏",
+          "url": "https://www.douyin.com/hot/2608715",
+          "source": "抖音",
+          "ranks": [
+            21,
+            19,
+            18,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[03时10分 ~ 10时25分]"
+        },
+        {
+          "title": "光速关服,AI虚拟歌姬停运",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357199&amp;topic_name=%E5%85%89%E9%80%9F%E5%85%B3%E6%9C%8D%2CAI%E8%99%9A%E6%8B%9F%E6%AD%8C%E5%A7%AC%E5%81%9C%E8%BF%90",
+          "source": "贴吧",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[03时10分 ~ 10时25分]"
         },
         {
           "title": "AI服务器订单爆发！联想Q1财季营收同比增43%，经调整净利润增176%，股价大涨创新高 | 财报见闻",
@@ -58,41 +98,26 @@
           "time_info": "[03时10分 ~ 07时50分]"
         },
         {
-          "title": "AI拍出中国版怪奇物语",
-          "url": "https://www.douyin.com/hot/2608564",
-          "source": "抖音",
+          "title": "铜铝需求逻辑正在从地产转向AI、电网和电气化",
+          "url": "https://flash.jin10.com/detail/20260814095652362800",
+          "source": "金十数据",
           "ranks": [
-            22,
-            17,
-            19
+            1
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时10分 ~ 07时50分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时25分"
         },
         {
-          "title": "用AI给朋友做个专属小游戏",
-          "url": "https://www.douyin.com/hot/2608715",
-          "source": "抖音",
+          "title": "LG与英伟达签署关于机器人、AI工厂和行动技术的备忘录。",
+          "url": "https://wallstreetcn.com/livenews/3149425",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            21,
-            19,
-            18
+            3
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时10分 ~ 07时50分]"
-        },
-        {
-          "title": "光速关服,AI虚拟歌姬停运",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357199&amp;topic_name=%E5%85%89%E9%80%9F%E5%85%B3%E6%9C%8D%2CAI%E8%99%9A%E6%8B%9F%E6%AD%8C%E5%A7%AC%E5%81%9C%E8%BF%90",
-          "source": "贴吧",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时10分 ~ 07时50分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时25分"
         },
         {
           "title": "苹果在休斯顿开设先进制造中心，宣布将在今年开始在休斯顿生产Mac Mini。 苹果在休斯顿投资数亿美元，首批先进AI服务器已发货。",
@@ -165,6 +190,17 @@
           "time_info": "03时10分"
         },
         {
+          "title": "A股AI应用方向开盘拉升，理工能科2连板，石基信息、久其软件直线涨停，大恒科技、合合信息、达梦数据跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3149415",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时25分"
+        },
+        {
           "title": "据悉OpenAI年化营收突破400亿美元",
           "url": "https://flash.jin10.com/detail/20260814055506381800",
           "source": "金十数据",
@@ -187,6 +223,17 @@
           "time_info": "03时10分"
         },
         {
+          "title": "中芯国际赵海军：下半年人工智能产生的产业推动与溢出效应还将持续",
+          "url": "https://wallstreetcn.com/livenews/3149402",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时25分"
+        },
+        {
           "title": "谷歌推出新版 Gemini Flash，但顶级AI模型仍延迟发布",
           "url": "https://wallstreetcn.com/livenews/3149263",
           "source": "华尔街见闻-快讯",
@@ -196,25 +243,24 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时10分"
+        },
+        {
+          "title": "中芯国际高管：下半年，人工智能产生的产业推动与溢出效应还将继续为集成电路制造带来广泛需求。",
+          "url": "https://wallstreetcn.com/livenews/3149386",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时25分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 13,
+      "match_count": 18,
       "titles": [
-        {
-          "title": "怎么看 DeepSeek 8 月 17 日涨价后的价格，这个峰谷定价你接受吗？",
-          "url": "https://www.zhihu.com/question/2071318356477662328",
-          "source": "知乎",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时10分 ~ 07时50分]"
-        },
         {
           "title": "如何评价在 8 月 13 日发布的 DeepSeek Harness？",
           "url": "https://www.zhihu.com/question/2071335529577239335",
@@ -224,8 +270,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时10分 ~ 07时50分]"
+          "appearance_count": 7,
+          "time_info": "[03时10分 ~ 10时25分]"
+        },
+        {
+          "title": "怎么看 DeepSeek 8 月 17 日涨价后的价格，这个峰谷定价你接受吗？",
+          "url": "https://www.zhihu.com/question/2071318356477662328",
+          "source": "知乎",
+          "ranks": [
+            1,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[03时10分 ~ 10时25分]"
         },
         {
           "title": "俱往矣!DeepSeek大幅涨价",
@@ -235,8 +294,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时10分 ~ 07时50分]"
+          "appearance_count": 7,
+          "time_info": "[03时10分 ~ 10时25分]"
         },
         {
           "title": "DeepSeek宣布API涨价，8月17日起峰值价格最高涨至27元，新版V4 Pro正式上线",
@@ -248,8 +307,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时10分 ~ 07时50分]"
+          "appearance_count": 7,
+          "time_info": "[03时10分 ~ 10时25分]"
         },
         {
           "title": "DeepSeek官方Agent发布",
@@ -259,11 +318,12 @@
             23,
             14,
             5,
-            2
+            2,
+            21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时10分 ~ 07时50分]"
+          "appearance_count": 7,
+          "time_info": "[03时10分 ~ 10时25分]"
         },
         {
           "title": "DeepSeek API确认涨价",
@@ -318,6 +378,39 @@
           "time_info": "[03时10分 ~ 07时50分]"
         },
         {
+          "title": "一次看懂DeepSeek新模型",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E6%AC%A1%E7%9C%8B%E6%87%82DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时25分"
+        },
+        {
+          "title": "DeepSeek发布调价公告",
+          "url": "https://www.douyin.com/hot/2608709",
+          "source": "抖音",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时25分"
+        },
+        {
+          "title": "为什么DeepSeek越涨价越是价格屠夫",
+          "url": "https://www.toutiao.com/trending/7673637537293798953/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时25分"
+        },
+        {
           "title": "怎么看 DeepSeek Harness 正式开源，采用一切皆插件的架构？",
           "url": "https://www.zhihu.com/question/2071348486667237276",
           "source": "知乎",
@@ -335,11 +428,12 @@
           "url": "https://wallstreetcn.com/articles/3779385",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时49分 ~ 07时50分]"
+          "appearance_count": 3,
+          "time_info": "[07时49分 ~ 10时25分]"
         },
         {
           "title": "如何看待 Deepseek Harness 发布？",
@@ -363,12 +457,34 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时49分 ~ 07时50分]"
+        },
+        {
+          "title": "DeepSeek Harness 来了，它不想做下一个Codex",
+          "url": "https://wallstreetcn.com/articles/3779390",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时25分"
+        },
+        {
+          "title": "如何看待 DeepSeek 撤回 v4Pro 正式版的公告？",
+          "url": "https://www.zhihu.com/question/2071225352072999482",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时25分"
         }
       ]
     },
     {
       "keyword_group": "经济 经济学",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "一图世界｜快被烤干的莱茵河？历史性低水位冲击欧洲经济",
@@ -380,8 +496,19 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时10分 ~ 07时50分]"
+          "appearance_count": 7,
+          "time_info": "[03时10分 ~ 10时25分]"
+        },
+        {
+          "title": "巴西启动经济对等法案程序反制美新关税措施",
+          "url": "https://wallstreetcn.com/livenews/3149431",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时25分"
         },
         {
           "title": "美国财长贝森特：我们将继续对伊朗经济实施制裁，并在霍尔木兹海峡保持持续的封锁。我们将禁止任何物品进出伊朗港口。",
@@ -390,7 +517,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时50分"
         },
@@ -461,7 +588,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时50分"
         },
@@ -472,7 +599,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时50分"
         },
@@ -483,7 +610,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时50分"
         }
@@ -491,7 +618,7 @@
     },
     {
       "keyword_group": "婚姻 结婚 离婚 彩礼",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "婚外胚胎案男方已撤销离婚，撤销离婚是否意味此事就此结束？还存在哪些疑点吗？",
@@ -561,22 +688,24 @@
           "url": "https://s.weibo.com/weibo?q=%E9%93%B6%E8%A1%8C%E8%83%BD%E5%8A%9E%E7%BB%93%E5%A9%9A%E8%AF%81%E4%BA%86&t=31&band_rank=7&Refer=top",
           "source": "微博",
           "ranks": [
-            7
+            7,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时49分 ~ 07时50分]"
+          "appearance_count": 3,
+          "time_info": "[07时49分 ~ 10时25分]"
         },
         {
           "title": "男子健身房指导女友 被要求看结婚证",
           "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%81%A5%E8%BA%AB%E6%88%BF%E6%8C%87%E5%AF%BC%E5%A5%B3%E5%8F%8B+%E8%A2%AB%E8%A6%81%E6%B1%82%E7%9C%8B%E7%BB%93%E5%A9%9A%E8%AF%81",
           "source": "百度热搜",
           "ranks": [
-            17
+            17,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时49分 ~ 07时50分]"
+          "appearance_count": 3,
+          "time_info": "[07时49分 ~ 10时25分]"
         },
         {
           "title": "重器秦志高病态婚姻",
@@ -588,6 +717,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时49分 ~ 07时50分]"
+        },
+        {
+          "title": "姜潮 我也是第一次结婚",
+          "url": "https://s.weibo.com/weibo?q=%E5%A7%9C%E6%BD%AE%20%E6%88%91%E4%B9%9F%E6%98%AF%E7%AC%AC%E4%B8%80%E6%AC%A1%E7%BB%93%E5%A9%9A&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时25分"
         }
       ]
     },
@@ -603,8 +743,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时10分 ~ 07时50分]"
+          "appearance_count": 7,
+          "time_info": "[03时10分 ~ 10时25分]"
         },
         {
           "title": "深圳女生一天1500专门劝人别买房",
@@ -634,6 +774,74 @@
       ]
     },
     {
+      "keyword_group": "电影 影视 综艺",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "画面灾难,劣质动画电影上映圈钱",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357311&amp;topic_name=%E7%94%BB%E9%9D%A2%E7%81%BE%E9%9A%BE%2C%E5%8A%A3%E8%B4%A8%E5%8A%A8%E7%94%BB%E7%94%B5%E5%BD%B1%E4%B8%8A%E6%98%A0%E5%9C%88%E9%92%B1",
+          "source": "贴吧",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[03时10分 ~ 10时25分]"
+        },
+        {
+          "title": "《欢迎来龙餐馆》电影里为什么要安排把赛夫一只眼睛炸坏的情节?",
+          "url": "https://www.zhihu.com/question/2070195504701560422",
+          "source": "知乎",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时10分 ~ 05时53分]"
+        },
+        {
+          "title": "电影《牛来》上映9天票房7169元",
+          "url": "https://www.toutiao.com/trending/7673370504196685860/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "年轻人 00后 35岁",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "王老吉杀进年轻人扎堆的新赛道",
+          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E8%80%81%E5%90%89%E6%9D%80%E8%BF%9B%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%89%8E%E5%A0%86%E7%9A%84%E6%96%B0%E8%B5%9B%E9%81%93",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时25分"
+        },
+        {
+          "title": "2027年最后一批“00后”也将成年",
+          "url": "https://www.toutiao.com/trending/7673117692782346249/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时25分"
+        }
+      ]
+    },
+    {
       "keyword_group": "就业 失业 裁员 应届生",
       "match_count": 2,
       "titles": [
@@ -642,11 +850,12 @@
           "url": "https://www.zhihu.com/question/2055941945738933824",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时10分 ~ 07时50分]"
+          "appearance_count": 7,
+          "time_info": "[03时10分 ~ 10时25分]"
         },
         {
           "title": "如何看待 4 月 4 日清明出生、高考 444 分的考生被殡葬专业录取引发热议？殡葬专业真实就业前景如何？",
@@ -655,11 +864,40 @@
           "ranks": [
             19,
             17,
-            12
+            12,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时10分 ~ 07时50分]"
+          "appearance_count": 7,
+          "time_info": "[03时10分 ~ 10时25分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "考公 考研 上岸",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "8个月不上岸,林肯号水兵崩溃",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357319&amp;topic_name=8%E4%B8%AA%E6%9C%88%E4%B8%8D%E4%B8%8A%E5%B2%B8%2C%E6%9E%97%E8%82%AF%E5%8F%B7%E6%B0%B4%E5%85%B5%E5%B4%A9%E6%BA%83",
+          "source": "贴吧",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[03时10分 ~ 10时25分]"
+        },
+        {
+          "title": "美航母250天不上岸的背后",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%88%AA%E6%AF%8D250%E5%A4%A9%E4%B8%8D%E4%B8%8A%E5%B2%B8%E7%9A%84%E8%83%8C%E5%90%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时25分"
         }
       ]
     },
@@ -689,35 +927,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "电影 影视 综艺",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "画面灾难,劣质动画电影上映圈钱",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357311&amp;topic_name=%E7%94%BB%E9%9D%A2%E7%81%BE%E9%9A%BE%2C%E5%8A%A3%E8%B4%A8%E5%8A%A8%E7%94%BB%E7%94%B5%E5%BD%B1%E4%B8%8A%E6%98%A0%E5%9C%88%E9%92%B1",
-          "source": "贴吧",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时10分 ~ 07时50分]"
-        },
-        {
-          "title": "《欢迎来龙餐馆》电影里为什么要安排把赛夫一只眼睛炸坏的情节?",
-          "url": "https://www.zhihu.com/question/2070195504701560422",
-          "source": "知乎",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时10分 ~ 05时53分]"
         }
       ]
     },
@@ -771,25 +980,42 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时10分 ~ 07时50分]"
+          "appearance_count": 7,
+          "time_info": "[03时10分 ~ 10时25分]"
         }
       ]
     },
     {
-      "keyword_group": "考公 考研 上岸",
+      "keyword_group": "性别 男女 女性",
       "match_count": 1,
       "titles": [
         {
-          "title": "8个月不上岸,林肯号水兵崩溃",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357319&amp;topic_name=8%E4%B8%AA%E6%9C%88%E4%B8%8D%E4%B8%8A%E5%B2%B8%2C%E6%9E%97%E8%82%AF%E5%8F%B7%E6%B0%B4%E5%85%B5%E5%B4%A9%E6%BA%83",
-          "source": "贴吧",
+          "title": "国乒男女双全军覆没",
+          "url": "https://s.weibo.com/weibo?q=%E5%9B%BD%E4%B9%92%E7%94%B7%E5%A5%B3%E5%8F%8C%E5%85%A8%E5%86%9B%E8%A6%86%E6%B2%A1&t=31&band_rank=14&Refer=top",
+          "source": "微博",
           "ranks": [
-            24
+            14
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时10分 ~ 07时50分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "ChatGPT openai Sora",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "国科投资领投ChatGPT核心贡献者，亮源新创获数亿元Pre-A轮融资",
+          "url": "https://wallstreetcn.com/livenews/3149391",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时25分"
         }
       ]
     }
