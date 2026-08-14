@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-15T01:04:38.365055+08:00",
-  "total_titles_processed": 307,
+  "generated_at": "2026-08-15T03:02:48.014101+08:00",
+  "total_titles_processed": 396,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "如何评价北京协和医院住院医用 AI 解决了困扰数学界的难题 Crouzeix 猜想？",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时03分 ~ 01时04分]"
+          "appearance_count": 3,
+          "time_info": "[01时03分 ~ 03时02分]"
         },
         {
           "title": "人工智能激活力 “新”意盎然促发展",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时03分 ~ 01时04分]"
+          "appearance_count": 3,
+          "time_info": "[01时03分 ~ 03时02分]"
         },
         {
           "title": "英伟达CPO交换机全面量产，AI数据中心迈入“硅光时代”！",
@@ -37,8 +37,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时03分 ~ 01时04分]"
+          "appearance_count": 3,
+          "time_info": "[01时03分 ~ 03时02分]"
         },
         {
           "title": "中国AI把价格打下来，美国巨头一口气降80%",
@@ -48,8 +48,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时03分 ~ 01时04分]"
+          "appearance_count": 3,
+          "time_info": "[01时03分 ~ 03时02分]"
         },
         {
           "title": "发力中国市场！据称苹果训练了一款“中国定制”大模型，开启AI双轨布局",
@@ -59,8 +59,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时03分 ~ 01时04分]"
+          "appearance_count": 3,
+          "time_info": "[01时03分 ~ 03时02分]"
         },
         {
           "title": "围棋与境界、修养之类的东西毫无关系，能赢是因为计算力强，这么明显的道理在 AI 以前人们怎么不懂？",
@@ -70,19 +70,32 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时03分 ~ 01时04分]"
+          "appearance_count": 3,
+          "time_info": "[01时03分 ~ 03时02分]"
         },
         {
           "title": "AI给假网,吧友中招银狐病毒",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357340&amp;topic_name=AI%E7%BB%99%E5%81%87%E7%BD%91%2C%E5%90%A7%E5%8F%8B%E4%B8%AD%E6%8B%9B%E9%93%B6%E7%8B%90%E7%97%85%E6%AF%92",
           "source": "贴吧",
           "ranks": [
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时03分 ~ 01时04分]"
+          "appearance_count": 3,
+          "time_info": "[01时03分 ~ 03时02分]"
+        },
+        {
+          "title": "用AI给小时候的自己做头像",
+          "url": "https://www.douyin.com/hot/2608882",
+          "source": "抖音",
+          "ranks": [
+            21,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时03分 ~ 03时02分]"
         },
         {
           "title": "对话卡内基梅隆大学教授鲁斯兰（下）：AI时代，我们站在怎样的分岔口？",
@@ -96,24 +109,13 @@
           "time_info": "[01时03分 ~ 01时04分]"
         },
         {
-          "title": "用AI给小时候的自己做头像",
-          "url": "https://www.douyin.com/hot/2608882",
-          "source": "抖音",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时03分 ~ 01时04分]"
-        },
-        {
           "title": "马斯克：由于电力供应不足以及地面设施审批困难，到2029年左右，轨道计算（即太空计算平台）可能是大规模扩展AI的唯一出路。",
           "url": "https://flash.jin10.com/detail/20260815005338193800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
         },
@@ -124,7 +126,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
         },
@@ -135,7 +137,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
         },
@@ -146,9 +148,115 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
+        },
+        {
+          "title": "SpaceXAI：在GitHub Copilot中推出Grok 4.6模型。",
+          "url": "https://flash.jin10.com/detail/20260815014057611800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时02分"
+        },
+        {
+          "title": "美联储古尔斯比表示，支持7月维持利率不变的决定。他指出，近期两次生产率数据表现不理想，若生产率继续走低，美联储可能需要重新审视市场对人工智能（AI）的预期。 古尔斯比表示，最新CPI数据令人鼓舞，但仍需观察更多数据才能作出判断；持续的消费疲软令人担忧，不过零售销售疲弱目前仅是单月表现。与此同时，美国GDP和劳动力市场整体保持基本稳定。",
+          "url": "https://wallstreetcn.com/livenews/3149829",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "经济 经济学",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "白宫新闻秘书莱维特表示，美国还有更多施压伊朗的手段。美国可以继续惩罚伊朗并削弱其经济。",
+          "url": "https://wallstreetcn.com/livenews/3149851",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时02分"
+        },
+        {
+          "title": "白宫新闻秘书莱维特：我们还有更多施压伊朗的手段。美国可以继续惩罚伊朗并削弱其经济。",
+          "url": "https://flash.jin10.com/detail/20260815021403053800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时02分"
+        },
+        {
+          "title": "马科斯：没想疏远中国，看好经济合作",
+          "url": "https://news.ifeng.com/c/8vaSjYUOLg5",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时03分 ~ 03时02分]"
+        },
+        {
+          "title": "马科斯：没想疏远中国 看好经济合作",
+          "url": "https://www.toutiao.com/trending/7673781824950124563/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时03分 ~ 03时02分]"
+        },
+        {
+          "title": "特朗普：美国经济表现“难以置信地好” 盛赞股市",
+          "url": "https://wallstreetcn.com/livenews/3149842",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时02分"
+        },
+        {
+          "title": "美国据称更倾向于对古巴施加经济压力，而不是动用军事手段。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3149832",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时02分"
+        },
+        {
+          "title": "美国总统特朗普：经济表现好得令人难以置信。",
+          "url": "https://flash.jin10.com/detail/20260815012708562800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时02分"
         }
       ]
     },
@@ -163,7 +271,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
         },
@@ -174,7 +282,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
         },
@@ -185,7 +293,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
         },
@@ -196,7 +304,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
         },
@@ -207,7 +315,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
         }
@@ -225,30 +333,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时03分 ~ 01时04分]"
-        },
-        {
-          "title": "从“龙餐馆”看中国电影工业产业链",
-          "url": "https://www.toutiao.com/trending/7673556442691534875/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时03分 ~ 01时04分]"
+          "appearance_count": 3,
+          "time_info": "[01时03分 ~ 03时02分]"
         },
         {
           "title": "电影空枪8月19日全国上映",
           "url": "https://www.douyin.com/hot/2609800",
           "source": "抖音",
           "ranks": [
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时03分 ~ 01时04分]"
+          "appearance_count": 3,
+          "time_info": "[01时03分 ~ 03时02分]"
         },
         {
           "title": "动画电影牛来票房7000多",
@@ -258,8 +356,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时03分 ~ 01时04分]"
+          "appearance_count": 3,
+          "time_info": "[01时03分 ~ 03时02分]"
         },
         {
           "title": "画面灾难,劣质动画电影上映圈钱",
@@ -267,6 +365,17 @@
           "source": "贴吧",
           "ranks": [
             29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时03分 ~ 03时02分]"
+        },
+        {
+          "title": "从“龙餐馆”看中国电影工业产业链",
+          "url": "https://www.toutiao.com/trending/7673556442691534875/",
+          "source": "今日头条",
+          "ranks": [
+            14
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -286,19 +395,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时03分 ~ 01时04分]"
+          "appearance_count": 3,
+          "time_info": "[01时03分 ~ 03时02分]"
         },
         {
           "title": "一步到位,银行能领结婚证",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357454&amp;topic_name=%E4%B8%80%E6%AD%A5%E5%88%B0%E4%BD%8D%2C%E9%93%B6%E8%A1%8C%E8%83%BD%E9%A2%86%E7%BB%93%E5%A9%9A%E8%AF%81",
           "source": "贴吧",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时03分 ~ 01时04分]"
+          "appearance_count": 3,
+          "time_info": "[01时03分 ~ 03时02分]"
         },
         {
           "title": "SK集团会长崔泰源就9440亿韩元离婚判决提起上诉。（韩联社）",
@@ -307,7 +417,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
         }
@@ -322,33 +432,36 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357469&amp;topic_name=Bin%E6%88%90%E6%8E%A5%E5%A4%B4%E6%9A%97%E5%8F%B7%2C%E6%81%8B%E7%BB%BC%E7%94%B7%E5%A5%B3%E7%9C%8B%E5%AF%B9%E7%9C%BC",
           "source": "贴吧",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时03分 ~ 01时04分]"
-        },
-        {
-          "title": "国乒男女双全军覆没",
-          "url": "https://www.toutiao.com/trending/7673729998800293418/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时03分 ~ 01时04分]"
+          "appearance_count": 3,
+          "time_info": "[01时03分 ~ 03时02分]"
         },
         {
           "title": "WTT瑞典站国乒男女双遭淘汰",
           "url": "https://www.douyin.com/hot/2608948",
           "source": "抖音",
           "ranks": [
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时03分 ~ 01时04分]"
+          "appearance_count": 3,
+          "time_info": "[01时03分 ~ 03时02分]"
+        },
+        {
+          "title": "国乒男女双全军覆没",
+          "url": "https://www.toutiao.com/trending/7673729998800293418/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时03分 ~ 03时02分]"
         }
       ]
     },
@@ -361,11 +474,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357395&amp;topic_name=%E4%BF%B1%E5%BE%80%E7%9F%A3%21DeepSeek%E5%A4%A7%E5%B9%85%E6%B6%A8%E4%BB%B7",
           "source": "贴吧",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时03分 ~ 01时04分]"
+          "appearance_count": 3,
+          "time_info": "[01时03分 ~ 03时02分]"
         },
         {
           "title": "DeepSeek Harness实测",
@@ -375,8 +489,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时03分 ~ 01时04分]"
+          "appearance_count": 3,
+          "time_info": "[01时03分 ~ 03时02分]"
         },
         {
           "title": "网友热议DeepSeek Harness：“自进化软件”的雏形",
@@ -386,36 +500,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时03分 ~ 01时04分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "经济 经济学",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "马科斯：没想疏远中国，看好经济合作",
-          "url": "https://news.ifeng.com/c/8vaSjYUOLg5",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时03分 ~ 01时04分]"
-        },
-        {
-          "title": "马科斯：没想疏远中国 看好经济合作",
-          "url": "https://www.toutiao.com/trending/7673781824950124563/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时03分 ~ 01时04分]"
+          "appearance_count": 3,
+          "time_info": "[01时03分 ~ 03时02分]"
         }
       ]
     },
@@ -431,8 +517,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时03分 ~ 01时04分]"
+          "appearance_count": 3,
+          "time_info": "[01时03分 ~ 03时02分]"
         }
       ]
     },
@@ -445,11 +531,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357348&amp;topic_name=%E5%93%AD%E6%99%95%2C%E5%8D%9A%E5%A3%AB%E9%AB%98%E6%9D%A0%E6%9D%86%E4%B9%B0%E6%88%BF%E4%BA%8F%E6%83%A8",
           "source": "贴吧",
           "ranks": [
-            20
+            20,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时03分 ~ 01时04分]"
+          "appearance_count": 3,
+          "time_info": "[01时03分 ~ 03时02分]"
         }
       ]
     }
