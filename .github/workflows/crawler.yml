@@ -66,12 +66,22 @@ jobs:
           from datetime import date, timedelta
 
           RETENTION_DAYS = 7
+          # Prune at most a few days per run. The repo has a large backlog of old
+          # output/ folders; deleting them all in one commit produces a
+          # 13000-file change that GitHub rejects on push. Draining the backlog a
+          # few days at a time keeps each commit small enough to land.
+          MAX_FOLDERS_PER_RUN = 3
+
           cutoff = date.today() - timedelta(days=RETENTION_DAYS)
           pattern = re.compile(r"^(\d{4})年(\d{2})月(\d{2})日$")
 
           output_dir = "output"
+          removed = 0
           if os.path.isdir(output_dir):
               for name in sorted(os.listdir(output_dir)):
+                  if removed >= MAX_FOLDERS_PER_RUN:
+                      print(f"Reached per-run prune limit ({MAX_FOLDERS_PER_RUN}); remaining backlog will drain on later runs")
+                      break
                   match = pattern.match(name)
                   if not match:
                       continue
@@ -81,6 +91,7 @@ jobs:
                       path = os.path.join(output_dir, name)
                       print(f"Removing old output folder (past {RETENTION_DAYS}-day retention): {path}")
                       shutil.rmtree(path)
+                      removed += 1
           PY
 
       - name: Commit and push if changes
