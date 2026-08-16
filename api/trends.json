@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-17T05:26:46.287695+08:00",
-  "total_titles_processed": 460,
+  "generated_at": "2026-08-17T06:28:15.029585+08:00",
+  "total_titles_processed": 481,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时33分 ~ 05时26分]"
+          "appearance_count": 9,
+          "time_info": "[00时33分 ~ 06时28分]"
         },
         {
           "title": "【早报】英伟达缩减对OpenAI数据中心项目提供2500亿美元担保的计划；伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
@@ -26,20 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时33分 ~ 05时26分]"
-        },
-        {
-          "title": "民盟河南省委会通报：收到的一些社情民意信息存在明显AI生成痕迹",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33791922",
-          "source": "澎湃新闻",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时33分 ~ 05时26分]"
+          "appearance_count": 9,
+          "time_info": "[00时33分 ~ 06时28分]"
         },
         {
           "title": "降幅超50%！英伟达缩减对OpenAI数据中心担保规模",
@@ -49,8 +37,21 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时33分 ~ 05时26分]"
+          "appearance_count": 9,
+          "time_info": "[00时33分 ~ 06时28分]"
+        },
+        {
+          "title": "民盟河南省委会通报：收到的一些社情民意信息存在明显AI生成痕迹",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33791922",
+          "source": "澎湃新闻",
+          "ranks": [
+            4,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时33分 ~ 06时28分]"
         },
         {
           "title": "英伟达悄然缩减OpenAI数据中心担保规模，从2500亿美元降至1200亿美元以下",
@@ -60,8 +61,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时33分 ~ 05时26分]"
+          "appearance_count": 9,
+          "time_info": "[00时33分 ~ 06时28分]"
         },
         {
           "title": "周末要闻汇总：英伟达缩减对OpenAI数据中心项目担保计划；全国首个算力“Token贷”落地",
@@ -72,8 +73,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时33分 ~ 05时26分]"
+          "appearance_count": 9,
+          "time_info": "[00时33分 ~ 06时28分]"
         },
         {
           "title": "AI打破存储盛衰周期！美光目标价迎大幅上调 市值看向3万亿美元",
@@ -83,8 +84,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时33分 ~ 05时26分]"
+          "appearance_count": 9,
+          "time_info": "[00时33分 ~ 06时28分]"
         },
         {
           "title": "南极冰川现“神秘生物”系AI生成",
@@ -94,8 +95,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时33分 ~ 05时26分]"
+          "appearance_count": 9,
+          "time_info": "[00时33分 ~ 06时28分]"
         },
         {
           "title": "AI正在批量制造“幽灵”",
@@ -105,11 +106,12 @@
             22,
             21,
             20,
-            18
+            18,
+            14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时33分 ~ 05时26分]"
+          "appearance_count": 9,
+          "time_info": "[00时33分 ~ 06时28分]"
         },
         {
           "title": "明查｜南极冰川现“神秘生物”？AI又整活了",
@@ -120,19 +122,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时33分 ~ 05时26分]"
-        },
-        {
-          "title": "全球开源AI大洗牌 中国开源模型加速崛起",
-          "url": "https://wallstreetcn.com/livenews/3150072",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时33分 ~ 05时26分]"
+          "appearance_count": 9,
+          "time_info": "[00时33分 ~ 06时28分]"
         },
         {
           "title": "大爷手搓AI长片赛博英雄传",
@@ -146,8 +137,20 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时33分 ~ 04时31分]"
+          "appearance_count": 8,
+          "time_info": "[00时33分 ~ 06时28分]"
+        },
+        {
+          "title": "全球开源AI大洗牌 中国开源模型加速崛起",
+          "url": "https://wallstreetcn.com/livenews/3150072",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时33分 ~ 06时28分]"
         },
         {
           "title": "我国科学家发布大豆垂直大模型“丰菽”2.0",
@@ -166,11 +169,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            8
+            8,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时31分 ~ 05时26分]"
+          "appearance_count": 3,
+          "time_info": "[04时31分 ~ 06时28分]"
         },
         {
           "title": "AI公司或在抢购未经污染的二手书",
@@ -208,8 +212,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时33分 ~ 05时26分]"
+          "appearance_count": 9,
+          "time_info": "[00时33分 ~ 06时28分]"
         },
         {
           "title": "一组数据看中国经济的澎湃动能",
@@ -219,8 +223,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时33分 ~ 05时26分]"
+          "appearance_count": 9,
+          "time_info": "[00时33分 ~ 06时28分]"
         },
         {
           "title": "经济日报：“龙餐馆”从容迎战“奥德赛”",
@@ -231,8 +235,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时33分 ~ 05时26分]"
+          "appearance_count": 9,
+          "time_info": "[00时33分 ~ 06时28分]"
         },
         {
           "title": "伊朗第一副总统：敌人企图通过经济战来弥补其军事上的失败，我们必须予以应对。",
@@ -306,8 +310,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时33分 ~ 05时26分]"
+          "appearance_count": 9,
+          "time_info": "[00时33分 ~ 06时28分]"
         },
         {
           "title": "电影原型聊真实龙餐馆",
@@ -318,8 +322,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时33分 ~ 05时26分]"
+          "appearance_count": 9,
+          "time_info": "[00时33分 ~ 06时28分]"
         },
         {
           "title": "敲碎爸爸头骨?电影营销引不适",
@@ -330,8 +334,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时33分 ~ 05时26分]"
+          "appearance_count": 9,
+          "time_info": "[00时33分 ~ 06时28分]"
         },
         {
           "title": "锐评抽象电影女版战狼",
@@ -344,8 +348,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时33分 ~ 05时26分]"
+          "appearance_count": 9,
+          "time_info": "[00时33分 ~ 06时28分]"
         },
         {
           "title": "电影《奥德赛》表达了什么主题？",
@@ -371,11 +375,12 @@
           "source": "抖音",
           "ranks": [
             9,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时33分 ~ 05时26分]"
+          "appearance_count": 9,
+          "time_info": "[00时33分 ~ 06时28分]"
         },
         {
           "title": "铠甲勇士给00后的一封信",
@@ -387,8 +392,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时33分 ~ 05时26分]"
+          "appearance_count": 9,
+          "time_info": "[00时33分 ~ 06时28分]"
         },
         {
           "title": "编造并散布谣言“青岛大学新校徽像旭日旗”，35岁男子被行拘",
@@ -398,8 +403,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时26分 ~ 05时26分]"
+          "appearance_count": 8,
+          "time_info": "[01时26分 ~ 06时28分]"
         },
         {
           "title": "00后女儿和80后妈妈前后脚生娃",
@@ -408,11 +413,12 @@
           "ranks": [
             30,
             26,
-            9
+            9,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时26分 ~ 05时26分]"
+          "appearance_count": 6,
+          "time_info": "[01时26分 ~ 06时28分]"
         }
       ]
     },
@@ -473,8 +479,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时33分 ~ 05时26分]"
+          "appearance_count": 9,
+          "time_info": "[00时33分 ~ 06时28分]"
         },
         {
           "title": "人民日报刊文纪念江泽民同志诞辰100周年：在中国特色社会主义道路上不断创造无愧于时代和人民的新业绩",
@@ -486,8 +492,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时33分 ~ 05时26分]"
+          "appearance_count": 9,
+          "time_info": "[00时33分 ~ 06时28分]"
         },
         {
           "title": "Mina事件揭露哪些社会问题",
@@ -501,8 +507,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时33分 ~ 04时31分]"
+          "appearance_count": 8,
+          "time_info": "[00时33分 ~ 06时28分]"
         }
       ]
     },
@@ -520,19 +526,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时33分 ~ 05时26分]"
+          "appearance_count": 9,
+          "time_info": "[00时33分 ~ 06时28分]"
         },
         {
           "title": "美媒：海湾盟友对美沮丧情绪持续上升",
           "url": "https://wallstreetcn.com/livenews/3150064",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            14,
+            21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时33分 ~ 05时26分]"
+          "appearance_count": 7,
+          "time_info": "[00时33分 ~ 06时28分]"
         }
       ]
     },
@@ -552,8 +559,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时33分 ~ 05时26分]"
+          "appearance_count": 9,
+          "time_info": "[00时33分 ~ 06时28分]"
         },
         {
           "title": "就让这山风不语抚平我所有的焦虑",
@@ -564,11 +571,12 @@
             28,
             29,
             27,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时33分 ~ 05时26分]"
+          "appearance_count": 9,
+          "time_info": "[00时33分 ~ 06时28分]"
         }
       ]
     },
@@ -584,8 +592,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时33分 ~ 05时26分]"
+          "appearance_count": 9,
+          "time_info": "[00时33分 ~ 06时28分]"
         },
         {
           "title": "手机消费毁了逛街和创造力吗",
@@ -594,11 +602,12 @@
           "ranks": [
             29,
             23,
-            28
+            28,
+            21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时37分 ~ 05时26分]"
+          "appearance_count": 7,
+          "time_info": "[02时37分 ~ 06时28分]"
         }
       ]
     },
@@ -613,11 +622,12 @@
           "ranks": [
             27,
             23,
-            8
+            8,
+            24
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时26分 ~ 05时26分]"
+          "appearance_count": 8,
+          "time_info": "[01时26分 ~ 06时28分]"
         }
       ]
     },
@@ -637,8 +647,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时33分 ~ 05时26分]"
+          "appearance_count": 9,
+          "time_info": "[00时33分 ~ 06时28分]"
         }
       ]
     }
