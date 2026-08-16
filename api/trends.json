@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-17T00:33:18.825202+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-08-17T01:26:24.524713+08:00",
+  "total_titles_processed": 351,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
+          "appearance_count": 2,
+          "time_info": "[00时33分 ~ 01时26分]"
         },
         {
           "title": "民盟河南省委会通报：收到的一些社情民意信息存在明显AI生成痕迹",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
+          "appearance_count": 2,
+          "time_info": "[00时33分 ~ 01时26分]"
         },
         {
           "title": "【早报】英伟达缩减对OpenAI数据中心项目提供2500亿美元担保的计划；伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
@@ -37,8 +37,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
+          "appearance_count": 2,
+          "time_info": "[00时33分 ~ 01时26分]"
         },
         {
           "title": "降幅超50%！英伟达缩减对OpenAI数据中心担保规模",
@@ -48,8 +48,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
+          "appearance_count": 2,
+          "time_info": "[00时33分 ~ 01时26分]"
         },
         {
           "title": "英伟达悄然缩减OpenAI数据中心担保规模，从2500亿美元降至1200亿美元以下",
@@ -59,8 +59,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
+          "appearance_count": 2,
+          "time_info": "[00时33分 ~ 01时26分]"
         },
         {
           "title": "周末要闻汇总：英伟达缩减对OpenAI数据中心项目担保计划；全国首个算力“Token贷”落地",
@@ -70,8 +70,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
+          "appearance_count": 2,
+          "time_info": "[00时33分 ~ 01时26分]"
         },
         {
           "title": "全球开源AI大洗牌 中国开源模型加速崛起",
@@ -81,8 +81,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
+          "appearance_count": 2,
+          "time_info": "[00时33分 ~ 01时26分]"
         },
         {
           "title": "AI打破存储盛衰周期！美光目标价迎大幅上调 市值看向3万亿美元",
@@ -92,8 +92,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
+          "appearance_count": 2,
+          "time_info": "[00时33分 ~ 01时26分]"
         },
         {
           "title": "南极冰川现“神秘生物”系AI生成",
@@ -103,8 +103,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
+          "appearance_count": 2,
+          "time_info": "[00时33分 ~ 01时26分]"
         },
         {
           "title": "明查｜南极冰川现“神秘生物”？AI又整活了",
@@ -114,19 +114,20 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
+          "appearance_count": 2,
+          "time_info": "[00时33分 ~ 01时26分]"
         },
         {
           "title": "AI正在批量制造“幽灵”",
           "url": "https://www.baidu.com/s?wd=AI%E6%AD%A3%E5%9C%A8%E6%89%B9%E9%87%8F%E5%88%B6%E9%80%A0%E2%80%9C%E5%B9%BD%E7%81%B5%E2%80%9D",
           "source": "百度热搜",
           "ranks": [
-            22
+            22,
+            21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
+          "appearance_count": 2,
+          "time_info": "[00时33分 ~ 01时26分]"
         },
         {
           "title": "我国科学家发布大豆垂直大模型“丰菽”2.0",
@@ -136,25 +137,26 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
+          "appearance_count": 2,
+          "time_info": "[00时33分 ~ 01时26分]"
         },
         {
           "title": "大爷手搓AI长片赛博英雄传",
           "url": "https://search.bilibili.com/all?keyword=%E5%A4%A7%E7%88%B7%E6%89%8B%E6%90%93AI%E9%95%BF%E7%89%87%E8%B5%9B%E5%8D%9A%E8%8B%B1%E9%9B%84%E4%BC%A0",
           "source": "bilibili 热搜",
           "ranks": [
-            30
+            30,
+            28
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
+          "appearance_count": 2,
+          "time_info": "[00时33分 ~ 01时26分]"
         }
       ]
     },
     {
       "keyword_group": "经济 经济学",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
         {
           "title": "下周重磅日程：中国7月经济数据，阿里、小米、天孚通信、兆易创新、长飞光纤财报，宇树科技上市在即",
@@ -164,8 +166,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
+          "appearance_count": 2,
+          "time_info": "[00时33分 ~ 01时26分]"
         },
         {
           "title": "一组数据看中国经济的澎湃动能",
@@ -175,8 +177,19 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时33分 ~ 01时26分]"
+        },
+        {
+          "title": "伊朗第一副总统：敌人企图通过经济战来弥补其军事上的失败，我们必须予以应对。",
+          "url": "https://flash.jin10.com/detail/20260817010814570800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时33分"
+          "time_info": "01时26分"
         },
         {
           "title": "张柏芝有种经济上行的美",
@@ -186,8 +199,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
+          "appearance_count": 2,
+          "time_info": "[00时33分 ~ 01时26分]"
         },
         {
           "title": "经济日报：“龙餐馆”从容迎战“奥德赛”",
@@ -197,8 +210,30 @@
             18
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时33分 ~ 01时26分]"
+        },
+        {
+          "title": "加拿大总理卡尼：我们致力于在全国各地建设更多经济适用房。正因如此，我们推出了“加拿大住房计划”。通过加拿大工人、加拿大材料和加拿大技术，快速大规模地建设住房。",
+          "url": "https://flash.jin10.com/detail/20260817003208964800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时33分"
+          "time_info": "01时26分"
+        },
+        {
+          "title": "伊拉克财政部长：霍尔木兹海峡关闭对伊拉克经济产生了直接影响。",
+          "url": "https://flash.jin10.com/detail/20260817002344386800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时26分"
         },
         {
           "title": "金十整理：下周重要事件与数据预告——中国7月经济“成绩单”；阿里、百度等多家公司财报；美联储会议纪要来袭；美预告对伊进行“史无前例”的经济打击",
@@ -214,6 +249,57 @@
       ]
     },
     {
+      "keyword_group": "年轻人 00后 35岁",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "媒体评给00后的信走红",
+          "url": "https://www.douyin.com/hot/2612187",
+          "source": "抖音",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时33分 ~ 01时26分]"
+        },
+        {
+          "title": "铠甲勇士给00后的一封信",
+          "url": "https://www.douyin.com/hot/2611925",
+          "source": "抖音",
+          "ranks": [
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时33分 ~ 01时26分]"
+        },
+        {
+          "title": "编造并散布谣言“青岛大学新校徽像旭日旗”，35岁男子被行拘",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33791815",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时26分"
+        },
+        {
+          "title": "00后女儿和80后妈妈前后脚生娃",
+          "url": "https://www.toutiao.com/trending/7674453421857685540/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时26分"
+        }
+      ]
+    },
+    {
       "keyword_group": "电影 影视 综艺",
       "match_count": 4,
       "titles": [
@@ -225,8 +311,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
+          "appearance_count": 2,
+          "time_info": "[00时33分 ~ 01时26分]"
         },
         {
           "title": "电影原型聊真实龙餐馆",
@@ -236,30 +322,32 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
+          "appearance_count": 2,
+          "time_info": "[00时33分 ~ 01时26分]"
         },
         {
           "title": "敲碎爸爸头骨?电影营销引不适",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357795&amp;topic_name=%E6%95%B2%E7%A2%8E%E7%88%B8%E7%88%B8%E5%A4%B4%E9%AA%A8%3F%E7%94%B5%E5%BD%B1%E8%90%A5%E9%94%80%E5%BC%95%E4%B8%8D%E9%80%82",
           "source": "贴吧",
           "ranks": [
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
+          "appearance_count": 2,
+          "time_info": "[00时33分 ~ 01时26分]"
         },
         {
           "title": "锐评抽象电影女版战狼",
           "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84%E6%8A%BD%E8%B1%A1%E7%94%B5%E5%BD%B1%E5%A5%B3%E7%89%88%E6%88%98%E7%8B%BC",
           "source": "bilibili 热搜",
           "ranks": [
-            16
+            16,
+            14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
+          "appearance_count": 2,
+          "time_info": "[00时33分 ~ 01时26分]"
         }
       ]
     },
@@ -275,30 +363,32 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
+          "appearance_count": 2,
+          "time_info": "[00时33分 ~ 01时26分]"
         },
         {
           "title": "多地纠偏：别把社会工作部叫成“社工部”",
           "url": "https://m.thepaper.cn/newsDetail_forward_33794660",
           "source": "澎湃新闻",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
+          "appearance_count": 2,
+          "time_info": "[00时33分 ~ 01时26分]"
         },
         {
           "title": "Mina事件揭露哪些社会问题",
           "url": "https://search.bilibili.com/all?keyword=Mina%E4%BA%8B%E4%BB%B6%E6%8F%AD%E9%9C%B2%E5%93%AA%E4%BA%9B%E7%A4%BE%E4%BC%9A%E9%97%AE%E9%A2%98",
           "source": "bilibili 热搜",
           "ranks": [
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
+          "appearance_count": 2,
+          "time_info": "[00时33分 ~ 01时26分]"
         }
       ]
     },
@@ -314,8 +404,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
+          "appearance_count": 2,
+          "time_info": "[00时33分 ~ 01时26分]"
         },
         {
           "title": "美媒：海湾盟友对美沮丧情绪持续上升",
@@ -325,8 +415,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
+          "appearance_count": 2,
+          "time_info": "[00时33分 ~ 01时26分]"
         }
       ]
     },
@@ -339,50 +429,41 @@
           "url": "https://www.douyin.com/hot/2612104",
           "source": "抖音",
           "ranks": [
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
+          "appearance_count": 2,
+          "time_info": "[00时33分 ~ 01时26分]"
         },
         {
           "title": "就让这山风不语抚平我所有的焦虑",
           "url": "https://www.douyin.com/hot/2611898",
           "source": "抖音",
           "ranks": [
-            22
+            22,
+            28
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
+          "appearance_count": 2,
+          "time_info": "[00时33分 ~ 01时26分]"
         }
       ]
     },
     {
-      "keyword_group": "年轻人 00后 35岁",
-      "match_count": 2,
+      "keyword_group": "婚姻 结婚 离婚 彩礼",
+      "match_count": 1,
       "titles": [
         {
-          "title": "媒体评给00后的信走红",
-          "url": "https://www.douyin.com/hot/2612187",
-          "source": "抖音",
+          "title": "C罗结婚仪式画面曝光",
+          "url": "https://www.baidu.com/s?wd=C%E7%BD%97%E7%BB%93%E5%A9%9A%E4%BB%AA%E5%BC%8F%E7%94%BB%E9%9D%A2%E6%9B%9D%E5%85%89",
+          "source": "百度热搜",
           "ranks": [
-            9
+            27
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时33分"
-        },
-        {
-          "title": "铠甲勇士给00后的一封信",
-          "url": "https://www.douyin.com/hot/2611925",
-          "source": "抖音",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
+          "time_info": "01时26分"
         }
       ]
     },
@@ -395,11 +476,12 @@
           "url": "https://www.zhihu.com/question/2070635312297121770",
           "source": "知乎",
           "ranks": [
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
+          "appearance_count": 2,
+          "time_info": "[00时33分 ~ 01时26分]"
         }
       ]
     },
@@ -415,8 +497,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
+          "appearance_count": 2,
+          "time_info": "[00时33分 ~ 01时26分]"
         }
       ]
     }
