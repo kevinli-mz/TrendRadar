@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-17T22:35:51.293103+08:00",
-  "total_titles_processed": 1827,
+  "generated_at": "2026-08-17T23:32:06.641396+08:00",
+  "total_titles_processed": 1913,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型",
-      "match_count": 61,
+      "match_count": 63,
       "titles": [
         {
           "title": "AI债务狂潮背后：700亿美元表外隐性负债引发债券投资者担忧",
@@ -92,11 +92,12 @@
             7,
             5,
             4,
-            3
+            3,
+            9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时50分 ~ 22时35分]"
+          "appearance_count": 14,
+          "time_info": "[12时50分 ~ 23时32分]"
         },
         {
           "title": "英伟达5000亿AI融资计划暗藏隐忧，特朗普顾问警示“暗GPU”过剩风险",
@@ -114,6 +115,19 @@
           "time_info": "[09时41分 ~ 19时32分]"
         },
         {
+          "title": "资本关键时刻来临？AI叙事从技术转向融资，巨头现金流告急、债市已拉响警报",
+          "url": "https://wallstreetcn.com/articles/3779562",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时52分 ~ 23时32分]"
+        },
+        {
           "title": "AI打破存储盛衰周期！美光目标价迎大幅上调 市值看向3万亿美元",
           "url": "https://www.cls.cn/detail/2455252",
           "source": "财联社热门",
@@ -124,6 +138,17 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时33分 ~ 09时42分]"
+        },
+        {
+          "title": "大批AI博主停更了",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A7%E6%89%B9AI%E5%8D%9A%E4%B8%BB%E5%81%9C%E6%9B%B4%E4%BA%86%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时55分 ~ 23时32分]"
         },
         {
           "title": "南极冰川现“神秘生物”系AI生成",
@@ -213,19 +238,6 @@
           "time_info": "[12时50分 ~ 17时51分]"
         },
         {
-          "title": "资本关键时刻来临？AI叙事从技术转向融资，巨头现金流告急、债市已拉响警报",
-          "url": "https://wallstreetcn.com/articles/3779562",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时52分 ~ 22时35分]"
-        },
-        {
           "title": "全球开源AI大洗牌 中国开源模型加速崛起",
           "url": "https://wallstreetcn.com/livenews/3150072",
           "source": "华尔街见闻-快讯",
@@ -237,17 +249,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时33分 ~ 07时27分]"
-        },
-        {
-          "title": "大批AI博主停更了",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A7%E6%89%B9AI%E5%8D%9A%E4%B8%BB%E5%81%9C%E6%9B%B4%E4%BA%86%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时55分 ~ 22时35分]"
         },
         {
           "title": "哪些券商的Skills率先在work buddy上线了？AI竞争换了战场",
@@ -262,6 +263,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[15时06分 ~ 19时32分]"
+        },
+        {
+          "title": "AI私服来袭,二游圈传噩耗",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28358012&amp;topic_name=AI%E7%A7%81%E6%9C%8D%E6%9D%A5%E8%A2%AD%2C%E4%BA%8C%E6%B8%B8%E5%9C%88%E4%BC%A0%E5%99%A9%E8%80%97",
+          "source": "贴吧",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时31分 ~ 23时32分]"
         },
         {
           "title": "报价30万美元！AI开始“吃”倒闭公司的聊天记录了",
@@ -299,6 +311,20 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[12时50分 ~ 16时52分]"
+        },
+        {
+          "title": "如何评价 Xiaohai（曾卓君）在 2026 美国 CEO 大赛《饿狼传说》项目中成功卫冕？",
+          "url": "https://www.zhihu.com/question/2072607943191696624",
+          "source": "知乎",
+          "ranks": [
+            17,
+            15,
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时32分 ~ 23时32分]"
         },
         {
           "title": "我国科学家发布大豆垂直大模型“丰菽”2.0",
@@ -464,19 +490,6 @@
           "time_info": "[20时55分 ~ 22时35分]"
         },
         {
-          "title": "如何评价 Xiaohai（曾卓君）在 2026 美国 CEO 大赛《饿狼传说》项目中成功卫冕？",
-          "url": "https://www.zhihu.com/question/2072607943191696624",
-          "source": "知乎",
-          "ranks": [
-            17,
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时32分 ~ 22时35分]"
-        },
-        {
           "title": "AI“养蛊”早期观察：Anthropic警告智能体为争夺地盘相互谋划“暗杀”",
           "url": "https://www.cls.cn/detail/2455627",
           "source": "财联社热门",
@@ -565,6 +578,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时51分"
+        },
+        {
+          "title": "市场消息：美国金融服务公司Synchrony宣布与OpenAI达成企业合作协议，Synchrony将部署GPT-5.6 Sol、Terra和Luna模型，还将推出ChatGPT插件。",
+          "url": "https://flash.jin10.com/detail/20260817230059912800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
         },
         {
           "title": "多部AI漫剧集体停更",
@@ -694,7 +718,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时35分"
         },
@@ -746,7 +770,7 @@
     },
     {
       "keyword_group": "经济 经济学",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "下周重磅日程：中国7月经济数据，阿里、小米、天孚通信、兆易创新、长飞光纤财报，宇树科技上市在即",
@@ -967,6 +991,17 @@
           "time_info": "19时32分"
         },
         {
+          "title": "全美住宅建筑商协会（NAHB）首席经济学家Robert Dietz：我们最新的美国建筑商调查继续显示住宅建筑市场存在疲软迹象。 8月是连续第16个月至少有30%的建筑商报告下调价格以支撑需求，也是HMI连续第16个月低于40。",
+          "url": "https://wallstreetcn.com/livenews/3150565",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
+        },
+        {
           "title": "经济学家：印尼2027年的官方经济增长目标过高",
           "url": "https://flash.jin10.com/detail/20260817173039059800",
           "source": "金十数据",
@@ -1023,11 +1058,12 @@
           "ranks": [
             5,
             2,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时50分 ~ 22时35分]"
+          "appearance_count": 14,
+          "time_info": "[12时50分 ~ 23时32分]"
         },
         {
           "title": "从电影美学看奥德赛",
@@ -1041,11 +1077,12 @@
             8,
             9,
             29,
-            20
+            20,
+            19
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时41分 ~ 22时35分]"
+          "appearance_count": 15,
+          "time_info": "[09时41分 ~ 23时32分]"
         },
         {
           "title": "电影原型聊真实龙餐馆",
@@ -1060,8 +1097,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时33分 ~ 22时35分]"
+          "appearance_count": 28,
+          "time_info": "[00时33分 ~ 23时32分]"
         },
         {
           "title": "捏造新剧和明星“负面信息”等实施敲诈，3起影视领域舆情敲诈案被破获",
@@ -1073,11 +1110,12 @@
             14,
             12,
             11,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时50分 ~ 22时35分]"
+          "appearance_count": 14,
+          "time_info": "[12时50分 ~ 23时32分]"
         },
         {
           "title": "敲碎爸爸头骨?电影营销引不适",
@@ -1091,11 +1129,12 @@
             16,
             17,
             19,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时33分 ~ 22时35分]"
+          "appearance_count": 28,
+          "time_info": "[00时33分 ~ 23时32分]"
         },
         {
           "title": "锐评抽象电影女版战狼",
@@ -1136,11 +1175,12 @@
           "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E8%89%BA%E8%B0%8B%E7%94%B5%E5%BD%B1%20%E8%82%96%E6%88%98&t=31&band_rank=4&Refer=top",
           "source": "微博",
           "ranks": [
-            4
+            4,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时35分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时35分 ~ 23时32分]"
         },
         {
           "title": "罗牛山涨停，金牛化工涨超6％，铜牛信息涨近4％。 近日，动画电影《牛来》因制作粗糙反向走红。",
@@ -1404,7 +1444,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时35分"
         },
@@ -1440,6 +1480,116 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时06分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "情绪 情绪价值 内耗 精神内耗",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "情绪有出口那一定是登机口",
+          "url": "https://www.douyin.com/hot/2611576",
+          "source": "抖音",
+          "ranks": [
+            10,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时33分 ~ 07时27分]"
+        },
+        {
+          "title": "美媒：海湾盟友对美沮丧情绪持续上升",
+          "url": "https://wallstreetcn.com/livenews/3150064",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时33分 ~ 06时28分]"
+        },
+        {
+          "title": "A股放量反弹 做多情绪全面回暖",
+          "url": "https://www.toutiao.com/trending/7674606352588816390/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时50分 ~ 19时32分]"
+        },
+        {
+          "title": "美联储加息预期降温，AI情绪回暖，美股指涨跌互现，存储芯片股普涨，金油齐涨",
+          "url": "https://wallstreetcn.com/articles/3779603",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时31分 ~ 23时32分]"
+        },
+        {
+          "title": "花旗：预计贵州茅台下半年销售将重新加速 投资者情绪或已触底",
+          "url": "https://wallstreetcn.com/livenews/3150141",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时42分 ~ 11时06分]"
+        },
+        {
+          "title": "黄金再度挑动投资情绪，黄金ETF月内吸金超80亿",
+          "url": "https://www.cls.cn/detail/2456202",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时31分 ~ 23时32分]"
+        },
+        {
+          "title": "美国零售销售月率意外负增长，市场对美联储加息预期下降，库什纳被曝施压哈马斯高层……当前现货白银卖出信号高企，现货黄金、美油多头占优，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20260817104840467800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时06分"
+        },
+        {
+          "title": "票房飙涨！《牛来》带火“牛字辈”个股？市场人士：警惕情绪炒作",
+          "url": "https://www.cls.cn/detail/2455327",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时06分"
+        },
+        {
+          "title": "金十图示：2026年08月17日（周一）投机情绪指数",
+          "url": "https://flash.jin10.com/detail/20260817210540470800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时44分"
         }
       ]
     },
@@ -1524,11 +1674,12 @@
           "url": "https://www.douyin.com/hot/2613543",
           "source": "抖音",
           "ranks": [
-            5
+            5,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时35分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时35分 ~ 23时32分]"
         },
         {
           "title": "童年动漫照见00后的青春底色",
@@ -1538,8 +1689,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时55分 ~ 22时35分]"
+          "appearance_count": 5,
+          "time_info": "[20时55分 ~ 23时32分]"
         },
         {
           "title": "李娟提醒年轻人不要轻易把写作当职业",
@@ -1552,94 +1703,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[20时55分 ~ 22时35分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "情绪 情绪价值 内耗 精神内耗",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "情绪有出口那一定是登机口",
-          "url": "https://www.douyin.com/hot/2611576",
-          "source": "抖音",
-          "ranks": [
-            10,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时33分 ~ 07时27分]"
-        },
-        {
-          "title": "美媒：海湾盟友对美沮丧情绪持续上升",
-          "url": "https://wallstreetcn.com/livenews/3150064",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时33分 ~ 06时28分]"
-        },
-        {
-          "title": "A股放量反弹 做多情绪全面回暖",
-          "url": "https://www.toutiao.com/trending/7674606352588816390/",
-          "source": "今日头条",
-          "ranks": [
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时50分 ~ 19时32分]"
-        },
-        {
-          "title": "花旗：预计贵州茅台下半年销售将重新加速 投资者情绪或已触底",
-          "url": "https://wallstreetcn.com/livenews/3150141",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时42分 ~ 11时06分]"
-        },
-        {
-          "title": "美国零售销售月率意外负增长，市场对美联储加息预期下降，库什纳被曝施压哈马斯高层……当前现货白银卖出信号高企，现货黄金、美油多头占优，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
-          "url": "https://flash.jin10.com/detail/20260817104840467800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时06分"
-        },
-        {
-          "title": "票房飙涨！《牛来》带火“牛字辈”个股？市场人士：警惕情绪炒作",
-          "url": "https://www.cls.cn/detail/2455327",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时06分"
-        },
-        {
-          "title": "金十图示：2026年08月17日（周一）投机情绪指数",
-          "url": "https://flash.jin10.com/detail/20260817210540470800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时44分"
         }
       ]
     },
@@ -1902,9 +1965,63 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时35分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "房价 买房",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "一线城市二手房价格连续5个月上涨 广州涨幅居首、上海紧随",
+          "url": "https://www.cls.cn/detail/2456299",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            7,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时55分 ~ 23时32分]"
+        },
+        {
+          "title": "7月70城房价：一线城市二手房价环比涨幅继续回落至0.2%，各线城市房价同比降幅再收窄",
+          "url": "https://wallstreetcn.com/articles/3779596",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时32分 ~ 23时32分]"
+        },
+        {
+          "title": "广州房价指数连续5个月上涨",
+          "url": "https://www.toutiao.com/trending/7674066939908816937/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时31分 ~ 23时32分]"
+        },
+        {
+          "title": "西安女子 3 万全款拿下宝鸡 40 平老房，你会入手这类「万元老破小」吗？这种低压力买房思路你认同吗？",
+          "url": "https://www.zhihu.com/question/2070435156947462039",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时26分 ~ 07时27分]"
         }
       ]
     },
@@ -1948,47 +2065,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时06分 ~ 15时07分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "房价 买房",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "一线城市二手房价格连续5个月上涨 广州涨幅居首、上海紧随",
-          "url": "https://www.cls.cn/detail/2456299",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时55分 ~ 22时35分]"
-        },
-        {
-          "title": "7月70城房价：一线城市二手房价环比涨幅继续回落至0.2%，各线城市房价同比降幅再收窄",
-          "url": "https://wallstreetcn.com/articles/3779596",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时32分 ~ 22时35分]"
-        },
-        {
-          "title": "西安女子 3 万全款拿下宝鸡 40 平老房，你会入手这类「万元老破小」吗？这种低压力买房思路你认同吗？",
-          "url": "https://www.zhihu.com/question/2070435156947462039",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时26分 ~ 07时27分]"
         }
       ]
     },
@@ -2105,11 +2181,12 @@
           "source": "今日头条",
           "ranks": [
             30,
-            6
+            6,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时44分 ~ 22时35分]"
+          "appearance_count": 4,
+          "time_info": "[21时44分 ~ 23时32分]"
         },
         {
           "title": "房企高管涉嫌酒局上伤害女性被免职",
@@ -2118,9 +2195,9 @@
           "ranks": [
             18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时35分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时35分 ~ 23时32分]"
         }
       ]
     },
