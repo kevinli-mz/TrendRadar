@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-18T04:34:39.660189+08:00",
-  "total_titles_processed": 406,
+  "generated_at": "2026-08-18T05:31:55.327121+08:00",
+  "total_titles_processed": 442,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 04时34分]"
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 05时31分]"
         },
         {
           "title": "捏造新剧和明星“负面信息”等实施敲诈，3起影视领域舆情敲诈案被破获",
@@ -27,8 +27,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 04时34分]"
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 05时31分]"
         },
         {
           "title": "电影原型聊真实龙餐馆",
@@ -38,8 +38,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 04时34分]"
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 05时31分]"
         },
         {
           "title": "敲碎爸爸头骨?电影营销引不适",
@@ -49,8 +49,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 04时34分]"
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 05时31分]"
         },
         {
           "title": "张艺谋电影 肖战",
@@ -61,8 +61,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 04时34分]"
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 05时31分]"
         },
         {
           "title": "锐评抽象电影女版战狼",
@@ -70,22 +70,24 @@
           "source": "bilibili 热搜",
           "ranks": [
             30,
-            25
+            25,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 04时34分]"
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 05时31分]"
         },
         {
           "title": "从电影美学看奥德赛",
           "url": "https://search.bilibili.com/all?keyword=%E4%BB%8E%E7%94%B5%E5%BD%B1%E7%BE%8E%E5%AD%A6%E7%9C%8B%E5%A5%A5%E5%BE%B7%E8%B5%9B",
           "source": "bilibili 热搜",
           "ranks": [
-            23
+            23,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时34分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时34分 ~ 05时31分]"
         }
       ]
     },
@@ -101,8 +103,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 04时34分]"
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 05时31分]"
         },
         {
           "title": "AI私服来袭,二游圈传噩耗",
@@ -112,8 +114,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 04时34分]"
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 05时31分]"
         },
         {
           "title": "如何评价 Xiaohai（曾卓君）在 2026 美国 CEO 大赛《饿狼传说》项目中成功卫冕？",
@@ -136,8 +138,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 04时34分]"
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 05时31分]"
         },
         {
           "title": "为什么才短短两三年，AI 就已经泛滥成灾，到了人人喊打、人嫌狗厌的境地？",
@@ -145,11 +147,12 @@
           "source": "知乎",
           "ranks": [
             12,
-            19
+            19,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 04时34分]"
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 05时31分]"
         },
         {
           "title": "AI 泡沫会在今年或者明年破裂吗，为什么？",
@@ -158,9 +161,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时34分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时34分 ~ 05时31分]"
         }
       ]
     },
@@ -176,8 +179,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 04时34分]"
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 05时31分]"
         },
         {
           "title": "童年动漫照见00后的青春底色",
@@ -188,8 +191,21 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 04时34分]"
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 05时31分]"
+        },
+        {
+          "title": "李娟提醒年轻人不要轻易把写作当职业",
+          "url": "https://www.toutiao.com/trending/7674785087279988777/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            25,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 05时31分]"
         },
         {
           "title": "00后回老家种大棚年收入约20万",
@@ -198,18 +214,6 @@
           "ranks": [
             19,
             26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 04时34分]"
-        },
-        {
-          "title": "李娟提醒年轻人不要轻易把写作当职业",
-          "url": "https://www.toutiao.com/trending/7674785087279988777/",
-          "source": "今日头条",
-          "ranks": [
-            23,
-            25
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -230,8 +234,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 04时34分]"
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 05时31分]"
         },
         {
           "title": "7月70城房价：一线城市二手房价环比涨幅继续回落至0.2%，各线城市房价同比降幅再收窄",
@@ -241,8 +245,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 04时34分]"
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 05时31分]"
         },
         {
           "title": "一线城市二手房价格连续5个月环比上涨",
@@ -253,8 +257,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 04时34分]"
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 05时31分]"
         }
       ]
     },
@@ -271,19 +275,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 04时34分]"
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 05时31分]"
         },
         {
           "title": "黄金再度挑动投资情绪，黄金ETF月内吸金超80亿",
           "url": "https://www.cls.cn/detail/2456202",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时34分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时34分 ~ 05时31分]"
         }
       ]
     },
@@ -299,8 +304,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 04时34分]"
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 05时31分]"
         },
         {
           "title": "Mina事件揭露哪些社会问题",
@@ -309,7 +314,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时34分"
         }
@@ -327,19 +332,20 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 04时34分]"
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 05时31分]"
         },
         {
           "title": "央企高管涉嫌酒局上伤害女性被免职",
           "url": "https://www.toutiao.com/trending/7674979381101465098/",
           "source": "今日头条",
           "ranks": [
-            8
+            8,
+            15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
+          "appearance_count": 2,
+          "time_info": "[00时36分 ~ 05时31分]"
         }
       ]
     },
@@ -354,9 +360,9 @@
           "ranks": [
             27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时34分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时34分 ~ 05时31分]"
         }
       ]
     },
@@ -369,11 +375,12 @@
           "url": "https://www.zhihu.com/question/2072103596481683649",
           "source": "知乎",
           "ranks": [
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 04时34分]"
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 05时31分]"
         }
       ]
     },
@@ -388,9 +395,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时34分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时34分 ~ 05时31分]"
         }
       ]
     },
@@ -405,7 +412,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时34分"
         }
