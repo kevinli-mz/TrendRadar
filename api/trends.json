@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-17T15:07:00.400226+08:00",
-  "total_titles_processed": 1155,
+  "generated_at": "2026-08-17T16:52:24.238973+08:00",
+  "total_titles_processed": 1301,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型",
-      "match_count": 38,
+      "match_count": 41,
       "titles": [
         {
           "title": "AI债务狂潮背后：700亿美元表外隐性负债引发债券投资者担忧",
@@ -95,6 +95,20 @@
           "time_info": "[00时33分 ~ 09时42分]"
         },
         {
+          "title": "英伟达5000亿AI融资计划暗藏隐忧，特朗普顾问警示“暗GPU”过剩风险",
+          "url": "https://wallstreetcn.com/articles/3779545",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时41分 ~ 16时52分]"
+        },
+        {
           "title": "南极冰川现“神秘生物”系AI生成",
           "url": "https://www.baidu.com/s?wd=%E5%8D%97%E6%9E%81%E5%86%B0%E5%B7%9D%E7%8E%B0%E2%80%9C%E7%A5%9E%E7%A7%98%E7%94%9F%E7%89%A9%E2%80%9D%E7%B3%BBAI%E7%94%9F%E6%88%90",
           "source": "百度热搜",
@@ -154,18 +168,18 @@
           "time_info": "[00时33分 ~ 11时06分]"
         },
         {
-          "title": "英伟达5000亿AI融资计划暗藏隐忧，特朗普顾问警示“暗GPU”过剩风险",
-          "url": "https://wallstreetcn.com/articles/3779545",
-          "source": "华尔街见闻",
+          "title": "券商晨会精华：AI定价重心将从“涨价”转向“量增”",
+          "url": "https://www.cls.cn/detail/2455490",
+          "source": "财联社热门",
           "ranks": [
-            9,
-            8,
+            10,
             6,
-            5
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时41分 ~ 15时07分]"
+          "appearance_count": 7,
+          "time_info": "[11时06分 ~ 16时52分]"
         },
         {
           "title": "全球开源AI大洗牌 中国开源模型加速崛起",
@@ -181,17 +195,18 @@
           "time_info": "[00时33分 ~ 07时27分]"
         },
         {
-          "title": "券商晨会精华：AI定价重心将从“涨价”转向“量增”",
-          "url": "https://www.cls.cn/detail/2455490",
-          "source": "财联社热门",
+          "title": "为什么才短短两三年，AI 就已经泛滥成灾，到了人人喊打、人嫌狗厌的境地？",
+          "url": "https://www.zhihu.com/question/2061136311206073648",
+          "source": "知乎",
           "ranks": [
             10,
-            6,
-            4
+            11,
+            7,
+            5
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[11时06分 ~ 15时07分]"
+          "time_info": "[12时50分 ~ 16时52分]"
         },
         {
           "title": "报价30万美元！AI开始“吃”倒闭公司的聊天记录了",
@@ -207,15 +222,41 @@
           "time_info": "[11时06分 ~ 15时07分]"
         },
         {
+          "title": "狂欢与危机同在：AI算力盛宴 成了全球资本的“高利率毒药”？",
+          "url": "https://www.cls.cn/detail/2455546",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            11,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时50分 ~ 16时52分]"
+        },
+        {
           "title": "集邦咨询：液冷散热成高端AI基础设施标配 预估2026年渗透率可达53%",
           "url": "https://flash.jin10.com/detail/20260817145657760800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时07分"
+        },
+        {
+          "title": "什么信号？高盛辣评Q2财报：AI支出持续激增，但盈利仍遥遥无期！",
+          "url": "https://www.cls.cn/detail/2455516",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时50分 ~ 16时52分]"
         },
         {
           "title": "我国科学家发布大豆垂直大模型“丰菽”2.0",
@@ -235,9 +276,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时07分"
+        },
+        {
+          "title": "百度财报前瞻：二季度营收净利或双降，AI云业务逆势增长",
+          "url": "https://flash.jin10.com/detail/20260817164011187800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时52分"
         },
         {
           "title": "绿色算力（人工智能）大会即将于呼和浩特举办 一批百亿级项目将集中签约",
@@ -251,19 +303,6 @@
           "time_info": "13时40分"
         },
         {
-          "title": "为什么才短短两三年，AI 就已经泛滥成灾，到了人人喊打、人嫌狗厌的境地？",
-          "url": "https://www.zhihu.com/question/2061136311206073648",
-          "source": "知乎",
-          "ranks": [
-            10,
-            11,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时50分 ~ 15时07分]"
-        },
-        {
           "title": "OpenAI内部动荡加剧：重组不断，员工疲惫，高管离职潮持续，上市计划悄然推迟",
           "url": "https://wallstreetcn.com/articles/3779533",
           "source": "华尔街见闻",
@@ -271,18 +310,6 @@
             10,
             9,
             8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时50分 ~ 15时07分]"
-        },
-        {
-          "title": "狂欢与危机同在：AI算力盛宴 成了全球资本的“高利率毒药”？",
-          "url": "https://www.cls.cn/detail/2455546",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            11
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -301,18 +328,6 @@
           "time_info": "[12时50分 ~ 15时07分]"
         },
         {
-          "title": "什么信号？高盛辣评Q2财报：AI支出持续激增，但盈利仍遥遥无期！",
-          "url": "https://www.cls.cn/detail/2455516",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时50分 ~ 15时07分]"
-        },
-        {
           "title": "市场消息：Stripe即将以超过70亿美元的价格收购人工智能公司OpenRouter。",
           "url": "https://flash.jin10.com/detail/20260817035338220800",
           "source": "金十数据",
@@ -324,6 +339,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时31分 ~ 06时28分]"
+        },
+        {
+          "title": "哪些券商的Skills率先在work buddy上线了？AI竞争换了战场",
+          "url": "https://www.cls.cn/detail/2455726",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时06分 ~ 16时52分]"
         },
         {
           "title": "IDC：2025年中国AI视频云市场已形成两大核心赛道 市场规模合计近10亿元",
@@ -347,17 +374,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时50分 ~ 12时51分]"
-        },
-        {
-          "title": "哪些券商的Skills率先在work buddy上线了？AI竞争换了战场",
-          "url": "https://www.cls.cn/detail/2455726",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时06分 ~ 15时07分]"
         },
         {
           "title": "OpenAI 人事地震",
@@ -391,6 +407,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时26分 ~ 07时27分]"
+        },
+        {
+          "title": "资本关键时刻来临？AI叙事从技术转向融资，巨头现金流告急、债市已拉响警报",
+          "url": "https://wallstreetcn.com/articles/3779562",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时52分"
+        },
+        {
+          "title": "AI“养蛊”早期观察：Anthropic警告智能体为争夺地盘相互谋划“暗杀”",
+          "url": "https://www.cls.cn/detail/2455627",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时52分"
         },
         {
           "title": "广州拟立法促进人工智能发展：合理布局超算中心、城市边缘智算节点和行业智算集聚区",
@@ -473,7 +511,7 @@
     },
     {
       "keyword_group": "经济 经济学",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "下周重磅日程：中国7月经济数据，阿里、小米、天孚通信、兆易创新、长飞光纤财报，宇树科技上市在即",
@@ -483,8 +521,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时33分 ~ 15时07分]"
+          "appearance_count": 20,
+          "time_info": "[00时33分 ~ 16时52分]"
         },
         {
           "title": "一组数据看中国经济的澎湃动能",
@@ -505,8 +543,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时41分 ~ 15时07分]"
+          "appearance_count": 9,
+          "time_info": "[09时41分 ~ 16时52分]"
         },
         {
           "title": "经济日报：“龙餐馆”从容迎战“奥德赛”",
@@ -636,6 +674,17 @@
           "time_info": "07时27分"
         },
         {
+          "title": "1—7月份国民经济保持总体平稳、向新向优发展态势",
+          "url": "https://www.cls.cn/detail/2455903",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时52分"
+        },
+        {
           "title": "本周重要事件与数据预告：中国7月经济数据；美联储会议纪要；美称对伊进行经济打击",
           "url": "https://flash.jin10.com/detail/20260817064436036800",
           "source": "金十数据",
@@ -675,6 +724,18 @@
           "time_info": "[00时33分 ~ 12时51分]"
         },
         {
+          "title": "观众争看烂片,影视圈破防",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357936&amp;topic_name=%E8%A7%82%E4%BC%97%E4%BA%89%E7%9C%8B%E7%83%82%E7%89%87%2C%E5%BD%B1%E8%A7%86%E5%9C%88%E7%A0%B4%E9%98%B2",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时50分 ~ 16时52分]"
+        },
+        {
           "title": "电影原型聊真实龙餐馆",
           "url": "https://search.bilibili.com/all?keyword=%E7%94%B5%E5%BD%B1%E5%8E%9F%E5%9E%8B%E8%81%8A%E7%9C%9F%E5%AE%9E%E9%BE%99%E9%A4%90%E9%A6%86",
           "source": "bilibili 热搜",
@@ -686,8 +747,23 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时33分 ~ 15时07分]"
+          "appearance_count": 20,
+          "time_info": "[00时33分 ~ 16时52分]"
+        },
+        {
+          "title": "从电影美学看奥德赛",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BB%8E%E7%94%B5%E5%BD%B1%E7%BE%8E%E5%AD%A6%E7%9C%8B%E5%A5%A5%E5%BE%B7%E8%B5%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            10,
+            5,
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时41分 ~ 16时52分]"
         },
         {
           "title": "敲碎爸爸头骨?电影营销引不适",
@@ -701,8 +777,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时33分 ~ 15时07分]"
+          "appearance_count": 20,
+          "time_info": "[00时33分 ~ 16时52分]"
         },
         {
           "title": "锐评抽象电影女版战狼",
@@ -719,33 +795,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时33分 ~ 15时07分]"
-        },
-        {
-          "title": "观众争看烂片,影视圈破防",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357936&amp;topic_name=%E8%A7%82%E4%BC%97%E4%BA%89%E7%9C%8B%E7%83%82%E7%89%87%2C%E5%BD%B1%E8%A7%86%E5%9C%88%E7%A0%B4%E9%98%B2",
-          "source": "贴吧",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时50分 ~ 15时07分]"
-        },
-        {
-          "title": "从电影美学看奥德赛",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BB%8E%E7%94%B5%E5%BD%B1%E7%BE%8E%E5%AD%A6%E7%9C%8B%E5%A5%A5%E5%BE%B7%E8%B5%9B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            10,
-            5,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时41分 ~ 15时07分]"
+          "appearance_count": 17,
+          "time_info": "[00时33分 ~ 16时52分]"
         },
         {
           "title": "影视圈“千万大V”被查",
@@ -771,8 +822,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时50分 ~ 15时07分]"
+          "appearance_count": 6,
+          "time_info": "[12时50分 ~ 16时52分]"
         },
         {
           "title": "罗牛山涨停，金牛化工涨超6％，铜牛信息涨近4％。 近日，动画电影《牛来》因制作粗糙反向走红。",
@@ -833,11 +884,12 @@
           "ranks": [
             2,
             3,
-            8
+            8,
+            26
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时50分 ~ 15时07分]"
+          "appearance_count": 6,
+          "time_info": "[12时50分 ~ 16时52分]"
         },
         {
           "title": "DeepSeek调价生效 涨幅最高达1100%",
@@ -883,11 +935,23 @@
           "source": "知乎",
           "ranks": [
             15,
-            9
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时40分 ~ 16时52分]"
+        },
+        {
+          "title": "DeepSeek Harness 有什么好用的插件？",
+          "url": "https://www.zhihu.com/question/2071617281214378127",
+          "source": "知乎",
+          "ranks": [
+            17
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[13时40分 ~ 15时07分]"
+          "time_info": "[15时06分 ~ 16时52分]"
         },
         {
           "title": "DeepSeek Harness邪修攻略",
@@ -912,17 +976,6 @@
           "time_info": "[12时50分 ~ 12时51分]"
         },
         {
-          "title": "DeepSeek Harness 有什么好用的插件？",
-          "url": "https://www.zhihu.com/question/2071617281214378127",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时06分 ~ 15时07分]"
-        },
-        {
           "title": "如何快速上手DeepSeek Harness",
           "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E4%B8%8A%E6%89%8BDeepSeek%20Harness",
           "source": "bilibili 热搜",
@@ -932,6 +985,109 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时40分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "消费 存钱 攒钱",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "存储超级周期下半场：长协封顶消费承压 2027或现分水岭",
+          "url": "https://www.cls.cn/detail/2455354",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[00时33分 ~ 13时40分]"
+        },
+        {
+          "title": "网文作者文黛黛假死 3 年承认骗局，读者斥责其消费感情，从法律上看，这种行为是否构成欺诈？",
+          "url": "https://www.zhihu.com/question/2071974633394238237",
+          "source": "知乎",
+          "ranks": [
+            9,
+            10,
+            5,
+            14,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[07时26分 ~ 15时07分]"
+        },
+        {
+          "title": "手机消费毁了逛街和创造力吗",
+          "url": "https://www.baidu.com/s?wd=%E6%89%8B%E6%9C%BA%E6%B6%88%E8%B4%B9%E6%AF%81%E4%BA%86%E9%80%9B%E8%A1%97%E5%92%8C%E5%88%9B%E9%80%A0%E5%8A%9B%E5%90%97",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            23,
+            28,
+            21,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[02时37分 ~ 09时42分]"
+        },
+        {
+          "title": "暑期服务消费潜能加速释放",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9A%91%E6%9C%9F%E6%9C%8D%E5%8A%A1%E6%B6%88%E8%B4%B9%E6%BD%9C%E8%83%BD%E5%8A%A0%E9%80%9F%E9%87%8A%E6%94%BE%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时40分 ~ 15时07分]"
+        },
+        {
+          "title": "两部门：研究完善成品油消费税制度 完善成品油定价机制",
+          "url": "https://wallstreetcn.com/livenews/3150360",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时52分"
+        },
+        {
+          "title": "国家统计局：居民消费重点从“买商品”到“享服务、重体验”转变",
+          "url": "https://wallstreetcn.com/livenews/3150355",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时52分"
+        },
+        {
+          "title": "国家统计局：下沉市场消费活力在增强",
+          "url": "https://wallstreetcn.com/livenews/3150343",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时52分"
+        },
+        {
+          "title": "预告：国新办将举行新闻发布会 介绍激发下沉市场活力活跃县域消费有关情况",
+          "url": "https://flash.jin10.com/detail/20260817102544622800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时06分"
         }
       ]
     },
@@ -1015,8 +1171,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时33分 ~ 15时07分]"
+          "appearance_count": 20,
+          "time_info": "[00时33分 ~ 16时52分]"
         },
         {
           "title": "人民日报刊文纪念江泽民同志诞辰100周年：在中国特色社会主义道路上不断创造无愧于时代和人民的新业绩",
@@ -1056,7 +1212,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时07分"
         },
@@ -1148,76 +1304,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时41分 ~ 11时06分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "消费 存钱 攒钱",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "存储超级周期下半场：长协封顶消费承压 2027或现分水岭",
-          "url": "https://www.cls.cn/detail/2455354",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时33分 ~ 13时40分]"
-        },
-        {
-          "title": "网文作者文黛黛假死 3 年承认骗局，读者斥责其消费感情，从法律上看，这种行为是否构成欺诈？",
-          "url": "https://www.zhihu.com/question/2071974633394238237",
-          "source": "知乎",
-          "ranks": [
-            9,
-            10,
-            5,
-            14,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时26分 ~ 15时07分]"
-        },
-        {
-          "title": "手机消费毁了逛街和创造力吗",
-          "url": "https://www.baidu.com/s?wd=%E6%89%8B%E6%9C%BA%E6%B6%88%E8%B4%B9%E6%AF%81%E4%BA%86%E9%80%9B%E8%A1%97%E5%92%8C%E5%88%9B%E9%80%A0%E5%8A%9B%E5%90%97",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            23,
-            28,
-            21,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[02时37分 ~ 09时42分]"
-        },
-        {
-          "title": "暑期服务消费潜能加速释放",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9A%91%E6%9C%9F%E6%9C%8D%E5%8A%A1%E6%B6%88%E8%B4%B9%E6%BD%9C%E8%83%BD%E5%8A%A0%E9%80%9F%E9%87%8A%E6%94%BE%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时40分 ~ 15时07分]"
-        },
-        {
-          "title": "预告：国新办将举行新闻发布会 介绍激发下沉市场活力活跃县域消费有关情况",
-          "url": "https://flash.jin10.com/detail/20260817102544622800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时06分"
         }
       ]
     },
@@ -1403,6 +1489,34 @@
       ]
     },
     {
+      "keyword_group": "内卷",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "国家统计局新闻发言人王冠华：综合整治内卷式竞争的成效在继续显现",
+          "url": "https://wallstreetcn.com/livenews/3150374",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时52分"
+        },
+        {
+          "title": "国家统计局：综合整治内卷式竞争的成效在继续显现",
+          "url": "https://flash.jin10.com/detail/20260817161910671800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时52分"
+        }
+      ]
+    },
+    {
       "keyword_group": "生育 催生 不婚",
       "match_count": 2,
       "titles": [
@@ -1461,11 +1575,12 @@
           "url": "https://www.baidu.com/s?wd=%E5%90%8D%E6%A0%A1%E7%88%B6%E6%AF%8D%E5%8A%9D692.5%E5%88%86%E5%A5%B3%E5%84%BF%E8%AF%BB%E4%B8%AD%E6%9C%AC%E8%B4%AF%E9%80%9A",
           "source": "百度热搜",
           "ranks": [
-            2
+            2,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时40分 ~ 15时07分]"
+          "appearance_count": 4,
+          "time_info": "[13时40分 ~ 16时52分]"
         }
       ]
     },
