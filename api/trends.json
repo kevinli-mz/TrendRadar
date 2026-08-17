@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-08-18T00:36:21.700284+08:00",
-  "total_titles_processed": 307,
+  "generated_at": "2026-08-18T04:34:39.660189+08:00",
+  "total_titles_processed": 406,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "电影 影视 综艺",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
-        {
-          "title": "捏造新剧和明星“负面信息”等实施敲诈，3起影视领域舆情敲诈案被破获",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33797253",
-          "source": "澎湃新闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
-        },
         {
           "title": "观众争看烂片,影视圈破防",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357936&amp;topic_name=%E8%A7%82%E4%BC%97%E4%BA%89%E7%9C%8B%E7%83%82%E7%89%87%2C%E5%BD%B1%E8%A7%86%E5%9C%88%E7%A0%B4%E9%98%B2",
@@ -26,8 +15,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
+          "appearance_count": 2,
+          "time_info": "[00时36分 ~ 04时34分]"
+        },
+        {
+          "title": "捏造新剧和明星“负面信息”等实施敲诈，3起影视领域舆情敲诈案被破获",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33797253",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时36分 ~ 04时34分]"
         },
         {
           "title": "电影原型聊真实龙餐馆",
@@ -37,8 +38,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
+          "appearance_count": 2,
+          "time_info": "[00时36分 ~ 04时34分]"
         },
         {
           "title": "敲碎爸爸头骨?电影营销引不适",
@@ -48,36 +49,49 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
+          "appearance_count": 2,
+          "time_info": "[00时36分 ~ 04时34分]"
         },
         {
           "title": "张艺谋电影 肖战",
           "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E8%89%BA%E8%B0%8B%E7%94%B5%E5%BD%B1%20%E8%82%96%E6%88%98&t=31&band_rank=25&Refer=top",
           "source": "微博",
           "ranks": [
-            25
+            25,
+            22
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
+          "appearance_count": 2,
+          "time_info": "[00时36分 ~ 04时34分]"
         },
         {
           "title": "锐评抽象电影女版战狼",
           "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84%E6%8A%BD%E8%B1%A1%E7%94%B5%E5%BD%B1%E5%A5%B3%E7%89%88%E6%88%98%E7%8B%BC",
           "source": "bilibili 热搜",
           "ranks": [
-            30
+            30,
+            25
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时36分 ~ 04时34分]"
+        },
+        {
+          "title": "从电影美学看奥德赛",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BB%8E%E7%94%B5%E5%BD%B1%E7%BE%8E%E5%AD%A6%E7%9C%8B%E5%A5%A5%E5%BE%B7%E8%B5%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时36分"
+          "time_info": "04时34分"
         }
       ]
     },
     {
       "keyword_group": "AI 人工智能 大模型",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "大批AI博主停更了",
@@ -87,8 +101,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
+          "appearance_count": 2,
+          "time_info": "[00时36分 ~ 04时34分]"
         },
         {
           "title": "AI私服来袭,二游圈传噩耗",
@@ -98,41 +112,55 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
-        },
-        {
-          "title": "资本关键时刻来临？AI叙事从技术转向融资，巨头现金流告急、债市已拉响警报",
-          "url": "https://wallstreetcn.com/articles/3779562",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
+          "appearance_count": 2,
+          "time_info": "[00时36分 ~ 04时34分]"
         },
         {
           "title": "如何评价 Xiaohai（曾卓君）在 2026 美国 CEO 大赛《饿狼传说》项目中成功卫冕？",
           "url": "https://www.zhihu.com/question/2072607943191696624",
           "source": "知乎",
           "ranks": [
-            9
+            9,
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
+          "appearance_count": 2,
+          "time_info": "[00时36分 ~ 04时34分]"
+        },
+        {
+          "title": "资本关键时刻来临？AI叙事从技术转向融资，巨头现金流告急、债市已拉响警报",
+          "url": "https://wallstreetcn.com/articles/3779562",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时36分 ~ 04时34分]"
         },
         {
           "title": "为什么才短短两三年，AI 就已经泛滥成灾，到了人人喊打、人嫌狗厌的境地？",
           "url": "https://www.zhihu.com/question/2061136311206073648",
           "source": "知乎",
           "ranks": [
-            12
+            12,
+            19
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时36分 ~ 04时34分]"
+        },
+        {
+          "title": "AI 泡沫会在今年或者明年破裂吗，为什么？",
+          "url": "https://www.zhihu.com/question/2063294189954250663",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时36分"
+          "time_info": "04时34分"
         }
       ]
     },
@@ -148,41 +176,44 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
+          "appearance_count": 2,
+          "time_info": "[00时36分 ~ 04时34分]"
         },
         {
           "title": "童年动漫照见00后的青春底色",
           "url": "https://www.douyin.com/hot/2613494",
           "source": "抖音",
           "ranks": [
-            9
+            9,
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
+          "appearance_count": 2,
+          "time_info": "[00时36分 ~ 04时34分]"
         },
         {
           "title": "00后回老家种大棚年收入约20万",
           "url": "https://www.toutiao.com/trending/7674060426287743030/",
           "source": "今日头条",
           "ranks": [
-            19
+            19,
+            26
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
+          "appearance_count": 2,
+          "time_info": "[00时36分 ~ 04时34分]"
         },
         {
           "title": "李娟提醒年轻人不要轻易把写作当职业",
           "url": "https://www.toutiao.com/trending/7674785087279988777/",
           "source": "今日头条",
           "ranks": [
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
+          "appearance_count": 2,
+          "time_info": "[00时36分 ~ 04时34分]"
         }
       ]
     },
@@ -195,11 +226,12 @@
           "url": "https://www.cls.cn/detail/2456299",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
+          "appearance_count": 2,
+          "time_info": "[00时36分 ~ 04时34分]"
         },
         {
           "title": "7月70城房价：一线城市二手房价环比涨幅继续回落至0.2%，各线城市房价同比降幅再收窄",
@@ -209,19 +241,77 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
+          "appearance_count": 2,
+          "time_info": "[00时36分 ~ 04时34分]"
         },
         {
           "title": "一线城市二手房价格连续5个月环比上涨",
           "url": "https://m.thepaper.cn/newsDetail_forward_33799536",
           "source": "澎湃新闻",
           "ranks": [
-            19
+            19,
+            16
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时36分 ~ 04时34分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "情绪 情绪价值 内耗 精神内耗",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美联储加息预期降温，AI情绪回暖，美股指涨跌互现，存储芯片股普涨，金油齐涨",
+          "url": "https://wallstreetcn.com/articles/3779603",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时36分 ~ 04时34分]"
+        },
+        {
+          "title": "黄金再度挑动投资情绪，黄金ETF月内吸金超80亿",
+          "url": "https://www.cls.cn/detail/2456202",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时36分"
+          "time_info": "04时34分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "社会 阶层 社会学",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "外交部：高市早苗向“战犯神社”供奉祭祀费，加剧国际社会警惕",
+          "url": "https://news.ifeng.com/c/8vfkc7n8wEP",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时36分 ~ 04时34分]"
+        },
+        {
+          "title": "Mina事件揭露哪些社会问题",
+          "url": "https://search.bilibili.com/all?keyword=Mina%E4%BA%8B%E4%BB%B6%E6%8F%AD%E9%9C%B2%E5%93%AA%E4%BA%9B%E7%A4%BE%E4%BC%9A%E9%97%AE%E9%A2%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时34分"
         }
       ]
     },
@@ -229,6 +319,17 @@
       "keyword_group": "性别 男女 女性",
       "match_count": 2,
       "titles": [
+        {
+          "title": "房企高管涉嫌酒局上伤害女性被免职",
+          "url": "https://www.baidu.com/s?wd=%E6%88%BF%E4%BC%81%E9%AB%98%E7%AE%A1%E6%B6%89%E5%AB%8C%E9%85%92%E5%B1%80%E4%B8%8A%E4%BC%A4%E5%AE%B3%E5%A5%B3%E6%80%A7%E8%A2%AB%E5%85%8D%E8%81%8C",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时36分 ~ 04时34分]"
+        },
         {
           "title": "央企高管涉嫌酒局上伤害女性被免职",
           "url": "https://www.toutiao.com/trending/7674979381101465098/",
@@ -239,51 +340,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时36分"
-        },
-        {
-          "title": "房企高管涉嫌酒局上伤害女性被免职",
-          "url": "https://www.baidu.com/s?wd=%E6%88%BF%E4%BC%81%E9%AB%98%E7%AE%A1%E6%B6%89%E5%AB%8C%E9%85%92%E5%B1%80%E4%B8%8A%E4%BC%A4%E5%AE%B3%E5%A5%B3%E6%80%A7%E8%A2%AB%E5%85%8D%E8%81%8C",
-          "source": "百度热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
         }
       ]
     },
     {
-      "keyword_group": "情绪 情绪价值 内耗 精神内耗",
+      "keyword_group": "婚姻 结婚 离婚 彩礼",
       "match_count": 1,
       "titles": [
         {
-          "title": "美联储加息预期降温，AI情绪回暖，美股指涨跌互现，存储芯片股普涨，金油齐涨",
-          "url": "https://wallstreetcn.com/articles/3779603",
-          "source": "华尔街见闻",
+          "title": "结婚后才明白的事",
+          "url": "https://s.weibo.com/weibo?q=%E7%BB%93%E5%A9%9A%E5%90%8E%E6%89%8D%E6%98%8E%E7%99%BD%E7%9A%84%E4%BA%8B&t=31&band_rank=27&Refer=top",
+          "source": "微博",
           "ranks": [
-            7
+            27
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时36分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "社会 阶层 社会学",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "外交部：高市早苗向“战犯神社”供奉祭祀费，加剧国际社会警惕",
-          "url": "https://news.ifeng.com/c/8vfkc7n8wEP",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
+          "time_info": "04时34分"
         }
       ]
     },
@@ -299,8 +372,42 @@
             17
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时36分 ~ 04时34分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "经济 经济学",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "前7个月国民经济总体平稳向新向优",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%89%8D7%E4%B8%AA%E6%9C%88%E5%9B%BD%E6%B0%91%E7%BB%8F%E6%B5%8E%E6%80%BB%E4%BD%93%E5%B9%B3%E7%A8%B3%E5%90%91%E6%96%B0%E5%90%91%E4%BC%98%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时36分"
+          "time_info": "04时34分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "消费 存钱 攒钱",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美股存储芯片指数初步收涨4.5%，半导体板块涨1.4%。 标普500指数初步收跌0.5%，电信、日用消费品、可选消费板块至多跌1.4%，科技板块跌0.1%，能源板块涨0.9%，是唯一收涨的板块。 纳斯达克100指数初步收跌0.1%，成分股中，汤森路透初步收跌4.3%，罗斯百货跌4.1%，Meta、Adobe、Workday、Autodesk、Nebius Group NV、微软至少跌3.2%，美光涨4.6%，SpaceX涨4.6%，Lumentum、西部数据、Strategy、迈威尔科技、泰瑞达、应用材料至多涨5.9%，闪迪涨8.6%。",
+          "url": "https://wallstreetcn.com/livenews/3150675",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时34分"
         }
       ]
     }
