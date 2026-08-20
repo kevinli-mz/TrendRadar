@@ -1,8 +1,204 @@
 {
-  "generated_at": "2026-08-20T13:37:11.999058+08:00",
-  "total_titles_processed": 620,
+  "generated_at": "2026-08-20T19:33:43.956796+08:00",
+  "total_titles_processed": 857,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "AI 人工智能 大模型",
+      "match_count": 16,
+      "titles": [
+        {
+          "title": "美联储会议纪要偏鹰：7月加息阵营不止三人，多人认为若通胀不降需行动，部分料AI推升通胀",
+          "url": "https://wallstreetcn.com/articles/3779834",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时37分 ~ 19时33分]"
+        },
+        {
+          "title": "META已悄然成为微软最大的AI客户之一。",
+          "url": "https://wallstreetcn.com/livenews/3152350",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时33分"
+        },
+        {
+          "title": "饭碗要凉,AI作者录屏自证手搓",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28359015&amp;topic_name=%E9%A5%AD%E7%A2%97%E8%A6%81%E5%87%89%2CAI%E4%BD%9C%E8%80%85%E5%BD%95%E5%B1%8F%E8%87%AA%E8%AF%81%E6%89%8B%E6%90%93",
+          "source": "贴吧",
+          "ranks": [
+            8,
+            10,
+            13,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时37分 ~ 19时33分]"
+        },
+        {
+          "title": "莫德纳市值单日暴增445亿美元 AI医药技术成隐秘功臣",
+          "url": "https://www.cls.cn/detail/2459016",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时03分 ~ 13时37分]"
+        },
+        {
+          "title": "摩根大通：AI芯片下一瓶颈，可能转向HBM配额",
+          "url": "https://flash.jin10.com/detail/20260820105238771800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时03分"
+        },
+        {
+          "title": "如何看待大量「有名有姓」的数学猜想被 AI 解决？",
+          "url": "https://www.zhihu.com/question/2072638750023055197",
+          "source": "知乎",
+          "ranks": [
+            14,
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时37分 ~ 13时37分]"
+        },
+        {
+          "title": "美联储纪要“鹰声”不小：许多官员保留加息选项 AI借贷风险也被盯上",
+          "url": "https://www.cls.cn/detail/2458884",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时37分 ~ 13时37分]"
+        },
+        {
+          "title": "集中撤榜,起点斩杀AI文",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28358398&amp;topic_name=%E9%9B%86%E4%B8%AD%E6%92%A4%E6%A6%9C%2C%E8%B5%B7%E7%82%B9%E6%96%A9%E6%9D%80AI%E6%96%87",
+          "source": "贴吧",
+          "ranks": [
+            21,
+            23,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时37分 ~ 13时37分]"
+        },
+        {
+          "title": "UP主用AI给盲人装上眼睛",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%94%A8AI%E7%BB%99%E7%9B%B2%E4%BA%BA%E8%A3%85%E4%B8%8A%E7%9C%BC%E7%9D%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时37分 ~ 13时37分]"
+        },
+        {
+          "title": "自制AI电影出马仙镇东北",
+          "url": "https://search.bilibili.com/all?keyword=%E8%87%AA%E5%88%B6AI%E7%94%B5%E5%BD%B1%E5%87%BA%E9%A9%AC%E4%BB%99%E9%95%87%E4%B8%9C%E5%8C%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时37分 ~ 11时03分]"
+        },
+        {
+          "title": "姜珮瑶找凌玲像AI一样丝滑",
+          "url": "https://s.weibo.com/weibo?q=%E5%A7%9C%E7%8F%AE%E7%91%B6%E6%89%BE%E5%87%8C%E7%8E%B2%E5%83%8FAI%E4%B8%80%E6%A0%B7%E4%B8%9D%E6%BB%91&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时37分 ~ 11时03分]"
+        },
+        {
+          "title": "新规一刀切,AI漫剧被迫停更",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28358152&amp;topic_name=%E6%96%B0%E8%A7%84%E4%B8%80%E5%88%80%E5%88%87%2CAI%E6%BC%AB%E5%89%A7%E8%A2%AB%E8%BF%AB%E5%81%9C%E6%9B%B4",
+          "source": "贴吧",
+          "ranks": [
+            29,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时37分 ~ 11时03分]"
+        },
+        {
+          "title": "AI服务器需求增长叠加产能紧张 电子布上演“爆单、涨价、扩产”三重奏",
+          "url": "https://www.cls.cn/detail/2459239",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时33分"
+        },
+        {
+          "title": "博主：美国AI停不下来 因为在赌国运",
+          "url": "https://www.toutiao.com/trending/7675719703314042419/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时33分"
+        },
+        {
+          "title": "市场消息：TikTok、Adobe(ADBE.O)和Perplexity也是微软的主要人工智能客户。",
+          "url": "https://flash.jin10.com/detail/20260820190203095800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时33分"
+        },
+        {
+          "title": "市场消息：Meta Platforms(META.O)正向微软Azure人工智能服务投入数亿美元。Meta已悄然成为微软最大的人工智能客户之一。",
+          "url": "https://flash.jin10.com/detail/20260820190019435800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时33分"
+        }
+      ]
+    },
     {
       "keyword_group": "就业 失业 裁员 应届生",
       "match_count": 11,
@@ -131,146 +327,6 @@
       ]
     },
     {
-      "keyword_group": "AI 人工智能 大模型",
-      "match_count": 11,
-      "titles": [
-        {
-          "title": "美联储会议纪要偏鹰：7月加息阵营不止三人，多人认为若通胀不降需行动，部分料AI推升通胀",
-          "url": "https://wallstreetcn.com/articles/3779834",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时37分 ~ 13时37分]"
-        },
-        {
-          "title": "莫德纳市值单日暴增445亿美元 AI医药技术成隐秘功臣",
-          "url": "https://www.cls.cn/detail/2459016",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时03分 ~ 13时37分]"
-        },
-        {
-          "title": "摩根大通：AI芯片下一瓶颈，可能转向HBM配额",
-          "url": "https://flash.jin10.com/detail/20260820105238771800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时03分"
-        },
-        {
-          "title": "如何看待大量「有名有姓」的数学猜想被 AI 解决？",
-          "url": "https://www.zhihu.com/question/2072638750023055197",
-          "source": "知乎",
-          "ranks": [
-            14,
-            7,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时37分 ~ 13时37分]"
-        },
-        {
-          "title": "美联储纪要“鹰声”不小：许多官员保留加息选项 AI借贷风险也被盯上",
-          "url": "https://www.cls.cn/detail/2458884",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时37分 ~ 13时37分]"
-        },
-        {
-          "title": "饭碗要凉,AI作者录屏自证手搓",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28359015&amp;topic_name=%E9%A5%AD%E7%A2%97%E8%A6%81%E5%87%89%2CAI%E4%BD%9C%E8%80%85%E5%BD%95%E5%B1%8F%E8%87%AA%E8%AF%81%E6%89%8B%E6%90%93",
-          "source": "贴吧",
-          "ranks": [
-            8,
-            10,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时37分 ~ 13时37分]"
-        },
-        {
-          "title": "集中撤榜,起点斩杀AI文",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28358398&amp;topic_name=%E9%9B%86%E4%B8%AD%E6%92%A4%E6%A6%9C%2C%E8%B5%B7%E7%82%B9%E6%96%A9%E6%9D%80AI%E6%96%87",
-          "source": "贴吧",
-          "ranks": [
-            21,
-            23,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时37分 ~ 13时37分]"
-        },
-        {
-          "title": "UP主用AI给盲人装上眼睛",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%94%A8AI%E7%BB%99%E7%9B%B2%E4%BA%BA%E8%A3%85%E4%B8%8A%E7%9C%BC%E7%9D%9B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            28,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时37分 ~ 13时37分]"
-        },
-        {
-          "title": "自制AI电影出马仙镇东北",
-          "url": "https://search.bilibili.com/all?keyword=%E8%87%AA%E5%88%B6AI%E7%94%B5%E5%BD%B1%E5%87%BA%E9%A9%AC%E4%BB%99%E9%95%87%E4%B8%9C%E5%8C%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时37分 ~ 11时03分]"
-        },
-        {
-          "title": "姜珮瑶找凌玲像AI一样丝滑",
-          "url": "https://s.weibo.com/weibo?q=%E5%A7%9C%E7%8F%AE%E7%91%B6%E6%89%BE%E5%87%8C%E7%8E%B2%E5%83%8FAI%E4%B8%80%E6%A0%B7%E4%B8%9D%E6%BB%91&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时37分 ~ 11时03分]"
-        },
-        {
-          "title": "新规一刀切,AI漫剧被迫停更",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28358152&amp;topic_name=%E6%96%B0%E8%A7%84%E4%B8%80%E5%88%80%E5%88%87%2CAI%E6%BC%AB%E5%89%A7%E8%A2%AB%E8%BF%AB%E5%81%9C%E6%9B%B4",
-          "source": "贴吧",
-          "ranks": [
-            29,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时37分 ~ 11时03分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "电影 影视 综艺",
       "match_count": 9,
       "titles": [
@@ -384,7 +440,7 @@
     },
     {
       "keyword_group": "经济 经济学",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
         {
           "title": "特朗普宣布对伊朗发起空前经济战",
@@ -415,11 +471,23 @@
           "source": "澎湃新闻",
           "ranks": [
             18,
-            17
+            17,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时37分 ~ 13时37分]"
+          "appearance_count": 6,
+          "time_info": "[09时37分 ~ 19时33分]"
+        },
+        {
+          "title": "特朗普试图扩大对伊朗“经济围剿”，专家称实施难度很大",
+          "url": "https://flash.jin10.com/detail/20260820191217290800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时33分"
         },
         {
           "title": "特朗普宣布：对伊朗采取“史上最严厉经济行动”！",
@@ -431,6 +499,67 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时03分"
+        },
+        {
+          "title": "新闻蒸馏器｜特朗普宣布经济战孤立伊朗，警告任何国家不得提供“生命线”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33815972",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时33分"
+        },
+        {
+          "title": "菜鸟CEO万霖：跨境电商是重要经济引擎，菜鸟将在多个APEC经济体建设机器人仓储",
+          "url": "https://wallstreetcn.com/livenews/3152311",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时33分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "消费 存钱 攒钱",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "存钱重要还是趁年轻看世界重要",
+          "url": "https://www.baidu.com/s?wd=%E5%AD%98%E9%92%B1%E9%87%8D%E8%A6%81%E8%BF%98%E6%98%AF%E8%B6%81%E5%B9%B4%E8%BD%BB%E7%9C%8B%E4%B8%96%E7%95%8C%E9%87%8D%E8%A6%81",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时33分"
+        },
+        {
+          "title": "商务部：新型消费蓬勃发展",
+          "url": "https://wallstreetcn.com/livenews/3151996",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时38分"
+        },
+        {
+          "title": "东方财富证券研究所副所长、首席策略官陈果：美国如期出手压制长端利率，利好黄金、数字货币和人民币资产。 对A股来说，利好黄金股乃至有色、医药股、必选消费股、红利股和稳定增长蓝筹股。 利空美元汇率，而且这次出手很可能只是个开始，美国几乎别无选择。",
+          "url": "https://wallstreetcn.com/livenews/3151985",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时38分"
         }
       ]
     },
@@ -466,6 +595,34 @@
       ]
     },
     {
+      "keyword_group": "婚姻 结婚 离婚 彩礼",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "弟弟称哥哥刚确诊癌症嫂子就提离婚",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BC%9F%E5%BC%9F%E7%A7%B0%E5%93%A5%E5%93%A5%E5%88%9A%E7%A1%AE%E8%AF%8A%E7%99%8C%E7%97%87%E5%AB%82%E5%AD%90%E5%B0%B1%E6%8F%90%E7%A6%BB%E5%A9%9A%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时37分 ~ 09时38分]"
+        },
+        {
+          "title": "许家印与两个儿子都被判刑，其前妻曾涉「技术性离婚」拿百亿分红，她卷走的这笔钱还有望追回吗？",
+          "url": "https://www.zhihu.com/question/2073790557050987072",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时33分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 2,
       "titles": [
@@ -494,34 +651,6 @@
       ]
     },
     {
-      "keyword_group": "消费 存钱 攒钱",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "商务部：新型消费蓬勃发展",
-          "url": "https://wallstreetcn.com/livenews/3151996",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时38分"
-        },
-        {
-          "title": "东方财富证券研究所副所长、首席策略官陈果：美国如期出手压制长端利率，利好黄金、数字货币和人民币资产。 对A股来说，利好黄金股乃至有色、医药股、必选消费股、红利股和稳定增长蓝筹股。 利空美元汇率，而且这次出手很可能只是个开始，美国几乎别无选择。",
-          "url": "https://wallstreetcn.com/livenews/3151985",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时38分"
-        }
-      ]
-    },
-    {
       "keyword_group": "社会 阶层 社会学",
       "match_count": 1,
       "titles": [
@@ -539,23 +668,6 @@
       ]
     },
     {
-      "keyword_group": "婚姻 结婚 离婚 彩礼",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "弟弟称哥哥刚确诊癌症嫂子就提离婚",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%BC%9F%E5%BC%9F%E7%A7%B0%E5%93%A5%E5%93%A5%E5%88%9A%E7%A1%AE%E8%AF%8A%E7%99%8C%E7%97%87%E5%AB%82%E5%AD%90%E5%B0%B1%E6%8F%90%E7%A6%BB%E5%A9%9A%23&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时37分 ~ 09时38分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "性别 男女 女性",
       "match_count": 1,
       "titles": [
@@ -567,8 +679,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时37分 ~ 13时37分]"
+          "appearance_count": 6,
+          "time_info": "[09时37分 ~ 19时33分]"
         }
       ]
     }
